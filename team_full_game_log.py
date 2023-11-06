@@ -5,6 +5,9 @@ import pandas as pd
 from datetime import date
 from haversine import haversine, Unit
 
+proxy_url = "http://xLe7uztzyRTZwx-ZetQXDA:@smartproxy.crawlbase.com:8012"
+proxies = {"http": proxy_url, "https": proxy_url}
+
 # TODO: add older teams to this list
 team_hrefs = {
     'Arizona Cardinals': 'crd',
@@ -52,6 +55,54 @@ team_hrefs = {
     'San Diego Chargers': 'sdg',
     'St. Louis Rams': 'ram',
     'Boston Patriots': 'nwe',
+}
+
+team_id = {
+    'ari': 'Arizona Cardinals',
+    'ind': 'Baltimore Colts',
+    'ari': 'St. Louis Cardinals',
+    'nwe': 'Boston Patriots',
+    'chi': 'Chicago Bears',
+    'gnb': 'Green Bay Packers',
+    'nyg': 'New York Giants',
+    'det': 'Detroit Lions',
+    'was': 'Washington Commanders',
+    'was': 'Washington Football Team',
+    'was': 'Washington Redskins',
+    'phi': 'Philadelphia Eagles',
+    'pit': 'Pittsburgh Steelers',
+    'lac': 'Los Angeles Chargers',
+    'sfo': 'San Francisco 49ers',
+    'ten': 'Houston Oilers',
+    'cle': 'Cleveland Browns',
+    'ind': 'Indianapolis Colts',
+    'dal': 'Dallas Cowboys',
+    'kan': 'Kansas City Chiefs',
+    'lar': 'Los Angeles Rams',
+    'den': 'Denver Broncos',
+    'nyj': 'New York Jets',
+    'nwe': 'New England Patriots',
+    'lvr': 'Las Vegas Raiders',
+    'ten': 'Tennessee Titans',
+    'ten': 'Tennessee Oilers',
+    'ari': 'Phoenix Cardinals',
+    'lvr': 'Los Angeles Raiders',
+    'buf': 'Buffalo Bills',
+    'min': 'Minnesota Vikings',
+    'atl': 'Atlanta Falcons',
+    'mia': 'Miami Dolphins',
+    'nor': 'New Orleans Saints',
+    'cin': 'Cincinnati Bengals',
+    'sea': 'Seattle Seahawks',
+    'tam': 'Tampa Bay Buccaneers',
+    'car': 'Carolina Panthers',
+    'jax': 'Jacksonville Jaguars',
+    'bal': 'Baltimore Ravens',
+    'hou': 'Houston Texans',
+    'oak': 'Oakland Raiders',
+    'sdg': 'San Diego Chargers',
+    'stl': 'St. Louis Rams',
+    'nwe': 'Boston Patriots'
 }
 
 months = {"September": 9, "October": 10, "November": 11, "December": 12, "January": 1}
@@ -142,7 +193,7 @@ cities = {
 
 
 # function that returns a team's game log in a given season
-def get_team_full_game_log(team: str, date: int) -> pd.DataFrame:
+def get_team_full_game_log(team: str, date: str) -> pd.DataFrame:
     """A function to retrieve a team's game log in a given season.
 
     Returns a pandas DataFrame of a NFL team's game log in a given season, including relevant team-level statistics.
@@ -161,27 +212,27 @@ def get_team_full_game_log(team: str, date: int) -> pd.DataFrame:
         raise Exception('Invalid team name. Note: spelling is case sensitive')
 
     # make HTTP request and extract HTML
-    r = make_request(team, date)
+    r = make_request(date)
 
     if r.status_code == 404:
-        raise Exception('404 error. The ' + team + ' may not have existed in ' + str(season))
+        raise Exception('404 error. The ' + team + ' may not have played on ' + date)
 
     # parse HTML using BeautifulSoup
     soup = get_soup(r)
     # collect data and return data frame
-    return collect_data(soup, date, team)
+    return collect_data(soup)
 
 
-def make_request(team: str, date: int):
-    url = 'https://www.pro-football-reference.com/boxscores/%s%s.htm' % (str(date), team_hrefs[team])
-    return requests.get(url)
+def make_request(date: str):
+    url = 'https://www.pro-football-reference.com/boxscores/%s.htm' % (date)
+    return requests.get(url, proxies=proxies, verify=False)
 
 
 def get_soup(request) -> BeautifulSoup:
     return BeautifulSoup(request.text, 'html.parser')
 
 
-def collect_data(soup: BeautifulSoup, date: int, team: str) -> pd.DataFrame:
+def collect_data(soup: BeautifulSoup) -> pd.DataFrame:
     # set up data frame
     data = {
         'quarter': [],
@@ -194,7 +245,6 @@ def collect_data(soup: BeautifulSoup, date: int, team: str) -> pd.DataFrame:
         'detail': []
     }
     df = pd.DataFrame(data)
-
     # loading game data
     comments = soup.find_all(string=lambda text: isinstance(text, Comment))
     count = 0
@@ -205,17 +255,20 @@ def collect_data(soup: BeautifulSoup, date: int, team: str) -> pd.DataFrame:
       for tbody in comment_tbody:
         if (len(tbody.find_all('tr')) > 21):
           if (tbody.find_all('tr')[20].find('td', {'data-stat': 'qtr_time_remain'})):
-            print(count)
-            print(tbodycount)
+            comment_soup = BeautifulSoup(comments[count], 'html.parser')
+            plays = comment_soup.find_all('tbody')[tbodycount].find_all('tr')
         tbodycount += 1
       count += 1
-    comment_soup = BeautifulSoup(comments[55], 'html.parser')
-    plays = comment_soup.find_all('tbody')[0].find_all('tr')
 
     # gathering data
     for i in range(2,len(plays)):
       if plays[i].find('th', {'data-stat': 'quarter'}) and plays[i].find('th', {'data-stat': 'quarter'}) != "" and plays[i].find('td', {'data-stat': 'pbp_score_aw'}) and plays[i].find('td', {'data-stat': 'pbp_score_aw'}).text != "":
-        quarter = int(plays[i].find('th', {'data-stat': 'quarter'}).text) if plays[i].find('th', {'data-stat': 'quarter'}).text != "" else 0
+        if plays[i].find('th', {'data-stat': 'quarter'}).text == "":
+            quarter = 0
+        elif plays[i].find('th', {'data-stat': 'quarter'}).text == "OT":
+            quarter = 5
+        else:
+            quarter = int(plays[i].find('th', {'data-stat': 'quarter'}).text)
         time = plays[i].find('td', {'data-stat': 'qtr_time_remain'}).text if plays[i].find('td', {'data-stat': 'qtr_time_remain'}).text != "" else "15:00"
         down = int(plays[i].find('td', {'data-stat': 'down'}).text) if plays[i].find('td', {'data-stat': 'down'}).text != "" else 0
         togo = int(plays[i].find('td', {'data-stat': 'yds_to_go'}).text) if plays[i].find('td', {'data-stat': 'yds_to_go'}).text != "" else 0

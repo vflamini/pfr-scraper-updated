@@ -4,6 +4,8 @@ import requests
 
 valid_positions = ['QB', 'RB', 'WR', 'TE']
 
+proxy_url = "http://xLe7uztzyRTZwx-ZetQXDA:@smartproxy.crawlbase.com:8012"
+proxies = {"http": proxy_url, "https": proxy_url}
 
 # function that returns a player's game log in a given season
 # player: player's full name (e.g. Tom Brady)
@@ -65,13 +67,13 @@ def make_request_list(player: str, position: str, season: int):
     name_split = player.split(' ')
     last_initial = name_split[1][0]
     url = 'https://www.pro-football-reference.com/players/%s/' % (last_initial)
-    return requests.get(url)
+    return requests.get(url, proxies=proxies, verify=False)
 
 
 # helper function that makes a HTTP request for a given player's game log
 def make_request_player(href: str, season: int):
     url = 'https://www.pro-football-reference.com%s/gamelog/%s/' % (href, season)
-    return requests.get(url)
+    return requests.get(url, proxies=proxies, verify=False)
 
 
 # helper function that takes a requests.Response object and returns a BeautifulSoup object
@@ -115,7 +117,7 @@ def qb_game_log(soup: BeautifulSoup) -> pd.DataFrame:
 
     # adding data to data dictionary
     for i in range(len(table_rows)):
-        if i not in to_ignore:
+        if i not in to_ignore and table_rows[i].find('td', {'data-stat': 'pass_cmp'}).text != "":
             data['date'].append(table_rows[i].find('td', {'data-stat': 'game_date'}).text)
             data['week'].append(int(table_rows[i].find('td', {'data-stat': 'week_num'}).text))
             data['team'].append(table_rows[i].find('td', {'data-stat': 'team'}).text)
