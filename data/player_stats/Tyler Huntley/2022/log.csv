@@ -1,0 +1,6 @@
+,date,week,team,game_location,opp,result,team_pts,opp_pts,cmp,att,pass_yds,pass_td,int,rating,sacked,rush_att,rush_yds,rush_td
+0,2022-12-04,13,BAL,,DEN,W,10,9,27,32,187,0,1,78.0,2,10,41,1
+1,2022-12-11,14,BAL,@,PIT,W,16,14,8,12,88,0,0,88.2,1,9,31,0
+2,2022-12-17,15,BAL,@,CLE,L,3,13,17,30,138,0,1,54.6,3,6,15,0
+3,2022-12-24,16,BAL,,ATL,W,17,9,9,17,115,1,0,94.0,0,11,26,0
+4,2023-01-01,17,BAL,,PIT,L,13,16,14,21,130,1,1,79.5,1,7,24,0

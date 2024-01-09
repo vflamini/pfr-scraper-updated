@@ -1,0 +1,175 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,DEN 35,0,0,"Wil Lutz kicks off 65 yards, touchback."
+1,1,15:00,1,10,MIA 25,0,0,Raheem Mostert right end for 6 yards (tackle by Zach Allen and Alex Singleton)
+2,1,14:27,2,4,MIA 31,0,0,Tua Tagovailoa pass complete short middle to Durham Smythe for 15 yards (tackle by Delarrin Turner-Yell)
+3,1,13:48,1,10,MIA 46,0,6,"Tua Tagovailoa pass complete deep middle to Tyreek Hill for 54 yards, touchdown"
+4,1,13:37,0,0,DEN 15,0,7,Jason Sanders kicks extra point good
+5,1,13:37,0,0,MIA 35,0,7,"Jason Sanders kicks off 65 yards, touchback."
+6,1,13:37,1,10,DEN 25,0,7,Javonte Williams left guard for 2 yards (tackle by Zach Sieler and Jerome Baker)
+7,1,13:02,2,8,DEN 27,0,7,Marvin Mims left end for 3 yards (tackle by Kader Kohou)
+8,1,12:22,3,5,DEN 30,0,7,Russell Wilson pass incomplete deep left intended for Courtland Sutton (defended by Kader Kohou)
+9,1,12:16,4,5,DEN 30,0,7,"Riley Dixon punts 61 yards, returned by Braxton Berrios for 10 yards (tackle by Delarrin Turner-Yell and Jonathon Cooper)"
+10,1,12:04,1,10,MIA 19,0,7,Raheem Mostert left end for 15 yards (tackle by Delarrin Turner-Yell)
+11,1,11:21,1,10,MIA 34,0,7,Tua Tagovailoa pass complete short right to Raheem Mostert for 5 yards (tackle by Alex Singleton)
+12,1,10:46,2,5,MIA 39,0,7,De'Von Achane left end for 26 yards (tackle by Kareem Jackson)
+13,1,10:03,1,10,DEN 35,0,7,Tua Tagovailoa pass complete short right to Raheem Mostert for 9 yards (tackle by Josey Jewell)
+14,1,9:17,2,1,DEN 26,0,7,De'Von Achane right guard for 4 yards (tackle by Delarrin Turner-Yell and Josey Jewell)
+15,1,8:39,1,10,DEN 22,0,7,Tua Tagovailoa pass complete short middle to Raheem Mostert for 3 yards (tackle by Josey Jewell and Patrick Surtain)
+16,1,7:56,2,7,DEN 19,0,7,Tua Tagovailoa pass complete short right to Tyreek Hill for 8 yards (tackle by Essang Bassey)
+17,1,7:17,1,10,DEN 11,0,7,De'Von Achane right guard for 3 yards (tackle by Jonathan Harris and Kareem Jackson)
+18,1,6:36,2,7,DEN 8,0,13,"De'Von Achane left end for 8 yards, touchdown"
+19,1,6:31,0,0,DEN 15,0,14,Jason Sanders kicks extra point good
+20,1,6:31,0,0,MIA 35,0,14,"Jason Sanders kicks off 65 yards, touchback."
+21,1,6:31,1,10,DEN 25,0,14,Russell Wilson pass complete deep right to Jerry Jeudy for 15 yards (tackle by Xavien Howard)
+22,1,5:54,1,10,DEN 40,0,14,Russell Wilson pass complete short middle to Courtland Sutton for 11 yards (tackle by David Long)
+23,1,5:18,1,10,MIA 49,0,14,Javonte Williams up the middle for 3 yards (tackle by David Long)
+24,1,4:39,2,7,MIA 46,0,14,Russell Wilson pass complete short right to Javonte Williams for 17 yards (tackle by Jevon Holland)
+25,1,4:01,1,10,MIA 29,0,14,Samaje Perine left guard for 3 yards (tackle by David Long)
+26,1,3:27,2,7,MIA 26,0,14,Russell Wilson pass complete short left to Courtland Sutton for 6 yards (tackle by Kader Kohou and Jevon Holland)
+27,1,2:43,3,1,MIA 20,0,14,Javonte Williams right guard for 4 yards (tackle by David Long and DeShon Elliott)
+28,1,2:06,1,10,MIA 16,0,14,Javonte Williams right tackle for 4 yards (tackle by Jaelan Phillips and Christian Wilkins)
+29,1,1:28,2,6,MIA 12,0,14,Russell Wilson pass incomplete short middle intended for Chris Manhertz (defended by DeShon Elliott)
+30,1,1:21,3,6,MIA 12,6,14,"Russell Wilson pass complete short right to Courtland Sutton for 12 yards, touchdown"
+31,1,1:12,0,0,MIA 15,7,14,Wil Lutz kicks extra point good
+32,1,1:12,0,0,DEN 35,7,14,"Wil Lutz kicks off 65 yards, touchback."
+33,1,1:12,1,10,MIA 25,7,14,Raheem Mostert left end for -6 yards (tackle by Nik Bonitto)
+34,1,0:38,2,16,MIA 19,7,14,Tua Tagovailoa pass complete short right to Tyreek Hill for 19 yards (tackle by Delarrin Turner-Yell)
+35,1,0:05,1,10,MIA 38,7,14,"Penalty on Randy Gregory: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+36,2,15:00,1,5,MIA 43,7,14,"Raheem Mostert up the middle for 17 yards (tackle by Josey Jewell and Kareem Jackson). Penalty on Mike Purcell: Defensive Offside, 5 yards (declined) "
+37,2,14:33,1,10,DEN 40,7,14,"Tua Tagovailoa pass complete deep right to Tyreek Hill for no gain. Penalty on Connor Williams: Offensive Holding, 10 yards (accepted) (no play)"
+38,2,14:09,1,20,DEN 50,7,14,Tua Tagovailoa pass complete short right to Raheem Mostert for 5 yards (tackle by D.J. Jones)
+39,2,13:26,2,15,DEN 45,7,14,Tua Tagovailoa pass complete short left to Raheem Mostert for 11 yards (tackle by D.J. Jones)
+40,2,12:47,3,4,DEN 34,7,14,Tua Tagovailoa pass complete short right to Braxton Berrios for 11 yards (tackle by Delarrin Turner-Yell)
+41,2,12:17,1,10,DEN 23,7,14,"De'Von Achane right end for 3 yards, touchdown. Penalty on Connor Williams: Offensive Holding, 10 yards (accepted) "
+42,2,12:11,1,17,DEN 30,7,14,Tua Tagovailoa pass complete short middle to Tyreek Hill for 11 yards (tackle by Patrick Surtain)
+43,2,11:38,2,6,DEN 19,7,14,De'Von Achane right tackle for 10 yards (tackle by Delarrin Turner-Yell and Kareem Jackson)
+44,2,10:55,1,9,DEN 9,7,14,De'Von Achane right guard for 5 yards (tackle by Kareem Jackson)
+45,2,10:21,2,4,DEN 4,7,20,"Tua Tagovailoa pass complete short middle to De'Von Achane for 4 yards, touchdown"
+46,2,10:16,0,0,DEN 15,7,21,Jason Sanders kicks extra point good
+47,2,10:16,0,0,MIA 35,7,21,"Jason Sanders kicks off 65 yards, touchback."
+48,2,10:16,1,10,DEN 25,7,21,Russell Wilson pass complete short left to Nate Adkins for 11 yards (tackle by Jevon Holland)
+49,2,9:46,1,10,DEN 36,7,21,Russell Wilson pass incomplete short right intended for Javonte Williams (defended by Christian Wilkins)
+50,2,9:40,2,10,DEN 36,7,21,Javonte Williams up the middle for 16 yards (tackle by Andrew Van Ginkel)
+51,2,8:56,1,10,MIA 48,7,21,Russell Wilson pass complete deep middle to Marvin Mims for 38 yards (tackle by Jevon Holland)
+52,2,8:09,1,10,MIA 10,7,21,Russell Wilson pass incomplete short right
+53,2,8:06,2,10,MIA 10,7,21,Samaje Perine right tackle for 3 yards (tackle by Jevon Holland and DeShon Elliott)
+54,2,7:21,3,7,MIA 7,7,21,"Russell Wilson pass complete short left to Courtland Sutton for no gain, touchdown. Penalty on Brandon Johnson: Offensive Pass Interference, 10 yards (accepted) (no play)"
+55,2,7:15,3,17,MIA 17,7,21,Russell Wilson pass complete short left to Brandon Johnson for 4 yards (tackle by DeShon Elliott)
+56,2,6:41,4,13,MIA 13,10,21,Wil Lutz 31 yard field goal good
+57,2,6:36,0,0,DEN 35,10,21,"Wil Lutz kicks off 65 yards, touchback."
+58,2,6:36,1,10,MIA 25,10,21,De'Von Achane up the middle for 8 yards (tackle by Nik Bonitto and Kareem Jackson)
+59,2,6:10,2,2,MIA 33,10,21,De'Von Achane left guard for 1 yard (tackle by Jonathon Cooper)
+60,2,5:34,3,1,MIA 34,10,21,Alec Ingold up the middle for no gain (tackle by Alex Singleton and Zach Allen)
+61,2,4:52,4,1,MIA 34,10,21,Alec Ingold up the middle for no gain (tackle by Alex Singleton and Nik Bonitto)
+62,2,4:47,1,10,MIA 33,10,21,"Penalty on Mike McGlinchey: False Start, 5 yards (accepted) (no play)"
+63,2,4:47,1,15,MIA 38,10,21,Russell Wilson pass complete short left to Courtland Sutton for 1 yard
+64,2,4:10,2,14,MIA 37,10,21,Javonte Williams right end for -3 yards (tackle by Andrew Van Ginkel)
+65,2,3:25,3,17,MIA 40,10,21,Russell Wilson pass incomplete deep middle intended for Marvin Mims
+66,2,3:18,4,17,MIA 40,10,21,"Riley Dixon punts 31 yards, returned by Braxton Berrios for 5 yards (tackle by Tremon Smith)"
+67,2,3:09,1,10,MIA 14,10,21,Tua Tagovailoa pass complete deep middle to Tyreek Hill for 15 yards (tackle by Delarrin Turner-Yell)
+68,2,2:40,1,10,MIA 29,10,21,Tua Tagovailoa pass complete short right to Raheem Mostert for 8 yards (tackle by Patrick Surtain)
+69,2,2:25,2,2,MIA 37,10,21,Tua Tagovailoa pass complete short middle to Tyreek Hill for 15 yards (tackle by Patrick Surtain)
+70,2,2:05,1,10,DEN 48,10,21,Tua Tagovailoa pass complete short middle to River Cracraft for 13 yards (tackle by Damarri Mathis)
+71,2,2:00,1,10,DEN 35,10,21,Raheem Mostert up the middle for 9 yards (tackle by Jonathon Cooper)
+72,2,1:55,2,1,DEN 26,10,21,"Penalty on Randy Gregory: Neutral Zone Infraction, 6 yards (accepted) (no play)"
+73,2,1:55,1,10,DEN 20,10,27,"Raheem Mostert up the middle for 20 yards, touchdown"
+74,2,1:49,0,0,DEN 15,10,28,Jason Sanders kicks extra point good
+75,2,1:49,0,0,MIA 35,10,28,"Jake Bailey kicks off 65 yards, touchback."
+76,2,1:49,1,10,DEN 25,10,28,Russell Wilson pass incomplete short right intended for Samaje Perine
+77,2,1:45,2,10,DEN 25,10,28,"Russell Wilson pass complete short middle to Courtland Sutton for 5 yards. Courtland Sutton fumbles (forced by Jevon Holland), recovered by Andrew Van Ginkel at DEN-32 and returned for 29 yards (tackle by Russell Wilson)"
+78,2,1:33,1,3,DEN 3,10,34,"Raheem Mostert left guard for 3 yards, touchdown"
+79,2,1:29,0,0,DEN 15,10,35,Jason Sanders kicks extra point good
+80,2,1:29,0,0,MIA 35,10,35,"Jake Bailey kicks off 65 yards, touchback."
+81,2,1:29,1,10,DEN 25,10,35,Russell Wilson pass complete short left to Samaje Perine for 8 yards (tackle by Jerome Baker and Kader Kohou)
+82,2,1:07,2,2,DEN 33,10,35,"Russell Wilson pass complete deep middle to Courtland Sutton for 20 yards (tackle by DeShon Elliott) Replay Assistant challenged the pass completion ruling, and the play was upheld."
+83,2,0:51,1,10,MIA 47,10,35,Russell Wilson pass complete short right to Courtland Sutton for 11 yards (tackle by Xavien Howard)
+84,2,0:43,1,10,MIA 36,10,35,Russell Wilson pass incomplete deep left intended for Marvin Mims (defended by DeShon Elliott)
+85,2,0:37,2,10,MIA 36,10,35,Russell Wilson pass complete short left to Marvin Mims for 30 yards (tackle by DeShon Elliott)
+86,2,0:29,1,6,MIA 6,10,35,"Russell Wilson pass complete short right to Jerry Jeudy for no gain, touchdown. Penalty on Brandon Johnson: Illegal Shift, 5 yards (accepted) (no play)"
+87,2,0:25,1,11,MIA 11,10,35,Russell Wilson pass complete short right to Samaje Perine for 7 yards (tackle by Justin Bethel and Andrew Van Ginkel)
+88,2,0:17,2,4,MIA 4,10,35,Russell Wilson pass incomplete short middle intended for Courtland Sutton
+89,2,0:11,3,4,MIA 4,10,35,Russell Wilson pass complete short left to Jerry Jeudy for -3 yards (tackle by Justin Bethel)
+90,2,0:07,4,7,MIA 7,13,35,Wil Lutz 25 yard field goal good
+91,2,0:03,0,0,DEN 35,13,35,"Wil Lutz kicks off 65 yards, touchback."
+92,2,0:03,1,10,MIA 25,13,35,De'Von Achane left guard for 6 yards (tackle by Alex Singleton)
+93,3,15:00,0,0,MIA 35,13,35,"Jason Sanders kicks off 65 yards, touchback."
+94,3,15:00,1,10,DEN 25,13,35,"Russell Wilson pass complete short middle to Jerry Jeudy for 12 yards. Jerry Jeudy fumbles, ball out of bounds at DEN-37 (forced by Jevon Holland). Jerry Jeudy fumbles out of bounds"
+95,3,14:22,1,10,DEN 37,13,35,Javonte Williams up the middle for 9 yards (tackle by Bradley Chubb)
+96,3,13:47,2,1,DEN 46,13,35,Javonte Williams right end for -2 yards (tackle by Justin Bethel)
+97,3,13:01,3,3,DEN 44,13,35,Jaleel McLaughlin right tackle for -2 yards (tackle by David Long and Jerome Baker)
+98,3,12:24,4,5,DEN 42,13,35,"Riley Dixon punts 48 yards, fair catch by Braxton Berrios at MIA-10"
+99,3,12:17,1,10,MIA 10,13,35,Raheem Mostert left tackle for 6 yards (tackle by Damarri Mathis)
+100,3,11:41,2,4,MIA 16,13,35,Raheem Mostert up the middle for 1 yard (tackle by Delarrin Turner-Yell and Zach Allen)
+101,3,11:03,3,3,MIA 17,13,35,Tua Tagovailoa pass complete short middle to Tyreek Hill for 9 yards (tackle by Jonathon Cooper)
+102,3,10:26,1,10,MIA 26,13,35,Raheem Mostert right end for 7 yards (tackle by Alex Singleton and Drew Sanders)
+103,3,9:46,2,3,MIA 33,13,35,Tua Tagovailoa pass incomplete deep left intended for Tyreek Hill
+104,3,9:38,3,3,MIA 33,13,35,Tua Tagovailoa pass complete short middle to Braxton Berrios for 22 yards (tackle by Kareem Jackson)
+105,3,8:53,1,10,DEN 45,13,35,De'Von Achane left end for 40 yards (tackle by Patrick Surtain)
+106,3,8:37,1,5,DEN 5,13,35,Tua Tagovailoa pass incomplete short left intended for Julian Hill
+107,3,8:34,2,5,DEN 5,13,35,De'Von Achane up the middle for 4 yards (tackle by Alex Singleton and Jonathon Cooper)
+108,3,7:56,3,1,DEN 1,13,35,Tua Tagovailoa pass incomplete short right intended for Tyreek Hill
+109,3,7:52,4,1,DEN 1,13,41,"Raheem Mostert up the middle for 1 yard, touchdown"
+110,3,7:48,0,0,DEN 15,13,42,Jason Sanders kicks extra point good
+111,3,7:48,0,0,MIA 35,13,42,"Jason Sanders kicks off 65 yards, touchback."
+112,3,7:48,1,10,DEN 25,13,42,Russell Wilson pass complete short left to Jerry Jeudy for 11 yards
+113,3,7:23,1,10,DEN 36,13,42,Russell Wilson pass incomplete short left intended for Adam Trautman (defended by Jevon Holland)
+114,3,7:20,2,10,DEN 36,13,42,Javonte Williams up the middle for 4 yards (tackle by Christian Wilkins and David Long)
+115,3,6:42,3,6,DEN 40,13,42,Russell Wilson pass complete short left to Brandon Johnson for 8 yards (tackle by Xavien Howard)
+116,3,6:05,1,10,DEN 48,13,42,Russell Wilson pass incomplete deep middle intended for Jerry Jeudy (defended by Kader Kohou)
+117,3,5:58,2,10,DEN 48,13,42,Javonte Williams up the middle for 4 yards (tackle by Christian Wilkins and David Long)
+118,3,5:25,3,6,MIA 48,13,42,"Russell Wilson pass complete short right to Courtland Sutton for 25 yards. Courtland Sutton fumbles (forced by Jevon Holland), recovered by Kader Kohou at MIA-23 (tackle by Jevon Holland)"
+119,3,5:13,1,10,MIA 23,13,42,De'Von Achane up the middle for 7 yards (tackle by Kareem Jackson)
+120,3,4:38,2,3,MIA 30,13,42,Tua Tagovailoa pass complete short right to De'Von Achane for 17 yards (tackle by Alex Singleton and Delarrin Turner-Yell)
+121,3,3:44,1,10,MIA 47,13,42,"De'Von Achane for 2 yards (tackle by Nik Bonitto and Damarri Mathis). Penalty on Drew Sanders: Unnecessary Roughness / Defense, 15 yards (accepted) "
+122,3,3:16,1,10,DEN 36,13,42,"De'Von Achane left tackle for 3 yards (tackle by Damarri Mathis). Penalty on Liam Eichenberg: Illegal Peelback, 15 yards (accepted) "
+123,3,2:57,1,22,DEN 48,13,42,Tua Tagovailoa pass complete short middle to Tyreek Hill for 7 yards (tackle by Zach Allen)
+124,3,2:22,2,15,DEN 41,13,42,"Tua Tagovailoa pass complete deep middle to Tyreek Hill for 19 yards (tackle by Delarrin Turner-Yell). Penalty on Damarri Mathis: Defensive Holding, 5 yards (declined) "
+125,3,1:55,1,10,DEN 22,13,42,Raheem Mostert up the middle for -1 yards (tackle by Zach Allen and Nik Bonitto)
+126,3,1:17,2,11,DEN 23,13,42,Raheem Mostert right tackle for 4 yards (tackle by Zach Allen and Alex Singleton)
+127,3,0:38,3,7,DEN 19,13,48,"Tua Tagovailoa pass complete short left to Raheem Mostert for 19 yards, touchdown"
+128,3,0:29,0,0,DEN 15,13,49,Jason Sanders kicks extra point good
+129,3,0:29,0,0,MIA 35,13,49,"Jake Bailey kicks off 69 yards, returned by Marvin Mims for 22 yards (tackle by Channing Tindall and Brandon Jones)"
+130,3,0:22,1,10,DEN 18,13,49,Russell Wilson pass short middle (defended by Da'Shawn Hand) intended for Adam Trautman is intercepted by Emmanuel Ogbah at DEN-13 and returned for 5 yards (tackle by Samaje Perine and Mike McGlinchey)
+131,3,0:15,1,8,DEN 8,13,49,De'Von Achane up the middle for -2 yards (tackle by Zach Allen)
+132,4,15:00,2,10,DEN 10,13,55,"Tua Tagovailoa pass complete short middle to De'Von Achane for 10 yards, touchdown"
+133,4,14:55,0,0,DEN 15,13,56,Jason Sanders kicks extra point good
+134,4,14:55,0,0,MIA 35,13,56,"Jason Sanders kicks off 65 yards, touchback."
+135,4,14:55,1,10,DEN 25,13,56,Samaje Perine right tackle for 3 yards (tackle by David Long)
+136,4,14:28,2,7,DEN 28,13,56,Russell Wilson pass incomplete short middle intended for Jerry Jeudy
+137,4,14:25,3,7,DEN 28,13,56,Russell Wilson pass incomplete deep left intended for Brandon Johnson. Penalty on Brandon Johnson: Illegal Touch Pass (accepted) 
+138,4,14:04,4,7,DEN 28,13,56,"Riley Dixon punts 58 yards, returned by Braxton Berrios for 15 yards (tackle by Delarrin Turner-Yell). Penalty on Channing Tindall: Offensive Holding, 10 yards (accepted) "
+139,4,13:55,1,10,MIA 19,13,56,Chris Brooks up the middle for 1 yard (tackle by Jonathan Harris)
+140,4,13:29,2,9,MIA 20,13,56,Chris Brooks right tackle for 8 yards (tackle by Essang Bassey)
+141,4,12:44,3,1,MIA 28,13,56,Mike White pass complete short left to De'Von Achane for -1 yards (tackle by Alex Singleton)
+142,4,12:03,4,2,MIA 27,13,56,"Jake Bailey punts 48 yards, fair catch by Marvin Mims at DEN-25"
+143,4,11:57,1,10,DEN 25,13,56,Javonte Williams up the middle for 1 yard (tackle by Brandon Jones and Emmanuel Ogbah)
+144,4,11:19,2,9,DEN 26,13,56,Russell Wilson pass complete short middle to Javonte Williams for 6 yards (tackle by Duke Riley)
+145,4,10:39,3,3,DEN 32,13,56,Russell Wilson pass incomplete deep left
+146,4,10:32,4,3,DEN 32,13,56,"Riley Dixon punts 36 yards, fair catch by Braxton Berrios at MIA-32"
+147,4,10:28,1,10,MIA 32,13,56,Chris Brooks up the middle for 3 yards (tackle by Delarrin Turner-Yell)
+148,4,9:54,2,7,MIA 35,13,56,Chris Brooks up the middle for -3 yards (tackle by Nik Bonitto)
+149,4,9:17,3,10,MIA 32,13,62,"Mike White pass complete deep right to Robbie Chosen for 68 yards, touchdown"
+150,4,9:05,0,0,DEN 15,13,63,Jason Sanders kicks extra point good
+151,4,9:05,0,0,MIA 35,19,63,"Jason Sanders kicks off 64 yards, returned by Marvin Mims for 99 yards, touchdown"
+152,4,8:50,0,0,MIA 15,20,63,Wil Lutz kicks extra point good
+153,4,8:50,0,0,DEN 35,20,63,"Wil Lutz kicks off 65 yards, touchback."
+154,4,8:50,1,10,MIA 25,20,63,De'Von Achane right tackle for 8 yards (tackle by Thomas Incoom)
+155,4,8:12,2,2,MIA 33,20,69,"De'Von Achane left tackle for 67 yards, touchdown"
+156,4,8:01,0,0,DEN 15,20,70,Jason Sanders kicks extra point good
+157,4,8:01,0,0,MIA 35,20,70,"Jake Bailey kicks off 65 yards, touchback."
+158,4,8:01,1,10,DEN 25,20,70,Jaleel McLaughlin left end for 3 yards (tackle by Duke Riley and Da'Shawn Hand)
+159,4,7:24,2,7,DEN 28,20,70,Russell Wilson pass complete short right to Marvin Mims for 5 yards (tackle by Kelvin Joseph)
+160,4,6:44,3,2,DEN 33,20,70,"Russell Wilson pass incomplete short right. Penalty on Parry Nickerson: Illegal Contact, 5 yards (accepted) (no play)"
+161,4,6:39,1,10,DEN 38,20,70,Russell Wilson pass complete deep right to Jerry Jeudy for 46 yards (tackle by Brandon Jones)
+162,4,5:56,1,10,MIA 16,20,70,Jaleel McLaughlin right tackle for 4 yards (tackle by Brandon Pili and Emmanuel Ogbah)
+163,4,5:21,2,6,MIA 12,20,70,Jaleel McLaughlin left guard for 3 yards (tackle by Brandon Pili)
+164,4,4:48,3,4,MIA 9,20,70,Russell Wilson sacked by Emmanuel Ogbah for -12 yards
+165,4,4:05,4,15,MIA 21,20,70,Russell Wilson pass incomplete deep left intended for Courtland Sutton
+166,4,4:00,1,10,MIA 21,20,70,Chris Brooks up the middle for 4 yards (tackle by Essang Bassey and Jonathon Cooper)
+167,4,3:23,2,6,MIA 25,20,70,Chris Brooks up the middle for 52 yards (tackle by Damarri Mathis)
+168,4,2:31,1,10,DEN 23,20,70,Chris Brooks up the middle for 2 yards (tackle by Alex Singleton and Nik Bonitto) (no play)
+169,4,2:23,1,15,DEN 28,20,70,Chris Brooks up the middle for no gain (tackle by Jonathon Cooper and Jonathan Harris)
+170,4,2:00,2,15,DEN 28,20,70,Chris Brooks right tackle for 2 yards (tackle by Jonathan Harris and Mike Purcell)
+171,4,1:19,3,13,DEN 26,20,70,Chris Brooks left tackle for -1 yards (tackle by Jonathan Harris)
+172,4,0:32,4,14,DEN 27,20,70,Mike White kneels for -1 yards
+173,4,0:30,1,10,DEN 28,20,70,Jaleel McLaughlin up the middle for 7 yards (tackle by Channing Tindall and Elijah Campbell)

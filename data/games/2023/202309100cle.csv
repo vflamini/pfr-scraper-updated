@@ -1,0 +1,165 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,CLE 35,0,0,"Dustin Hopkins kicks off 57 yards, returned by Chris Evans for 27 yards (tackle by Dustin Hopkins)"
+1,1,14:55,1,10,CIN 35,0,0,Joe Burrow pass incomplete short left intended for Tee Higgins (defended by Za'Darius Smith)
+2,1,14:51,2,10,CIN 35,0,0,Joe Burrow pass complete short right to Joe Mixon for 1 yard (tackle by Rodney McLeod)
+3,1,14:11,3,9,CIN 36,0,0,Joe Burrow pass complete short left to Ja'Marr Chase for 12 yards (tackle by Greg Newsome)
+4,1,13:35,1,10,CIN 48,0,0,Joe Burrow pass incomplete deep left intended for Ja'Marr Chase
+5,1,13:30,2,10,CIN 48,0,0,Chris Evans right guard for 5 yards (tackle by Grant Delpit)
+6,1,12:54,3,5,CLE 47,0,0,Joe Burrow sacked by Ogbonnia Okoronkwo for -2 yards
+7,1,12:14,4,7,CLE 49,0,0,"Brad Robbins punts 35 yards, fair catch by Donovan Peoples-Jones at CLE-14"
+8,1,12:05,1,10,CLE 14,0,0,Nick Chubb left guard for 3 yards (tackle by Sam Hubbard)
+9,1,11:32,2,7,CLE 17,0,0,Deshaun Watson pass incomplete deep middle intended for Amari Cooper
+10,1,11:26,3,7,CLE 17,0,0,Deshaun Watson scrambles right tackle for 12 yards (tackle by Mike Hilton)
+11,1,10:45,1,10,CLE 29,0,0,Deshaun Watson sacked by Germaine Pratt for -7 yards
+12,1,10:02,2,17,CLE 22,0,0,Deshaun Watson pass complete short left to Nick Chubb for 6 yards (tackle by Mike Hilton and Logan Wilson)
+13,1,9:20,3,11,CLE 28,0,0,Deshaun Watson sacked by B.J. Hill for no gain
+14,1,8:41,4,11,CLE 28,0,0,"Corey Bojorquez punts 66 yards, returned by Charlie Jones for 8 yards (tackle by Mike Ford)"
+15,1,8:30,1,10,CIN 14,0,0,Joe Mixon left guard for 3 yards (tackle by Ogbonnia Okoronkwo)
+16,1,7:57,2,7,CIN 17,0,0,Joe Burrow pass complete short right to Joe Mixon for 6 yards (tackle by Sione Takitaki)
+17,1,7:14,3,1,CIN 23,0,0,Joe Burrow pass incomplete short right intended for Irv Smith
+18,1,7:10,4,1,CIN 23,0,0,"Penalty on Akeem Davis-Gaither: False Start, 5 yards (accepted) (no play)"
+19,1,7:10,4,6,CIN 18,0,0,"Brad Robbins punts 45 yards, returned by Donovan Peoples-Jones for 4 yards (tackle by Markus Bailey and Jordan Battle)"
+20,1,6:59,1,10,CLE 41,0,0,Nick Chubb left tackle for no gain (tackle by Zachary Carter)
+21,1,6:25,2,10,CLE 41,0,0,Deshaun Watson pass complete short right to Nick Chubb for 10 yards (tackle by Germaine Pratt)
+22,1,5:50,1,10,CIN 49,0,0,Nick Chubb left tackle for 6 yards (tackle by Sam Hubbard and Nick Scott)
+23,1,5:15,2,4,CIN 43,0,0,Deshaun Watson pass incomplete deep right intended for Marquise Goodwin
+24,1,5:06,3,4,CIN 43,0,0,Nick Chubb left tackle for 17 yards (tackle by Chidobe Awuzie)
+25,1,4:29,1,10,CIN 26,0,0,Deshaun Watson scrambles right end for 5 yards (tackle by Sam Hubbard)
+26,1,3:45,2,5,CIN 21,0,0,"Deshaun Watson aborted snap, recovered by Deshaun Watson at CIN-21 Jerome Ford left guard for 5 yards. Jerome Ford fumbles (forced by Germaine Pratt), recovered by Chidobe Awuzie at CIN-13 (tackle by Elijah Moore)"
+27,1,3:35,1,10,CIN 13,0,0,Joe Mixon right tackle for 3 yards (tackle by Sione Takitaki and Denzel Ward)
+28,1,3:01,2,7,CIN 16,0,0,Joe Burrow pass incomplete short right intended for Irv Smith
+29,1,2:58,3,7,CIN 16,0,0,Joe Burrow pass complete short middle to Tyler Boyd for 6 yards (tackle by Grant Delpit)
+30,1,2:17,4,1,CIN 22,0,0,"Brad Robbins punts 41 yards, returned by Donovan Peoples-Jones for 6 yards (tackle by Mitchell Wilcox)"
+31,1,2:09,1,10,CLE 43,0,0,Deshaun Watson pass complete short left to Nick Chubb for 7 yards (tackle by Cameron Sample)
+32,1,1:30,2,3,CLE 50,0,0,Nick Chubb right guard for 6 yards (tackle by Logan Wilson and Nick Scott)
+33,1,0:59,1,10,CIN 44,0,0,Deshaun Watson pass complete deep right to Amari Cooper for 20 yards (tackle by Logan Wilson)
+34,1,0:23,1,10,CIN 24,0,0,Deshaun Watson scrambles left end for 2 yards (tackle by Germaine Pratt)
+35,2,15:00,2,8,CIN 22,0,0,Deshaun Watson pass complete short right to Nick Chubb for -2 yards (tackle by Logan Wilson and Sam Hubbard)
+36,2,14:24,3,10,CIN 24,0,0,Deshaun Watson pass incomplete short left intended for Elijah Moore
+37,2,14:19,4,10,CIN 24,0,3,Dustin Hopkins 42 yard field goal good
+38,2,14:15,0,0,CLE 35,0,3,"Dustin Hopkins kicks off 66 yards, returned by Chris Evans for 18 yards (tackle by Matthew Adams and Pierre Strong)"
+39,2,14:12,1,10,CIN 17,0,3,Joe Burrow pass incomplete short left intended for Joe Mixon
+40,2,14:07,2,10,CIN 17,0,3,Joe Burrow pass incomplete short middle intended for Tyler Boyd (defended by Greg Newsome)
+41,2,14:04,3,10,CIN 17,0,3,"Penalty on CIN: Delay of Game, 5 yards (accepted) (no play)"
+42,2,14:04,3,15,CIN 12,0,3,Chris Evans left guard for 7 yards (tackle by Za'Darius Smith and Grant Delpit)
+43,2,13:23,4,8,CIN 19,0,3,Brad Robbins punts 37 yards out of bounds
+44,2,13:17,1,10,CLE 44,0,3,"Jerome Ford left guard for 3 yards (tackle by Daxton Hill). Penalty on Joel Bitonio: Offensive Holding, 10 yards (accepted) "
+45,2,12:57,1,17,CLE 37,0,3,Deshaun Watson pass complete short right to Amari Cooper for 6 yards (tackle by Cam Taylor-Britt)
+46,2,12:17,2,11,CLE 43,0,3,Deshaun Watson pass incomplete short left intended for Amari Cooper (defended by Trey Hendrickson)
+47,2,12:13,3,11,CLE 43,0,3,Deshaun Watson pass incomplete deep right intended for Marquise Goodwin (defended by Cam Taylor-Britt)
+48,2,12:06,4,11,CLE 43,0,3,Corey Bojorquez punts 36 yards out of bounds
+49,2,11:59,1,10,CIN 21,0,3,Joe Mixon left guard for 12 yards (tackle by Greg Newsome and Rodney McLeod)
+50,2,11:19,1,10,CIN 33,0,3,Joe Mixon right guard for 22 yards (tackle by Grant Delpit)
+51,2,10:40,1,10,CLE 45,0,3,Trayveon Williams left guard for 2 yards (tackle by Martin Emerson)
+52,2,9:56,2,8,CLE 43,0,3,Trayveon Williams right guard for 5 yards (tackle by Grant Delpit)
+53,2,8:53,3,3,CLE 38,0,3,Joe Burrow pass incomplete deep right intended for Tee Higgins
+54,2,8:47,4,3,CLE 38,0,3,"Brad Robbins punts 38 yards, touchback."
+55,2,8:39,1,10,CLE 20,0,3,Deshaun Watson pass complete short left to David Njoku for 9 yards (tackle by Nick Scott)
+56,2,8:03,2,1,CLE 29,0,3,Nick Chubb left tackle for 2 yards (tackle by Cameron Sample and Sam Hubbard)
+57,2,7:19,1,10,CLE 31,0,3,Nick Chubb left guard for 7 yards (tackle by DJ Turner)
+58,2,6:48,2,3,CLE 38,0,3,Deshaun Watson pass incomplete deep right intended for Donovan Peoples-Jones
+59,2,6:40,3,3,CLE 38,0,3,Nick Chubb right guard for 2 yards (tackle by D.J. Reader)
+60,2,5:55,4,1,CLE 40,0,3,"Penalty on CLE: Delay of Game, 5 yards (accepted) (no play)"
+61,2,5:55,4,6,CLE 35,0,3,"Corey Bojorquez punts 56 yards, returned by Charlie Jones for 1 yard (tackle by Cameron Mitchell). Penalty on Jalen Davis: Unnecessary Roughness / Defense, 5 yards (accepted) "
+62,2,5:41,1,10,CIN 5,0,3,Joe Mixon up the middle for 2 yards (tackle by Greg Newsome and Dalvin Tomlinson)
+63,2,5:01,2,8,CIN 7,0,3,Joe Burrow pass complete short right to Ja'Marr Chase for 7 yards (tackle by Jeremiah Owusu-Koramoah)
+64,2,4:14,3,1,CIN 14,0,3,"Joe Mixon left guard for no gain (tackle by Jeremiah Owusu-Koramoah) Penalty on CIN: Illegal Shift, 5 yards (declined) "
+65,2,4:12,4,1,CIN 14,0,3,"Brad Robbins punts 54 yards, fair catch by Donovan Peoples-Jones at CLE-32"
+66,2,4:05,1,10,CLE 32,0,3,Nick Chubb left guard for 13 yards (tackle by Nick Scott and Cam Taylor-Britt)
+67,2,3:41,1,10,CLE 45,0,3,Nick Chubb right tackle for 1 yard (tackle by Mike Hilton and Germaine Pratt)
+68,2,3:07,2,9,CLE 46,0,3,Jerome Ford right tackle for no gain (tackle by Sam Hubbard)
+69,2,2:19,3,9,CLE 46,0,3,Deshaun Watson pass incomplete deep right intended for Amari Cooper
+70,2,2:14,4,9,CLE 46,0,3,Corey Bojorquez punts 33 yards out of bounds
+71,2,2:07,1,10,CIN 21,0,3,Joe Mixon left tackle for 3 yards (tackle by Maurice Hurst and Alex Wright)
+72,2,2:00,2,7,CIN 24,0,3,Joe Burrow pass complete to Ja'Marr Chase for no gain (tackle by Greg Newsome) (no play)
+73,2,1:54,2,12,CIN 19,0,3,Joe Burrow pass complete short right to Tyler Boyd for 4 yards
+74,2,1:48,3,8,CIN 23,0,3,Joe Burrow pass incomplete deep left intended for Tee Higgins
+75,2,1:43,4,8,CIN 23,0,3,"Brad Robbins punts 44 yards, fair catch by Donovan Peoples-Jones at CLE-33"
+76,2,1:36,1,10,CLE 33,0,3,Elijah Moore right end for 19 yards (tackle by Cam Taylor-Britt)
+77,2,0:56,1,10,CIN 48,0,3,Deshaun Watson pass incomplete short right intended for David Bell
+78,2,0:50,2,10,CIN 48,0,3,Deshaun Watson pass incomplete short right intended for Elijah Moore
+79,2,0:45,3,10,CIN 48,0,3,Deshaun Watson pass complete short left to Amari Cooper for 11 yards
+80,2,0:41,1,10,CIN 37,0,3,Deshaun Watson pass complete short right to Donovan Peoples-Jones for 12 yards (tackle by Chidobe Awuzie)
+81,2,0:36,1,10,CIN 25,0,3,Jerome Ford right guard for 6 yards (tackle by Germaine Pratt and Trey Hendrickson)
+82,2,0:31,2,4,CIN 19,0,3,Deshaun Watson pass complete short left to Elijah Moore for 6 yards (tackle by Logan Wilson)
+83,2,0:26,1,10,CIN 13,0,3,Deshaun Watson pass incomplete short left intended for Amari Cooper
+84,2,0:22,2,10,CIN 13,0,9,"Deshaun Watson left end for 13 yards, touchdown"
+85,2,0:17,0,0,CIN 15,0,10,Dustin Hopkins kicks extra point good
+86,2,0:17,0,0,CLE 35,0,10,"Dustin Hopkins kicks off 65 yards, touchback."
+87,2,0:17,1,10,CIN 25,0,10,Joe Burrow kneels for -1 yards
+88,3,15:00,0,0,CIN 35,0,10,"Evan McPherson kicks off 65 yards, touchback."
+89,3,15:00,1,10,CLE 25,0,10,Nick Chubb right guard for 2 yards (tackle by Nick Scott and Trey Hendrickson)
+90,3,14:23,2,8,CLE 27,0,10,Deshaun Watson sacked by Trey Hendrickson for -3 yards
+91,3,13:41,3,11,CLE 24,0,10,Deshaun Watson pass incomplete short right intended for Elijah Moore
+92,3,13:36,4,11,CLE 24,0,10,Corey Bojorquez punts 30 yards out of bounds
+93,3,13:30,1,10,CIN 46,0,10,Joe Mixon right tackle for 4 yards (tackle by Rodney McLeod)
+94,3,12:50,2,6,CIN 50,0,10,Joe Burrow pass incomplete short right intended for Tee Higgins
+95,3,12:48,3,6,CIN 50,0,10,"Joe Burrow pass incomplete deep right intended for Ja'Marr Chase. Penalty on Denzel Ward: Defensive Pass Interference, 18 yards (accepted) (no play)"
+96,3,12:43,1,10,CLE 32,0,10,Joe Burrow pass incomplete deep left intended for Tee Higgins
+97,3,12:37,2,10,CLE 32,0,10,Joe Burrow pass incomplete short left intended for Joe Mixon
+98,3,12:33,3,10,CLE 32,0,10,Joe Burrow pass complete short right to Irv Smith for 8 yards (tackle by Denzel Ward)
+99,3,11:48,4,2,CLE 24,3,10,Evan McPherson 42 yard field goal good
+100,3,11:44,0,0,CIN 35,3,10,"Evan McPherson kicks off 65 yards, touchback."
+101,3,11:44,1,10,CLE 25,3,10,Deshaun Watson pass complete deep left to Elijah Moore for 33 yards (tackle by Daxton Hill)
+102,3,11:05,1,10,CIN 42,3,10,Nick Chubb for no gain (no play)
+103,3,10:59,1,15,CIN 47,3,10,Nick Chubb right tackle for 6 yards (tackle by Nick Scott and Cameron Sample)
+104,3,10:14,2,9,CIN 41,3,10,"Deshaun Watson pass short left (defended by Zachary Carter) intended for Elijah Moore is intercepted by Daxton Hill at CIN-30 and returned for 20 yards (tackle by Jedrick Wills). Penalty on Wyatt Teller: Offensive Holding, 10 yards (declined) "
+105,3,9:42,1,10,CIN 50,3,10,Joe Mixon right guard for -3 yards (tackle by Shelby Harris)
+106,3,9:04,2,13,CIN 47,3,10,Joe Burrow pass complete short right to Joe Mixon for 10 yards (tackle by Denzel Ward)
+107,3,8:22,3,3,CLE 43,3,10,Joe Burrow pass complete short right to Ja'Marr Chase for 4 yards (tackle by Denzel Ward)
+108,3,7:48,1,10,CLE 39,3,10,Joe Burrow pass incomplete short left
+109,3,7:44,2,10,CLE 39,3,10,Joe Mixon for 6 yards (tackle by Shelby Harris)
+110,3,6:58,3,4,CLE 33,3,10,Joe Burrow pass incomplete deep right intended for Tee Higgins (defended by Grant Delpit)
+111,3,6:55,4,4,CLE 33,3,10,Evan McPherson 51 yard field goal no good
+112,3,6:53,1,10,CLE 41,3,10,Nick Chubb right tackle for 10 yards (tackle by Nick Scott and Logan Wilson)
+113,3,6:31,1,10,CIN 49,3,10,Elijah Moore right end for no gain (tackle by Nick Scott)
+114,3,6:09,2,10,CIN 49,3,10,Deshaun Watson right guard for 13 yards (tackle by Nick Scott)
+115,3,5:20,1,10,CIN 36,3,10,Nick Chubb right tackle for 2 yards (tackle by B.J. Hill)
+116,3,4:38,2,8,CIN 34,3,10,Nick Chubb right tackle for 13 yards (tackle by Chidobe Awuzie)
+117,3,3:53,1,10,CIN 21,3,10,Nick Chubb right tackle for 1 yard (tackle by Germaine Pratt and Sam Hubbard)
+118,3,3:14,2,9,CIN 20,3,10,Deshaun Watson pass incomplete short left intended for David Njoku (defended by D.J. Reader)
+119,3,3:08,3,9,CIN 20,3,10,Deshaun Watson pass complete short left to Elijah Moore for 4 yards (tackle by DJ Turner)
+120,3,2:25,4,5,CIN 16,3,13,Dustin Hopkins 34 yard field goal good
+121,3,2:21,0,0,CLE 35,3,13,"Dustin Hopkins kicks off 65 yards, touchback."
+122,3,2:21,1,10,CIN 25,3,13,Joe Mixon for 2 yards (tackle by Shelby Harris and Jordan Elliott)
+123,3,1:44,2,8,CIN 27,3,13,Joe Burrow pass complete short right to Ja'Marr Chase for 10 yards (tackle by Grant Delpit)
+124,3,1:07,1,10,CIN 37,3,13,Ja'Marr Chase left end for 2 yards (tackle by Jeremiah Owusu-Koramoah and Sione Takitaki)
+125,3,0:27,2,8,CIN 39,3,13,Joe Burrow pass incomplete deep left intended for Tee Higgins
+126,3,0:21,3,8,CIN 39,3,13,Joe Burrow pass complete short middle to Irv Smith for 3 yards (tackle by Grant Delpit)
+127,4,15:00,4,5,CIN 42,3,13,Brad Robbins punts 22 yards out of bounds
+128,4,14:54,1,10,CLE 36,3,13,Deshaun Watson pass complete short right to David Njoku for 15 yards (tackle by Nick Scott)
+129,4,14:16,1,10,CIN 49,3,13,Jerome Ford left tackle for 17 yards (tackle by Daxton Hill)
+130,4,13:40,1,10,CIN 32,3,13,Jerome Ford left tackle for 3 yards (tackle by Logan Wilson)
+131,4,12:58,2,7,CIN 29,3,13,Jerome Ford right guard for 2 yards (tackle by D.J. Reader and Zachary Carter)
+132,4,12:22,3,5,CIN 27,3,13,Deshaun Watson pass complete short right to Harrison Bryant for 2 yards (tackle by Logan Wilson)
+133,4,11:33,4,3,CIN 25,3,16,Dustin Hopkins 43 yard field goal good
+134,4,11:29,0,0,CLE 35,3,16,"Dustin Hopkins kicks off 65 yards, touchback."
+135,4,11:29,1,10,CIN 25,3,16,Joe Burrow pass incomplete short right intended for Tee Higgins
+136,4,11:24,2,10,CIN 25,3,16,Joe Burrow pass incomplete short right intended for Ja'Marr Chase
+137,4,11:20,3,10,CIN 25,3,16,Joe Burrow pass complete short left to Irv Smith for 6 yards (tackle by Ogbonnia Okoronkwo and Greg Newsome)
+138,4,10:33,4,4,CIN 31,3,16,Joe Burrow sacked by Myles Garrett for -13 yards
+139,4,10:27,1,10,CIN 18,3,16,Nick Chubb left tackle for 11 yards (tackle by Josh Tupou)
+140,4,9:48,1,7,CIN 7,3,16,Nick Chubb left tackle for 4 yards (tackle by B.J. Hill and Daxton Hill)
+141,4,9:14,2,3,CIN 3,3,22,"Deshaun Watson pass complete short right to Harrison Bryant for 3 yards, touchdown"
+142,4,9:11,0,0,CIN 2,3,24,"Two Point Attempt: Deshaun Watson rushes, conversion succeeds."
+143,4,9:11,0,0,CLE 35,3,24,"Dustin Hopkins kicks off 65 yards, touchback."
+144,4,9:11,1,10,CIN 25,3,24,Joe Burrow pass complete short right to Ja'Marr Chase for 6 yards (tackle by Greg Newsome and Anthony Walker)
+145,4,8:33,2,4,CIN 31,3,24,Joe Burrow pass incomplete deep left intended for Ja'Marr Chase
+146,4,8:27,3,4,CIN 31,3,24,Joe Burrow pass complete short right to Chris Evans for -1 yards (tackle by Grant Delpit)
+147,4,7:46,4,5,CIN 30,3,24,"Brad Robbins punts 52 yards, returned by Donovan Peoples-Jones for 5 yards (tackle by Cal Adomitis)"
+148,4,7:37,1,10,CLE 23,3,24,Jerome Ford left tackle for 2 yards (tackle by Germaine Pratt and Cameron Sample)
+149,4,6:53,2,8,CLE 25,3,24,Jerome Ford left tackle for 1 yard (tackle by D.J. Reader)
+150,4,6:11,3,7,CLE 26,3,24,Jerome Ford left tackle for -1 yards (tackle by Germaine Pratt and Sam Hubbard)
+151,4,5:25,4,8,CLE 25,3,24,"Corey Bojorquez punts 57 yards, returned by Charlie Jones for 15 yards (tackle by Matthew Adams). Penalty on Cameron Mitchell: Player Out of Bounds on a Punt, 5 yards (accepted) "
+152,4,5:15,1,10,CIN 38,3,24,Joe Mixon right guard for 1 yard (tackle by Myles Garrett)
+153,4,4:38,2,9,CIN 39,3,24,Joe Mixon right guard for 1 yard (tackle by Za'Darius Smith and Rodney McLeod)
+154,4,3:51,3,8,CIN 40,3,24,Jake Browning pass incomplete short right intended for Ja'Marr Chase (defended by Denzel Ward)
+155,4,3:48,4,8,CIN 40,3,24,"Brad Robbins punts 41 yards, fair catch by Donovan Peoples-Jones at CLE-19"
+156,4,3:41,1,10,CLE 19,3,24,Jerome Ford left tackle for 1 yard (tackle by B.J. Hill and Cameron Sample)
+157,4,3:00,2,9,CLE 20,3,24,Jerome Ford right guard for 2 yards (tackle by Mike Hilton and Cameron Sample)
+158,4,2:19,3,7,CLE 22,3,24,Deshaun Watson pass complete short left to Jordan Akins for 12 yards (tackle by Germaine Pratt)
+159,4,2:09,1,10,CLE 34,3,24,Jerome Ford right tackle for 2 yards (tackle by Jay Tufele)
+160,4,2:00,2,8,CLE 36,3,24,Jerome Ford left tackle for -3 yards (tackle by Daxton Hill)
+161,4,1:18,3,11,CLE 33,3,24,Jerome Ford right guard for -4 yards (tackle by Daxton Hill and Germaine Pratt)
+162,4,0:28,4,15,CLE 29,3,24,"Corey Bojorquez punts 53 yards, fair catch by Charlie Jones at CIN-18"
+163,4,0:24,1,10,CIN 18,3,24,Jake Browning kneels for -1 yards

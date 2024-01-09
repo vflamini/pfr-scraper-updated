@@ -1,0 +1,152 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,HOU 35,0,0,"Ka'imi Fairbairn kicks off 59 yards, returned by DJ Turner for 18 yards (tackle by Eric Murray)"
+1,1,14:54,1,10,LVR 24,0,0,Josh Jacobs left guard for 7 yards (tackle by Kamu Grugier-Hill and Steven Nelson)
+2,1,14:18,2,3,LVR 31,0,0,"Josh Jacobs right tackle for 6 yards (tackle by Maliek Collins). Penalty on Davante Adams: Illegal Block Above the Waist, 10 yards (accepted) "
+3,1,13:48,2,7,LVR 27,0,0,Derek Carr pass incomplete short right
+4,1,13:43,3,7,LVR 27,0,0,Derek Carr pass complete short right to Davante Adams for 14 yards (tackle by Jalen Pitre)
+5,1,13:19,1,10,LVR 41,0,0,Josh Jacobs up the middle for -2 yards (tackle by Rasheem Green and Jalen Pitre)
+6,1,12:37,2,12,LVR 39,0,0,Derek Carr pass complete short left to Davante Adams for 12 yards (tackle by Jonathan Owens)
+7,1,11:53,1,10,HOU 49,0,0,Derek Carr pass complete short middle to Davante Adams for 15 yards (tackle by Jonathan Owens)
+8,1,11:07,1,10,HOU 34,0,0,Josh Jacobs left guard for no gain (tackle by Kurt Hinish)
+9,1,10:24,2,10,HOU 34,0,0,Derek Carr pass incomplete short left intended for Josh Jacobs
+10,1,10:21,3,10,HOU 34,0,0,Derek Carr pass complete short right to Ameer Abdullah for 2 yards (tackle by Steven Nelson)
+11,1,10:00,4,8,HOU 32,0,3,Daniel Carlson 50 yard field goal good
+12,1,9:54,0,0,LVR 35,0,3,"Daniel Carlson kicks off 65 yards, touchback."
+13,1,9:54,1,10,HOU 25,0,3,Davis Mills pass complete short middle to Nico Collins for 15 yards (tackle by Rock Ya-Sin)
+14,1,9:21,1,10,HOU 40,0,3,Dameon Pierce right guard for 4 yards (tackle by Blake Martinez)
+15,1,8:44,2,6,HOU 44,0,3,Dameon Pierce right guard for 2 yards (tackle by Chandler Jones)
+16,1,8:05,3,4,HOU 46,0,3,Davis Mills pass complete short right to Jordan Akins for 19 yards (tackle by Trevon Moehrig)
+17,1,7:26,1,10,LVR 35,0,3,Dameon Pierce for 10 yards (tackle by Duron Harmon)
+18,1,6:44,1,10,LVR 25,0,3,Dameon Pierce up the middle for 3 yards (tackle by Blake Martinez and Clelin Ferrell)
+19,1,6:06,2,7,LVR 22,0,3,Dameon Pierce left guard for -2 yards (tackle by Denzel Perryman and Johnathan Hankins)
+20,1,5:24,3,9,LVR 24,0,3,Davis Mills pass complete short right to Brandin Cooks for 3 yards (tackle by Amik Robertson and Bilal Nichols)
+21,1,4:44,4,6,LVR 21,0,3,Ka'imi Fairbairn 39 yard field goal no good
+22,1,4:40,1,10,LVR 29,0,3,"Derek Carr aborted snap, recovered by Derek Carr at LV-23"
+23,1,4:00,2,16,LVR 23,0,3,Derek Carr sacked by Rasheem Green for -5 yards
+24,1,3:20,3,21,LVR 18,0,3,Derek Carr pass complete short left to Ameer Abdullah for 5 yards (tackle by Christian Kirksey)
+25,1,2:54,4,15,LVR 24,0,3,"AJ Cole punts, fair catch by Desmond King at HOU-25. Penalty on Clelin Ferrell: Offensive Holding, 10 yards (accepted) (no play)"
+26,1,2:47,4,26,LVR 13,0,3,"AJ Cole punts 50 yards, returned by Desmond King for 1 yard (tackle by Ameer Abdullah)"
+27,1,2:39,1,10,HOU 38,0,3,Davis Mills pass complete short right to Dameon Pierce for 11 yards (tackle by Rock Ya-Sin)
+28,1,2:07,1,10,HOU 49,0,3,Davis Mills pass incomplete short middle intended for Chris Moore (defended by Trevon Moehrig)
+29,1,2:04,2,10,HOU 49,0,3,Davis Mills pass complete short right to Nico Collins for 9 yards (tackle by Denzel Perryman)
+30,1,1:26,3,1,LVR 42,0,3,Dameon Pierce left guard for 4 yards (tackle by Denzel Perryman)
+31,1,0:50,1,10,LVR 38,0,3,Dameon Pierce right guard for 4 yards (tackle by Andrew Billings and Bilal Nichols)
+32,1,0:08,2,6,LVR 34,0,3,Davis Mills pass complete short right to Rex Burkhead for -3 yards (tackle by Denzel Perryman)
+33,2,15:00,3,9,LVR 37,0,3,Davis Mills pass complete short left to Brandin Cooks for 11 yards (tackle by Divine Deablo)
+34,2,14:19,1,10,LVR 26,0,3,Davis Mills pass complete short middle to Dameon Pierce for 7 yards (tackle by Blake Martinez)
+35,2,13:38,2,3,LVR 19,0,3,Davis Mills pass complete short right to Dameon Pierce for 2 yards (tackle by Divine Deablo)
+36,2,12:51,3,1,LVR 17,0,3,Dameon Pierce up the middle for 3 yards (tackle by Denzel Perryman and Divine Deablo)
+37,2,12:13,1,10,LVR 14,0,3,Davis Mills pass incomplete short right intended for Brevin Jordan
+38,2,12:07,2,10,LVR 14,0,3,Dameon Pierce left guard for 1 yard (tackle by Bilal Nichols and Andrew Billings)
+39,2,11:22,3,9,LVR 13,6,3,"Davis Mills pass complete short right to Chris Moore for 13 yards, touchdown"
+40,2,11:17,0,0,LVR 15,7,3,Ka'imi Fairbairn kicks extra point good
+41,2,11:17,0,0,HOU 35,7,3,"Ka'imi Fairbairn kicks off 67 yards, returned by DJ Turner for 20 yards (tackle by Troy Hairston). Penalty on Luke Masterson: Illegal Block Above the Waist, 9 yards (accepted) "
+42,2,11:12,1,10,LVR 9,7,3,Josh Jacobs right end for 5 yards (tackle by Mario Addison and Christian Kirksey)
+43,2,10:37,2,10,LVR 14,7,3,Josh Jacobs left guard for 9 yards (tackle by Jalen Pitre)
+44,2,9:58,1,10,LVR 23,7,3,Derek Carr pass complete short right to Hunter Renfrow for 20 yards (tackle by Jonathan Owens)
+45,2,9:10,1,10,LVR 43,7,3,Derek Carr pass complete short right to Davante Adams for 5 yards (tackle by Desmond King)
+46,2,8:23,2,5,LVR 48,7,3,Josh Jacobs right guard for -1 yards (tackle by Christian Kirksey)
+47,2,7:40,3,6,LVR 47,7,3,Derek Carr pass incomplete short left intended for Foster Moreau (defended by Steven Nelson)
+48,2,7:35,4,6,LVR 47,7,3,"AJ Cole punts 43 yards, fair catch by Desmond King at HOU-10. Penalty on Trent Sieg: Offensive Holding, 10 yards (accepted) "
+49,2,7:28,1,10,HOU 20,7,3,Dameon Pierce up the middle for 9 yards (tackle by Blake Martinez and Johnathan Abram)
+50,2,6:56,2,1,HOU 29,7,3,Dameon Pierce left tackle for 4 yards (tackle by Divine Deablo)
+51,2,6:16,1,10,HOU 33,7,3,Dameon Pierce left guard for 22 yards (tackle by Johnathan Abram)
+52,2,5:37,1,10,LVR 45,7,3,Davis Mills pass complete short left to Brandin Cooks for 8 yards (tackle by Rock Ya-Sin)
+53,2,5:10,2,2,LVR 37,7,3,Davis Mills pass incomplete short middle intended for Rex Burkhead
+54,2,5:07,3,2,LVR 37,7,3,Davis Mills pass incomplete short right intended for Brandin Cooks
+55,2,5:02,4,2,LVR 37,10,3,Ka'imi Fairbairn 55 yard field goal good
+56,2,4:57,0,0,HOU 35,10,3,"Ka'imi Fairbairn kicks off 65 yards, returned by DJ Turner for 18 yards (tackle by Dare Ogunbowale)"
+57,2,4:51,1,10,LVR 18,10,3,DJ Turner left end for 18 yards (tackle by Desmond King)
+58,2,4:15,1,10,LVR 36,10,3,Josh Jacobs left guard for 4 yards (tackle by Christian Kirksey)
+59,2,3:40,2,6,LVR 40,10,3,Derek Carr pass complete short left to Josh Jacobs for 5 yards (tackle by Jalen Pitre)
+60,2,3:19,3,1,LVR 45,10,3,Josh Jacobs left tackle for 13 yards (tackle by Jonathan Owens)
+61,2,2:37,1,10,HOU 42,10,3,Zamir White up the middle for 2 yards (tackle by Kamu Grugier-Hill)
+62,2,2:00,2,8,HOU 40,10,3,DJ Turner right end for 3 yards (tackle by Desmond King)
+63,2,1:24,3,5,HOU 37,10,3,Josh Jacobs left tackle for 4 yards (tackle by Christian Harris)
+64,2,0:41,4,1,HOU 33,10,3,Derek Carr pass complete short right to Josh Jacobs for 4 yards (tackle by Christian Kirksey)
+65,2,0:38,1,10,HOU 29,10,3,Derek Carr pass complete short left to Josh Jacobs for 3 yards (tackle by Christian Kirksey)
+66,2,0:31,2,7,HOU 26,10,9,"Derek Carr pass complete deep middle to Mack Hollins for 26 yards, touchdown"
+67,2,0:25,0,0,HOU 15,10,10,Daniel Carlson kicks extra point good
+68,2,0:25,0,0,LVR 35,10,10,"Daniel Carlson kicks off 65 yards, touchback."
+69,2,0:25,1,10,HOU 25,10,10,Davis Mills sacked by and Chandler Jones for -6 yards and Clelin Ferrell for -6 yards
+70,3,15:00,0,0,LVR 35,10,10,"Daniel Carlson kicks off 60 yards, returned by Tremon Smith for 11 yards (tackle by Ameer Abdullah)"
+71,3,14:54,1,10,HOU 16,10,10,Dameon Pierce left tackle for 5 yards (tackle by Johnathan Hankins and Bilal Nichols)
+72,3,14:18,2,5,HOU 21,10,10,Dameon Pierce left end for 2 yards (tackle by Maxx Crosby)
+73,3,13:34,3,3,HOU 23,10,10,Davis Mills pass complete short right to Jordan Akins for 39 yards (tackle by Duron Harmon)
+74,3,12:43,1,10,LVR 38,10,10,Davis Mills pass complete deep left to Phillip Dorsett for 20 yards
+75,3,12:05,1,10,LVR 18,10,10,Dameon Pierce up the middle for -4 yards (tackle by Divine Deablo)
+76,3,11:28,2,14,LVR 22,10,10,Davis Mills pass complete short left to Rex Burkhead for 5 yards (tackle by Divine Deablo)
+77,3,11:08,3,10,LVR 17,10,10,Davis Mills pass incomplete short middle intended for Brevin Jordan
+78,3,11:04,4,10,LVR 17,13,10,Ka'imi Fairbairn 35 yard field goal good
+79,3,10:59,0,0,HOU 35,13,10,"Ka'imi Fairbairn kicks off 65 yards, touchback."
+80,3,10:59,1,10,LVR 25,13,10,Josh Jacobs left tackle for 11 yards (tackle by Jonathan Owens)
+81,3,10:23,1,10,LVR 36,13,10,Josh Jacobs right tackle for 6 yards (tackle by Thomas Booker and Jonathan Owens)
+82,3,9:40,2,4,LVR 42,13,10,Derek Carr pass incomplete short left intended for Mack Hollins
+83,3,9:34,3,4,LVR 42,13,10,Derek Carr pass complete short middle to Hunter Renfrow for 8 yards (tackle by Desmond King)
+84,3,8:57,1,10,LVR 50,13,10,Josh Jacobs left guard for 12 yards (tackle by Derek Stingley)
+85,3,8:14,1,10,HOU 38,13,10,Derek Carr pass complete short right to Foster Moreau for 11 yards (tackle by Kamu Grugier-Hill)
+86,3,7:28,1,10,HOU 27,13,10,Josh Jacobs right end for 6 yards (tackle by Christian Kirksey)
+87,3,6:44,2,4,HOU 21,13,10,Derek Carr pass incomplete short right intended for Foster Moreau
+88,3,6:39,3,4,HOU 21,13,10,Derek Carr pass complete short middle to Foster Moreau for 17 yards (tackle by Jonathan Owens)
+89,3,5:54,1,4,HOU 4,13,16,"Josh Jacobs left end for 4 yards, touchdown"
+90,3,5:48,0,0,HOU 15,13,17,Daniel Carlson kicks extra point good
+91,3,5:48,0,0,LVR 35,13,17,"Daniel Carlson kicks off 62 yards, returned by Tremon Smith for 23 yards (tackle by Matthias Farley)"
+92,3,5:42,1,10,HOU 26,13,17,Davis Mills pass complete short left to Nico Collins for 9 yards (tackle by Divine Deablo and Rock Ya-Sin)
+93,3,5:08,2,1,HOU 35,13,17,Davis Mills pass complete deep left to Brandin Cooks for 24 yards (tackle by Duron Harmon)
+94,3,4:37,1,10,LVR 41,13,17,Dameon Pierce up the middle for 13 yards (tackle by Duron Harmon)
+95,3,3:57,1,10,LVR 28,13,17,Dameon Pierce right end for 3 yards (tackle by Denzel Perryman)
+96,3,3:23,2,7,LVR 25,13,17,Davis Mills pass incomplete short right intended for Brevin Jordan
+97,3,3:20,3,7,LVR 25,19,17,"Davis Mills pass complete deep left to Phillip Dorsett for 25 yards, touchdown"
+98,3,3:14,0,0,LVR 15,20,17,Ka'imi Fairbairn kicks extra point good
+99,3,3:14,0,0,HOU 35,20,17,"Ka'imi Fairbairn kicks off 58 yards, returned by Ameer Abdullah for 17 yards (tackle by Eric Murray and Tremon Smith)"
+100,3,3:08,1,10,LVR 24,20,17,Derek Carr pass complete short left to Davante Adams for 8 yards (tackle by Derek Stingley)
+101,3,2:25,2,2,LVR 32,20,17,"Penalty on Jakob Johnson: False Start, 5 yards (accepted) (no play)"
+102,3,2:03,2,7,LVR 27,20,17,Derek Carr pass complete short middle to Davante Adams for 15 yards (tackle by Jonathan Owens)
+103,3,1:20,1,10,LVR 42,20,17,Derek Carr pass complete short middle to Davante Adams for 16 yards (tackle by Jonathan Owens)
+104,3,0:33,1,10,HOU 42,20,17,Derek Carr pass complete short right to Foster Moreau for no gain (tackle by Thomas Booker)
+105,4,15:00,2,10,HOU 42,20,17,"Derek Carr pass incomplete. Penalty on Thomas Booker: Defensive Offside, 5 yards (accepted) (no play)"
+106,4,14:53,2,5,HOU 37,20,17,Josh Jacobs left end for 12 yards (tackle by Derek Stingley)
+107,4,14:17,1,10,HOU 25,20,17,Derek Carr pass complete short left to Mack Hollins for 18 yards (tackle by Derek Stingley)
+108,4,13:37,1,7,HOU 7,20,23,"Josh Jacobs up the middle for 7 yards, touchdown"
+109,4,13:32,0,0,HOU 15,20,24,Daniel Carlson kicks extra point good
+110,4,13:32,0,0,LVR 35,20,24,"Daniel Carlson kicks off 60 yards, returned by Tremon Smith for 19 yards (tackle by Ameer Abdullah)"
+111,4,13:27,1,10,HOU 24,20,24,Dameon Pierce up the middle for 4 yards (tackle by Kendal Vickers and Divine Deablo)
+112,4,12:52,2,6,HOU 28,20,24,Davis Mills pass complete short right to Dameon Pierce for 5 yards (tackle by Rock Ya-Sin)
+113,4,12:12,3,1,HOU 33,20,24,Dameon Pierce left guard for no gain (tackle by Maxx Crosby)
+114,4,11:29,4,1,HOU 33,20,24,"Penalty on Kenyon Green: False Start, 4 yards (accepted) (no play)"
+115,4,11:29,4,6,HOU 29,20,24,"Cameron Johnston punts 55 yards, recovered by DJ Turner at LV-19"
+116,4,11:21,1,10,LVR 19,20,24,Josh Jacobs right tackle for 12 yards (tackle by Christian Kirksey)
+117,4,10:36,1,10,LVR 31,20,24,Derek Carr pass complete deep right to Hunter Renfrow for 27 yards (tackle by Jonathan Owens)
+118,4,9:51,1,10,HOU 42,20,24,Josh Jacobs right end for 13 yards (tackle by Christian Kirksey)
+119,4,9:06,1,10,HOU 29,20,24,Derek Carr pass incomplete deep right intended for Davante Adams
+120,4,9:00,2,10,HOU 29,20,24,DJ Turner left end for -1 yards (tackle by Desmond King)
+121,4,8:15,3,11,HOU 30,20,24,Derek Carr pass complete short left to Davante Adams for 10 yards (tackle by Derek Stingley)
+122,4,7:32,4,1,HOU 20,20,24,"Penalty on Roy Lopez: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+123,4,7:12,1,10,HOU 15,20,30,"Josh Jacobs left guard for 15 yards, touchdown"
+124,4,7:06,0,0,HOU 15,20,31,Daniel Carlson kicks extra point good
+125,4,7:06,0,0,LVR 35,20,31,"Daniel Carlson kicks off 65 yards, touchback."
+126,4,7:06,1,10,HOU 25,20,31,Davis Mills pass complete short middle to Chris Moore for 7 yards (tackle by Divine Deablo and Trevon Moehrig)
+127,4,6:42,2,3,HOU 32,20,31,Dameon Pierce left tackle for 5 yards (tackle by Divine Deablo)
+128,4,6:22,1,10,HOU 37,20,31,Davis Mills pass incomplete short left
+129,4,6:18,2,10,HOU 37,20,31,Davis Mills pass complete short left to Rex Burkhead for 1 yard (tackle by Duron Harmon)
+130,4,5:33,3,9,HOU 38,20,31,Davis Mills pass incomplete short middle intended for Jordan Akins (defended by Maxx Crosby)
+131,4,5:28,4,9,HOU 38,20,31,Davis Mills pass complete short left to Jordan Akins for 10 yards (tackle by Rock Ya-Sin and Trevon Moehrig)
+132,4,4:58,1,10,HOU 48,20,31,Davis Mills pass complete short left to Rex Burkhead for 4 yards (tackle by Johnathan Abram)
+133,4,4:30,2,6,LVR 48,20,31,Rex Burkhead up the middle for 4 yards (tackle by Divine Deablo and Maxx Crosby)
+134,4,4:02,3,2,LVR 44,20,31,Rex Burkhead up the middle for 4 yards (tackle by Maxx Crosby)
+135,4,3:39,1,10,LVR 40,20,37,"Davis Mills pass short middle intended for Brevin Jordan is intercepted by Duron Harmon at LV-27 and returned for 73 yards, touchdown"
+136,4,3:26,0,0,HOU 15,20,38,Daniel Carlson kicks extra point good
+137,4,3:26,0,0,LVR 35,20,38,"Daniel Carlson kicks off 70 yards, returned by Tremon Smith for 25 yards (tackle by Brandon Bolden and Darien Butler)"
+138,4,3:19,1,10,HOU 20,20,38,Davis Mills pass complete short middle to Dare Ogunbowale for 9 yards (tackle by Johnathan Abram)
+139,4,2:57,2,1,HOU 29,20,38,Davis Mills pass incomplete short left intended for Dare Ogunbowale
+140,4,2:53,3,1,HOU 29,20,38,Dare Ogunbowale left guard for 8 yards (tackle by Clelin Ferrell)
+141,4,2:25,1,10,HOU 37,20,38,Davis Mills pass complete short left to Dare Ogunbowale for 6 yards (tackle by Johnathan Abram)
+142,4,2:00,2,4,HOU 43,20,38,Davis Mills pass complete short left to Dare Ogunbowale for 9 yards (tackle by Johnathan Abram and Duron Harmon)
+143,4,1:40,1,10,LVR 48,20,38,Davis Mills pass complete short left to Dare Ogunbowale for 7 yards (tackle by Johnathan Abram)
+144,4,1:33,2,3,LVR 41,20,38,Davis Mills pass complete short middle to Dare Ogunbowale for 23 yards (tackle by Trevon Moehrig)
+145,4,1:25,1,10,LVR 18,20,38,Davis Mills pass incomplete deep left intended for Chris Moore
+146,4,1:22,2,10,LVR 18,20,38,Davis Mills pass complete short left to Rex Burkhead for 4 yards (tackle by Johnathan Abram)
+147,4,1:17,3,6,LVR 14,20,38,Davis Mills pass incomplete short right intended for Phillip Dorsett
+148,4,1:11,4,6,LVR 14,20,38,Davis Mills pass incomplete short left intended for Dare Ogunbowale
+149,4,1:07,1,10,LVR 14,20,38,Derek Carr kneels for no gain
+150,4,0:38,2,11,LVR 14,20,38,Derek Carr kneels for -1 yards

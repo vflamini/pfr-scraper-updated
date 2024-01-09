@@ -1,0 +1,166 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,KAN 35,0,0,"Harrison Butker kicks off 65 yards, touchback."
+1,1,15:00,1,10,DET 25,0,0,David Montgomery up the middle for 7 yards (tackle by Nick Bolton and George Karlaftis)
+2,1,14:29,2,3,DET 32,0,0,Jared Goff pass incomplete short right
+3,1,14:25,3,3,DET 32,0,0,Jared Goff pass incomplete deep right intended for Josh Reynolds
+4,1,14:19,4,3,DET 32,0,0,"Jack Fox punts 61 yards, returned by Richie James for 6 yards (tackle by Khalil Dorsey)"
+5,1,14:09,1,10,KAN 13,0,0,Clyde Edwards-Helaire right end for 5 yards (tackle by Aidan Hutchinson)
+6,1,13:35,2,5,KAN 18,0,0,Clyde Edwards-Helaire right end for 3 yards (tackle by Alim McNeill and Alex Anzalone)
+7,1,12:57,3,2,KAN 21,0,0,Patrick Mahomes pass complete short left to Jerick McKinnon for 10 yards (tackle by Malcolm Rodriguez)
+8,1,12:21,1,10,KAN 31,0,0,Patrick Mahomes pass complete short left to Noah Gray for 5 yards (tackle by Alex Anzalone)
+9,1,11:44,2,5,KAN 36,0,0,Patrick Mahomes pass incomplete short right
+10,1,11:35,3,5,KAN 36,0,0,Patrick Mahomes scrambles up the middle for 2 yards (tackle by John Cominsky)
+11,1,10:58,4,3,KAN 38,0,0,"Tommy Townsend punts 53 yards, fair catch by Kalif Raymond at DET-9"
+12,1,10:50,1,10,DET 9,0,0,David Montgomery left tackle for 3 yards (tackle by George Karlaftis)
+13,1,10:12,2,7,DET 12,0,0,Jared Goff pass incomplete short left intended for Marvin Jones (defended by Michael Danna)
+14,1,10:06,3,7,DET 12,0,0,Jared Goff pass complete short left to Marvin Jones for 5 yards (tackle by Justin Reid)
+15,1,9:22,4,2,DET 17,0,0,Jalen Reeves-Maybin up the middle for 3 yards (tackle by Bryan Cook)
+16,1,8:40,1,10,DET 20,0,0,Jahmyr Gibbs right guard for 1 yard (tackle by Trent McDuffie)
+17,1,8:27,2,9,DET 21,0,0,Jared Goff pass complete short left to Amon-Ra St. Brown for 13 yards (tackle by Justin Reid)
+18,1,7:45,1,10,DET 34,0,0,Jared Goff pass complete short right to Josh Reynolds for 21 yards (tackle by Trent McDuffie)
+19,1,7:06,1,10,KAN 45,0,0,David Montgomery up the middle for 4 yards (tackle by Leo Chenal)
+20,1,6:23,2,6,KAN 41,0,0,Jahmyr Gibbs right end for 17 yards (tackle by Willie Gay)
+21,1,5:38,1,10,KAN 24,0,0,Jared Goff pass complete short right to Amon-Ra St. Brown for 5 yards (tackle by Leo Chenal and L'Jarius Sneed)
+22,1,5:02,2,5,KAN 19,0,0,David Montgomery left tackle for 6 yards (tackle by Nick Bolton)
+23,1,4:24,1,10,KAN 13,0,0,David Montgomery left end for 4 yards (tackle by Derrick Nnadi and Justin Reid)
+24,1,3:41,2,6,KAN 9,0,0,Jahmyr Gibbs right guard for no gain (tackle by Bryan Cook and L'Jarius Sneed)
+25,1,2:52,3,6,KAN 9,6,0,"Jared Goff pass complete short right to Amon-Ra St. Brown for 9 yards, touchdown"
+26,1,2:46,0,0,KAN 15,7,0,Riley Patterson kicks extra point good
+27,1,2:46,0,0,DET 35,7,0,"Jack Fox kicks off 65 yards, touchback."
+28,1,2:46,1,10,KAN 25,7,0,Isiah Pacheco left end for 2 yards (tackle by Alex Anzalone)
+29,1,2:13,2,8,KAN 27,7,0,Patrick Mahomes pass incomplete short left intended for Noah Gray (defended by Alex Anzalone)
+30,1,2:06,3,8,KAN 27,7,0,Patrick Mahomes pass complete deep right to Justin Watson for 19 yards (tackle by Kerby Joseph)
+31,1,1:30,1,10,KAN 46,7,0,Skyy Moore left end for 4 yards (tackle by C.J. Gardner-Johnson)
+32,1,0:52,2,6,KAN 50,7,0,Isiah Pacheco left end for no gain (tackle by C.J. Gardner-Johnson)
+33,1,0:15,3,6,KAN 50,7,0,Patrick Mahomes scrambles right end for 6 yards (tackle by Brian Branch)
+34,2,15:00,1,10,DET 44,7,0,Patrick Mahomes pass complete short right to Isiah Pacheco for 5 yards (tackle by Aidan Hutchinson)
+35,2,14:31,2,5,DET 39,7,0,Patrick Mahomes pass complete short right to Marquez Valdes-Scantling for 14 yards (tackle by C.J. Gardner-Johnson)
+36,2,13:59,1,10,DET 25,7,0,Patrick Mahomes pass incomplete short left intended for Rashee Rice
+37,2,13:49,2,10,DET 25,7,0,Patrick Mahomes scrambles up the middle for 16 yards (tackle by Kerby Joseph)
+38,2,13:09,1,9,DET 9,7,0,Isiah Pacheco right end for 7 yards (tackle by Josh Paschal)
+39,2,12:33,2,2,DET 2,7,0,Patrick Mahomes pass complete short middle to Kadarius Toney for 1 yard (tackle by Benito Jones)
+40,2,11:56,3,1,DET 1,7,6,"Patrick Mahomes pass complete short left to Rashee Rice for 1 yard, touchdown"
+41,2,11:50,0,0,DET 15,7,7,Harrison Butker kicks extra point good
+42,2,11:50,0,0,KAN 35,7,7,"Harrison Butker kicks off 65 yards, touchback."
+43,2,11:50,1,10,DET 25,7,7,Jared Goff pass complete short middle to Brock Wright for 9 yards (tackle by Nick Bolton and Willie Gay)
+44,2,11:29,2,1,DET 34,7,7,Jared Goff up the middle for 2 yards (tackle by Michael Danna and Matt Dickerson)
+45,2,10:53,1,10,DET 36,7,7,David Montgomery left end for 3 yards (tackle by Michael Danna and Leo Chenal)
+46,2,10:15,2,7,DET 39,7,7,Jared Goff pass complete deep left to Amon-Ra St. Brown for 21 yards (tackle by Justin Reid)
+47,2,9:36,1,10,KAN 40,7,7,David Montgomery left guard for -1 yards (tackle by Keondre Coburn and Trent McDuffie)
+48,2,8:57,2,11,KAN 41,7,7,Jared Goff pass complete short left to Sam LaPorta for 14 yards (tackle by Michael Danna and Bryan Cook)
+49,2,8:15,1,10,KAN 27,7,7,David Montgomery up the middle for 2 yards (tackle by George Karlaftis and Nick Bolton)
+50,2,7:36,2,8,KAN 25,7,7,Jared Goff pass complete short right to Jahmyr Gibbs for 8 yards (tackle by Drue Tranquill)
+51,2,6:45,1,10,KAN 17,7,7,"Frank Ragnow aborted snap, recovered by Jared Goff at KC-27 Jared Goff for no gain (tackle by George Karlaftis)"
+52,2,6:10,2,20,KAN 27,7,7,Jared Goff pass complete short left to Jahmyr Gibbs for 10 yards (tackle by Nick Bolton)
+53,2,5:27,3,10,KAN 17,7,7,"Jared Goff pass complete short right to Marvin Jones for 3 yards. Marvin Jones fumbles (forced by Trent McDuffie), recovered by Bryan Cook at KC-7 (tackle by Trent McDuffie)"
+54,2,5:14,1,10,KAN 7,7,7,Clyde Edwards-Helaire left tackle for 2 yards (tackle by Jerry Jacobs)
+55,2,4:42,2,8,KAN 9,7,7,Patrick Mahomes scrambles left end for 3 yards (tackle by Alex Anzalone)
+56,2,4:00,3,5,KAN 12,7,7,Patrick Mahomes pass incomplete deep right intended for Noah Gray
+57,2,3:54,4,5,KAN 12,7,7,"Tommy Townsend punts 47 yards, fair catch by Kalif Raymond at DET-41"
+58,2,3:47,1,10,DET 41,7,7,David Montgomery right end for 5 yards (tackle by George Karlaftis and Matt Dickerson)
+59,2,3:05,2,5,DET 46,7,7,Jared Goff pass incomplete deep left intended for Marvin Jones
+60,2,3:01,3,5,DET 46,7,7,Jared Goff sacked by Michael Danna for -3 yards
+61,2,2:12,4,8,DET 43,7,7,"Jack Fox punts 40 yards, returned by Richie James for 1 yard (tackle by Jalen Reeves-Maybin and Khalil Dorsey)"
+62,2,2:02,1,10,KAN 18,7,7,Patrick Mahomes pass complete short right to Rashee Rice for 25 yards (tackle by Jack Campbell)
+63,2,1:54,1,10,KAN 43,7,7,Patrick Mahomes pass incomplete deep left intended for Richie James
+64,2,1:48,2,10,KAN 43,7,7,Patrick Mahomes pass complete short left to Rashee Rice for 3 yards (tackle by Brian Branch)
+65,2,1:07,3,7,KAN 46,7,7,"Patrick Mahomes pass complete short middle to Noah Gray for no gain. Penalty on Trey Smith: Offensive Holding, 10 yards (accepted) (no play)"
+66,2,1:07,3,17,KAN 36,7,7,Patrick Mahomes pass complete deep middle to Marquez Valdes-Scantling for 34 yards (tackle by Jerry Jacobs)
+67,2,0:46,1,10,DET 30,7,7,Patrick Mahomes pass complete deep left to Justin Watson for 26 yards (tackle by C.J. Gardner-Johnson)
+68,2,0:37,1,4,DET 4,7,13,"Patrick Mahomes pass complete short right to Blake Bell for 4 yards, touchdown"
+69,2,0:34,0,0,DET 15,7,14,Harrison Butker kicks extra point good
+70,2,0:34,0,0,KAN 35,7,14,"Harrison Butker kicks off 65 yards, touchback."
+71,2,0:34,1,10,DET 25,7,14,Jared Goff pass complete short right to Sam LaPorta for 5 yards (tackle by Felix Anudike-Uzomah)
+72,2,0:29,2,5,DET 30,7,14,Jared Goff pass complete short left to Sam LaPorta for 4 yards (tackle by Trent McDuffie)
+73,2,0:22,3,1,DET 34,7,14,Jared Goff pass complete short middle to Josh Reynolds for 8 yards (tackle by Mike Edwards and Bryan Cook)
+74,2,0:08,1,10,DET 43,7,14,Jared Goff spiked the ball
+75,2,0:07,2,10,DET 42,7,14,Jared Goff pass incomplete deep right intended for Marvin Jones
+76,2,0:05,3,10,DET 42,7,14,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown (defended by George Karlaftis)
+77,2,0:03,4,10,DET 42,7,14,Jared Goff pass incomplete deep right
+78,3,15:00,0,0,DET 35,7,14,"Jack Fox kicks off 65 yards, touchback."
+79,3,15:00,1,10,KAN 25,7,14,Isiah Pacheco left end for 2 yards (tackle by John Cominsky and Derrick Barnes)
+80,3,14:26,2,8,KAN 27,7,14,Patrick Mahomes pass complete short left to Isiah Pacheco for 10 yards (tackle by Benito Jones)
+81,3,13:47,1,10,KAN 37,7,14,Patrick Mahomes pass incomplete short left
+82,3,13:42,2,10,KAN 37,7,14,Patrick Mahomes pass incomplete short left intended for Blake Bell
+83,3,13:38,3,10,KAN 37,7,14,Patrick Mahomes pass complete short right to Noah Gray for 2 yards (tackle by Jerry Jacobs)
+84,3,13:01,4,8,KAN 39,7,14,"Tommy Townsend punts 54 yards, fair catch by Kalif Raymond at DET-7"
+85,3,12:54,1,10,DET 7,7,14,Jared Goff pass incomplete short right intended for Marvin Jones
+86,3,12:33,2,10,DET 7,7,14,"David Montgomery for no gain (tackle by George Karlaftis). Penalty on Halapoulivaati Vaitai: Unnecessary Roughness / Offense, 15 yards (offset) . Penalty on Matt Dickerson: Unnecessary Roughness / Defense, 15 yards (offset) "
+87,3,12:33,3,10,DET 7,7,14,Jared Goff pass complete short left to Sam LaPorta for 4 yards (tackle by Justin Reid)
+88,3,11:53,4,6,DET 11,7,14,"Jack Fox punts 47 yards, fair catch by Richie James at KC-42"
+89,3,11:44,1,10,KAN 42,7,14,Patrick Mahomes pass incomplete deep middle intended for Kadarius Toney (defended by Jack Campbell)
+90,3,11:39,2,10,KAN 42,7,14,Clyde Edwards-Helaire right guard for 4 yards (tackle by Brian Branch and Benito Jones)
+91,3,11:04,3,6,KAN 46,13,14,"Patrick Mahomes pass short right intended for Kadarius Toney is intercepted by Brian Branch at 50 and returned for 50 yards, touchdown"
+92,3,10:54,0,0,KAN 15,14,14,Riley Patterson kicks extra point good
+93,3,10:54,0,0,DET 35,14,14,"Jack Fox kicks off 65 yards, touchback."
+94,3,10:54,1,10,KAN 25,14,14,Patrick Mahomes pass complete short left to Isiah Pacheco for 7 yards (tackle by Derrick Barnes)
+95,3,10:24,2,3,KAN 32,14,14,Isiah Pacheco left guard for 3 yards (tackle by Josh Paschal)
+96,3,9:42,1,10,KAN 35,14,14,Patrick Mahomes pass incomplete deep middle intended for Justin Watson
+97,3,9:30,2,10,KAN 35,14,14,Patrick Mahomes pass complete short right to Richie James for 6 yards (tackle by Kerby Joseph)
+98,3,8:52,3,4,KAN 41,14,14,Patrick Mahomes pass incomplete deep right intended for Skyy Moore
+99,3,8:48,4,4,KAN 41,14,14,"Tommy Townsend punts 58 yards, returned by Kalif Raymond for 16 yards (tackle by Chamarri Conner)"
+100,3,8:36,1,10,DET 17,14,14,Jahmyr Gibbs right end for 6 yards (tackle by L'Jarius Sneed)
+101,3,8:10,2,4,DET 23,14,14,Jared Goff pass complete deep left to Amon-Ra St. Brown for 18 yards (tackle by Trent McDuffie)
+102,3,7:31,1,10,DET 41,14,14,"Jared Goff pass complete short right to Sam LaPorta for 12 yards (tackle by Joshua Williams). Penalty on L'Jarius Sneed: Defensive Holding, 5 yards (declined) "
+103,3,7:14,1,10,KAN 47,14,14,Jahmyr Gibbs right tackle for 2 yards (tackle by Derrick Nnadi and Drue Tranquill)
+104,3,6:30,2,8,KAN 45,14,14,Jared Goff pass complete short left to Amon-Ra St. Brown for 5 yards (tackle by Bryan Cook)
+105,3,6:07,3,3,KAN 40,14,14,Jared Goff pass incomplete short right intended for Josh Reynolds
+106,3,5:56,4,3,KAN 40,14,14,Jack Fox punts 30 yards downed by Will Harris
+107,3,5:44,1,10,KAN 10,14,14,Isiah Pacheco right guard for 3 yards (tackle by Derrick Barnes)
+108,3,5:12,2,7,KAN 13,14,14,Patrick Mahomes scrambles right end for 9 yards (tackle by Benito Jones)
+109,3,4:35,1,10,KAN 22,14,14,Patrick Mahomes pass complete short right to Isiah Pacheco for 9 yards (tackle by Charles Harris)
+110,3,3:48,2,1,KAN 31,14,14,Isiah Pacheco left tackle for 3 yards (tackle by Derrick Barnes)
+111,3,3:12,1,10,KAN 34,14,14,"Patrick Mahomes pass incomplete deep middle intended for Justin Watson. Penalty on Cameron Sutton: Defensive Pass Interference, 41 yards (accepted) (no play)"
+112,3,3:00,1,10,DET 25,14,14,Patrick Mahomes pass complete short right to Blake Bell for 8 yards (tackle by Alex Anzalone)
+113,3,2:25,2,2,DET 17,14,14,Patrick Mahomes pass incomplete short left intended for Skyy Moore
+114,3,2:18,3,2,DET 17,14,14,Patrick Mahomes pass incomplete short middle intended for Kadarius Toney
+115,3,2:14,4,2,DET 17,14,17,Harrison Butker 35 yard field goal good
+116,3,2:10,0,0,KAN 35,14,17,"Harrison Butker kicks off 65 yards, touchback."
+117,3,2:10,1,10,DET 25,14,17,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown (defended by Justin Reid)
+118,3,2:06,2,10,DET 25,14,17,"Jared Goff pass incomplete short right intended for Amon-Ra St. Brown. Penalty on David Montgomery: Tripping / Offense, 12 yards (accepted) (no play)"
+119,3,2:01,2,22,DET 13,14,17,Jared Goff pass complete deep middle to Kalif Raymond for 20 yards (tackle by Bryan Cook)
+120,3,1:21,3,2,DET 33,14,17,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown
+121,3,1:17,4,2,DET 33,14,17,"Jack Fox punts 44 yards, returned by Richie James for 9 yards (tackle by Khalil Dorsey)"
+122,3,1:06,1,10,KAN 32,14,17,Clyde Edwards-Helaire right tackle for 4 yards (tackle by Alex Anzalone and Derrick Barnes)
+123,3,0:34,2,6,KAN 36,14,17,Patrick Mahomes pass complete short right to Noah Gray for 24 yards (tackle by C.J. Gardner-Johnson)
+124,4,15:00,1,10,DET 40,14,17,Patrick Mahomes pass complete short left to Clyde Edwards-Helaire for 7 yards (tackle by Jack Campbell and Kerby Joseph)
+125,4,14:25,2,3,DET 33,14,17,Clyde Edwards-Helaire left end for 4 yards (tackle by Aidan Hutchinson)
+126,4,13:46,1,10,DET 29,14,17,Patrick Mahomes scrambles left end for 9 yards (tackle by Jerry Jacobs)
+127,4,13:08,2,1,DET 20,14,17,Kadarius Toney left end for -1 yards (tackle by Derrick Barnes and Charles Harris)
+128,4,12:23,3,2,DET 21,14,17,Patrick Mahomes pass incomplete short right intended for Jerick McKinnon
+129,4,12:16,4,2,DET 21,14,20,Harrison Butker 39 yard field goal good
+130,4,12:11,0,0,KAN 35,14,20,"Harrison Butker kicks off 65 yards, touchback."
+131,4,12:11,1,10,DET 25,14,20,David Montgomery right end for 5 yards (tackle by Nick Bolton and L'Jarius Sneed)
+132,4,11:33,2,5,DET 30,14,20,Jahmyr Gibbs right guard for -2 yards (tackle by L'Jarius Sneed and Leo Chenal)
+133,4,10:47,3,7,DET 28,14,20,"Penalty on DET: Delay of Game, 5 yards (accepted) (no play)"
+134,4,10:40,3,12,DET 23,14,20,Jared Goff pass complete deep left to Josh Reynolds for 18 yards (tackle by Joshua Williams)
+135,4,10:08,1,10,DET 41,14,20,"Jared Goff pass complete short right to Brock Wright for 8 yards (tackle by Leo Chenal and Justin Reid). Penalty on George Karlaftis: Defensive Holding, 5 yards (declined) "
+136,4,9:50,2,2,DET 49,14,20,David Montgomery left tackle for 1 yard (tackle by Derrick Nnadi)
+137,4,9:11,3,1,KAN 50,14,20,David Montgomery right guard for 3 yards (tackle by Trent McDuffie)
+138,4,8:31,1,10,KAN 47,14,20,Jared Goff pass complete short right to Josh Reynolds for 33 yards (tackle by Willie Gay)
+139,4,7:47,1,10,KAN 14,14,20,David Montgomery right end for 6 yards (tackle by L'Jarius Sneed)
+140,4,7:11,2,4,KAN 8,20,20,"David Montgomery up the middle for 8 yards, touchdown"
+141,4,7:06,0,0,KAN 15,21,20,Riley Patterson kicks extra point good
+142,4,7:06,0,0,DET 35,21,20,"Jack Fox kicks off 65 yards, touchback."
+143,4,7:06,1,10,KAN 25,21,20,Patrick Mahomes pass complete short left to Justyn Ross for 6 yards (tackle by Jerry Jacobs)
+144,4,6:35,2,4,KAN 31,21,20,Isiah Pacheco right end for 3 yards (tackle by Alim McNeill and Aidan Hutchinson)
+145,4,5:57,3,1,KAN 34,21,20,Rashee Rice right end for -3 yards (tackle by Josh Paschal)
+146,4,5:18,4,4,KAN 31,21,20,Tommy Townsend punts 35 yards downed by Cam Jones
+147,4,5:07,1,10,DET 34,21,20,"Penalty on Frank Ragnow: False Start, 5 yards (accepted) (no play)"
+148,4,5:07,1,15,DET 29,21,20,Jahmyr Gibbs right end for 18 yards (tackle by Michael Danna)
+149,4,4:30,1,10,DET 47,21,20,David Montgomery left end for 2 yards (tackle by Matt Dickerson)
+150,4,3:53,2,8,DET 49,21,20,David Montgomery left end for 3 yards (tackle by Michael Danna)
+151,4,3:22,3,5,KAN 48,21,20,David Montgomery up the middle for 3 yards (tackle by Felix Anudike-Uzomah and Mike Edwards)
+152,4,2:33,4,2,KAN 45,21,20,Jared Goff pass incomplete short right intended for Josh Reynolds (defended by Justin Reid)
+153,4,2:30,1,10,KAN 45,21,20,Patrick Mahomes pass incomplete deep right intended for Kadarius Toney
+154,4,2:25,2,10,KAN 45,21,20,"Patrick Mahomes pass complete short right to Skyy Moore for no gain. Penalty on Donovan Smith: Offensive Holding, 10 yards (accepted) (no play)"
+155,4,2:20,2,20,KAN 35,21,20,Patrick Mahomes pass incomplete short middle intended for Skyy Moore (defended by C.J. Gardner-Johnson)
+156,4,2:14,3,20,KAN 35,21,20,Patrick Mahomes pass incomplete deep right intended for Rashee Rice (defended by C.J. Gardner-Johnson)
+157,4,2:09,4,20,KAN 35,21,20,"Penalty on Jawaan Taylor: False Start, 5 yards (accepted) (no play)"
+158,4,2:09,4,25,KAN 30,21,20,Patrick Mahomes pass incomplete deep right intended for Justin Watson
+159,4,2:00,1,10,KAN 30,21,20,David Montgomery right guard for 5 yards (tackle by George Karlaftis and Trent McDuffie)
+160,4,1:53,2,5,KAN 25,21,20,David Montgomery right guard for 3 yards (tackle by Nick Bolton and Bryan Cook)
+161,4,1:47,3,2,KAN 22,21,20,David Montgomery up the middle for 2 yards (tackle by Leo Chenal)
+162,4,1:42,1,10,KAN 20,21,20,Jared Goff kneels for -1 yards
+163,4,1:05,2,11,KAN 21,21,20,Jared Goff kneels for -1 yards
+164,4,0:39,3,12,KAN 22,21,20,Jared Goff kneels for -1 yards

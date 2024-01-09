@@ -1,0 +1,163 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,PIT 35,0,0,"Chris Boswell kicks off 65 yards, touchback."
+1,1,15:00,1,10,BAL 25,0,0,Lamar Jackson pass complete short right to Rashod Bateman for 8 yards (tackle by Levi Wallace)
+2,1,14:26,2,2,BAL 33,0,0,Gus Edwards left guard for no gain (tackle by Minkah Fitzpatrick)
+3,1,13:41,3,2,BAL 33,0,0,Lamar Jackson left tackle for 26 yards (tackle by Cole Holcomb)
+4,1,12:59,1,10,PIT 41,0,0,Lamar Jackson pass incomplete deep middle intended for Zay Flowers
+5,1,12:53,2,10,PIT 41,0,0,Lamar Jackson pass incomplete short middle intended for Mark Andrews
+6,1,12:49,3,10,PIT 41,0,0,Lamar Jackson pass incomplete deep middle intended for Zay Flowers
+7,1,12:46,4,10,PIT 41,0,0,Jordan Stout punts 37 yards downed by Kevon Seymour
+8,1,12:36,1,10,PIT 4,0,0,Najee Harris right guard for 2 yards (tackle by Roquan Smith)
+9,1,12:03,2,8,PIT 6,0,0,Najee Harris left tackle for 2 yards (tackle by Michael Pierce and Patrick Queen)
+10,1,11:20,3,6,PIT 8,0,0,Kenny Pickett pass complete short left to Connor Heyward for 6 yards (tackle by Brandon Stephens)
+11,1,10:47,1,10,PIT 14,0,0,Najee Harris left guard for 5 yards (tackle by Justin Madubuike)
+12,1,10:10,2,5,PIT 19,0,0,Najee Harris up the middle for 1 yard (tackle by Justin Madubuike and Patrick Queen)
+13,1,9:28,3,4,PIT 20,0,0,Kenny Pickett pass incomplete short right intended for George Pickens
+14,1,9:23,4,4,PIT 20,0,0,"Brad Wing punts 47 yards, returned by Devin Duvernay for 8 yards (tackle by Miles Killebrew)"
+15,1,9:12,1,10,BAL 41,0,0,Gus Edwards left guard for 2 yards (tackle by Keeanu Benton and Elandon Roberts)
+16,1,8:37,2,8,BAL 43,0,0,Lamar Jackson pass complete short middle to Nelson Agholor for 12 yards (tackle by Kwon Alexander)
+17,1,8:00,1,10,PIT 45,0,0,Lamar Jackson pass complete short left to Nelson Agholor for 14 yards (tackle by Levi Wallace)
+18,1,7:33,1,10,PIT 31,0,0,Gus Edwards right guard for 6 yards (tackle by Keanu Neal and Minkah Fitzpatrick)
+19,1,7:02,2,4,PIT 25,0,0,Gus Edwards left tackle for 11 yards (tackle by Minkah Fitzpatrick)
+20,1,6:25,1,10,PIT 14,0,0,Lamar Jackson pass incomplete short middle intended for Zay Flowers (defended by T.J. Watt)
+21,1,6:20,2,10,PIT 14,6,0,"Justice Hill left guard for 14 yards, touchdown"
+22,1,6:15,0,0,PIT 15,7,0,Justin Tucker kicks extra point good
+23,1,6:15,0,0,BAL 35,7,0,"Justin Tucker kicks off 65 yards, touchback."
+24,1,6:15,1,10,PIT 25,7,0,Kenny Pickett scrambles left end for 2 yards (tackle by Brent Urban)
+25,1,5:29,2,8,PIT 27,7,0,Najee Harris right guard for 2 yards (tackle by Travis Jones and Roquan Smith)
+26,1,4:59,3,6,PIT 29,7,0,Kenny Pickett pass incomplete short left intended for Calvin Austin
+27,1,4:54,4,6,PIT 29,7,0,"Brad Wing punts 44 yards, returned by Devin Duvernay for 5 yards (tackle by Christian Kuntz and James Pierre)"
+28,1,4:45,1,10,BAL 32,7,0,Lamar Jackson pass complete short left to Zay Flowers for 5 yards (tackle by Kwon Alexander)
+29,1,4:07,2,5,BAL 37,7,0,Lamar Jackson pass complete short right to Justice Hill for 6 yards (tackle by Cole Holcomb)
+30,1,3:32,1,10,BAL 43,7,0,Lamar Jackson scrambles up the middle for 8 yards (tackle by Minkah Fitzpatrick)
+31,1,2:48,2,2,PIT 49,7,0,Justice Hill right guard for 3 yards (tackle by Kwon Alexander)
+32,1,2:07,1,10,PIT 46,7,0,Lamar Jackson pass complete short left to Mark Andrews for 16 yards (tackle by Patrick Peterson)
+33,1,1:39,1,10,PIT 30,7,0,Gus Edwards right guard for 3 yards (tackle by Keeanu Benton)
+34,1,1:01,2,7,PIT 27,7,0,Lamar Jackson scrambles left end for 6 yards (tackle by Cole Holcomb)
+35,1,0:33,3,1,PIT 21,7,0,Justice Hill up the middle for 3 yards (tackle by Isaiahh Loudermilk and Cole Holcomb)
+36,2,15:00,1,10,PIT 18,7,0,Lamar Jackson pass complete short left to Justice Hill for 2 yards (tackle by Minkah Fitzpatrick)
+37,2,14:29,2,8,PIT 16,7,0,Lamar Jackson pass complete short middle to Odell Beckham for 6 yards (tackle by Levi Wallace)
+38,2,13:55,3,2,PIT 10,7,0,Justice Hill up the middle for 6 yards (tackle by Minkah Fitzpatrick and Isaiahh Loudermilk)
+39,2,13:15,1,4,PIT 4,7,0,Lamar Jackson pass complete short middle to Zay Flowers for no gain (tackle by Elandon Roberts)
+40,2,12:34,2,4,PIT 4,7,0,Lamar Jackson pass incomplete short middle intended for Mark Andrews
+41,2,12:30,3,4,PIT 4,7,0,Lamar Jackson pass incomplete short middle intended for Rashod Bateman
+42,2,12:25,4,4,PIT 4,10,0,Justin Tucker 23 yard field goal good
+43,2,12:23,0,0,BAL 35,10,0,"Justin Tucker kicks off 64 yards, returned by Desmond King for 19 yards (tackle by Laquon Treadwell and Del'Shawn Phillips). Penalty on Miles Killebrew: Offensive Holding, 10 yards (accepted) "
+44,2,12:18,1,10,PIT 10,10,0,Kenny Pickett pass incomplete short middle intended for Darnell Washington (defended by Roquan Smith)
+45,2,12:14,2,10,PIT 10,10,0,Kenny Pickett pass complete deep right to George Pickens for 21 yards (tackle by Ronald Darby)
+46,2,11:51,1,10,PIT 31,10,0,Kenny Pickett pass complete short left to Allen Robinson for 8 yards
+47,2,11:33,2,2,PIT 39,10,0,Jaylen Warren left guard for 4 yards (tackle by Roquan Smith)
+48,2,11:10,1,10,PIT 43,10,0,Kenny Pickett pass incomplete deep left intended for George Pickens
+49,2,11:06,2,10,PIT 43,10,0,Jaylen Warren left tackle for 3 yards (tackle by Patrick Queen and Roquan Smith)
+50,2,10:27,3,6,PIT 46,10,0,Kenny Pickett pass complete short left to Connor Heyward for 12 yards (tackle by Marcus Williams and Brandon Stephens)
+51,2,9:42,1,10,BAL 42,10,0,Kenny Pickett pass incomplete deep left intended for George Pickens
+52,2,9:35,2,10,BAL 42,10,0,Kenny Pickett pass complete short right to Allen Robinson for 3 yards (tackle by Marlon Humphrey)
+53,2,8:48,3,7,BAL 39,10,0,Kenny Pickett sacked by Arthur Maulet for -8 yards
+54,2,8:15,4,15,BAL 47,10,0,"Brad Wing punts 39 yards, fair catch by Devin Duvernay at BAL-8"
+55,2,8:09,1,10,BAL 8,10,0,Gus Edwards left guard for 3 yards (tackle by Montravius Adams and Keeanu Benton)
+56,2,7:25,2,7,BAL 11,10,0,Gus Edwards left guard for 9 yards (tackle by Keanu Neal)
+57,2,6:48,1,10,BAL 20,10,0,Lamar Jackson pass complete short right to Mark Andrews for 13 yards (tackle by Keanu Neal and Elandon Roberts)
+58,2,6:19,1,10,BAL 33,10,0,Gus Edwards left guard for no gain (tackle by Elandon Roberts)
+59,2,5:42,2,10,BAL 33,10,0,"Lamar Jackson pass complete short left to Justice Hill for 10 yards. Justice Hill fumbles (forced by Larry Ogunjobi), recovered by Damontae Kazee at PIT-48 and returned for 1 yard (tackle by Kevin Zeitler)"
+60,2,5:31,1,10,PIT 49,10,0,Kenny Pickett pass incomplete short left intended for Allen Robinson
+61,2,5:28,2,10,PIT 49,10,0,Kenny Pickett pass complete short middle to George Pickens for 11 yards (tackle by Geno Stone and Roquan Smith)
+62,2,4:48,1,10,BAL 40,10,0,George Pickens right end for 16 yards (tackle by Geno Stone)
+63,2,4:19,1,10,BAL 24,10,0,Kenny Pickett pass incomplete short left intended for Miles Boykin (defended by Brandon Stephens)
+64,2,4:14,2,10,BAL 24,10,0,Jaylen Warren left end for -1 yards (tackle by Kyle Hamilton and Broderick Washington)
+65,2,3:28,3,11,BAL 25,10,0,Kenny Pickett pass incomplete short right
+66,2,3:21,4,11,BAL 25,10,3,Chris Boswell 43 yard field goal good
+67,2,3:16,0,0,PIT 35,10,3,"Chris Boswell kicks off 65 yards, touchback."
+68,2,3:16,1,10,BAL 25,10,3,Lamar Jackson pass complete short left to Mark Andrews for 10 yards (tackle by Keanu Neal)
+69,2,2:39,1,10,BAL 35,10,3,Lamar Jackson pass incomplete short right intended for Zay Flowers (defended by T.J. Watt)
+70,2,2:31,2,10,BAL 35,10,3,Lamar Jackson right guard for -1 yards (tackle by Cole Holcomb)
+71,2,2:00,3,11,BAL 34,10,3,Lamar Jackson pass complete short left to Mark Andrews for 14 yards (tackle by Minkah Fitzpatrick)
+72,2,1:53,1,10,BAL 48,10,3,Lamar Jackson sacked by T.J. Watt for -9 yards
+73,2,1:11,2,19,BAL 39,10,3,Justice Hill left guard for 1 yard (tackle by Armon Watts and Montravius Adams)
+74,2,1:07,3,18,BAL 40,10,3,Lamar Jackson pass complete deep left to Zay Flowers for 29 yards (tackle by Damontae Kazee and Joey Porter)
+75,2,0:54,1,10,PIT 31,10,3,Lamar Jackson pass incomplete short right intended for Mark Andrews
+76,2,0:50,2,10,PIT 31,10,3,Lamar Jackson pass incomplete deep left intended for Odell Beckham
+77,2,0:45,3,10,PIT 31,10,3,Lamar Jackson pass complete short middle to Nelson Agholor for 8 yards (tackle by Chandon Sullivan)
+78,2,0:21,4,2,PIT 23,10,3,Lamar Jackson pass incomplete deep right intended for Zay Flowers
+79,2,0:13,1,10,PIT 23,10,3,Kenny Pickett kneels for -1 yards
+80,3,15:00,0,0,BAL 35,10,3,"Justin Tucker kicks off 65 yards, touchback."
+81,3,15:00,1,10,PIT 25,10,3,Najee Harris left end for 5 yards (tackle by Marcus Williams)
+82,3,14:25,2,5,PIT 30,10,3,Kenny Pickett pass complete short right to Allen Robinson for 4 yards (tackle by Marlon Humphrey)
+83,3,13:46,3,1,PIT 34,10,3,Najee Harris left guard for no gain (tackle by Patrick Queen)
+84,3,13:12,4,1,PIT 34,10,3,"Brad Wing punts 43 yards, fair catch by Devin Duvernay at BAL-23"
+85,3,13:05,1,10,BAL 23,10,3,Gus Edwards left tackle for 3 yards (tackle by Elandon Roberts and Alex Highsmith)
+86,3,12:30,2,7,BAL 26,10,3,Lamar Jackson pass complete deep right to Zay Flowers for 20 yards (tackle by Minkah Fitzpatrick)
+87,3,11:47,1,10,BAL 46,10,3,Lamar Jackson pass incomplete deep left intended for Rashod Bateman (defended by Levi Wallace)
+88,3,11:41,2,10,BAL 46,10,3,Gus Edwards right guard for 4 yards (tackle by Elandon Roberts)
+89,3,10:59,3,6,BAL 50,10,3,Lamar Jackson scrambles left end for 1 yard (tackle by Keanu Neal)
+90,3,10:13,4,5,PIT 49,10,3,Jordan Stout punts 36 yards out of bounds
+91,3,10:07,1,10,PIT 13,10,3,Kenny Pickett pass complete short middle to Connor Heyward for 5 yards (tackle by Roquan Smith)
+92,3,9:30,2,5,PIT 18,10,3,Najee Harris left guard for 8 yards (tackle by Patrick Queen and Justin Madubuike)
+93,3,8:49,1,10,PIT 26,10,3,Kenny Pickett pass incomplete deep right intended for Allen Robinson
+94,3,8:42,2,10,PIT 26,10,3,Kenny Pickett pass complete short left to Allen Robinson for 4 yards (tackle by Roquan Smith)
+95,3,8:05,3,6,PIT 30,10,3,Kenny Pickett pass complete short left to Jaylen Warren for 10 yards (tackle by Marcus Williams)
+96,3,7:29,1,10,PIT 40,10,3,Jaylen Warren right end for 6 yards (tackle by Kyle Hamilton)
+97,3,6:46,2,4,PIT 46,10,3,Kenny Pickett sacked by Brent Urban for -6 yards
+98,3,6:00,3,10,PIT 40,10,3,Kenny Pickett pass incomplete short left intended for Darnell Washington
+99,3,5:54,4,10,PIT 40,10,3,"Brad Wing punts 42 yards, fair catch by Devin Duvernay at BAL-18"
+100,3,5:48,1,10,BAL 18,10,3,"Lamar Jackson pass complete deep right to Nelson Agholor for 30 yards (tackle by Chandon Sullivan and Damontae Kazee) PIT challenged the fumble ruling, and the original play was overturned. Lamar Jackson pass complete deep right to Nelson Agholor for 30 yards. Nelson Agholor fumbles (forced by Chandon Sullivan)"
+101,3,5:17,1,10,BAL 48,10,3,"Lamar Jackson sacked by Alex Highsmith for no gain. Penalty on Minkah Fitzpatrick: Defensive Holding, 5 yards (accepted) (no play)"
+102,3,4:51,1,10,PIT 47,10,3,Gus Edwards left tackle for 4 yards (tackle by Cole Holcomb)
+103,3,4:07,2,6,PIT 43,10,3,Lamar Jackson pass incomplete deep right intended for Nelson Agholor
+104,3,4:02,3,6,PIT 43,10,3,Lamar Jackson sacked by Kwon Alexander for -3 yards
+105,3,3:21,4,9,PIT 46,10,3,"Jordan Stout punts 31 yards, fair catch by Gunner Olszewski at PIT-15"
+106,3,3:14,1,10,PIT 15,10,3,Najee Harris right tackle for 5 yards (tackle by Roquan Smith)
+107,3,2:36,2,5,PIT 20,10,3,Najee Harris left tackle for 6 yards (tackle by Brent Urban and Travis Jones)
+108,3,1:59,1,10,PIT 26,10,3,Kenny Pickett pass complete deep left to George Pickens for 23 yards (tackle by Brandon Stephens and Marcus Williams)
+109,3,1:31,1,10,PIT 49,10,3,Najee Harris up the middle for 1 yard (tackle by Brent Urban and Malik Harrison)
+110,3,0:55,2,9,PIT 50,10,3,Kenny Pickett pass complete short left to George Pickens for 13 yards (tackle by Brandon Stephens)
+111,3,0:25,1,10,BAL 37,10,3,Jaylen Warren left tackle for 3 yards (tackle by Malik Harrison and Marcus Williams)
+112,4,15:00,2,7,BAL 34,10,3,Najee Harris right tackle for no gain (tackle by Jadeveon Clowney and Michael Pierce)
+113,4,14:20,3,7,BAL 34,10,3,Kenny Pickett sacked by and Patrick Queen for -8 yards and Justin Madubuike for -8 yards
+114,4,13:44,4,15,BAL 42,10,3,"Brad Wing punts 42 yards, touchback."
+115,4,13:37,1,10,BAL 20,10,3,"Justice Hill right end for no gain (tackle by Minkah Fitzpatrick). Penalty on Patrick Ricard: Offensive Holding, 10 yards (accepted) (no play)"
+116,4,13:14,1,20,BAL 10,10,3,Justice Hill right tackle for 4 yards (tackle by Cole Holcomb and Joey Porter)
+117,4,12:40,2,16,BAL 14,10,3,Lamar Jackson pass complete short right to Justice Hill for -5 yards (tackle by Kwon Alexander)
+118,4,12:00,3,21,BAL 9,10,3,Lamar Jackson scrambles up the middle for 5 yards (tackle by Cole Holcomb)
+119,4,11:18,4,16,BAL 14,10,5,"Jordan Stout punts blocked by Miles Killebrew, safety."
+120,4,11:12,0,0,BAL 20,10,5,"Jordan Stout kicks off 60 yards, returned by Gunner Olszewski for 24 yards (tackle by Jordan Stout)"
+121,4,11:07,1,10,PIT 44,10,5,Kenny Pickett pass complete short left to Najee Harris for 3 yards (tackle by Roquan Smith)
+122,4,10:33,2,7,PIT 47,10,5,Najee Harris right tackle for -1 yards (tackle by Kyle Hamilton)
+123,4,9:52,3,8,PIT 46,10,5,Kenny Pickett pass complete short right to Jaylen Warren for 23 yards (tackle by Roquan Smith and Patrick Queen)
+124,4,9:07,1,10,BAL 31,10,5,Jaylen Warren right end for 10 yards (tackle by Roquan Smith)
+125,4,8:49,1,10,BAL 21,10,5,Jaylen Warren up the middle for 16 yards (tackle by Ronald Darby and Patrick Queen)
+126,4,8:02,1,5,BAL 5,10,5,Jaylen Warren up the middle for -2 yards (tackle by Travis Jones)
+127,4,7:22,2,7,BAL 7,10,5,Kenny Pickett pass incomplete short left intended for George Pickens (defended by Arthur Maulet)
+128,4,7:17,3,7,BAL 7,10,5,Kenny Pickett pass incomplete short middle intended for Allen Robinson
+129,4,7:13,4,7,BAL 7,10,8,Chris Boswell 25 yard field goal good
+130,4,7:10,0,0,PIT 35,10,8,"Chris Boswell kicks off 65 yards, touchback."
+131,4,7:10,1,10,BAL 25,10,8,Lamar Jackson pass incomplete deep middle intended for Zay Flowers
+132,4,7:03,2,10,BAL 25,10,8,Lamar Jackson pass complete short middle to Odell Beckham for 7 yards (tackle by Elandon Roberts)
+133,4,6:24,3,3,BAL 32,10,8,Justice Hill up the middle for 1 yard (tackle by Elandon Roberts)
+134,4,5:48,4,2,BAL 33,10,8,"Jordan Stout punts 50 yards, returned by Gunner Olszewski for 8 yards. Gunner Olszewski fumbles (forced by Jeremiah Moon), recovered by Kevon Seymour at PIT-27 and returned for 20 yards. Kevon Seymour fumbles. Penalty on Mark Robinson: Offensive Holding, 10 yards (declined) "
+135,4,5:33,1,7,PIT 7,10,8,Gus Edwards left guard for 3 yards (tackle by Cole Holcomb and Damontae Kazee)
+136,4,4:53,2,4,PIT 4,10,8,Lamar Jackson pass complete short middle to Mark Andrews for -1 yards (tackle by Kwon Alexander)
+137,4,4:10,3,5,PIT 5,10,8,"Lamar Jackson pass short right intended for Odell Beckham is intercepted by Joey Porter in end zone and returned for no gain, touchback."
+138,4,4:06,1,10,PIT 20,10,8,Najee Harris left tackle for 1 yard (tackle by Kyle Van Noy)
+139,4,3:32,2,9,PIT 21,10,8,Kenny Pickett pass incomplete short middle intended for Connor Heyward (defended by Arthur Maulet)
+140,4,3:28,3,9,PIT 21,10,8,Kenny Pickett pass complete short right to Allen Robinson for 10 yards (tackle by Marlon Humphrey)
+141,4,2:51,1,10,PIT 31,10,8,Kenny Pickett pass incomplete short middle intended for Allen Robinson (defended by Patrick Queen)
+142,4,2:46,2,10,PIT 31,10,8,Kenny Pickett pass complete short right to Jaylen Warren for 6 yards (tackle by Marlon Humphrey)
+143,4,2:09,3,4,PIT 37,10,8,Kenny Pickett pass complete deep left to George Pickens for 21 yards (tackle by Brandon Stephens)
+144,4,2:00,1,10,BAL 42,10,8,Jaylen Warren right tackle for 1 yard (tackle by Justin Madubuike)
+145,4,1:25,2,9,BAL 41,10,14,"Kenny Pickett pass complete deep right to George Pickens for 41 yards, touchdown"
+146,4,1:17,0,0,BAL 2,10,14,Two Point Attempt: Kenny Pickett pass incomplete intended for Miles Boykin
+147,4,1:17,0,0,PIT 35,10,14,"Chris Boswell kicks off 65 yards, touchback."
+148,4,1:17,1,10,BAL 25,10,14,Lamar Jackson pass complete deep left to Zay Flowers for 19 yards
+149,4,1:12,1,10,BAL 44,10,14,"Lamar Jackson sacked by Alex Highsmith for -8 yards. Lamar Jackson fumbles (forced by Alex Highsmith), recovered by T.J. Watt at BAL-36 and returned for 18 yards (tackle by Odell Beckham and Lamar Jackson)"
+150,4,1:02,1,10,BAL 18,10,14,Kenny Pickett kneels for -1 yards
+151,4,1:01,2,11,BAL 19,10,14,Kenny Pickett kneels for -1 yards
+152,4,0:52,3,12,BAL 20,10,14,"Kenny Pickett kneels for -4 yards. Penalty on Chukwuma Okorafor: Illegal Formation, 5 yards (declined) "
+153,4,0:52,4,16,BAL 24,10,17,Chris Boswell 42 yard field goal good
+154,4,0:49,0,0,PIT 35,10,17,"Chris Boswell kicks off 65 yards, touchback."
+155,4,0:49,1,10,BAL 25,10,17,Lamar Jackson pass incomplete short right intended for Mark Andrews
+156,4,0:43,2,10,BAL 25,10,17,"Lamar Jackson scrambles left end for no gain. Penalty on John Simpson: Offensive Holding, 10 yards (accepted) (no play)"
+157,4,0:35,2,20,BAL 15,10,17,Lamar Jackson pass complete short right to Mark Andrews for 13 yards (tackle by Minkah Fitzpatrick)
+158,4,0:26,3,7,BAL 28,10,17,Lamar Jackson pass incomplete deep middle intended for Devin Duvernay (defended by Cole Holcomb) (defended by Patrick Peterson)
+159,4,0:20,4,7,BAL 28,10,17,Lamar Jackson sacked by T.J. Watt for -6 yards
+160,4,0:15,1,10,BAL 22,10,17,"Penalty on T.J. Watt: Unsportsmanlike Conduct / Defense, 15 yards (accepted) (no play)"
+161,4,0:15,1,25,BAL 37,10,17,Kenny Pickett kneels for -1 yards

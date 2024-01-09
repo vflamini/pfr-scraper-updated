@@ -1,0 +1,170 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,CLE 35,0,0,"Cade York kicks off 61 yards, returned by Andre Roberts for 18 yards (tackle by D'Anthony Bell)"
+1,1,14:56,1,10,CAR 22,0,0,Baker Mayfield pass incomplete short right intended for Robbie Anderson (defended by Jadeveon Clowney)
+2,1,14:53,2,10,CAR 22,0,0,Baker Mayfield pass complete short left to Christian McCaffrey for -5 yards (tackle by Anthony Walker)
+3,1,14:09,3,15,CAR 17,0,0,Baker Mayfield pass complete short right to Robbie Anderson for 4 yards (tackle by Greg Newsome and Martin Emerson)
+4,1,13:38,4,11,CAR 21,0,0,"Johnny Hekker punts 44 yards, returned by Demetric Felton for no gain (tackle by Sam Franklin)"
+5,1,13:29,1,10,CLE 35,0,0,Nick Chubb left tackle for 11 yards (tackle by Xavier Woods and Brian Burns)
+6,1,12:47,1,10,CLE 46,0,0,Jacoby Brissett pass complete short left to Donovan Peoples-Jones for 2 yards (tackle by Donte Jackson)
+7,1,12:03,2,8,CLE 48,0,0,Nick Chubb right tackle for 5 yards (tackle by Matthew Ioannidis and Jeremy Chinn)
+8,1,11:17,3,3,CAR 47,0,0,Nick Chubb left end for 4 yards (tackle by Shaq Thompson)
+9,1,10:40,1,10,CAR 43,0,0,Jacoby Brissett pass complete short left to Amari Cooper for 6 yards (tackle by Jaycee Horn)
+10,1,10:09,2,4,CAR 37,0,0,Nick Chubb right guard for 1 yard (tackle by Matthew Ioannidis and Xavier Woods)
+11,1,9:26,3,3,CAR 36,0,0,Jacoby Brissett pass incomplete deep right intended for Amari Cooper
+12,1,9:20,4,3,CAR 36,0,0,Jacoby Brissett pass incomplete short right intended for Donovan Peoples-Jones
+13,1,9:17,1,10,CAR 36,0,0,Christian McCaffrey up the middle for 4 yards (tackle by Taven Bryan)
+14,1,8:56,2,6,CAR 40,0,0,"Baker Mayfield pass complete short right to Christian McCaffrey for no gain (tackle by Jeremiah Owusu-Koramoah and Anthony Walker). Penalty on Ian Thomas: Offensive Holding, 10 yards (accepted) (no play)"
+15,1,8:16,2,16,CAR 30,0,0,Chuba Hubbard up the middle for 3 yards (tackle by Jeremiah Owusu-Koramoah and Grant Delpit)
+16,1,7:31,3,13,CAR 33,0,0,"Baker Mayfield aborted snap, recovered by Baker Mayfield at CAR-29 Baker Mayfield for -1 yards (tackle by Myles Garrett)"
+17,1,6:50,4,14,CAR 32,0,0,"Johnny Hekker punts 39 yards, returned by Demetric Felton for 6 yards (tackle by Sam Franklin)"
+18,1,6:45,1,10,CLE 35,0,0,"Nick Chubb right tackle for no gain (tackle by Yetur Gross-Matos). Penalty on Wyatt Teller: Offensive Holding, 10 yards (accepted) (no play)"
+19,1,6:12,1,20,CLE 25,0,0,Nick Chubb left tackle for no gain (tackle by Xavier Woods)
+20,1,5:47,2,20,CLE 25,0,0,Jacoby Brissett pass complete short left to Donovan Peoples-Jones for 15 yards (tackle by Jaycee Horn)
+21,1,5:07,3,5,CLE 40,0,0,"Jacoby Brissett pass incomplete deep left intended for Kareem Hunt. Penalty on Jaycee Horn: Defensive Holding, 5 yards (accepted) (no play)"
+22,1,4:58,1,10,CLE 45,0,0,Jacoby Brissett scrambles right guard for 2 yards (tackle by Phil Hoskins)
+23,1,4:15,2,8,CLE 47,0,0,Nick Chubb right tackle for 4 yards (tackle by Jeremy Chinn)
+24,1,3:37,3,4,CAR 49,0,0,Kareem Hunt left tackle for 6 yards (tackle by C.J. Henderson and Xavier Woods)
+25,1,2:58,1,10,CAR 43,0,0,Jacoby Brissett pass complete short right to Amari Cooper for 2 yards (tackle by Myles Hartsfield and Jaycee Horn)
+26,1,2:16,2,8,CAR 41,0,0,Jacoby Brissett pass incomplete short right
+27,1,2:07,3,8,CAR 41,0,0,Jacoby Brissett pass incomplete intended for Amari Cooper (defended by Xavier Woods)
+28,1,2:01,4,8,CAR 41,0,0,Corey Bojorquez punts 36 yards out of bounds
+29,1,1:53,1,10,CAR 5,0,0,Baker Mayfield pass complete to D.J. Moore for 5 yards (tackle by Greg Newsome)
+30,1,1:17,2,5,CAR 10,0,0,Baker Mayfield pass incomplete short right intended for D.J. Moore (defended by Jadeveon Clowney)
+31,1,1:11,3,5,CAR 10,0,0,"Penalty on CAR: Delay of Game, 5 yards (accepted) (no play)"
+32,1,1:11,3,10,CAR 5,0,0,"Baker Mayfield pass incomplete short right intended for Tommy Tremble. Penalty on Taven Bryan: Roughing the Passer, 15 yards (accepted) (no play)"
+33,1,1:06,1,10,CAR 20,0,0,"Baker Mayfield aborted snap, recovered by Baker Mayfield at CAR-18 and returned for 2 yards Baker Mayfield pass complete to Robbie Anderson for 3 yards (tackle by Martin Emerson)"
+34,1,0:40,2,7,CAR 23,0,0,Baker Mayfield pass incomplete deep right intended for Robbie Anderson
+35,1,0:16,3,7,CAR 23,0,0,Baker Mayfield sacked by and John Johnson for -8 yards and Ronnie Harrison for -8 yards
+36,2,15:00,4,22,CAR 8,0,0,"Johnny Hekker punts 48 yards, recovered by Herb Miller at CLE-44 and returned for 48 yards (tackle by Stantley Thomas-Oliver)"
+37,2,14:52,1,10,CLE 44,0,0,Kareem Hunt right tackle for 2 yards (tackle by Frankie Luvu and Derrick Brown)
+38,2,14:10,2,8,CLE 46,0,0,Jacoby Brissett pass incomplete short right intended for Anthony Schwartz (defended by Cory Littleton)
+39,2,14:07,3,8,CLE 46,0,0,Jacoby Brissett pass incomplete short left intended for Amari Cooper (defended by C.J. Henderson)
+40,2,14:01,4,8,CLE 46,0,0,"Corey Bojorquez punts 46 yards, fair catch by Andre Roberts at CAR-8"
+41,2,13:54,1,10,CAR 8,0,0,Baker Mayfield pass complete short right to Robbie Anderson for 8 yards (tackle by Martin Emerson)
+42,2,13:21,2,2,CAR 16,0,0,Christian McCaffrey up the middle for 4 yards (tackle by Alex Wright and Jeremiah Owusu-Koramoah)
+43,2,12:42,1,10,CAR 20,0,0,Baker Mayfield pass incomplete short right intended for Shi Smith (defended by Alex Wright)
+44,2,12:37,2,10,CAR 20,0,0,Baker Mayfield pass incomplete short left intended for Ian Thomas (defended by Perrion Winfrey)
+45,2,12:33,3,10,CAR 20,0,0,Baker Mayfield pass deep middle intended for Shi Smith is intercepted by Grant Delpit at CAR-38 and returned for -4 yards (tackle by Shi Smith)
+46,2,12:26,1,10,CAR 42,0,0,Jacoby Brissett scrambles left tackle for 2 yards (tackle by Brian Burns)
+47,2,11:44,2,8,CAR 40,0,0,Nick Chubb left end for 5 yards (tackle by Cory Littleton)
+48,2,11:03,3,3,CAR 35,0,0,"Jacoby Brissett pass deep left is intercepted by Xavier Woods in end zone and returned for no gain. Penalty on C.J. Henderson: Defensive Pass Interference, 34 yards (accepted) (no play)"
+49,2,10:53,1,1,CAR 1,6,0,"Jacoby Brissett pass complete short right to Kareem Hunt for 1 yard, touchdown"
+50,2,10:49,0,0,CAR 15,7,0,Cade York kicks extra point good
+51,2,10:49,0,0,CLE 35,7,0,"Cade York kicks off 65 yards, touchback."
+52,2,10:49,1,10,CAR 25,7,0,Baker Mayfield sacked by and Tommy Togiai for -9 yards and Jadeveon Clowney for -9 yards
+53,2,10:07,2,19,CAR 16,7,0,Baker Mayfield pass incomplete short right
+54,2,10:02,3,19,CAR 16,7,0,Baker Mayfield pass complete short middle to Robbie Anderson for 12 yards (tackle by Martin Emerson)
+55,2,9:31,4,7,CAR 28,7,0,"Johnny Hekker punts 58 yards, returned by Demetric Felton for 8 yards (tackle by Sean Chandler and Giovanni Ricci)"
+56,2,9:19,1,10,CLE 22,7,0,Jacoby Brissett sacked by Damien Wilson for -9 yards
+57,2,8:32,2,19,CLE 13,7,0,Jacoby Brissett pass complete short right to Donovan Peoples-Jones for 10 yards (tackle by Donte Jackson)
+58,2,7:49,3,9,CLE 23,7,0,Jacoby Brissett pass complete short right to Donovan Peoples-Jones for 15 yards (tackle by Donte Jackson)
+59,2,7:05,1,10,CLE 38,7,0,Nick Chubb left end for 8 yards (tackle by Brian Burns)
+60,2,6:17,2,2,CLE 46,7,0,Jacoby Brissett pass incomplete deep left intended for Harrison Bryant (defended by Myles Hartsfield)
+61,2,6:10,3,2,CLE 46,7,0,Nick Chubb left tackle for 25 yards (tackle by Jeremy Chinn)
+62,2,5:30,1,10,CAR 29,7,0,Anthony Schwartz right end for 5 yards (tackle by Jeremy Chinn)
+63,2,4:53,2,5,CAR 24,13,0,"Kareem Hunt up the middle for 24 yards, touchdown"
+64,2,4:46,0,0,CAR 15,14,0,Cade York kicks extra point good
+65,2,4:46,0,0,CLE 35,14,0,"Cade York kicks off 65 yards, touchback."
+66,2,4:46,1,10,CAR 25,14,0,Baker Mayfield pass incomplete short right intended for D.J. Moore (defended by Denzel Ward)
+67,2,4:39,2,10,CAR 25,14,0,Baker Mayfield pass complete short left to Christian McCaffrey for 7 yards (tackle by Jeremiah Owusu-Koramoah)
+68,2,4:02,3,3,CAR 32,14,0,Baker Mayfield pass complete short left to D.J. Moore for 16 yards (tackle by Martin Emerson)
+69,2,3:33,1,10,CAR 48,14,0,Baker Mayfield pass complete deep left to Ian Thomas for 50 yards (tackle by John Johnson)
+70,2,2:45,1,2,CLE 2,14,0,Baker Mayfield pass complete short left to Tommy Tremble for 1 yard (tackle by Grant Delpit)
+71,2,2:00,2,1,CLE 1,14,6,"Christian McCaffrey up the middle for 1 yard, touchdown"
+72,2,1:57,0,0,CLE 15,14,7,Eddy Pineiro kicks extra point good
+73,2,1:57,0,0,CAR 35,14,7,"Eddy Pineiro kicks off 63 yards, out of bounds"
+74,2,1:57,1,10,CLE 40,14,7,Jacoby Brissett pass incomplete short left intended for Donovan Peoples-Jones
+75,2,1:52,2,10,CLE 40,14,7,Kareem Hunt up the middle for 2 yards (tackle by Matthew Ioannidis and Frankie Luvu)
+76,2,1:13,3,8,CLE 42,14,7,"Penalty on Amari Cooper: False Start, 5 yards (accepted) (no play)"
+77,2,1:17,3,13,CLE 37,14,7,"Jacoby Brissett pass complete to Kareem Hunt for 24 yards (tackle by Derrick Brown). Penalty on Xavier Woods: Low Block, 15 yards (accepted) "
+78,2,1:07,1,10,CAR 24,14,7,Nick Chubb right guard for 6 yards (tackle by Xavier Woods and Derrick Brown)
+79,2,0:46,2,4,CAR 18,14,7,Nick Chubb right tackle for 9 yards (tackle by Jaycee Horn)
+80,2,0:40,1,9,CAR 9,14,7,Jacoby Brissett pass incomplete short middle
+81,2,0:34,2,9,CAR 9,14,7,Nick Chubb right end for 1 yard (tackle by Frankie Luvu)
+82,2,0:29,3,8,CAR 8,14,7,Jacoby Brissett pass incomplete short right intended for Donovan Peoples-Jones
+83,2,0:24,4,8,CAR 8,17,7,Cade York 26 yard field goal good
+84,2,0:21,0,0,CLE 35,17,7,"Penalty on CLE: False Start, 5 yards (accepted) (no play)"
+85,2,0:21,0,0,CLE 30,17,7,"Cade York kicks off 70 yards, touchback."
+86,2,0:21,1,10,CAR 25,17,7,Baker Mayfield pass incomplete short left intended for Christian McCaffrey
+87,2,0:15,2,10,CAR 25,17,7,Baker Mayfield kneels for -1 yards
+88,3,15:00,0,0,CAR 35,17,7,"Eddy Pineiro kicks off 68 yards, returned by Jerome Ford for 29 yards (tackle by Sean Chandler and Myles Hartsfield)"
+89,3,14:55,1,10,CLE 26,17,7,Jacoby Brissett pass incomplete short right intended for Demetric Felton
+90,3,14:52,2,10,CLE 26,17,7,Nick Chubb right guard for 3 yards (tackle by Brian Burns and Derrick Brown)
+91,3,14:11,3,7,CLE 29,17,7,Jacoby Brissett pass complete short left to Harrison Bryant for 10 yards (tackle by Frankie Luvu)
+92,3,13:32,1,10,CLE 39,17,7,Nick Chubb right end for 5 yards (tackle by Xavier Woods and Yetur Gross-Matos)
+93,3,13:07,2,5,CLE 44,17,7,Nick Chubb right tackle for 3 yards (tackle by Xavier Woods and Matthew Ioannidis)
+94,3,12:22,3,2,CLE 47,17,7,Jacoby Brissett pass complete short right to Kareem Hunt for 1 yard (tackle by Shaq Thompson and Xavier Woods)
+95,3,11:42,4,1,CLE 48,17,7,Jacoby Brissett up the middle for 2 yards (tackle by Shaq Thompson and Phil Hoskins)
+96,3,11:07,1,10,CLE 50,17,7,Anthony Schwartz for 15 yards (tackle by Xavier Woods)
+97,3,10:23,1,10,CAR 35,17,7,Nick Chubb right end for 20 yards (tackle by Xavier Woods and Marquis Haynes)
+98,3,9:36,1,10,CAR 15,17,7,Kareem Hunt left tackle for 4 yards (tackle by Damien Wilson and Jeremy Chinn)
+99,3,8:50,2,6,CAR 11,17,7,"Penalty on CLE: Delay of Game, 5 yards (accepted) (no play)"
+100,3,8:33,2,11,CAR 16,17,7,Kareem Hunt left guard for no gain (tackle by Brian Burns)
+101,3,7:50,3,11,CAR 16,17,7,Jacoby Brissett pass incomplete short right intended for Harrison Bryant
+102,3,7:46,4,11,CAR 16,20,7,Cade York 34 yard field goal good
+103,3,7:42,0,0,CLE 35,20,7,"Cade York kicks off 64 yards, returned by Andre Roberts for 17 yards (tackle by Jerome Ford)"
+104,3,7:37,1,10,CAR 18,20,7,Christian McCaffrey up the middle for 4 yards (tackle by Anthony Walker and Jadeveon Clowney)
+105,3,7:01,2,6,CAR 22,20,7,"Baker Mayfield pass incomplete short right intended for Robbie Anderson. Penalty on Martin Emerson: Defensive Pass Interference, 6 yards (accepted) (no play)"
+106,3,6:54,1,10,CAR 28,20,7,D'Onta Foreman left guard for 4 yards (tackle by Sione Takitaki)
+107,3,6:16,2,6,CAR 32,20,7,Baker Mayfield sacked by Myles Garrett for -6 yards
+108,3,5:30,3,12,CAR 26,20,7,"Baker Mayfield sacked by Myles Garrett for -5 yards. Baker Mayfield fumbles (forced by Myles Garrett), recovered by Baker Mayfield at CAR-21 (tackle by Myles Garrett)"
+109,3,4:36,4,17,CAR 21,20,7,"Johnny Hekker punts 61 yards, returned by Demetric Felton for 15 yards (tackle by Giovanni Ricci and Tommy Tremble)"
+110,3,4:24,1,10,CLE 33,20,7,Kareem Hunt left guard for 1 yard (tackle by Brian Burns and Cory Littleton)
+111,3,3:52,2,9,CLE 34,20,7,Jacoby Brissett pass incomplete short left intended for Donovan Peoples-Jones
+112,3,3:49,3,9,CLE 34,20,7,Jacoby Brissett pass complete short right to David Njoku for 7 yards (tackle by C.J. Henderson)
+113,3,2:59,4,2,CLE 41,20,7,"Penalty on CLE: Delay of Game, 5 yards (accepted) (no play)"
+114,3,2:45,4,7,CLE 36,20,7,"Corey Bojorquez punts 49 yards, returned by Andre Roberts for 10 yards (tackle by Sione Takitaki)"
+115,3,2:35,1,10,CAR 25,20,7,D.J. Moore left end for 7 yards (tackle by John Johnson)
+116,3,1:53,2,3,CAR 32,20,7,D'Onta Foreman up the middle for 1 yard (tackle by Jacob Phillips and Jadeveon Clowney)
+117,3,1:14,3,2,CAR 33,20,7,Baker Mayfield pass complete short right to Ian Thomas for 3 yards (tackle by Jacob Phillips)
+118,3,0:39,1,10,CAR 36,20,7,"Pat Elflein aborted snap, recovered by Christian McCaffrey at CAR-36 Christian McCaffrey for no gain (tackle by Denzel Ward and John Johnson)"
+119,3,0:15,1,10,CLE 36,20,7,Baker Mayfield pass incomplete short right intended for D.J. Moore (defended by Myles Garrett)
+120,3,0:10,2,10,CLE 36,20,7,Christian McCaffrey up the middle for 3 yards (tackle by Alex Wright)
+121,4,15:00,3,7,CLE 33,20,7,Christian McCaffrey right guard for 9 yards (tackle by Ronnie Harrison)
+122,4,14:28,1,10,CLE 24,20,7,Baker Mayfield pass complete short left to Shi Smith for 12 yards (tackle by John Johnson)
+123,4,13:48,1,10,CLE 12,20,7,Christian McCaffrey up the middle for 5 yards (tackle by Jordan Elliott and Jacob Phillips)
+124,4,13:04,2,5,CLE 7,20,7,Baker Mayfield pass incomplete short right intended for Robbie Anderson
+125,4,12:58,3,5,CLE 7,20,13,"Baker Mayfield scrambles up the middle for 7 yards, touchdown"
+126,4,12:51,0,0,CLE 15,20,14,Eddy Pineiro kicks extra point good
+127,4,12:51,0,0,CAR 35,20,14,"Eddy Pineiro kicks off 65 yards, touchback."
+128,4,12:51,1,10,CLE 25,20,14,Nick Chubb right tackle for 2 yards (tackle by Brian Burns)
+129,4,12:12,2,8,CLE 27,20,14,Jacoby Brissett scrambles left end for 4 yards (tackle by Bravvion Roy)
+130,4,11:31,3,4,CLE 31,20,14,Jacoby Brissett pass complete short right to Anthony Schwartz for 19 yards (tackle by Damien Wilson)
+131,4,10:47,1,10,CLE 50,20,14,Nick Chubb right end for 16 yards (tackle by Jeremy Chinn)
+132,4,10:03,1,10,CAR 34,20,14,Nick Chubb right guard for 9 yards (tackle by Jaycee Horn)
+133,4,9:17,2,1,CAR 25,20,14,Kareem Hunt for 2 yards (tackle by Frankie Luvu)
+134,4,8:33,1,10,CAR 23,20,14,Kareem Hunt left end for 4 yards (tackle by Brian Burns and Shaq Thompson)
+135,4,7:44,2,6,CAR 19,20,14,Kareem Hunt left tackle for 2 yards (tackle by Shaq Thompson)
+136,4,7:03,3,4,CAR 17,20,14,Kareem Hunt up the middle for -1 yards (tackle by Henry Anderson)
+137,4,6:19,4,5,CAR 18,23,14,Cade York 36 yard field goal good
+138,4,6:13,0,0,CLE 35,23,14,"Cade York kicks off 65 yards, touchback."
+139,4,6:13,1,10,CAR 25,23,20,"Baker Mayfield pass complete deep middle to Robbie Anderson for 75 yards, touchdown"
+140,4,6:02,0,0,CLE 15,23,21,Eddy Pineiro kicks extra point good
+141,4,6:02,0,0,CAR 35,23,21,"Eddy Pineiro kicks off 65 yards, touchback."
+142,4,6:02,1,10,CLE 25,23,21,"Jacoby Brissett pass complete short right to David Njoku for no gain (tackle by Damien Wilson). Penalty on James Hudson: Ineligible Downfield Pass, 5 yards (accepted) (no play)"
+143,4,5:36,1,15,CLE 20,23,21,Jacoby Brissett pass complete to Harrison Bryant for 8 yards (tackle by Damien Wilson and Derrick Brown)
+144,4,5:21,2,7,CLE 28,23,21,Nick Chubb up the middle for 3 yards (tackle by Yetur Gross-Matos)
+145,4,4:13,3,4,CLE 31,23,21,Jacoby Brissett pass complete short middle to Donovan Peoples-Jones for 5 yards (tackle by Donte Jackson)
+146,4,3:31,1,10,CLE 36,23,21,Nick Chubb left guard for 2 yards (tackle by Shaq Thompson and Marquis Haynes)
+147,4,2:42,2,8,CLE 38,23,21,"Jacoby Brissett pass incomplete deep right intended for Amari Cooper. Penalty on Jaycee Horn: Defensive Holding, 5 yards (accepted) (no play)"
+148,4,2:36,1,10,CLE 43,23,21,Nick Chubb right tackle for -1 yards (tackle by Henry Anderson)
+149,4,2:32,2,11,CLE 42,23,21,Jacoby Brissett pass complete to Nick Chubb for 2 yards (tackle by Frankie Luvu)
+150,4,2:26,3,9,CLE 44,23,21,Jacoby Brissett pass incomplete short right intended for Donovan Peoples-Jones
+151,4,2:21,4,9,CLE 44,23,21,"Corey Bojorquez punts 56 yards, touchback."
+152,4,2:14,1,10,CAR 20,23,21,Baker Mayfield pass complete short left to D.J. Moore for 26 yards (tackle by Grant Delpit)
+153,4,2:00,1,10,CAR 46,23,21,Christian McCaffrey up the middle for 4 yards (tackle by Anthony Walker)
+154,4,1:36,2,6,CAR 50,23,21,"Baker Mayfield pass complete short right to Christian McCaffrey for 21 yards (tackle by John Johnson). Penalty on John Johnson: Horse Collar Tackle, 15 yards (accepted) "
+155,4,1:27,1,10,CLE 14,23,21,"Baker Mayfield aborted snap, recovered by Baker Mayfield at CLE-15 Baker Mayfield for no gain"
+156,4,1:24,2,11,CLE 15,23,21,Christian McCaffrey up the middle for no gain (tackle by Jeremiah Owusu-Koramoah and John Johnson)
+157,4,1:20,3,11,CLE 15,23,21,Christian McCaffrey up the middle for -1 yards (tackle by Jeremiah Owusu-Koramoah)
+158,4,1:17,4,12,CLE 16,23,24,Eddy Pineiro 34 yard field goal good
+159,4,1:13,0,0,CAR 35,23,24,"Eddy Pineiro kicks off 65 yards, touchback."
+160,4,1:13,1,10,CLE 25,23,24,"Jacoby Brissett pass incomplete short left intended for Donovan Peoples-Jones. Penalty on Brian Burns: Roughing the Passer, 15 yards (accepted) (no play)"
+161,4,1:09,1,10,CLE 40,23,24,Jacoby Brissett pass complete short right to Kareem Hunt for -2 yards (tackle by Marquis Haynes)
+162,4,0:47,2,12,CLE 38,23,24,Jacoby Brissett pass complete short middle to Donovan Peoples-Jones for 13 yards (tackle by Jeremy Chinn)
+163,4,0:29,1,10,CAR 49,23,24,Jacoby Brissett spiked the ball
+164,4,0:29,2,10,CAR 49,23,24,Jacoby Brissett pass complete short right to Amari Cooper for 9 yards (tackle by C.J. Henderson)
+165,4,0:13,3,1,CAR 40,23,24,Jacoby Brissett spiked the ball
+166,4,0:13,4,1,CAR 40,26,24,Cade York 58 yard field goal good
+167,4,0:08,0,0,CLE 35,26,24,"Cade York kicks off 65 yards, touchback."
+168,4,0:08,1,10,CAR 25,26,24,"Baker Mayfield pass complete short middle to Christian McCaffrey for 1 yard, lateral to D.J. Moore for no gain (tackle by Myles Garrett)"

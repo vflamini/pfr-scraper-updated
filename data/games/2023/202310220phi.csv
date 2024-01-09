@@ -1,0 +1,149 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,MIA 35,0,0,"Jason Sanders kicks off 49 yards, returned by Olamide Zaccheaus for 7 yards (tackle by Chase Claypool)"
+1,1,14:54,1,10,PHI 23,0,0,D'Andre Swift left end for 7 yards (tackle by Eli Apple)
+2,1,14:23,2,3,PHI 30,0,0,D'Andre Swift right guard for 1 yard (tackle by Raekwon Davis and Bradley Chubb)
+3,1,13:44,3,2,PHI 31,0,0,D'Andre Swift up the middle for 3 yards (tackle by Christian Wilkins)
+4,1,13:03,1,10,PHI 34,0,0,"Jalen Hurts pass complete short left to DeVonta Smith for no gain (tackle by Jevon Holland). Penalty on Christian Wilkins: Defensive Offside, 5 yards (accepted) (no play)"
+5,1,12:40,1,5,PHI 39,0,0,D'Andre Swift right end for 7 yards (tackle by Jevon Holland)
+6,1,12:02,1,10,PHI 46,0,0,Jalen Hurts pass incomplete deep left intended for DeVonta Smith (defended by Eli Apple)
+7,1,11:54,2,10,PHI 46,0,0,Jalen Hurts pass complete short left to D'Andre Swift for 2 yards (tackle by Jerome Baker)
+8,1,11:09,3,8,PHI 48,0,0,Jalen Hurts pass complete short right to Dallas Goedert for 22 yards (tackle by Jevon Holland)
+9,1,10:42,1,10,MIA 30,0,0,Jalen Hurts pass complete deep left to Dallas Goedert for 22 yards (tackle by DeShon Elliott and Jerome Baker)
+10,1,10:05,1,8,MIA 8,0,0,Jalen Hurts right end for -2 yards (tackle by Jerome Baker)
+11,1,9:23,2,10,MIA 10,0,0,Kenneth Gainwell left guard for 1 yard (tackle by Jerome Baker and DeShon Elliott)
+12,1,8:38,3,9,MIA 9,0,0,Jalen Hurts up the middle for 3 yards (tackle by Bradley Chubb)
+13,1,7:57,4,6,MIA 6,0,3,Jake Elliott 24 yard field goal good
+14,1,7:54,0,0,PHI 35,0,3,"Jake Elliott kicks off 65 yards, touchback."
+15,1,7:54,1,10,MIA 25,0,3,"Penalty on MIA: Delay of Game, 5 yards (accepted) (no play)"
+16,1,7:54,1,15,MIA 20,0,3,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 8 yards (tackle by Terrell Edmunds)
+17,1,7:21,2,7,MIA 28,0,3,Tua Tagovailoa pass complete deep left to Tyreek Hill for 15 yards (tackle by Terrell Edmunds)
+18,1,6:42,1,10,MIA 43,0,3,Raheem Mostert right end for -5 yards (tackle by Haason Reddick)
+19,1,6:00,2,15,MIA 38,0,3,Tua Tagovailoa pass complete short left to Tyreek Hill for no gain (tackle by James Bradberry)
+20,1,5:23,3,15,MIA 38,0,3,Tua Tagovailoa pass incomplete short left intended for Raheem Mostert
+21,1,5:19,4,15,MIA 38,0,3,Jake Bailey punts 31 yards out of bounds
+22,1,5:12,1,10,PHI 31,0,3,D'Andre Swift right guard for 2 yards (tackle by David Long)
+23,1,4:36,2,8,PHI 33,0,3,Jalen Hurts pass incomplete short right intended for A.J. Brown (defended by David Long)
+24,1,4:32,3,8,PHI 33,0,3,"Jalen Hurts sacked by Bradley Chubb for -10 yards. Jalen Hurts fumbles (forced by Bradley Chubb), recovered by Christian Wilkins at PHI-23"
+25,1,4:24,1,10,PHI 23,0,3,Tua Tagovailoa pass complete short middle to Tyreek Hill for 3 yards (tackle by Darius Slay)
+26,1,3:50,2,7,PHI 20,0,3,Raheem Mostert right tackle for -2 yards (tackle by Haason Reddick)
+27,1,3:06,3,9,PHI 22,0,3,Tua Tagovailoa pass complete deep right to Jaylen Waddle for 16 yards (tackle by Terrell Edmunds)
+28,1,2:32,1,6,PHI 6,0,3,Raheem Mostert up the middle for -1 yards (tackle by Nicholas Morrow and Milton Williams)
+29,1,1:50,2,7,PHI 7,0,3,Tua Tagovailoa pass complete short right to Tyreek Hill for -5 yards (tackle by Darius Slay)
+30,1,1:10,3,12,PHI 12,0,3,"Tua Tagovailoa pass complete short right to Tyreek Hill for no gain, touchdown. Penalty on Lester Cotton: Offensive Holding, 10 yards (accepted) (no play)"
+31,1,1:06,3,22,PHI 22,0,3,Tua Tagovailoa pass incomplete short left intended for Tyreek Hill
+32,1,1:03,4,22,PHI 22,3,3,Jason Sanders 40 yard field goal good
+33,1,0:59,0,0,MIA 35,3,3,"Jason Sanders kicks off 64 yards, returned by Boston Scott for 38 yards (tackle by Jevon Holland)"
+34,1,0:52,1,10,PHI 39,3,3,D'Andre Swift right end for 7 yards (tackle by Jaelan Phillips)
+35,1,0:09,2,3,PHI 46,3,3,Jalen Hurts pass complete short middle to DeVonta Smith for 8 yards (tackle by Jevon Holland)
+36,2,15:00,1,10,MIA 46,3,3,Jalen Hurts pass complete short right to Dallas Goedert for 4 yards (tackle by David Long)
+37,2,14:17,2,6,MIA 42,3,3,Jalen Hurts pass complete short right to A.J. Brown for 5 yards (tackle by Kader Kohou)
+38,2,13:38,3,1,MIA 37,3,3,Kenneth Gainwell right tackle for no gain (tackle by Jaelan Phillips and Raekwon Davis)
+39,2,13:16,4,1,MIA 37,3,3,"Jalen Hurts up the middle for no gain Penalty on MIA: Defensive Offside, 5 yards (offset) Penalty on PHI: Offensive Offside, 5 yards (offset) (no play)"
+40,2,13:00,4,1,MIA 37,3,3,Jalen Hurts up the middle for 2 yards (tackle by Bradley Chubb and Jerome Baker)
+41,2,12:16,1,10,MIA 35,3,3,Jalen Hurts pass incomplete deep right intended for A.J. Brown
+42,2,12:10,2,10,MIA 35,3,3,"Jalen Hurts pass incomplete intended for D'Andre Swift. Penalty on Christian Wilkins: Roughing the Passer, 15 yards (accepted) (no play)"
+43,2,12:07,1,10,MIA 20,3,3,D'Andre Swift left guard for 1 yard (tackle by Andrew Van Ginkel and Christian Wilkins)
+44,2,11:31,2,9,MIA 19,3,9,"Jalen Hurts pass complete short left to Dallas Goedert for 19 yards, touchdown"
+45,2,11:25,0,0,MIA 15,3,10,Jake Elliott kicks extra point good
+46,2,11:25,0,0,PHI 35,3,10,"Jake Elliott kicks off 64 yards, returned by Braxton Berrios for 33 yards (tackle by Christian Elliss and Kelee Ringo)"
+47,2,11:20,1,10,MIA 34,3,10,Salvon Ahmed up the middle for 1 yard (tackle by Milton Williams and Jordan Davis)
+48,2,10:45,2,9,MIA 35,3,10,Tua Tagovailoa pass complete short left to Tyreek Hill for 6 yards
+49,2,10:12,3,3,MIA 41,3,10,Tua Tagovailoa pass incomplete short right intended for Braxton Berrios (defended by Darius Slay)
+50,2,10:07,4,3,MIA 41,3,10,"Jake Bailey punts 59 yards, touchback."
+51,2,9:59,1,10,PHI 20,3,10,D'Andre Swift up the middle for no gain (tackle by Andrew Van Ginkel and Jerome Baker)
+52,2,9:24,2,10,PHI 20,3,10,Jalen Hurts pass complete short left to A.J. Brown for 10 yards (tackle by DeShon Elliott)
+53,2,8:41,1,10,PHI 30,3,10,D'Andre Swift right guard for 3 yards (tackle by David Long)
+54,2,7:59,2,7,PHI 33,3,10,Jalen Hurts pass complete short left to Julio Jones for 3 yards (tackle by Eli Apple)
+55,2,7:20,3,4,PHI 36,3,10,Jalen Hurts scrambles left end for 5 yards (tackle by Andrew Van Ginkel)
+56,2,7:20,1,10,PHI 41,3,10,"Penalty on Eli Apple: Defensive Holding, 5 yards (accepted) (no play)"
+57,2,6:51,1,10,PHI 46,3,10,Kenneth Gainwell right guard for 1 yard (tackle by Jerome Baker and Jaelan Phillips)
+58,2,6:22,2,9,PHI 47,3,10,Jalen Hurts pass complete short right to DeVonta Smith for 13 yards (tackle by Kader Kohou)
+59,2,5:42,1,10,MIA 40,3,10,Kenneth Gainwell right tackle for 1 yard (tackle by Christian Wilkins and David Long)
+60,2,5:01,2,9,MIA 39,3,10,Jalen Hurts pass complete short left to DeVonta Smith for 3 yards (tackle by Parry Nickerson)
+61,2,4:19,3,6,MIA 36,3,10,Kenneth Gainwell right guard for 3 yards (tackle by Jaelan Phillips)
+62,2,3:41,4,3,MIA 33,3,10,Jalen Hurts pass complete deep right to A.J. Brown for 32 yards (tackle by Parry Nickerson)
+63,2,3:20,1,1,MIA 1,3,16,"Jalen Hurts for 1 yard, touchdown"
+64,2,3:10,0,0,MIA 15,3,17,Jake Elliott kicks extra point good
+65,2,3:10,0,0,PHI 35,3,17,"Jake Elliott kicks off 58 yards, returned by Braxton Berrios for 21 yards (tackle by Nicholas Morrow and Boston Scott)"
+66,2,3:05,1,10,MIA 28,3,17,Tua Tagovailoa pass complete short left to Tyreek Hill for 4 yards (tackle by Nakobe Dean)
+67,2,2:40,2,6,MIA 32,3,17,"Cedrick Wilson sacked by Josh Sweat for -7 yards. Penalty on Jalen Carter: Personal Foul / Defense, 15 yards (offset) . Penalty on Austin Jackson: Personal Foul / Offense, 15 yards (offset) "
+68,2,2:28,3,13,MIA 25,3,17,"Penalty on Lester Cotton: False Start, 5 yards (accepted) (no play)"
+69,2,2:03,3,18,MIA 20,3,17,Tua Tagovailoa pass complete deep right to Cedrick Wilson for 29 yards
+70,2,1:56,1,10,MIA 49,3,17,Tua Tagovailoa pass complete short left to Braxton Berrios for 7 yards (tackle by Sydney Brown)
+71,2,1:18,2,3,PHI 44,3,17,Tua Tagovailoa pass complete short left to Tyreek Hill for 15 yards (tackle by Terrell Edmunds)
+72,2,0:57,1,10,PHI 29,3,17,Tua Tagovailoa pass complete short left to Jeff Wilson for 4 yards (tackle by Terrell Edmunds)
+73,2,0:50,2,6,PHI 25,3,17,Tua Tagovailoa sacked by Nolan Smith for -2 yards
+74,2,0:45,3,8,PHI 27,9,17,"Tua Tagovailoa pass complete deep left to Tyreek Hill for 27 yards, touchdown"
+75,2,0:39,0,0,PHI 15,10,17,Jason Sanders kicks extra point good
+76,2,0:39,0,0,MIA 35,10,17,"Jason Sanders kicks off 65 yards, touchback."
+77,2,0:39,1,10,PHI 25,10,17,Jalen Hurts sacked by Jaelan Phillips for -10 yards
+78,3,15:00,0,0,PHI 35,10,17,"Jake Elliott kicks off 64 yards, returned by Braxton Berrios for 26 yards (tackle by Nolan Smith)"
+79,3,14:55,1,10,MIA 27,10,17,Raheem Mostert right end for 2 yards (tackle by Haason Reddick)
+80,3,14:13,2,8,MIA 29,10,17,Tua Tagovailoa pass complete short middle to Tyreek Hill for 17 yards (tackle by Sydney Brown)
+81,3,13:33,1,10,MIA 46,10,17,Raheem Mostert left end for 7 yards (tackle by Fletcher Cox)
+82,3,12:57,2,3,PHI 47,10,17,Raheem Mostert left end for 5 yards (tackle by Zach Cunningham)
+83,3,12:17,1,10,PHI 42,10,17,Tua Tagovailoa pass complete short right to Salvon Ahmed for no gain (tackle by Haason Reddick)
+84,3,11:37,2,10,PHI 42,10,17,"Tua Tagovailoa pass complete short right to Tyreek Hill for 1 yard (tackle by James Bradberry). Penalty on Julian Hill: Offensive Holding, 10 yards (accepted) "
+85,3,11:11,2,19,MIA 49,10,17,Tua Tagovailoa pass incomplete deep left intended for Salvon Ahmed
+86,3,11:07,3,19,MIA 49,10,17,Tua Tagovailoa pass complete short left to Raheem Mostert for 6 yards (tackle by Zach Cunningham and Terrell Edmunds)
+87,3,10:28,4,13,PHI 45,10,17,"Penalty on Elijah Campbell: False Start, 5 yards (accepted) (no play)"
+88,3,10:18,4,17,PHI 50,10,17,Jake Bailey punts 45 yards out of bounds
+89,3,10:12,1,10,PHI 5,10,17,Jalen Hurts pass complete short right to A.J. Brown for 9 yards (tackle by Kader Kohou)
+90,3,9:30,2,1,PHI 14,10,17,D'Andre Swift left guard for 4 yards (tackle by Jerome Baker and Jevon Holland)
+91,3,8:52,1,10,PHI 18,10,17,Jalen Hurts sacked by Bradley Chubb for -3 yards
+92,3,8:11,2,13,PHI 15,10,17,Jalen Hurts pass complete short right to D'Andre Swift for 8 yards (tackle by Jerome Baker and Christian Wilkins)
+93,3,7:26,3,5,PHI 23,10,17,Jalen Hurts pass incomplete short left intended for A.J. Brown (defended by Eli Apple)
+94,3,7:23,4,5,PHI 23,10,17,"Braden Mann punts 57 yards, returned by Braxton Berrios for 16 yards (tackle by Christian Elliss)"
+95,3,7:12,1,10,MIA 36,10,17,Raheem Mostert right end for 21 yards (tackle by Terrell Edmunds)
+96,3,6:27,1,10,PHI 43,10,17,Raheem Mostert left end for 15 yards (tackle by Nakobe Dean)
+97,3,5:42,1,10,PHI 28,10,17,Tua Tagovailoa pass complete short left to Tyreek Hill for 5 yards (tackle by James Bradberry)
+98,3,5:03,2,5,PHI 23,10,17,Salvon Ahmed left tackle for 2 yards (tackle by Milton Williams)
+99,3,4:20,3,3,PHI 21,10,17,Tua Tagovailoa pass incomplete short middle intended for Tyreek Hill
+100,3,4:13,4,3,PHI 21,10,17,Tua Tagovailoa pass incomplete deep left intended for Cedrick Wilson
+101,3,4:08,1,10,PHI 22,16,17,"Jalen Hurts pass short right (defended by Kader Kohou) intended for A.J. Brown is intercepted by Jerome Baker at PHI-23 and returned for 23 yards, touchdown"
+102,3,4:02,0,0,PHI 15,17,17,Jason Sanders kicks extra point good
+103,3,4:02,0,0,MIA 35,17,17,"Jason Sanders kicks off 65 yards, touchback."
+104,3,4:02,1,10,PHI 25,17,17,Jalen Hurts scrambles left tackle for 12 yards (tackle by Jerome Baker)
+105,3,3:34,1,10,PHI 37,17,17,Jalen Hurts pass complete deep left to DeVonta Smith for 25 yards (tackle by Eli Apple)
+106,3,2:55,1,10,MIA 38,17,17,Jalen Hurts pass complete short left to A.J. Brown for 8 yards (tackle by Bradley Chubb)
+107,3,2:18,2,2,MIA 30,17,17,D'Andre Swift right tackle for 3 yards (tackle by Christian Wilkins)
+108,3,1:46,1,10,MIA 27,17,17,Jalen Hurts pass complete short left to D'Andre Swift for 3 yards (tackle by Zach Sieler)
+109,3,1:06,2,7,MIA 24,17,17,Jalen Hurts pass incomplete short right intended for Olamide Zaccheaus
+110,3,1:03,3,7,MIA 24,17,17,Jalen Hurts pass complete short right to Dallas Goedert for 10 yards (tackle by Elijah Campbell)
+111,3,0:20,1,10,MIA 14,17,23,"Jalen Hurts pass complete short right to A.J. Brown for 14 yards, touchdown"
+112,3,0:15,0,0,MIA 15,17,24,Jake Elliott kicks extra point good
+113,3,0:15,0,0,PHI 35,17,24,"Jake Elliott kicks off 59 yards, returned by Braxton Berrios for 25 yards (tackle by Sydney Brown)"
+114,3,0:09,1,10,MIA 31,17,24,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 14 yards (tackle by Nakobe Dean)
+115,4,15:00,1,10,MIA 45,17,24,Raheem Mostert right end for 3 yards (tackle by Darius Slay)
+116,4,14:20,2,7,MIA 48,17,24,"Penalty on Austin Jackson: False Start, 5 yards (accepted) (no play)"
+117,4,14:18,2,12,MIA 43,17,24,Tua Tagovailoa pass incomplete short left intended for Tyreek Hill
+118,4,14:13,3,12,MIA 43,17,24,Tua Tagovailoa pass complete short right to Jaylen Waddle for 12 yards (tackle by Terrell Edmunds and Sydney Brown)
+119,4,13:32,1,10,PHI 45,17,24,Tua Tagovailoa pass complete deep left to Cedrick Wilson for 19 yards (tackle by Terrell Edmunds)
+120,4,12:54,1,10,PHI 26,17,24,Tua Tagovailoa up the middle for -3 yards (tackle by Jalen Carter)
+121,4,12:14,2,13,PHI 29,17,24,"Liam Eichenberg aborted snap, recovered by Tua Tagovailoa at PHI-34 Tua Tagovailoa pass complete short right to Jaylen Waddle for 5 yards (tackle by Darius Slay)"
+122,4,11:32,3,8,PHI 24,17,24,Tua Tagovailoa pass deep right intended for Raheem Mostert is intercepted by Darius Slay at PHI-1 and returned for 16 yards (tackle by Liam Eichenberg)
+123,4,11:21,1,10,PHI 17,17,24,Jalen Hurts pass incomplete short left
+124,4,11:17,2,10,PHI 17,17,24,D'Andre Swift right tackle for 5 yards (tackle by Jaelan Phillips and Christian Wilkins)
+125,4,10:35,3,5,PHI 22,17,24,Jalen Hurts pass complete short right to A.J. Brown for 4 yards (tackle by Kader Kohou)
+126,4,10:01,4,1,PHI 26,17,24,Jalen Hurts left guard for 2 yards (tackle by Jevon Holland)
+127,4,9:18,1,10,PHI 28,17,24,Kenneth Gainwell left guard for 2 yards (tackle by Andrew Van Ginkel)
+128,4,8:38,2,8,PHI 30,17,24,Jalen Hurts pass incomplete short right intended for A.J. Brown
+129,4,8:33,3,8,PHI 30,17,24,Jalen Hurts pass complete short middle to A.J. Brown for 7 yards (tackle by Eli Apple)
+130,4,8:07,4,1,PHI 37,17,24,Jalen Hurts up the middle for 2 yards (tackle by Bradley Chubb)
+131,4,7:28,1,10,PHI 39,17,24,D'Andre Swift up the middle for no gain (tackle by Jaelan Phillips)
+132,4,6:46,2,10,PHI 39,17,24,Jalen Hurts pass complete short right to A.J. Brown for 6 yards (tackle by Kader Kohou)
+133,4,6:07,3,4,PHI 45,17,24,"Kenneth Gainwell right guard for no gain (tackle by Christian Wilkins and DeShon Elliott). Penalty on Christian Wilkins: Defensive Offside, 5 yards (accepted) (no play)"
+134,4,5:44,1,10,PHI 50,17,24,Jalen Hurts pass complete deep right to A.J. Brown for 42 yards (tackle by Kader Kohou)
+135,4,4:57,1,8,MIA 8,17,24,Kenneth Gainwell up the middle for 5 yards (tackle by Andrew Van Ginkel and Jerome Baker)
+136,4,4:50,2,3,MIA 3,17,30,"Kenneth Gainwell left end for 3 yards, touchdown"
+137,4,4:46,0,0,MIA 15,17,31,Jake Elliott kicks extra point good
+138,4,4:46,0,0,PHI 35,17,31,"Jake Elliott kicks off 65 yards, touchback."
+139,4,4:46,1,10,MIA 25,17,31,Tua Tagovailoa pass complete short left to Jaylen Waddle for 8 yards (tackle by Josiah Scott)
+140,4,4:15,2,2,MIA 33,17,31,Tua Tagovailoa sacked by and Fletcher Cox for -2 yards and Jordan Davis for -2 yards
+141,4,3:35,3,4,MIA 31,17,31,Tua Tagovailoa sacked by Josh Sweat for -6 yards
+142,4,3:23,4,10,MIA 25,17,31,Tua Tagovailoa pass incomplete short right intended for Tyreek Hill (defended by Eli Ricks)
+143,4,3:19,1,10,MIA 25,17,31,D'Andre Swift right tackle for -3 yards (tackle by Andrew Van Ginkel)
+144,4,2:36,2,13,MIA 28,17,31,D'Andre Swift left end for 22 yards (tackle by DeShon Elliott)
+145,4,2:00,1,6,MIA 6,17,31,Jalen Hurts kneels for no gain
+146,4,1:21,2,6,MIA 6,17,31,Jalen Hurts kneels for -1 yards
+147,4,0:40,3,7,MIA 7,17,31,Jalen Hurts kneels for -3 yards

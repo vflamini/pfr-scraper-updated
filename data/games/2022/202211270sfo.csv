@@ -1,0 +1,148 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,SFO 35,0,0,"Robbie Gould kicks off 63 yards, returned by Rashid Shaheed for 26 yards (tackle by Ambry Thomas)"
+1,1,14:55,1,10,NOR 28,0,0,Andy Dalton pass complete short left to Taysom Hill for 7 yards (tackle by Charvarius Ward and Azeez Al-Shaair)
+2,1,14:20,2,3,NOR 35,0,0,Alvin Kamara right guard for 2 yards (tackle by Dre Greenlaw and Fred Warner)
+3,1,13:38,3,1,NOR 37,0,0,Mark Ingram right guard for 3 yards (tackle by Charvarius Ward and Samson Ebukam)
+4,1,13:02,1,10,NOR 40,0,0,"Alvin Kamara left tackle for 1 yard. Alvin Kamara fumbles (forced by Fred Warner), recovered by Samson Ebukam at NO-43 (tackle by Fred Warner)"
+5,1,12:55,1,10,NOR 43,0,0,Jimmy Garoppolo pass complete short right to Kyle Juszczyk for 2 yards (tackle by Marcus Maye)
+6,1,12:16,2,8,NOR 41,0,0,Christian McCaffrey right end for 2 yards (tackle by Kaden Elliss)
+7,1,11:36,3,6,NOR 39,0,0,Jimmy Garoppolo pass complete short right to Deebo Samuel for 20 yards (tackle by P.J. Williams and Paulson Adebo)
+8,1,10:56,1,10,NOR 19,0,0,Deebo Samuel up the middle for -3 yards (tackle by Cameron Jordan)
+9,1,10:14,2,13,NOR 22,0,0,Jimmy Garoppolo pass incomplete short middle intended for Jauan Jennings (defended by Demario Davis)
+10,1,10:08,3,13,NOR 22,0,0,Jimmy Garoppolo pass complete short right to Ray-Ray McCloud for 12 yards (tackle by Chris Harris)
+11,1,9:37,4,1,NOR 10,0,0,Christian McCaffrey left guard for 1 yard (tackle by Demario Davis and Marcus Davenport)
+12,1,8:54,1,9,NOR 9,0,0,Christian McCaffrey right guard for 4 yards (tackle by Shy Tuttle and Marcus Maye)
+13,1,8:14,2,5,NOR 5,0,0,Jimmy Garoppolo pass incomplete short middle intended for Deebo Samuel
+14,1,8:09,3,5,NOR 5,0,0,Jimmy Garoppolo pass incomplete intended for George Kittle
+15,1,8:05,4,5,NOR 5,0,3,Robbie Gould 24 yard field goal good
+16,1,8:01,0,0,SFO 35,0,3,"Robbie Gould kicks off 67 yards, returned by Rashid Shaheed for 21 yards (tackle by Jordan Mason and Demetrius Flannigan-Fowles)"
+17,1,7:55,1,10,NOR 19,0,3,Andy Dalton pass complete short middle to Adam Trautman for 17 yards (tackle by Azeez Al-Shaair)
+18,1,7:19,1,10,NOR 36,0,3,"Penalty on Taysom Hill: False Start, 5 yards (accepted) (no play)"
+19,1,7:04,1,15,NOR 31,0,3,Taysom Hill right tackle for 4 yards (tackle by Tashaun Gipson and Kevin Givens)
+20,1,6:27,2,11,NOR 35,0,3,Andy Dalton pass incomplete short right intended for Juwan Johnson (defended by Dre Greenlaw)
+21,1,6:21,3,11,NOR 35,0,3,Andy Dalton scrambles left end for 10 yards (tackle by Fred Warner)
+22,1,5:53,4,1,NOR 45,0,3,"Blake Gillikin punts 45 yards, returned by Ray-Ray McCloud for 7 yards (tackle by Isaac Yiadom and Kevin White)"
+23,1,5:43,1,10,SFO 17,0,3,Jimmy Garoppolo pass complete short right to George Kittle for 14 yards (tackle by Tyrann Mathieu)
+24,1,5:01,1,10,SFO 31,0,3,Deebo Samuel left end for 3 yards (tackle by Kaden Elliss)
+25,1,4:23,2,7,SFO 34,0,3,Jimmy Garoppolo pass complete short middle to Christian McCaffrey for 9 yards (tackle by Kaden Elliss and Demario Davis)
+26,1,3:42,1,10,SFO 43,0,3,Christian McCaffrey up the middle for -1 yards (tackle by Zack Baun and Demario Davis)
+27,1,3:00,2,11,SFO 42,0,3,Jimmy Garoppolo pass complete short left to George Kittle for 3 yards (tackle by Demario Davis)
+28,1,2:17,3,8,SFO 45,0,3,Jimmy Garoppolo pass incomplete deep left intended for Christian McCaffrey
+29,1,2:12,4,8,SFO 45,0,3,"Mitch Wishnowsky punts 44 yards, fair catch by Rashid Shaheed at NO-11"
+30,1,2:05,1,10,NOR 11,0,3,Alvin Kamara up the middle for 4 yards (tackle by Talanoa Hufanga)
+31,1,1:24,2,6,NOR 15,0,3,Andy Dalton pass complete deep middle to Rashid Shaheed for 35 yards (tackle by Deommodore Lenoir)
+32,1,0:50,1,10,NOR 50,0,3,Andy Dalton pass complete short left to Chris Olave for 2 yards (tackle by Charvarius Ward)
+33,1,0:17,2,8,SFO 48,0,3,Alvin Kamara up the middle for -3 yards (tackle by T.Y. McGill)
+34,2,15:00,3,11,NOR 49,0,3,Andy Dalton pass complete short left to Alvin Kamara for 8 yards (tackle by Talanoa Hufanga)
+35,2,14:24,4,3,SFO 43,0,3,Blake Gillikin punts 39 yards downed by Kevin White
+36,2,14:14,1,10,SFO 4,0,3,Elijah Mitchell left guard for 3 yards (tackle by Carl Granderson)
+37,2,13:34,2,7,SFO 7,0,3,Elijah Mitchell up the middle for 1 yard (tackle by Zack Baun)
+38,2,12:50,3,6,SFO 8,0,3,Jimmy Garoppolo pass complete short left to George Kittle for 9 yards (tackle by Alontae Taylor)
+39,2,12:08,1,10,SFO 17,0,3,Jimmy Garoppolo pass complete short left to Christian McCaffrey for -2 yards (tackle by Tyrann Mathieu and Demario Davis)
+40,2,11:23,2,12,SFO 15,0,3,"Jimmy Garoppolo pass incomplete deep right intended for Brandon Aiyuk (defended by Paulson Adebo). Penalty on Mike McGlinchey: Offensive Holding, 10 yards (declined) "
+41,2,11:15,3,12,SFO 15,0,3,Jimmy Garoppolo pass complete short right to Christian McCaffrey for 2 yards (tackle by Paulson Adebo and Chris Harris)
+42,2,10:33,4,10,SFO 17,0,3,"Mitch Wishnowsky punts 43 yards, returned by Rashid Shaheed for 7 yards (tackle by George Odum). Penalty on Samuel Womack: Unsportsmanlike Conduct / Defense, 15 yards (accepted) "
+43,2,10:25,1,10,SFO 38,0,3,"Taysom Hill pass complete to Chris Olave for 30 yards (tackle by Tashaun Gipson) SFO challenged the pass completion ruling, and the original play was overturned. Taysom Hill pass incomplete deep middle intended for Chris Olave"
+44,2,10:20,2,10,SFO 38,0,3,Andy Dalton pass complete short right to Alvin Kamara for 6 yards (tackle by Dre Greenlaw and Talanoa Hufanga)
+45,2,9:40,3,4,SFO 32,0,3,"Andy Dalton pass incomplete short left intended for Alvin Kamara. Penalty on Josh Andrews: Offensive Holding, 10 yards (declined) . Penalty on Ryan Ramczyk: Offensive Holding, 10 yards (accepted) (no play)"
+46,2,9:33,3,14,SFO 42,0,3,Andy Dalton pass incomplete deep right intended for Chris Olave (defended by Jimmie Ward)
+47,2,9:27,4,14,SFO 42,0,3,"Blake Gillikin punts 42 yards, touchback."
+48,2,9:17,1,10,SFO 20,0,3,Jimmy Garoppolo pass complete short right to Christian McCaffrey for 8 yards (tackle by Paulson Adebo and Kaden Elliss)
+49,2,8:38,2,2,SFO 28,0,3,Christian McCaffrey left end for 2 yards (tackle by Kentavius Street)
+50,2,7:58,1,10,SFO 30,0,3,Jimmy Garoppolo pass complete left to Brandon Aiyuk for 27 yards (tackle by Paulson Adebo)
+51,2,7:07,1,10,NOR 43,0,3,Christian McCaffrey up the middle for 5 yards (tackle by Kaden Elliss and Demario Davis)
+52,2,6:22,2,5,NOR 38,0,3,Jimmy Garoppolo pass complete to Brandon Aiyuk for 20 yards (tackle by Alontae Taylor and Demario Davis)
+53,2,5:47,1,10,NOR 18,0,3,Jimmy Garoppolo pass incomplete short right intended for Brandon Aiyuk
+54,2,5:42,2,10,NOR 18,0,3,Elijah Mitchell right end for 12 yards (tackle by Zack Baun and Paulson Adebo)
+55,2,4:53,1,6,NOR 6,0,3,Jimmy Garoppolo pass complete short left to Kyle Juszczyk for no gain (tackle by Kaden Elliss)
+56,2,4:13,2,6,NOR 6,0,3,Elijah Mitchell up the middle for 4 yards (tackle by David Onyemata and Demario Davis)
+57,2,3:35,3,2,NOR 2,0,3,Jimmy Garoppolo pass complete short right to Jauan Jennings for 1 yard (tackle by Chris Harris)
+58,2,3:06,4,1,NOR 1,0,3,Jimmy Garoppolo sacked by Shy Tuttle for -1 yards
+59,2,3:01,1,10,NOR 2,0,3,Mark Ingram up the middle for no gain (tackle by Dre Greenlaw)
+60,2,2:26,2,10,NOR 2,0,3,Andy Dalton pass incomplete short right intended for Jarvis Landry
+61,2,2:23,3,10,NOR 2,0,3,"Andy Dalton pass incomplete deep left intended for Chris Olave. Penalty on Trevor Penning: Face Mask (15 Yards), 15 yards (offset) . Penalty on Deommodore Lenoir: Defensive Pass Interference, 15 yards (offset) (no play)"
+62,2,2:15,3,10,NOR 2,0,3,Andy Dalton pass complete short right to Chris Olave for 9 yards (tackle by Charvarius Ward and Jimmie Ward)
+63,2,2:00,4,1,NOR 11,0,3,"Blake Gillikin punts 57 yards, returned by Ray-Ray McCloud for 11 yards (tackle by Adam Prentice)"
+64,2,1:47,1,10,SFO 43,0,3,Jimmy Garoppolo pass incomplete short right intended for Deebo Samuel (defended by David Onyemata)
+65,2,1:40,2,10,SFO 43,0,3,Jimmy Garoppolo pass incomplete short left intended for Christian McCaffrey
+66,2,1:38,3,10,SFO 43,0,3,Jimmy Garoppolo pass complete short middle to Jauan Jennings for 13 yards (tackle by Justin Evans)
+67,2,0:57,1,10,NOR 44,0,3,Jimmy Garoppolo pass complete short left to Jauan Jennings for 12 yards (tackle by Bradley Roby)
+68,2,0:49,1,10,NOR 32,0,3,"Elijah Mitchell up the middle for 11 yards, touchdown. Penalty on George Kittle: Offensive Holding, 10 yards (accepted) "
+69,2,0:42,1,9,NOR 31,0,3,Jimmy Garoppolo pass complete short left to Elijah Mitchell for 5 yards (tackle by Chris Harris and Bradley Roby)
+70,2,0:34,2,4,NOR 26,0,3,Jimmy Garoppolo pass complete short left to Elijah Mitchell for 3 yards (tackle by Kaden Elliss and Malcolm Roach)
+71,2,0:25,3,1,NOR 23,0,3,"Jimmy Garoppolo pass complete short right to Jauan Jennings for 12 yards (tackle by Chris Harris). Penalty on Chris Harris: Unnecessary Roughness / Defense, 6 yards (accepted) "
+72,2,0:19,1,5,NOR 5,0,9,"Jimmy Garoppolo pass complete short left to Jauan Jennings for 5 yards, touchdown"
+73,2,0:13,0,0,NOR 15,0,10,Robbie Gould kicks extra point good
+74,2,0:13,0,0,SFO 35,0,10,"Robbie Gould kicks off 47 yards, returned by Dwayne Washington for 13 yards (tackle by Oren Burks and Charlie Woerner)"
+75,2,0:09,1,10,NOR 31,0,10,Andy Dalton pass complete short left to Tre'Quan Smith for 8 yards (tackle by Jimmie Ward)
+76,2,0:03,2,2,NOR 39,0,10,Alvin Kamara up the middle for 6 yards (tackle by Nick Bosa)
+77,3,15:00,0,0,NOR 35,0,10,"Wil Lutz kicks off 65 yards, touchback."
+78,3,15:00,1,10,SFO 25,0,10,Elijah Mitchell left tackle for 4 yards (tackle by Shy Tuttle)
+79,3,14:24,2,6,SFO 29,0,10,Jimmy Garoppolo pass complete short left to Deebo Samuel for 16 yards (tackle by Kaden Elliss)
+80,3,13:53,1,10,SFO 45,0,10,Elijah Mitchell left guard for no gain (tackle by Zack Baun and Marcus Davenport)
+81,3,13:20,2,10,SFO 45,0,10,Jimmy Garoppolo pass complete short right to Deebo Samuel for 7 yards (tackle by Tanoh Kpassagnon and Kaden Elliss)
+82,3,12:40,3,3,NOR 48,0,10,"Jimmy Garoppolo pass short middle is intercepted by Alontae Taylor at NO-44 and returned for no gain. Penalty on Chris Harris: Illegal Contact, 5 yards (accepted) (no play)"
+83,3,12:29,1,10,NOR 43,0,10,"Deebo Samuel right end for no gain (tackle by Demario Davis). Penalty on Jake Brendel: Offensive Holding, 10 yards (accepted) (no play)"
+84,3,12:05,1,20,SFO 47,0,10,"Jimmy Garoppolo pass complete short right to Brandon Aiyuk for 11 yards (tackle by Chris Harris). Penalty on Malcolm Roach: Roughing the Passer, 15 yards (accepted) "
+85,3,11:44,1,10,NOR 27,0,10,"Jordan Mason up the middle for no gain (tackle by Tyrann Mathieu). Penalty on Kyle Juszczyk: Illegal Shift, 5 yards (accepted) (no play)"
+86,3,11:21,1,15,NOR 32,0,10,Jimmy Garoppolo pass incomplete short middle intended for Deebo Samuel
+87,3,11:17,2,15,NOR 32,0,10,Christian McCaffrey right guard for 4 yards (tackle by Tanoh Kpassagnon and Shy Tuttle)
+88,3,10:36,3,11,NOR 28,0,10,Jimmy Garoppolo pass incomplete deep right intended for Brandon Aiyuk (defended by Paulson Adebo)
+89,3,10:30,4,11,NOR 28,0,13,Robbie Gould 46 yard field goal good
+90,3,10:25,0,0,SFO 35,0,13,"Robbie Gould kicks off 65 yards, touchback."
+91,3,10:25,1,10,NOR 25,0,13,Andy Dalton pass complete short right to Jarvis Landry for 8 yards (tackle by Azeez Al-Shaair)
+92,3,9:50,2,2,NOR 33,0,13,Taysom Hill right tackle for 1 yard (tackle by Samson Ebukam)
+93,3,9:06,3,1,NOR 34,0,13,Alvin Kamara up the middle for 3 yards (tackle by Dre Greenlaw and Hassan Ridgeway)
+94,3,8:34,1,10,NOR 37,0,13,Andy Dalton pass complete short left to Alvin Kamara for 10 yards (tackle by Talanoa Hufanga)
+95,3,7:56,1,10,NOR 47,0,13,Taysom Hill left tackle for no gain (tackle by Fred Warner)
+96,3,7:19,2,10,NOR 47,0,13,Andy Dalton pass complete short left to Jarvis Landry for 12 yards (tackle by Talanoa Hufanga)
+97,3,6:43,1,10,SFO 41,0,13,Mark Ingram up the middle for 5 yards (tackle by Jimmie Ward and Kerry Hyder)
+98,3,6:06,2,5,SFO 36,0,13,Rashid Shaheed left end for 6 yards (tackle by Deommodore Lenoir)
+99,3,5:29,1,10,SFO 30,0,13,Andy Dalton pass complete short left to Alvin Kamara for 7 yards (tackle by Deommodore Lenoir)
+100,3,4:53,2,3,SFO 23,0,13,Taysom Hill for -2 yards (tackle by Drake Jackson and Nick Bosa)
+101,3,4:12,3,5,SFO 25,0,13,Andy Dalton pass incomplete deep left intended for Rashid Shaheed
+102,3,4:11,4,5,SFO 25,0,13,"Penalty on Ryan Ramczyk: False Start, 5 yards (accepted) (no play)"
+103,3,4:11,4,10,SFO 30,0,13,Wil Lutz 48 yard field goal no good
+104,3,4:07,1,10,SFO 38,0,13,Jordan Mason up the middle for no gain (tackle by Malcolm Roach)
+105,3,3:25,2,10,SFO 38,0,13,Jimmy Garoppolo pass complete short right to Brandon Aiyuk for 1 yard (tackle by Kaden Elliss)
+106,3,2:41,3,9,SFO 39,0,13,Jimmy Garoppolo pass complete short right to Brandon Aiyuk for 6 yards (tackle by Alontae Taylor and Marcus Maye)
+107,3,2:00,4,3,SFO 45,0,13,"Mitch Wishnowsky punts 43 yards, fair catch by Rashid Shaheed at NO-12"
+108,3,1:51,1,10,NOR 12,0,13,Taysom Hill for 6 yards (tackle by Tashaun Gipson and Azeez Al-Shaair)
+109,3,1:11,2,4,NOR 18,0,13,Andy Dalton pass complete short right to Alvin Kamara for 1 yard (tackle by Talanoa Hufanga)
+110,3,0:28,3,3,NOR 19,0,13,Andy Dalton pass complete short right to Rashid Shaheed for 18 yards (tackle by Deommodore Lenoir)
+111,4,15:00,1,10,NOR 37,0,13,Andy Dalton pass incomplete deep right intended for Chris Olave
+112,4,14:56,2,10,NOR 37,0,13,Andy Dalton pass complete deep right to Chris Olave for 20 yards
+113,4,14:15,1,10,SFO 43,0,13,Andy Dalton pass incomplete short left intended for Alvin Kamara (defended by Fred Warner)
+114,4,14:10,2,10,SFO 43,0,13,Andy Dalton scrambles right end for 9 yards (tackle by Fred Warner)
+115,4,13:32,3,1,SFO 34,0,13,Andy Dalton pass incomplete short left intended for Chris Olave
+116,4,13:30,4,1,SFO 34,0,13,"Andy Dalton pass incomplete short left intended for Juwan Johnson. Penalty on Talanoa Hufanga: Defensive Holding, 5 yards (declined) . Penalty on Nick Bosa: Roughing the Passer, 15 yards (accepted) (no play)"
+117,4,13:21,1,10,SFO 19,0,13,Andy Dalton scrambles up the middle for 1 yard (tackle by Kerry Hyder)
+118,4,12:40,2,9,SFO 18,0,13,Andy Dalton pass complete short left to Chris Olave for 12 yards (tackle by Deommodore Lenoir and Tashaun Gipson)
+119,4,11:59,1,6,SFO 6,0,13,Alvin Kamara right tackle for no gain (tackle by Hassan Ridgeway)
+120,4,11:20,2,6,SFO 6,0,13,"Andy Dalton pass complete short right to Alvin Kamara for 5 yards. Alvin Kamara fumbles (forced by Talanoa Hufanga) (tackle by Fred Warner), recovered by Dre Greenlaw at SF-1 (tackle by Fred Warner) (tackle by Fred Warner) (tackle by Talanoa Hufanga) (tackle by Dre Greenlaw) (tackle by Talanoa Hufanga)"
+121,4,11:05,1,10,SFO 1,0,13,Christian McCaffrey up the middle for 1 yard (tackle by Kaden Elliss)
+122,4,10:24,2,9,SFO 2,0,13,Jimmy Garoppolo for 3 yards (tackle by David Onyemata)
+123,4,9:49,3,6,SFO 5,0,13,Jimmy Garoppolo pass incomplete short right intended for Deebo Samuel
+124,4,9:45,4,6,SFO 5,0,13,"Mitch Wishnowsky punts 45 yards, returned by Rashid Shaheed for 11 yards (tackle by Tarvarius Moore)"
+125,4,9:35,1,10,SFO 39,0,13,Mark Ingram left tackle for 2 yards (tackle by Fred Warner)
+126,4,8:55,2,8,SFO 37,0,13,"Penalty on T.Y. McGill: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+127,4,8:40,2,3,SFO 32,0,13,Andy Dalton scrambles left end for 1 yard (tackle by Dre Greenlaw)
+128,4,7:58,3,2,SFO 31,0,13,Andy Dalton pass complete deep right to Chris Olave for 19 yards (tackle by Talanoa Hufanga)
+129,4,7:23,1,10,SFO 12,0,13,Andy Dalton pass incomplete short middle intended for Juwan Johnson (defended by Fred Warner)
+130,4,7:19,2,10,SFO 12,0,13,Taysom Hill right end for 4 yards (tackle by Charvarius Ward and Talanoa Hufanga)
+131,4,6:40,3,6,SFO 8,0,13,"Andy Dalton pass incomplete short middle intended for Chris Olave. Penalty on Deommodore Lenoir: Defensive Holding, 4 yards (accepted) (no play)"
+132,4,6:36,1,4,SFO 4,0,13,Andy Dalton pass incomplete short right intended for Jarvis Landry
+133,4,6:30,2,4,SFO 4,0,13,Andy Dalton pass incomplete short right intended for Mark Ingram
+134,4,6:26,3,4,SFO 4,0,13,Andy Dalton pass incomplete short left intended for Taysom Hill
+135,4,6:23,4,4,SFO 4,0,13,Andy Dalton sacked by Nick Bosa for -7 yards
+136,4,6:18,1,10,SFO 11,0,13,Christian McCaffrey left tackle for 9 yards (tackle by Alontae Taylor)
+137,4,5:37,2,1,SFO 20,0,13,Jimmy Garoppolo up the middle for 3 yards (tackle by Kaden Elliss)
+138,4,4:56,1,10,SFO 23,0,13,Christian McCaffrey up the middle for 2 yards (tackle by Kaden Elliss)
+139,4,4:11,2,8,SFO 25,0,13,Christian McCaffrey right tackle for 3 yards (tackle by Kentavius Street)
+140,4,4:07,3,5,SFO 28,0,13,Jimmy Garoppolo pass complete short left to Jauan Jennings for 6 yards (tackle by Chris Harris)
+141,4,3:22,1,10,SFO 34,0,13,Jordan Mason up the middle for 9 yards (tackle by Paulson Adebo and Marcus Maye)
+142,4,2:38,2,1,SFO 43,0,13,Jordan Mason up the middle for 4 yards (tackle by Marcus Davenport)
+143,4,2:33,1,10,SFO 47,0,13,Jordan Mason up the middle for 5 yards (tackle by Shy Tuttle)
+144,4,2:00,2,5,NOR 48,0,13,Jordan Mason up the middle for 7 yards (tackle by Tyrann Mathieu and Marcus Maye)
+145,4,1:16,1,10,NOR 41,0,13,Jimmy Garoppolo kneels for -1 yards
+146,4,0:39,2,11,NOR 42,0,13,Jimmy Garoppolo kneels for -1 yards

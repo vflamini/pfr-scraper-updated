@@ -1,0 +1,151 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,DET 35,0,0,"Jack Fox kicks off 56 yards, returned by Keisean Nixon for 12 yards (tackle by Josh Woods)"
+1,1,14:55,1,10,GNB 21,0,0,Christian Watson left end for 6 yards (tackle by Mike Hughes)
+2,1,14:14,2,4,GNB 27,0,0,Aaron Jones left tackle for 9 yards (tackle by DeShon Elliott)
+3,1,13:35,1,10,GNB 36,0,0,Aaron Rodgers pass complete short left to Christian Watson for 13 yards (tackle by Kerby Joseph)
+4,1,12:56,1,10,GNB 49,0,0,"Aaron Rodgers pass incomplete intended for Allen Lazard. Penalty on Jerry Jacobs: Defensive Pass Interference, 46 yards (accepted) (no play)"
+5,1,12:50,1,5,DET 5,0,0,Aaron Jones up the middle for 1 yard (tackle by Isaiah Buggs and Alex Anzalone)
+6,1,12:05,2,4,DET 4,0,0,AJ Dillon up the middle for no gain (tackle by Isaiah Buggs)
+7,1,11:33,3,4,DET 4,0,0,Aaron Rodgers pass incomplete short right intended for AJ Dillon
+8,1,11:25,4,4,DET 4,0,3,Mason Crosby 22 yard field goal good
+9,1,11:21,0,0,GNB 35,0,3,"Mason Crosby kicks off 65 yards, touchback."
+10,1,11:21,1,10,DET 25,0,3,Jamaal Williams right tackle for 4 yards (tackle by Quay Walker)
+11,1,10:46,2,6,DET 29,0,3,Jared Goff pass incomplete short right intended for Kalif Raymond
+12,1,10:41,3,6,DET 29,0,3,Jared Goff pass incomplete short left intended for Josh Reynolds
+13,1,10:38,4,6,DET 29,0,3,"Jack Fox punts 57 yards, returned by Keisean Nixon for 9 yards (tackle by Josh Woods)"
+14,1,10:27,1,10,GNB 23,0,3,AJ Dillon left end for 2 yards (tackle by John Cominsky and Benito Jones)
+15,1,9:51,2,8,GNB 25,0,3,Aaron Rodgers pass complete short middle to Randall Cobb for 7 yards (tackle by Kerby Joseph)
+16,1,9:15,3,1,GNB 32,0,3,Aaron Jones left tackle for no gain (tackle by John Cominsky)
+17,1,8:37,4,1,GNB 32,0,3,Allen Lazard left end for -1 yards (tackle by Alex Anzalone)
+18,1,8:32,1,10,GNB 31,0,3,Jared Goff pass complete short right to Amon-Ra St. Brown for 11 yards (tackle by Adrian Amos)
+19,1,7:54,1,10,GNB 20,0,3,Jared Goff pass incomplete deep right intended for Amon-Ra St. Brown
+20,1,7:49,2,10,GNB 20,0,3,D'Andre Swift up the middle for 1 yard (tackle by Quay Walker)
+21,1,7:10,3,9,GNB 19,0,3,Jared Goff pass incomplete short middle intended for Kalif Raymond (defended by Darnell Savage)
+22,1,7:04,4,9,GNB 19,3,3,Michael Badgley 37 yard field goal good
+23,1,7:00,0,0,DET 35,3,3,"Jack Fox kicks off 62 yards, returned by Keisean Nixon for 30 yards (tackle by Chris Board)"
+24,1,6:53,1,10,GNB 33,3,3,Aaron Jones up the middle for 6 yards (tackle by Mike Hughes)
+25,1,6:13,2,4,GNB 39,3,3,AJ Dillon left guard for 4 yards (tackle by Alex Anzalone and Malcolm Rodriguez)
+26,1,5:31,1,10,GNB 43,3,3,AJ Dillon up the middle for 5 yards (tackle by Benito Jones)
+27,1,4:52,2,5,GNB 48,3,3,Aaron Rodgers pass complete deep left to Christian Watson for 27 yards (tackle by Kerby Joseph)
+28,1,4:08,1,10,DET 25,3,3,Allen Lazard left end for 1 yard (tackle by Malcolm Rodriguez and DeShon Elliott)
+29,1,3:28,2,9,DET 24,3,3,Aaron Rodgers pass complete short right to Randall Cobb for 4 yards (tackle by Jerry Jacobs)
+30,1,2:42,3,5,DET 20,3,3,Aaron Rodgers sacked by Aidan Hutchinson for -11 yards
+31,1,1:59,4,16,DET 31,3,6,Mason Crosby 49 yard field goal good
+32,1,1:54,0,0,GNB 35,3,6,"Mason Crosby kicks off 64 yards, returned by Justin Jackson for 23 yards (tackle by Isaiah McDuffie)"
+33,1,1:50,1,10,DET 24,3,6,Jamaal Williams right end for no gain (tackle by Quay Walker and Kingsley Enagbare)
+34,1,1:14,2,10,DET 24,3,6,Jared Goff pass complete short left to Kalif Raymond for 7 yards (tackle by Darnell Savage and Jaire Alexander)
+35,1,0:33,3,3,DET 31,3,6,"Jared Goff pass complete to Amon-Ra St. Brown for 15 yards Replay Assistant challenged the pass completion ruling, and the original play was overturned. Jared Goff pass incomplete short middle intended for Amon-Ra St. Brown"
+36,1,0:29,4,3,DET 31,3,6,"Jack Fox punts 40 yards, returned by Keisean Nixon for 16 yards (tackle by Malcolm Rodriguez)"
+37,1,0:17,1,10,GNB 45,3,6,Christian Watson right end for 6 yards (tackle by Alex Anzalone and DeShon Elliott)
+38,2,15:00,2,4,DET 49,3,6,Aaron Rodgers pass incomplete deep left intended for Allen Lazard
+39,2,14:54,3,4,DET 49,3,6,Aaron Rodgers pass complete deep right to Robert Tonyan for 20 yards (tackle by DeShon Elliott)
+40,2,14:07,1,10,DET 29,3,6,AJ Dillon right tackle for 5 yards (tackle by Alex Anzalone and Amani Oruwariye)
+41,2,13:26,2,5,DET 24,3,6,Aaron Rodgers pass incomplete short right intended for AJ Dillon
+42,2,13:16,3,5,DET 24,3,6,"Aaron Rodgers sacked by Aidan Hutchinson for -6 yards. Penalty on Yosuah Nijman: Offensive Holding, 10 yards (declined) "
+43,2,13:01,4,11,DET 30,3,9,Mason Crosby 48 yard field goal good
+44,2,12:56,0,0,GNB 35,3,9,"Mason Crosby kicks off 65 yards, returned by Justin Jackson for 25 yards (tackle by Eric Wilson and Tyler Davis)"
+45,2,12:50,1,10,DET 25,3,9,Jamaal Williams up the middle for 2 yards (tackle by Adrian Amos and Jarran Reed)
+46,2,12:18,2,8,DET 27,3,9,Jared Goff pass complete short middle to James Mitchell for 7 yards (tackle by Darnell Savage)
+47,2,11:41,3,1,DET 34,3,9,"Jared Goff pass complete to Jameson Williams for no gain, touchdown. Penalty on Matt Nelson: Offensive Holding, 9 yards (accepted) (no play)"
+48,2,11:30,3,10,DET 25,3,9,Jared Goff pass complete short right to Justin Jackson for 11 yards (tackle by Rasul Douglas)
+49,2,11:00,1,10,DET 36,3,9,Justin Jackson left guard for 2 yards (tackle by Kenny Clark)
+50,2,10:25,2,8,DET 38,3,9,Jared Goff pass complete deep right to Josh Reynolds for 16 yards (tackle by Rasul Douglas)
+51,2,9:46,1,10,GNB 46,3,9,Jamaal Williams up the middle for 9 yards (tackle by Quay Walker)
+52,2,9:12,2,1,GNB 37,3,9,"Jared Goff sacked by Devonte Wyatt for -5 yards. Jared Goff fumbles (forced by Devonte Wyatt), recovered by Jared Goff at GB-42 (tackle by Devonte Wyatt)"
+53,2,8:29,3,6,GNB 42,3,9,D'Andre Swift up the middle for 11 yards (tackle by Darnell Savage)
+54,2,7:49,1,10,GNB 31,3,9,Jared Goff pass incomplete short middle
+55,2,7:42,2,10,GNB 31,3,9,D'Andre Swift left end for -4 yards (tackle by Darnell Savage)
+56,2,7:01,3,14,GNB 35,3,9,Jared Goff pass complete short left to D'Andre Swift for 8 yards (tackle by Quay Walker)
+57,2,6:16,4,6,GNB 27,3,9,Michael Badgley 46 yard field goal no good
+58,2,6:13,1,10,GNB 36,3,9,Aaron Rodgers pass complete short right to Christian Watson for 15 yards (tackle by Kerby Joseph)
+59,2,5:22,1,10,DET 49,3,9,Aaron Jones left end for no gain (tackle by Isaiah Buggs and Benito Jones)
+60,2,4:50,2,10,DET 49,3,9,Aaron Rodgers pass complete short left to Robert Tonyan for 5 yards (tackle by Aidan Hutchinson and Mike Hughes)
+61,2,4:00,3,5,DET 44,3,9,"Penalty on GNB: Delay of Game, 5 yards (accepted) (no play)"
+62,2,3:40,3,10,DET 49,3,9,Aaron Rodgers pass complete short middle to Robert Tonyan for 4 yards (tackle by Mike Hughes)
+63,2,2:57,4,6,DET 45,3,9,"Aaron Rodgers pass incomplete intended for Romeo Doubs. Penalty on James Houston: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+64,2,2:40,4,1,DET 40,3,9,AJ Dillon left tackle for 2 yards (tackle by Mike Hughes)
+65,2,2:00,1,10,DET 38,3,9,Aaron Jones left tackle for 6 yards (tackle by Isaiah Buggs and Malcolm Rodriguez)
+66,2,1:25,2,4,DET 32,3,9,"Aaron Rodgers pass complete short left to Aaron Jones for 8 yards. Aaron Jones fumbles (forced by John Cominsky), recovered by Will Harris at DET-15"
+67,2,1:16,1,10,DET 15,3,9,Jared Goff pass complete short left to Kalif Raymond for 5 yards (tackle by Darnell Savage)
+68,2,0:56,2,5,DET 20,3,9,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown (defended by Darnell Savage)
+69,2,0:52,3,5,DET 20,3,9,Jared Goff pass complete short right to Amon-Ra St. Brown for 6 yards (tackle by Darnell Savage)
+70,2,0:47,1,10,DET 26,3,9,Jared Goff pass complete short right to D'Andre Swift for 3 yards (tackle by De'Vondre Campbell)
+71,2,0:41,2,7,DET 29,3,9,Jared Goff pass complete short middle to Kalif Raymond for 11 yards (tackle by Adrian Amos)
+72,2,0:35,1,10,DET 40,3,9,Jared Goff pass complete short right to D'Andre Swift for 5 yards (tackle by Rasul Douglas and De'Vondre Campbell)
+73,2,0:30,2,5,DET 45,3,9,Jared Goff pass complete short right to D'Andre Swift for 18 yards (tackle by Rudy Ford)
+74,2,0:09,1,10,GNB 37,3,9,Jared Goff pass incomplete short middle intended for Brock Wright
+75,2,0:05,2,10,GNB 37,3,9,Jared Goff pass complete short middle to Amon-Ra St. Brown for 7 yards (tackle by Innis Gaines)
+76,2,0:02,3,2,GNB 30,3,9,"Penalty on Rasul Douglas: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)"
+77,2,0:02,1,10,GNB 15,6,9,Michael Badgley 33 yard field goal good
+78,3,15:00,0,0,GNB 35,6,9,"Mason Crosby kicks off 59 yards, returned by Shane Zylstra for 20 yards (tackle by Corey Ballentine)"
+79,3,14:55,1,10,DET 26,6,9,Jared Goff pass incomplete short right intended for DJ Chark
+80,3,14:51,2,10,DET 26,6,9,Jared Goff scrambles right end for 6 yards (tackle by Darnell Savage)
+81,3,14:05,3,4,DET 32,6,9,Jared Goff pass complete short middle to DJ Chark for 2 yards (tackle by Rasul Douglas)
+82,3,13:26,4,2,DET 34,6,9,"Jack Fox punts 50 yards, returned by Keisean Nixon for 9 yards (tackle by C.J. Moore)"
+83,3,13:13,1,10,GNB 25,6,9,Aaron Rodgers scrambles right end for 6 yards (tackle by Jerry Jacobs)
+84,3,12:40,2,4,GNB 31,6,9,Aaron Jones up the middle for 17 yards (tackle by Kerby Joseph)
+85,3,12:01,1,10,GNB 48,6,9,Aaron Jones left end for no gain (tackle by Alim McNeill)
+86,3,11:17,2,10,GNB 48,6,9,Aaron Rodgers pass complete short left to Allen Lazard for 15 yards (tackle by Derrick Barnes)
+87,3,10:32,1,10,DET 37,6,9,Aaron Jones left end for 3 yards (tackle by Mike Hughes and Aidan Hutchinson)
+88,3,9:49,2,7,DET 34,6,9,Aaron Rodgers pass incomplete deep right intended for Aaron Jones (defended by Kerby Joseph)
+89,3,9:40,3,7,DET 34,6,9,Aaron Rodgers pass incomplete short right intended for Romeo Doubs
+90,3,9:37,4,7,DET 34,6,9,Mason Crosby 53 yard field goal no good
+91,3,9:32,1,10,DET 43,6,9,Jamaal Williams right tackle for 13 yards (tackle by Adrian Amos)
+92,3,8:55,1,10,GNB 44,6,9,Jared Goff pass complete deep right to Kalif Raymond for 43 yards (tackle by Rudy Ford)
+93,3,8:07,1,1,GNB 1,12,9,"Jamaal Williams right tackle for 1 yard, touchdown"
+94,3,8:05,0,0,GNB 15,13,9,Michael Badgley kicks extra point good
+95,3,8:05,0,0,DET 35,13,9,"Jack Fox kicks off 62 yards, returned by Keisean Nixon for 14 yards (tackle by Derrick Barnes and Ifeatu Melifonwu)"
+96,3,8:00,1,10,GNB 17,13,9,Aaron Rodgers pass incomplete short left
+97,3,7:55,2,10,GNB 17,13,9,Aaron Rodgers pass complete short right to Allen Lazard for 7 yards (tackle by Jerry Jacobs)
+98,3,7:22,3,3,GNB 24,13,9,Aaron Rodgers pass complete short middle to Allen Lazard for 6 yards (tackle by Mike Hughes)
+99,3,6:39,1,10,GNB 30,13,9,Aaron Rodgers pass complete short left to Aaron Jones for 4 yards (tackle by Jerry Jacobs)
+100,3,6:04,2,6,GNB 34,13,9,Aaron Jones right end for 5 yards (tackle by Derrick Barnes)
+101,3,5:18,3,1,GNB 39,13,9,Aaron Rodgers up the middle for 2 yards (tackle by Isaiah Buggs)
+102,3,4:37,1,10,GNB 41,13,9,"Aaron Rodgers pass complete deep right to Christian Watson for 45 yards (tackle by Amani Oruwariye). Penalty on Amani Oruwariye: Defensive Pass Interference, 15 yards (declined) "
+103,3,4:06,1,10,DET 14,13,9,Aaron Jones left tackle for 1 yard (tackle by Benito Jones and Isaiah Buggs)
+104,3,3:22,2,9,DET 13,13,15,"Aaron Rodgers pass complete short left to Allen Lazard for 13 yards, touchdown"
+105,3,3:17,0,0,DET 15,13,16,Mason Crosby kicks extra point good
+106,3,3:17,0,0,GNB 35,13,16,"Mason Crosby kicks off 59 yards, returned by Shane Zylstra for 26 yards (tackle by Isaiah McDuffie and Eric Wilson)"
+107,3,3:12,1,10,DET 32,13,16,Jamaal Williams right end for 5 yards (tackle by Tedarrell Slaton)
+108,3,2:38,2,5,DET 37,13,16,Jared Goff pass incomplete short right intended for Jameson Williams
+109,3,2:32,3,5,DET 37,13,16,Jared Goff pass incomplete short right intended for Shane Zylstra
+110,3,2:28,4,5,DET 37,13,16,"Jack Fox punts 41 yards, returned by Keisean Nixon for 4 yards (tackle by Chris Board)"
+111,3,2:18,1,10,GNB 26,13,16,"Aaron Jones for no gain. Penalty on David Bakhtiari: Offensive Holding, 10 yards (accepted) (no play)"
+112,3,1:58,1,20,GNB 16,13,16,"Aaron Rodgers pass is intercepted by Kerby Joseph at GB-49 and returned for no gain. Penalty on John Cominsky: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)"
+113,3,1:47,1,10,GNB 21,13,16,AJ Dillon right guard for 9 yards (tackle by Alex Anzalone and John Cominsky)
+114,3,1:06,2,1,GNB 30,13,16,AJ Dillon up the middle for 2 yards (tackle by DeShon Elliott)
+115,3,0:21,1,10,GNB 32,13,16,AJ Dillon left tackle for 4 yards (tackle by Romeo Okwara and Alex Anzalone)
+116,4,15:00,2,6,GNB 36,13,16,Aaron Rodgers pass incomplete deep right intended for Romeo Doubs
+117,4,14:55,3,6,GNB 36,13,16,Aaron Rodgers scrambles up the middle for 2 yards (tackle by James Houston and Alex Anzalone)
+118,4,14:09,4,4,GNB 38,13,16,Pat O'Donnell punts 37 yards downed by Innis Gaines
+119,4,13:58,1,10,DET 25,13,16,Jared Goff pass complete short middle to Amon-Ra St. Brown for 14 yards (tackle by Quay Walker)
+120,4,13:26,1,10,DET 39,13,16,Jamaal Williams left tackle for 11 yards (tackle by Quay Walker and Darnell Savage)
+121,4,12:41,1,10,GNB 50,13,16,Jamaal Williams up the middle for 8 yards (tackle by Rudy Ford and Darnell Savage)
+122,4,12:03,2,2,GNB 42,13,16,Jared Goff pass complete short left to D'Andre Swift for 9 yards (tackle by De'Vondre Campbell)
+123,4,11:28,1,10,GNB 33,13,16,D'Andre Swift right tackle for no gain (tackle by Tedarrell Slaton)
+124,4,10:47,2,10,GNB 33,13,16,Jared Goff pass complete short left to D'Andre Swift for 2 yards (tackle by Jaire Alexander)
+125,4,10:05,3,8,GNB 31,13,16,D'Andre Swift left end for 6 yards (tackle by Adrian Amos)
+126,4,9:24,4,2,GNB 25,13,16,Jared Goff pass complete short left to DJ Chark for 3 yards (tackle by Jaire Alexander)
+127,4,8:38,1,10,GNB 22,13,16,D'Andre Swift left end for 11 yards (tackle by De'Vondre Campbell)
+128,4,7:39,1,10,GNB 11,13,16,"Jared Goff pass complete short left to D'Andre Swift for 2 yards (tackle by De'Vondre Campbell). Penalty on Quay Walker: Disqualification / Defense, 5 yards (accepted) "
+129,4,7:24,1,4,GNB 4,13,16,Jamaal Williams up the middle for no gain (tackle by Isaiah McDuffie)
+130,4,6:46,2,4,GNB 4,13,16,Jamaal Williams up the middle for 3 yards (tackle by Adrian Amos and De'Vondre Campbell)
+131,4,5:57,3,1,GNB 1,19,16,"Jamaal Williams up the middle for 1 yard, touchdown"
+132,4,5:55,0,0,GNB 15,20,16,Michael Badgley kicks extra point good
+133,4,5:55,0,0,DET 35,20,16,"Jack Fox kicks off 67 yards, returned by Keisean Nixon for 23 yards (tackle by Justin Jackson)"
+134,4,5:49,1,10,GNB 21,20,16,Aaron Rodgers pass complete short left to Aaron Jones for 8 yards (tackle by Amani Oruwariye)
+135,4,5:11,2,2,GNB 29,20,16,Aaron Jones left guard for no gain (tackle by Isaiah Buggs)
+136,4,4:31,3,2,GNB 29,20,16,Aaron Rodgers pass complete short right to Christian Watson for 4 yards (tackle by Jerry Jacobs)
+137,4,3:49,1,10,GNB 33,20,16,Aaron Rodgers pass incomplete deep left intended for Allen Lazard
+138,4,3:41,2,10,GNB 33,20,16,Aaron Rodgers pass incomplete short right intended for AJ Dillon
+139,4,3:37,3,10,GNB 33,20,16,Aaron Rodgers pass deep right intended for Christian Watson is intercepted by Kerby Joseph at DET-32 and returned for 23 yards (tackle by Allen Lazard)
+140,4,3:27,1,10,GNB 45,20,16,Jared Goff pass complete short left to Amon-Ra St. Brown for 11 yards (tackle by Darnell Savage)
+141,4,2:31,1,10,GNB 34,20,16,Jamaal Williams up the middle for 9 yards (tackle by De'Vondre Campbell and Darnell Savage)
+142,4,2:28,2,1,GNB 25,20,16,"Penalty on Devonte Wyatt: Neutral Zone Infraction, 5 yards (declined) (no play)"
+143,4,2:28,2,1,GNB 25,20,16,Jamaal Williams right tackle for 1 yard (tackle by Preston Smith and Rasul Douglas)
+144,4,2:22,1,10,GNB 24,20,16,Jamaal Williams up the middle for 3 yards (tackle by Krys Barnes)
+145,4,2:17,2,7,GNB 21,20,16,"Jared Goff pass complete to Amon-Ra St. Brown for no gain. Penalty on James Mitchell: Offensive Holding, 10 yards (accepted) (no play)"
+146,4,2:04,2,17,GNB 31,20,16,"Jared Goff pass complete short right to Amon-Ra St. Brown for -8 yards, lateral to D'Andre Swift for no gain (tackle by Jarran Reed)"
+147,4,2:00,3,3,GNB 17,20,16,Jamaal Williams right tackle for 2 yards (tackle by Krys Barnes and Tedarrell Slaton)
+148,4,1:15,4,1,GNB 15,20,16,Jared Goff pass complete short right to DJ Chark for 9 yards (tackle by Krys Barnes)
+149,4,0:32,1,6,GNB 6,20,16,Jared Goff kneels for -1 yards

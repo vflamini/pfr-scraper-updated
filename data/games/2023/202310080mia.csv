@@ -1,0 +1,159 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,MIA 35,0,0,"Jason Sanders kicks off 65 yards, touchback."
+1,1,15:00,1,10,NYG 25,0,0,Matt Breida right guard for 6 yards (tackle by Bradley Chubb)
+2,1,14:29,2,4,NYG 31,0,0,Daniel Jones pass complete short middle to Isaiah Hodgins for 15 yards (tackle by Jevon Holland)
+3,1,13:53,1,10,NYG 46,0,0,Matt Breida left end for no gain (tackle by DeShon Elliott)
+4,1,13:14,2,10,NYG 46,0,0,Matt Breida up the middle for 3 yards (tackle by Zach Sieler and Christian Wilkins)
+5,1,12:28,3,7,NYG 49,0,0,Daniel Jones pass complete short right to Wan'Dale Robinson for 2 yards (tackle by Eli Apple)
+6,1,11:37,4,5,MIA 49,0,0,"Jamie Gillan punts 38 yards, fair catch by Braxton Berrios at MIA-11"
+7,1,11:27,1,10,MIA 11,0,0,De'Von Achane right end for 24 yards (tackle by Dane Belton and Xavier McKinney)
+8,1,10:32,1,10,MIA 35,0,0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 6 yards (tackle by Dane Belton)
+9,1,10:10,2,4,MIA 41,0,0,Tua Tagovailoa pass complete short right to Jaylen Waddle for 20 yards (tackle by Xavier McKinney)
+10,1,9:32,1,10,NYG 39,0,0,Tua Tagovailoa pass complete short right to Cedrick Wilson for 23 yards (tackle by Xavier McKinney)
+11,1,8:49,1,10,NYG 16,0,0,"Tua Tagovailoa pass complete short left to Raheem Mostert for 5 yards. Raheem Mostert fumbles, ball out of bounds at NYG-11 (forced by Jason Pinnock)"
+12,1,7:51,2,5,NYG 11,0,0,Tua Tagovailoa pass complete short right to Tyreek Hill for 9 yards (tackle by Deonte Banks and Isaiah Simmons)
+13,1,7:21,1,2,NYG 2,0,0,Tua Tagovailoa pass incomplete short right intended for Jaylen Waddle (defended by Xavier McKinney)
+14,1,7:16,2,2,NYG 2,0,6,"Tua Tagovailoa pass complete short left to Jaylen Waddle for 2 yards, touchdown"
+15,1,7:09,0,0,NYG 15,0,7,Jason Sanders kicks extra point good
+16,1,7:09,0,0,MIA 35,0,7,"Jason Sanders kicks off 65 yards, touchback."
+17,1,7:09,1,10,NYG 25,0,7,Eric Gray right guard for 5 yards (tackle by Xavien Howard and David Long)
+18,1,6:35,2,5,NYG 30,0,7,"Eric Gray left end for 3 yards (tackle by DeShon Elliott). Penalty on Ben Bredeson: Offensive Holding, 10 yards (accepted) "
+19,1,6:08,2,12,NYG 23,0,7,Daniel Jones pass complete short right to Sterling Shepard for 13 yards (tackle by David Long)
+20,1,5:41,1,10,NYG 36,0,7,Wan'Dale Robinson right end for 1 yard (tackle by David Long and DeShon Elliott)
+21,1,5:08,2,9,NYG 37,0,7,Eric Gray left guard for 8 yards (tackle by DeShon Elliott and Bradley Chubb)
+22,1,4:35,3,1,NYG 45,0,7,Daniel Jones up the middle for 2 yards (tackle by Bradley Chubb)
+23,1,3:57,1,10,NYG 47,0,7,Daniel Jones sacked by Emmanuel Ogbah for no gain
+24,1,3:18,2,10,NYG 47,0,7,Eric Gray up the middle for 4 yards (tackle by David Long and Christian Wilkins)
+25,1,2:39,3,6,MIA 49,0,7,Daniel Jones pass complete short right to Darius Slayton for 15 yards (tackle by Xavien Howard)
+26,1,2:10,1,10,MIA 34,0,7,Daniel Jones pass complete short right to Darren Waller for 4 yards (tackle by Xavien Howard)
+27,1,1:32,2,6,MIA 30,0,7,Eric Gray up the middle for -1 yards (tackle by Zach Sieler and Kader Kohou)
+28,1,0:49,3,7,MIA 31,0,7,Daniel Jones sacked by and Christian Wilkins for -6 yards and Emmanuel Ogbah for -6 yards
+29,2,15:00,4,13,MIA 37,0,7,Graham Gano 55 yard field goal no good
+30,2,14:55,1,10,MIA 45,0,7,Raheem Mostert left end for 5 yards (tackle by Xavier McKinney)
+31,2,14:21,2,5,MIA 50,0,7,Raheem Mostert right end for 2 yards (tackle by Leonard Williams and Bobby Okereke)
+32,2,13:42,3,3,NYG 48,0,7,Tua Tagovailoa pass complete short middle to Tyreek Hill for 5 yards (tackle by Bobby Okereke and Isaiah Simmons)
+33,2,13:00,1,10,NYG 43,0,7,"De'Von Achane left tackle for 5 yards. De'Von Achane fumbles (forced by Xavier McKinney), recovered by Kayvon Thibodeaux at NYG-38 (tackle by Xavier McKinney)"
+34,2,12:53,1,10,NYG 38,0,7,Daniel Jones pass complete short left to Wan'Dale Robinson for -4 yards (tackle by Kader Kohou)
+35,2,12:17,2,14,NYG 34,0,7,Daniel Jones pass complete short left to Darren Waller for 11 yards (tackle by Eli Apple)
+36,2,11:39,3,3,NYG 45,0,7,Daniel Jones sacked by and Jerome Baker for no gain and Eli Apple for no gain
+37,2,11:19,4,3,NYG 45,0,7,Jamie Gillan punts 49 yards downed by Nick McCloud
+38,2,11:00,1,10,MIA 6,0,7,Tua Tagovailoa pass incomplete short left
+39,2,10:56,2,10,MIA 6,0,7,Tua Tagovailoa pass complete short middle to Tyreek Hill for 18 yards (tackle by Adoree' Jackson)
+40,2,10:12,1,10,MIA 24,0,13,"De'Von Achane left tackle for 76 yards, touchdown"
+41,2,10:02,0,0,NYG 15,0,14,Jason Sanders kicks extra point good
+42,2,10:02,0,0,MIA 35,0,14,"Jake Bailey kicks off 65 yards, touchback."
+43,2,10:02,1,10,NYG 25,0,14,Daniel Jones pass incomplete short left intended for Darius Slayton (defended by Andrew Van Ginkel)
+44,2,9:57,2,10,NYG 25,0,14,Daniel Jones pass incomplete deep left intended for Darren Waller (defended by Eli Apple)
+45,2,9:51,3,10,NYG 25,0,14,Daniel Jones pass complete short left to Darren Waller for 21 yards (tackle by DeShon Elliott)
+46,2,9:17,1,10,NYG 46,0,14,Eric Gray left tackle for no gain (tackle by Eli Apple)
+47,2,8:40,2,10,NYG 46,0,14,Eric Gray up the middle for 3 yards (tackle by Bradley Chubb)
+48,2,7:57,3,7,NYG 49,0,14,"Daniel Jones pass incomplete short right intended for Wan'Dale Robinson. Penalty on Christian Wilkins: Defensive Offside, 5 yards (accepted) (no play)"
+49,2,7:52,3,2,MIA 46,0,14,Matt Breida up the middle for 1 yard (tackle by Bradley Chubb)
+50,2,7:08,4,1,MIA 45,0,14,"Daniel Jones for 1 yard (tackle by Christian Wilkins and Raekwon Davis). Penalty on Xavien Howard: Illegal Substitution, 5 yards (accepted) (no play)"
+51,2,7:08,1,10,MIA 40,0,14,Daniel Jones pass complete short right to Wan'Dale Robinson for 6 yards (tackle by Kader Kohou)
+52,2,6:32,2,4,MIA 34,0,14,"Penalty on Joshua Ezeudu: False Start, 5 yards (accepted) (no play)"
+53,2,6:23,2,9,MIA 39,0,14,"Penalty on Joshua Ezeudu: False Start, 5 yards (accepted) (no play)"
+54,2,6:07,2,14,MIA 44,0,14,Daniel Jones up the middle for 5 yards (tackle by Raekwon Davis and Jerome Baker)
+55,2,5:24,3,9,MIA 39,0,14,Daniel Jones pass complete short left to Darren Waller for 13 yards (tackle by Eli Apple and Justin Bethel)
+56,2,4:41,1,10,MIA 26,0,14,Daniel Jones pass incomplete deep right intended for Darren Waller (defended by Xavien Howard)
+57,2,4:34,2,10,MIA 26,0,14,Eric Gray up the middle for 1 yard (tackle by Zach Sieler)
+58,2,3:59,3,9,MIA 25,0,14,"Daniel Jones sacked by Zach Sieler for -6 yards. Penalty on Joshua Ezeudu: Offensive Holding, 10 yards (declined) "
+59,2,3:46,4,15,MIA 31,3,14,Graham Gano 49 yard field goal good
+60,2,3:41,0,0,NYG 35,3,14,"Graham Gano kicks off 65 yards, touchback."
+61,2,3:41,1,10,MIA 25,3,14,"Penalty on Isaiah Wynn: False Start, 5 yards (accepted) (no play)"
+62,2,3:41,1,15,MIA 20,3,14,Tua Tagovailoa pass complete short right to Tyreek Hill for 64 yards (tackle by Xavier McKinney)
+63,2,3:03,1,10,NYG 16,3,14,De'Von Achane right end for 12 yards (tackle by Jason Pinnock)
+64,2,2:19,1,4,NYG 4,3,14,De'Von Achane up the middle for no gain (tackle by Bobby Okereke)
+65,2,2:00,2,4,NYG 4,3,14,Tua Tagovailoa pass incomplete short left intended for Jaylen Waddle (defended by Deonte Banks)
+66,2,1:55,3,4,NYG 4,9,14,"Tua Tagovailoa pass short left (defended by Bobby Okereke) intended for Jaylen Waddle is intercepted by Jason Pinnock in end zone and returned for 102 yards, touchdown"
+67,2,1:40,0,0,MIA 15,10,14,Graham Gano kicks extra point good
+68,2,1:40,0,0,NYG 35,10,14,"Graham Gano kicks off 62 yards, returned by Braxton Berrios for 25 yards (tackle by Carter Coughlin)"
+69,2,1:35,1,10,MIA 28,10,14,Tua Tagovailoa pass complete short right to Braxton Berrios for 13 yards (tackle by Cordale Flott)
+70,2,1:15,1,10,MIA 41,10,14,Tua Tagovailoa pass complete short right to Cedrick Wilson for 13 yards (tackle by Xavier McKinney)
+71,2,1:01,1,10,NYG 46,10,14,Tua Tagovailoa pass complete short left to Jaylen Waddle for 1 yard (tackle by Cordale Flott)
+72,2,0:50,2,9,NYG 45,10,14,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 12 yards (tackle by Tre Hawkins)
+73,2,0:35,1,10,NYG 33,10,14,Tua Tagovailoa pass complete short right to Cedrick Wilson for 10 yards (tackle by Jason Pinnock)
+74,2,0:29,1,10,NYG 23,10,14,Tua Tagovailoa sacked by Kayvon Thibodeaux for -6 yards
+75,2,0:24,2,16,NYG 29,10,14,Tua Tagovailoa scrambles up the middle for 7 yards (tackle by Bobby Okereke)
+76,2,0:04,3,9,NYG 22,10,14,Tua Tagovailoa spiked the ball
+77,2,0:04,4,9,NYG 22,10,17,Jason Sanders 40 yard field goal good
+78,3,15:00,0,0,NYG 35,10,17,"Graham Gano kicks off 65 yards, touchback."
+79,3,15:00,1,10,MIA 25,10,17,Tua Tagovailoa pass incomplete deep right intended for Tyreek Hill (defended by Cordale Flott)
+80,3,14:54,2,10,MIA 25,10,17,Tua Tagovailoa pass complete short right to Cedrick Wilson for 6 yards (tackle by Deonte Banks)
+81,3,14:15,3,4,MIA 31,10,23,"Tua Tagovailoa pass complete deep right to Tyreek Hill for 69 yards, touchdown"
+82,3,14:06,0,0,NYG 15,10,24,Jason Sanders kicks extra point good
+83,3,14:06,0,0,MIA 35,10,24,"Penalty on Tyreek Hill: Taunting / Offense, 15 yards (accepted) (no play)"
+84,3,14:06,0,0,MIA 20,10,24,"Jason Sanders kicks off 75 yards, returned by Eric Gray for 20 yards (tackle by Elijah Campbell)"
+85,3,13:59,1,10,NYG 25,10,24,Daniel Jones right tackle for 6 yards (tackle by Jevon Holland)
+86,3,13:25,2,4,NYG 31,10,24,Daniel Jones pass complete short right to Darren Waller for 6 yards (tackle by Jevon Holland)
+87,3,12:27,1,10,NYG 37,10,24,Daniel Jones pass complete short middle to Matt Breida for 3 yards (tackle by David Long)
+88,3,12:09,2,7,NYG 40,10,24,Matt Breida left guard for 1 yard (tackle by Zach Sieler)
+89,3,11:35,3,6,NYG 41,10,24,Daniel Jones scrambles right end for 11 yards (tackle by Jerome Baker)
+90,3,10:58,1,10,MIA 48,10,24,Daniel Jones sacked by Jerome Baker for no gain
+91,3,10:17,2,10,MIA 48,10,24,"Eric Gray up the middle for 3 yards. Eric Gray fumbles (forced by David Long), recovered by Joshua Ezeudu at MIA-44 (tackle by Raekwon Davis) (tackle by David Long) (tackle by David Long)"
+92,3,9:30,3,6,MIA 44,10,24,Daniel Jones pass incomplete short right intended for Wan'Dale Robinson
+93,3,9:25,4,6,MIA 44,10,24,"Jamie Gillan punts 34 yards, fair catch by Braxton Berrios at MIA-10"
+94,3,9:17,1,10,MIA 10,10,24,"Raheem Mostert left end for 7 yards (tackle by Xavier McKinney). Penalty on Connor Williams: Offensive Holding, 8 yards (accepted) "
+95,3,8:59,1,11,MIA 9,10,24,De'Von Achane right end for 12 yards (tackle by Bobby Okereke and Kayvon Thibodeaux)
+96,3,8:22,1,10,MIA 21,10,24,Tua Tagovailoa pass complete short left to Tyreek Hill for 6 yards (tackle by Isaiah Simmons)
+97,3,7:39,2,4,MIA 27,10,24,Tua Tagovailoa pass complete short left to Braxton Berrios for no gain (tackle by Bobby Okereke)
+98,3,6:54,3,4,MIA 27,10,24,Tua Tagovailoa pass short left intended for Jaylen Waddle is intercepted by Bobby Okereke at MIA-30 and returned for 7 yards (tackle by Jaylen Waddle)
+99,3,6:44,1,10,MIA 23,10,24,Eric Gray right tackle for -1 yards (tackle by Bradley Chubb)
+100,3,6:10,2,11,MIA 24,10,24,Matt Breida up the middle for 8 yards (tackle by Jevon Holland)
+101,3,5:41,3,3,MIA 16,10,24,"Matt Breida up the middle for no gain (tackle by Andrew Van Ginkel and Jerome Baker). Penalty on Jalen Mayfield: Offensive Holding, 10 yards (accepted) (no play)"
+102,3,5:16,3,13,MIA 26,10,24,Daniel Jones pass complete short middle to Wan'Dale Robinson for 7 yards (tackle by Kader Kohou)
+103,3,4:31,4,6,MIA 19,13,24,Graham Gano 37 yard field goal good
+104,3,4:26,0,0,NYG 35,13,24,"Graham Gano kicks off 65 yards, touchback."
+105,3,4:26,1,10,MIA 25,13,24,De'Von Achane right end for 8 yards (tackle by Isaiah Simmons)
+106,3,3:46,2,2,MIA 33,13,24,Tua Tagovailoa pass complete short middle to De'Von Achane for 14 yards (tackle by Dane Belton)
+107,3,3:04,1,10,MIA 47,13,24,Raheem Mostert left end for 11 yards (tackle by Isaiah Simmons and Bobby Okereke)
+108,3,2:25,1,10,NYG 42,13,24,Raheem Mostert right tackle for 23 yards (tackle by Jason Pinnock)
+109,3,1:42,1,10,NYG 19,13,24,De'Von Achane right tackle for 6 yards (tackle by Isaiah Simmons)
+110,3,1:08,2,4,NYG 13,13,24,De'Von Achane left end for 5 yards (tackle by Bobby Okereke)
+111,3,0:26,1,8,NYG 8,13,24,Raheem Mostert up the middle for 6 yards (tackle by Isaiah Simmons)
+112,3,0:01,2,2,NYG 2,13,30,"Raheem Mostert up the middle for 2 yards, touchdown"
+113,3,0:00,0,0,NYG 15,13,31,Jason Sanders kicks extra point good
+114,4,15:00,0,0,MIA 35,13,31,"Jason Sanders kicks off 65 yards, touchback."
+115,4,15:00,1,10,NYG 25,13,31,Daniel Jones pass complete short right to Daniel Bellinger for 7 yards (tackle by Xavien Howard)
+116,4,14:29,2,3,NYG 32,13,31,Daniel Jones pass incomplete deep right intended for Darius Slayton
+117,4,14:19,3,3,NYG 32,13,31,Daniel Jones pass incomplete short middle
+118,4,14:13,4,3,NYG 32,13,31,"Jamie Gillan punts 40 yards, fair catch by Braxton Berrios at MIA-28"
+119,4,14:07,1,10,MIA 28,13,31,De'Von Achane up the middle for 2 yards (tackle by Dexter Lawrence)
+120,4,13:29,2,8,MIA 30,13,31,De'Von Achane left end for 1 yard (tackle by Leonard Williams and Jihad Ward)
+121,4,12:55,3,7,MIA 31,13,31,Tua Tagovailoa pass incomplete short middle intended for Jaylen Waddle
+122,4,12:50,4,7,MIA 31,13,31,Jake Bailey punts 20 yards out of bounds
+123,4,12:45,1,10,NYG 49,13,31,Daniel Jones sacked by Andrew Van Ginkel for -7 yards
+124,4,12:11,2,17,NYG 42,13,31,Tyrod Taylor pass complete short left to Darren Waller for 9 yards (tackle by Jerome Baker)
+125,4,11:45,3,8,MIA 49,13,31,Tyrod Taylor pass incomplete short right
+126,4,11:29,4,8,MIA 49,13,31,Tyrod Taylor scrambles right end for 9 yards (tackle by Kader Kohou)
+127,4,11:09,1,10,MIA 40,13,31,Matt Breida left end for 4 yards (tackle by Eli Apple)
+128,4,10:33,2,6,MIA 36,13,31,Tyrod Taylor pass complete short middle to Wan'Dale Robinson for 7 yards (tackle by Kader Kohou and David Long)
+129,4,10:16,1,10,MIA 29,13,31,Tyrod Taylor pass incomplete deep middle intended for Darren Waller (defended by Jevon Holland)
+130,4,10:09,2,10,MIA 29,13,31,Eric Gray up the middle for -1 yards (tackle by David Long)
+131,4,9:41,3,11,MIA 30,13,31,Tyrod Taylor sacked by Zach Sieler for -3 yards
+132,4,8:56,4,14,MIA 33,16,31,Graham Gano 51 yard field goal good
+133,4,8:51,0,0,NYG 35,16,31,"Graham Gano kicks off 65 yards, touchback."
+134,4,8:51,1,10,MIA 25,16,31,Raheem Mostert right end for 5 yards (tackle by Dane Belton and Bobby Okereke)
+135,4,8:07,2,5,MIA 30,16,31,Tua Tagovailoa pass complete short left to Tyreek Hill for 4 yards (tackle by Tre Hawkins)
+136,4,7:21,3,1,MIA 34,16,31,Tua Tagovailoa pass complete short right to Jaylen Waddle for no gain (tackle by Deonte Banks)
+137,4,6:35,4,1,MIA 34,16,31,"Jake Bailey punts 49 yards, fair catch by Eric Gray at NYG-17"
+138,4,6:25,1,10,NYG 17,16,31,"Tyrod Taylor pass incomplete short right. Penalty on Jalen Mayfield: Offensive Holding, 8 yards (accepted) (no play)"
+139,4,6:19,1,18,NYG 9,16,31,Tyrod Taylor pass complete short left to Parris Campbell for 17 yards (tackle by Eli Apple)
+140,4,5:49,2,1,NYG 26,16,31,Tyrod Taylor pass complete short left to Parris Campbell for 6 yards (tackle by Kader Kohou and Jerome Baker)
+141,4,5:24,1,10,NYG 32,16,31,"Penalty on Matt Peart: False Start, 5 yards (accepted) (no play)"
+142,4,5:18,1,15,NYG 27,16,31,Tyrod Taylor pass complete short left to Eric Gray for 1 yard (tackle by Andrew Van Ginkel)
+143,4,4:44,2,14,NYG 28,16,31,Tyrod Taylor pass complete short middle to Darren Waller for 15 yards (tackle by DeShon Elliott)
+144,4,4:24,1,10,NYG 43,16,31,Tyrod Taylor pass complete short right to Darren Waller for 7 yards (tackle by David Long and Jerome Baker)
+145,4,3:58,2,3,MIA 50,16,31,Tyrod Taylor pass incomplete short left intended for Sterling Shepard
+146,4,3:53,3,3,MIA 50,16,31,Eric Gray up the middle for 1 yard (tackle by Zach Sieler)
+147,4,3:19,4,2,MIA 49,16,31,"Tyrod Taylor sacked by Andrew Van Ginkel for no gain. Penalty on Xavien Howard: Illegal Contact, 5 yards (accepted) (no play)"
+148,4,3:09,1,10,MIA 44,16,31,Matt Breida up the middle for -2 yards (tackle by Raekwon Davis and Bradley Chubb)
+149,4,2:43,2,12,MIA 46,16,31,Tyrod Taylor pass complete short right to Darius Slayton for 20 yards (tackle by Eli Apple)
+150,4,2:27,1,10,MIA 26,16,31,Tyrod Taylor pass complete short left to Isaiah Hodgins for 4 yards (tackle by Eli Apple)
+151,4,2:06,2,6,MIA 22,16,31,Tyrod Taylor scrambles right tackle for 3 yards (tackle by Jerome Baker)
+152,4,1:55,3,3,MIA 19,16,31,Matt Breida right guard for no gain (tackle by Christian Wilkins and David Long)
+153,4,1:33,4,3,MIA 19,16,31,Tyrod Taylor scrambles up the middle for 2 yards (tackle by Andrew Van Ginkel)
+154,4,1:21,1,10,MIA 17,16,31,Raheem Mostert left end for 1 yard (tackle by Bobby Okereke and Dane Belton)
+155,4,1:15,2,9,MIA 18,16,31,Raheem Mostert right end for 3 yards (tackle by Isaiah Simmons)
+156,4,1:11,3,6,MIA 21,16,31,Tua Tagovailoa pass complete short right to Raheem Mostert for 8 yards (tackle by Isaiah Simmons)
+157,4,0:22,1,10,MIA 29,16,31,Tua Tagovailoa kneels for -1 yards

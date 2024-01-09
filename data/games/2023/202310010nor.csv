@@ -1,0 +1,169 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,TAM 35,0,0,"Jake Camarda kicks off 62 yards, returned by Rashid Shaheed for 22 yards (tackle by Ryan Neal)"
+1,1,14:56,1,10,NOR 25,0,0,Derek Carr pass complete short right to Alvin Kamara for no gain (tackle by Lavonte David and Antoine Winfield)
+2,1,14:22,2,10,NOR 25,0,0,Derek Carr pass complete short left to Rashid Shaheed for 12 yards (tackle by Ryan Neal)
+3,1,14:05,1,10,NOR 37,0,0,Taysom Hill pass complete short right to Michael Thomas for 13 yards (tackle by Carlton Davis)
+4,1,13:18,1,10,TAM 50,0,0,Alvin Kamara left tackle for 5 yards (tackle by Devin White)
+5,1,12:48,2,6,TAM 45,0,0,Alvin Kamara right guard for 4 yards (tackle by Shaquil Barrett)
+6,1,12:11,3,1,TAM 41,0,0,Derek Carr pass incomplete deep right intended for Rashid Shaheed
+7,1,12:05,4,1,TAM 41,0,0,Taysom Hill up the middle for 2 yards (tackle by Lavonte David and Joe Tryon-Shoyinka)
+8,1,11:31,1,10,TAM 39,0,0,"Derek Carr pass incomplete. Penalty on Mike Greene: Roughing the Passer, 15 yards (accepted) (no play)"
+9,1,11:27,1,10,TAM 24,0,0,Derek Carr pass complete short right to Alvin Kamara for 5 yards (tackle by Greg Gaines and Anthony Nelson)
+10,1,10:49,2,5,TAM 19,0,0,Derek Carr pass complete short middle to Alvin Kamara for -7 yards (tackle by YaYa Diaby)
+11,1,10:03,3,12,TAM 26,0,0,Derek Carr pass complete short right to Taysom Hill for 7 yards (tackle by Shaquil Barrett)
+12,1,9:23,4,5,TAM 19,0,3,Blake Grupe 37 yard field goal good
+13,1,9:20,0,0,NOR 35,0,3,"Blake Grupe kicks off 65 yards, touchback."
+14,1,9:20,1,10,TAM 25,0,3,Baker Mayfield pass complete deep left to Mike Evans for 18 yards (tackle by Marshon Lattimore)
+15,1,8:43,1,10,TAM 43,0,3,Rachaad White right tackle for 4 yards (tackle by Zack Baun)
+16,1,8:16,2,6,TAM 47,0,3,Baker Mayfield pass complete short right to Chris Godwin for 5 yards (tackle by Zack Baun)
+17,1,7:43,3,1,NOR 48,0,3,"Penalty on Cade Otton: False Start, 5 yards (accepted) (no play)"
+18,1,7:43,3,6,TAM 47,0,3,Baker Mayfield scrambles up the middle for 6 yards (tackle by Pete Werner)
+19,1,7:05,1,10,NOR 47,0,3,"Baker Mayfield pass incomplete short right. Penalty on Baker Mayfield: Intentional Grounding, 12 yards (accepted) "
+20,1,6:58,2,22,TAM 41,0,3,Baker Mayfield pass complete short right to Cade Otton for 6 yards (tackle by Pete Werner and Malcolm Roach)
+21,1,6:13,3,16,TAM 47,0,3,Baker Mayfield pass complete short right to Rachaad White for 10 yards (tackle by Marshon Lattimore)
+22,1,5:27,4,6,NOR 43,0,3,Jake Camarda punts 27 yards out of bounds
+23,1,5:20,1,10,NOR 16,0,3,Derek Carr pass incomplete deep left intended for Michael Thomas
+24,1,5:15,2,10,NOR 16,0,3,Taysom Hill left tackle for 1 yard (tackle by Antoine Winfield)
+25,1,4:38,3,9,NOR 17,0,3,Derek Carr pass incomplete short left intended for Adam Prentice
+26,1,4:24,4,9,NOR 17,0,3,"Lou Hedley punts 36 yards, fair catch by Deven Thompkins at TB-47. Penalty on J.J. Russell: Offensive Holding, 10 yards (accepted) "
+27,1,4:24,1,10,TAM 37,0,3,Rachaad White right guard for 3 yards (tackle by Nathan Shepherd and Khalen Saunders)
+28,1,3:53,2,7,TAM 40,0,3,Baker Mayfield pass incomplete deep right intended for Chris Godwin
+29,1,3:46,3,7,TAM 40,0,3,Baker Mayfield pass incomplete short middle intended for Cade Otton (defended by Lonnie Johnson)
+30,1,3:41,4,7,TAM 40,0,3,"Jake Camarda punts 41 yards, fair catch by Rashid Shaheed at NO-19"
+31,1,3:34,1,10,NOR 19,0,3,Derek Carr pass incomplete short left intended for Rashid Shaheed
+32,1,3:30,2,10,NOR 19,0,3,Alvin Kamara right guard for 3 yards (tackle by YaYa Diaby)
+33,1,2:58,3,7,NOR 22,0,3,Derek Carr pass complete short left to Alvin Kamara for 10 yards (tackle by Christian Izien)
+34,1,2:16,1,10,NOR 32,0,3,"Taysom Hill scrambles right end for no gain (tackle by Anthony Nelson). Penalty on James Hurst: Offensive Holding, 10 yards (accepted) (no play)"
+35,1,1:59,1,20,NOR 22,0,3,Derek Carr pass complete short right to Alvin Kamara for 8 yards (tackle by Lavonte David and Vita Vea)
+36,1,1:22,2,12,NOR 30,0,3,"Penalty on YaYa Diaby: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+37,1,1:18,2,7,NOR 35,0,3,Derek Carr pass complete short left to Rashid Shaheed for 11 yards (tackle by Zyon McCollum)
+38,1,0:43,1,10,NOR 46,0,3,Derek Carr pass complete short right to Alvin Kamara for no gain (tackle by Shaquil Barrett)
+39,2,15:00,2,10,NOR 46,0,3,Derek Carr pass complete short right to Kendre Miller for 5 yards (tackle by Dee Delaney)
+40,2,14:23,3,5,TAM 49,0,3,Derek Carr pass incomplete deep left intended for Rashid Shaheed
+41,2,14:17,4,5,TAM 49,0,3,"Lou Hedley punts 36 yards, fair catch by Deven Thompkins at TB-13"
+42,2,14:10,1,10,TAM 13,0,3,Baker Mayfield pass complete short middle to Ke'Shawn Vaughn for 3 yards (tackle by Pete Werner)
+43,2,13:44,2,7,TAM 16,0,3,Baker Mayfield pass complete short left to Chris Godwin for 9 yards (tackle by Demario Davis and Alontae Taylor)
+44,2,13:08,1,10,TAM 25,0,3,Deven Thompkins left end for 11 yards (tackle by Isaiah Foskey and Tyrann Mathieu)
+45,2,12:36,1,10,TAM 36,0,3,Ke'Shawn Vaughn right guard for 5 yards (tackle by Malcolm Roach and Pete Werner)
+46,2,12:00,2,5,TAM 41,0,3,Baker Mayfield pass complete short right to Chris Godwin for 5 yards (tackle by Isaac Yiadom)
+47,2,11:21,1,10,TAM 46,0,3,Baker Mayfield pass complete deep left to Mike Evans for 18 yards (tackle by Marshon Lattimore)
+48,2,10:48,1,10,NOR 36,0,3,Baker Mayfield pass complete short middle to Rakim Jarrett for 3 yards (tackle by Carl Granderson and Isaac Yiadom)
+49,2,10:07,2,7,NOR 33,0,3,Chris Godwin pass incomplete deep right intended for Trey Palmer (defended by Isaac Yiadom)
+50,2,10:00,3,7,NOR 33,0,3,Baker Mayfield scrambles left end for 7 yards (tackle by Carl Granderson)
+51,2,9:20,1,10,NOR 26,0,3,Rachaad White right guard for -3 yards (tackle by Bryan Bresee)
+52,2,8:42,2,13,NOR 29,0,3,Baker Mayfield pass complete short left to Deven Thompkins for 6 yards (tackle by Marshon Lattimore)
+53,2,8:03,3,7,NOR 23,0,3,"Baker Mayfield pass incomplete deep right intended for Mike Evans. Penalty on Marshon Lattimore: Defensive Pass Interference, 8 yards (accepted) (no play)"
+54,2,7:58,1,10,NOR 15,0,3,Rachaad White left tackle for 1 yard (tackle by Pete Werner and Cameron Jordan)
+55,2,7:24,2,9,NOR 14,0,3,Baker Mayfield pass complete short middle to Chris Godwin for 1 yard (tackle by Cameron Jordan)
+56,2,6:40,3,8,NOR 13,0,3,Baker Mayfield pass complete short right to Rachaad White for 11 yards (tackle by Demario Davis)
+57,2,6:10,1,1,NOR 2,0,3,Baker Mayfield pass incomplete short right
+58,2,6:02,2,2,NOR 2,0,3,Ke'Shawn Vaughn right guard for -2 yards (tackle by Malcolm Roach)
+59,2,5:25,3,4,NOR 4,6,3,"Baker Mayfield pass complete short middle to Cade Otton for 4 yards, touchdown"
+60,2,5:19,1,1,NOR 1,7,3,Chase McLaughlin kicks extra point good
+61,2,5:19,0,0,TAM 35,7,3,"Penalty on Nathan Shepherd: Roughing the Passer, 15 yards (accepted) "
+62,2,5:19,0,0,TAM 50,7,3,"Jake Camarda kicks off 38 yards,"
+63,2,5:19,1,10,NOR 25,7,3,Alvin Kamara right tackle for 3 yards (tackle by William Gholston)
+64,2,4:49,2,7,NOR 28,7,3,Derek Carr pass incomplete short left intended for Chris Olave (defended by Zyon McCollum)
+65,2,4:46,3,7,NOR 28,7,3,Derek Carr pass complete short right to Rashid Shaheed for 10 yards
+66,2,4:13,1,10,NOR 38,7,3,Kendre Miller left tackle for 3 yards (tackle by Antoine Winfield)
+67,2,3:38,2,7,NOR 41,7,3,Alvin Kamara right guard for 3 yards (tackle by Lavonte David and Devin White)
+68,2,3:03,3,4,NOR 44,7,3,Derek Carr sacked by Antoine Winfield for -4 yards
+69,2,2:06,4,8,NOR 40,7,3,"Lou Hedley punts 52 yards, returned by Deven Thompkins for 7 yards (tackle by Zach Wood and D'Marco Jackson). Penalty on Zach Wood: Ineligible Downfield Kick, 5 yards (accepted) "
+70,2,2:06,1,10,TAM 20,7,3,Rachaad White right end for 11 yards (tackle by Isaac Yiadom and Demario Davis)
+71,2,2:00,1,10,TAM 31,7,3,Baker Mayfield pass complete short left to Mike Evans for 4 yards (tackle by Alontae Taylor and Demario Davis)
+72,2,1:49,2,6,TAM 35,7,3,Baker Mayfield pass complete short left to Trey Palmer for 5 yards (tackle by Alontae Taylor)
+73,2,1:41,3,1,TAM 40,7,3,Rachaad White left guard for 5 yards (tackle by Khalen Saunders and Nathan Shepherd)
+74,2,1:30,1,10,TAM 45,7,3,Baker Mayfield pass complete short left to Deven Thompkins for 26 yards (tackle by Marshon Lattimore)
+75,2,0:59,1,10,NOR 29,7,3,"Rachaad White left guard for 10 yards (tackle by Tyrann Mathieu). Penalty on Trey Palmer: Offensive Holding, 10 yards (accepted) "
+76,2,0:51,1,20,NOR 29,7,3,Baker Mayfield pass complete short right to Chris Godwin for 8 yards (tackle by Pete Werner)
+77,2,0:46,2,2,NOR 21,7,3,Baker Mayfield pass deep right intended for Chris Godwin is intercepted by Isaac Yiadom at NO-1 and returned for no gain (tackle by Chris Godwin)
+78,2,0:41,1,10,NOR 1,7,3,"Adam Prentice right guard for 5 yards. Adam Prentice fumbles (forced by Antoine Winfield), recovered by Antoine Winfield at NO-6 (tackle by Antoine Winfield) (tackle by Antoine Winfield)"
+79,2,0:29,1,6,NOR 6,7,3,Rachaad White right guard for 5 yards (tackle by Nathan Shepherd and Johnathan Abram)
+80,2,0:22,2,1,NOR 1,13,3,"Baker Mayfield pass complete short right to Trey Palmer for 1 yard, touchdown"
+81,2,0:19,0,0,NOR 15,14,3,Chase McLaughlin kicks extra point good
+82,2,0:19,0,0,TAM 35,14,3,"Jake Camarda kicks off 65 yards, returned by Rashid Shaheed for 17 yards (tackle by K.J. Britt)"
+83,2,0:15,1,10,NOR 17,14,3,Derek Carr kneels for -1 yards
+84,3,15:00,0,0,NOR 35,14,3,"Blake Grupe kicks off 65 yards, touchback."
+85,3,15:00,1,10,TAM 25,14,3,Rachaad White right guard for 1 yard (tackle by Nathan Shepherd and Khalen Saunders)
+86,3,14:21,2,9,TAM 26,14,3,Baker Mayfield pass complete short right to Rachaad White for 1 yard (tackle by Carl Granderson)
+87,3,13:44,3,8,TAM 27,14,3,Baker Mayfield sacked by Bryan Bresee for -7 yards
+88,3,13:06,4,15,TAM 20,14,3,"Jake Camarda punts, returned by Rashid Shaheed for no gain (tackle by Sean Tucker). Penalty on Rakim Jarrett: Unsportsmanlike Conduct / Defense, 15 yards (offset) . Penalty on Ugo Amadi: Offensive Holding, 10 yards (offset) (no play)"
+89,3,12:57,4,15,TAM 20,14,3,"Jake Camarda punts 63 yards, returned by Rashid Shaheed for 29 yards (tackle by K.J. Britt and Ko Kieft)"
+90,3,12:45,1,10,NOR 46,14,3,"Penalty on Erik McCoy: False Start, 5 yards (accepted) (no play)"
+91,3,12:45,1,15,NOR 41,14,3,"Derek Carr sacked by Shaquil Barrett for no gain. Penalty on Shaquil Barrett: Face Mask (15 Yards), 15 yards (accepted) (no play)"
+92,3,11:57,1,10,TAM 44,14,3,Derek Carr pass complete short right to Alvin Kamara for -6 yards (tackle by Antoine Winfield)
+93,3,11:44,2,16,NOR 50,14,3,Derek Carr pass incomplete deep right intended for Chris Olave
+94,3,11:38,3,16,NOR 50,14,3,Derek Carr pass incomplete deep right intended for Chris Olave (defended by Antoine Winfield)
+95,3,11:30,4,16,NOR 50,14,3,"Lou Hedley punts 38 yards, fair catch by Deven Thompkins at TB-12"
+96,3,11:23,1,10,TAM 12,14,3,Baker Mayfield scrambles left end for 4 yards (tackle by Demario Davis)
+97,3,10:43,2,7,TAM 16,14,3,Rachaad White right guard for 7 yards (tackle by Cameron Jordan)
+98,3,10:08,1,10,TAM 23,14,3,Ke'Shawn Vaughn left guard for 8 yards (tackle by Cameron Jordan)
+99,3,9:42,2,2,TAM 31,14,3,Ke'Shawn Vaughn left tackle for 1 yard (tackle by Johnathan Abram and Malcolm Roach)
+100,3,9:01,3,1,TAM 32,14,3,Ke'Shawn Vaughn right guard for no gain (tackle by Bryan Bresee and Malcolm Roach)
+101,3,8:08,4,1,TAM 32,14,3,"Penalty on Baker Mayfield: Delay of Game, 4 yards (accepted) (no play)"
+102,3,8:07,4,6,TAM 28,14,3,"Jake Camarda punts 59 yards, returned by Rashid Shaheed for 16 yards (tackle by Kaevon Merriweather)"
+103,3,7:58,1,10,NOR 29,14,3,Alvin Kamara right guard for 9 yards (tackle by Dee Delaney)
+104,3,7:22,2,1,NOR 38,14,3,Alvin Kamara right guard for 6 yards (tackle by Antoine Winfield and Christian Izien)
+105,3,6:40,1,10,NOR 44,14,3,Taysom Hill left guard for 3 yards (tackle by Antoine Winfield)
+106,3,6:05,2,7,NOR 47,14,3,Derek Carr pass complete short right to Michael Thomas for 8 yards (tackle by Christian Izien)
+107,3,5:32,1,10,TAM 45,14,3,Alvin Kamara right tackle for 13 yards (tackle by Dee Delaney)
+108,3,4:51,1,10,TAM 32,14,3,Alvin Kamara right tackle for 1 yard (tackle by Logan Hall and Devin White)
+109,3,4:10,2,9,TAM 31,14,3,Taysom Hill scrambles right guard for 4 yards (tackle by Joe Tryon-Shoyinka)
+110,3,3:23,3,5,TAM 27,14,3,Derek Carr pass complete short left to Alvin Kamara for 8 yards (tackle by Zyon McCollum)
+111,3,2:46,1,10,TAM 19,14,3,Taysom Hill sacked by Vita Vea for -3 yards
+112,3,2:08,2,13,TAM 22,14,3,Derek Carr pass complete short right to Chris Olave for 4 yards (tackle by Carlton Davis)
+113,3,1:33,3,9,TAM 18,14,3,Derek Carr pass complete short left to Alvin Kamara for 4 yards (tackle by Lavonte David and Christian Izien)
+114,3,0:52,4,6,TAM 14,14,6,Blake Grupe 32 yard field goal good
+115,3,0:49,0,0,NOR 35,14,6,"Blake Grupe kicks off 65 yards, touchback."
+116,3,0:49,1,10,TAM 25,14,6,Rachaad White right guard for 3 yards (tackle by Isaiah Foskey)
+117,3,0:13,2,7,TAM 28,14,6,Baker Mayfield pass complete deep left to Chris Godwin for 32 yards (tackle by Alontae Taylor)
+118,4,15:00,1,10,NOR 40,14,6,Baker Mayfield pass incomplete short left
+119,4,14:55,2,10,NOR 40,14,6,"Baker Mayfield pass incomplete intended for Cade Otton. Penalty on Robert Hainsey: Ineligible Downfield Pass, 5 yards (accepted) (no play)"
+120,4,14:51,2,15,NOR 45,14,6,Baker Mayfield scrambles up the middle for 10 yards (tackle by Tyrann Mathieu)
+121,4,14:06,3,5,NOR 35,14,6,"Penalty on Deven Thompkins: False Start, 5 yards (accepted) (no play)"
+122,4,14:02,3,10,NOR 40,14,6,Baker Mayfield scrambles right end for 7 yards (tackle by Johnathan Abram)
+123,4,13:35,4,3,NOR 33,17,6,Chase McLaughlin 51 yard field goal good
+124,4,13:31,0,0,TAM 35,17,6,"Jake Camarda kicks off 65 yards, touchback."
+125,4,13:31,1,10,NOR 25,17,6,Derek Carr pass complete short left to Adam Prentice for 5 yards (tackle by Zyon McCollum)
+126,4,13:00,2,5,NOR 30,17,6,Alvin Kamara right tackle for 3 yards (tackle by Christian Izien)
+127,4,12:25,3,2,NOR 33,17,6,"Alvin Kamara left tackle for 1 yard (tackle by Mike Greene). Penalty on Max Garcia: Offensive Holding, 10 yards (accepted) "
+128,4,12:11,3,11,NOR 24,17,6,Derek Carr pass complete short right to Michael Thomas for 20 yards (tackle by Carlton Davis)
+129,4,11:33,1,10,NOR 44,17,6,Derek Carr pass incomplete deep left intended for Rashid Shaheed
+130,4,11:27,2,10,NOR 44,17,6,Derek Carr pass complete short left to Michael Thomas for 12 yards (tackle by Zyon McCollum)
+131,4,11:02,1,10,TAM 44,17,6,Derek Carr pass complete short right to Alvin Kamara for 4 yards (tackle by Christian Izien)
+132,4,10:36,2,6,TAM 40,17,6,Derek Carr pass complete short left to Alvin Kamara for 5 yards (tackle by Antoine Winfield)
+133,4,10:16,3,1,TAM 35,17,6,Derek Carr up the middle for 2 yards (tackle by William Gholston)
+134,4,9:45,1,10,TAM 33,17,6,Derek Carr pass complete short middle to Alvin Kamara for 2 yards (tackle by Devin White)
+135,4,9:21,2,8,TAM 31,17,6,"Derek Carr pass incomplete short right intended for Chris Olave. Penalty on Christian Izien: Defensive Holding, 5 yards (accepted) (no play)"
+136,4,9:13,1,10,TAM 26,17,6,Derek Carr pass complete short right to Alvin Kamara for no gain (tackle by Carlton Davis and Devin White)
+137,4,8:40,2,10,TAM 26,17,6,Derek Carr pass incomplete short right
+138,4,8:38,3,10,TAM 26,17,6,Derek Carr pass incomplete short right intended for Alvin Kamara
+139,4,8:34,4,10,TAM 26,17,9,Blake Grupe 44 yard field goal good
+140,4,8:29,0,0,NOR 35,17,9,"Blake Grupe kicks off 65 yards, touchback."
+141,4,8:29,1,10,TAM 25,17,9,Baker Mayfield pass complete short left to Cade Otton for 3 yards (tackle by Tyrann Mathieu)
+142,4,7:45,2,7,TAM 28,17,9,Ke'Shawn Vaughn left end for 2 yards (tackle by Pete Werner and Tyrann Mathieu)
+143,4,7:02,3,5,TAM 30,17,9,Baker Mayfield pass complete short right to Deven Thompkins for 8 yards (tackle by Isaac Yiadom)
+144,4,6:20,1,10,TAM 38,17,9,Baker Mayfield pass complete short right to Chris Godwin for 12 yards (tackle by Isaac Yiadom)
+145,4,5:39,1,10,NOR 50,17,9,Ke'Shawn Vaughn left guard for 2 yards (tackle by Johnathan Abram and Khalen Saunders)
+146,4,4:53,2,8,NOR 48,17,9,Ke'Shawn Vaughn right end for 1 yard (tackle by Isaac Yiadom)
+147,4,4:12,3,7,NOR 47,17,9,"Baker Mayfield pass complete short middle to Chris Godwin for 42 yards (tackle by Johnathan Abram and J.T. Gray). Penalty on Demario Davis: Defensive Holding, 5 yards (declined) "
+148,4,4:01,1,5,NOR 5,17,9,Rachaad White left guard for no gain (tackle by Zack Baun and Carl Granderson)
+149,4,3:57,2,5,NOR 5,17,9,Baker Mayfield pass incomplete short right intended for Chris Godwin
+150,4,3:53,3,5,NOR 5,23,9,"Baker Mayfield pass complete short right to Deven Thompkins for 5 yards, touchdown"
+151,4,3:44,0,0,NOR 2,23,9,Two Point Attempt: Baker Mayfield pass incomplete intended for intended for Trey Palmer
+152,4,3:44,0,0,TAM 35,23,9,"Jake Camarda kicks off 65 yards, touchback."
+153,4,3:44,1,10,NOR 25,23,9,Derek Carr pass incomplete deep right intended for Chris Olave
+154,4,3:38,2,10,NOR 25,23,9,Derek Carr pass incomplete short right intended for Lynn Bowden
+155,4,3:34,3,10,NOR 25,23,9,Derek Carr pass incomplete deep middle intended for Michael Thomas (defended by Carlton Davis)
+156,4,3:29,4,10,NOR 25,23,9,"Derek Carr sacked by Vita Vea for -6 yards. Derek Carr fumbles (forced by Vita Vea), recovered by Logan Hall at NO-19"
+157,4,3:22,1,10,NOR 19,23,9,Rachaad White right guard for 7 yards (tackle by Zack Baun)
+158,4,2:43,2,3,NOR 12,23,9,Rachaad White left guard for 2 yards (tackle by Malcolm Roach and Khalen Saunders)
+159,4,2:33,3,1,NOR 10,23,9,Rachaad White right guard for no gain (tackle by Malcolm Roach and Pete Werner)
+160,4,2:27,4,1,NOR 10,26,9,Chase McLaughlin 28 yard field goal good
+161,4,2:24,0,0,TAM 35,26,9,"Jake Camarda kicks off 65 yards, touchback."
+162,4,2:24,1,10,NOR 25,26,9,"Jameis Winston pass deep right intended for Chris Olave is intercepted by Dee Delaney at TB-42 and returned for 4 yards. Penalty on James Hurst: Offensive Holding, 10 yards (declined) "
+163,4,2:14,1,10,TAM 46,26,9,Ke'Shawn Vaughn left end for -1 yards (tackle by Bryan Bresee and Isaiah Foskey)
+164,4,2:00,2,11,TAM 45,26,9,"Ke'Shawn Vaughn right tackle for no gain (tackle by Johnathan Abram). Penalty on Bryan Bresee: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)"
+165,4,1:56,1,10,TAM 50,26,9,Baker Mayfield kneels for -1 yards
+166,4,1:15,2,11,TAM 49,26,9,Baker Mayfield kneels for -1 yards
+167,4,0:35,3,12,TAM 48,26,9,Baker Mayfield kneels for -1 yards

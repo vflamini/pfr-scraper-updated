@@ -1,0 +1,157 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,DET 35,0,0,"Jack Fox kicks off 65 yards, touchback."
+1,1,15:00,1,10,CHI 25,0,0,David Montgomery up the middle for 1 yard (tackle by Alex Anzalone)
+2,1,14:19,2,9,CHI 26,0,0,Justin Fields pass incomplete deep left intended for Velus Jones
+3,1,13:35,3,9,CHI 26,0,0,Justin Fields scrambles left end for 8 yards (tackle by Josh Paschal)
+4,1,15:00,4,1,CHI 34,0,0,"Penalty on Jerry Jacobs: Defensive Holding, 5 yards (accepted) (no play)"
+5,1,13:17,1,10,CHI 39,0,0,Justin Fields right end for 5 yards (tackle by Aidan Hutchinson)
+6,1,13:08,2,5,CHI 44,0,0,Justin Fields pass complete short left to David Montgomery for 4 yards (tackle by Jerry Jacobs and Alex Anzalone)
+7,1,12:30,3,1,CHI 48,0,0,Justin Fields left end for 31 yards (tackle by Kerby Joseph)
+8,1,11:43,1,10,DET 21,0,0,Justin Fields pass incomplete deep right intended for Byron Pringle
+9,1,11:36,2,10,DET 21,0,0,Khalil Herbert right end for 8 yards (tackle by Malcolm Rodriguez and Romeo Okwara)
+10,1,11:00,3,2,DET 13,6,0,"Justin Fields pass complete short right to Cole Kmet for 13 yards, touchdown"
+11,1,10:54,0,0,DET 15,7,0,Cairo Santos kicks extra point good
+12,1,10:54,0,0,CHI 35,7,0,"Trenton Gill kicks off 65 yards, touchback."
+13,1,10:54,1,10,DET 25,7,0,Jared Goff pass complete short middle to Brock Wright for 2 yards (tackle by Joe Thomas)
+14,1,10:19,2,8,DET 27,7,0,Jamaal Williams up the middle for 4 yards (tackle by Joe Thomas and Angelo Blackson)
+15,1,9:36,3,4,DET 31,7,0,Jared Goff pass complete short left to Amon-Ra St. Brown for 28 yards (tackle by Josh Blackwell)
+16,1,8:53,1,10,CHI 41,7,0,Jared Goff pass incomplete short right intended for Jameson Williams
+17,1,8:46,2,10,CHI 41,7,0,"Jamaal Williams left end for 1 yard (tackle by DeAndre Houston-Carson). Penalty on Frank Ragnow: Offensive Holding, 10 yards (accepted) "
+18,1,8:21,2,19,DET 50,7,0,Jared Goff pass complete short left to Kalif Raymond for 15 yards (tackle by Jaylon Jones)
+19,1,7:45,3,4,CHI 35,7,0,Jared Goff pass incomplete short middle intended for DJ Chark
+20,1,7:38,4,4,CHI 35,7,0,"Jared Goff pass incomplete deep middle intended for DJ Chark. Penalty on Kyler Gordon: Defensive Pass Interference, 34 yards (accepted) (no play)"
+21,1,7:29,1,1,CHI 1,7,0,Jamaal Williams left tackle for -1 yards (tackle by Matthew Adams and DeMarquis Gates)
+22,1,6:48,2,2,CHI 2,7,6,"Jared Goff pass complete short right to Brock Wright for 2 yards, touchdown"
+23,1,6:45,0,0,CHI 15,7,7,Michael Badgley kicks extra point good
+24,1,6:45,0,0,DET 35,7,7,"Jack Fox kicks off 65 yards, touchback."
+25,1,6:45,1,10,CHI 25,7,7,Justin Fields sacked by John Cominsky for -3 yards
+26,1,6:01,2,13,CHI 22,7,7,David Montgomery up the middle for 9 yards (tackle by Alex Anzalone and Derrick Barnes)
+27,1,5:21,3,4,CHI 31,7,7,Justin Fields scrambles for 60 yards (tackle by Kerby Joseph)
+28,1,4:28,1,9,DET 9,7,7,David Montgomery right tackle for 6 yards (tackle by Derrick Barnes and Alex Anzalone)
+29,1,3:44,2,3,DET 3,7,7,Justin Fields right end for 1 yard (tackle by Aidan Hutchinson and Alim McNeill)
+30,1,3:06,3,2,DET 2,7,7,Justin Fields sacked by and Ifeatu Melifonwu for -3 yards and Aidan Hutchinson for -3 yards
+31,1,2:28,4,5,DET 5,10,7,Cairo Santos 23 yard field goal good
+32,1,2:26,0,0,CHI 35,10,7,"Trenton Gill kicks off 65 yards, touchback."
+33,1,2:26,1,10,DET 25,10,7,Jamaal Williams up the middle for 14 yards (tackle by Josh Blackwell)
+34,1,1:54,1,10,DET 39,10,7,Jared Goff pass complete short right to D'Andre Swift for 4 yards (tackle by Jaquan Brisker)
+35,1,1:23,2,6,DET 43,10,7,Jared Goff pass complete deep left to DJ Chark for 28 yards (tackle by DeAndre Houston-Carson and Matthew Adams)
+36,1,0:39,1,10,CHI 29,10,7,Jamaal Williams right end for 7 yards (tackle by Matthew Adams and Joe Thomas)
+37,2,15:00,2,3,CHI 22,10,7,Jared Goff pass complete to Jason Cabinda for 5 yards (tackle by Matthew Adams and Kyler Gordon)
+38,2,14:32,1,10,CHI 17,10,13,"D'Andre Swift left end for 17 yards, touchdown"
+39,2,14:24,0,0,CHI 15,10,14,Michael Badgley kicks extra point good
+40,2,14:24,0,0,DET 35,10,14,"Jack Fox kicks off 65 yards, touchback."
+41,2,14:24,1,10,CHI 25,10,14,Khalil Herbert up the middle for 8 yards (tackle by Alex Anzalone)
+42,2,13:50,2,2,CHI 33,10,14,Velus Jones right end for 13 yards (tackle by Malcolm Rodriguez)
+43,2,13:15,1,10,CHI 46,10,14,Khalil Herbert left end for no gain (tackle by Alex Anzalone)
+44,2,12:34,2,10,CHI 46,10,14,Justin Fields pass incomplete short left intended for Cole Kmet (defended by Ifeatu Melifonwu)
+45,2,12:30,3,10,CHI 46,10,14,Justin Fields pass incomplete deep right intended for Byron Pringle
+46,2,12:25,4,10,CHI 46,10,14,"Trenton Gill punts 41 yards, fair catch by Kalif Raymond at DET-13"
+47,2,12:18,1,10,DET 13,10,14,Jared Goff pass incomplete short left intended for Jameson Williams
+48,2,12:14,2,10,DET 13,10,14,Jared Goff pass incomplete short middle intended for Amon-Ra St. Brown
+49,2,12:11,3,10,DET 13,10,14,Jared Goff pass complete short right to Shane Zylstra for 7 yards (tackle by Kyler Gordon)
+50,2,11:26,4,3,DET 20,10,14,"Jack Fox punts 60 yards, returned by Dante Pettis for 10 yards (tackle by Josh Woods)"
+51,2,11:14,1,10,CHI 30,10,14,Justin Fields sacked by Josh Paschal for -12 yards
+52,2,10:30,2,22,CHI 18,10,14,Justin Fields pass complete short right to N'Keal Harry for 16 yards (tackle by Ifeatu Melifonwu)
+53,2,9:48,3,6,CHI 34,10,14,Justin Fields sacked by James Houston for -8 yards
+54,2,9:04,4,14,CHI 26,10,14,"Trenton Gill punts 43 yards, returned by Kalif Raymond for 6 yards (tackle by Josh Blackwell)"
+55,2,9:20,1,10,DET 37,10,14,Jamaal Williams right tackle for 7 yards (tackle by Josh Blackwell and Joe Thomas)
+56,2,8:51,2,3,DET 44,10,14,Jamaal Williams for 7 yards (tackle by Justin Jones and Joe Thomas)
+57,2,8:19,1,10,CHI 49,10,14,Jared Goff pass complete short left to Jamaal Williams for 13 yards (tackle by Jaylon Jones)
+58,2,7:36,1,10,CHI 36,10,14,D'Andre Swift left tackle for 1 yard (tackle by Matthew Adams)
+59,2,6:58,2,9,CHI 35,10,14,Jared Goff pass complete short left to D'Andre Swift for 8 yards (tackle by Jaquan Brisker and Nicholas Morrow)
+60,2,6:21,3,1,CHI 27,10,14,Jared Goff up the middle for 2 yards (tackle by Angelo Blackson)
+61,2,5:43,1,10,CHI 25,10,14,Jamaal Williams left tackle for 7 yards (tackle by Nicholas Morrow and Joe Thomas)
+62,2,5:06,2,3,CHI 18,10,14,Jared Goff pass complete short right to Kalif Raymond for 9 yards (tackle by Joe Thomas and Mike Pennel)
+63,2,4:23,1,9,CHI 9,10,20,"Jared Goff pass complete short left to Brock Wright for 9 yards, touchdown"
+64,2,4:16,0,0,CHI 15,10,21,Michael Badgley kicks extra point good
+65,2,4:16,0,0,DET 35,10,21,"Jack Fox kicks off 65 yards, touchback."
+66,2,4:16,1,10,CHI 25,10,21,Justin Fields left end for 8 yards (tackle by Jeff Okudah and Aidan Hutchinson)
+67,2,3:43,2,2,CHI 33,10,21,Khalil Herbert right end for 15 yards (tackle by Kerby Joseph)
+68,2,3:06,1,10,CHI 48,10,21,"Justin Fields sacked by James Houston for no gain. Justin Fields fumbles (forced by James Houston), recovered by Aidan Hutchinson at 50"
+69,2,2:50,1,10,DET 50,10,21,D'Andre Swift right end for -1 yards (tackle by Nicholas Morrow and Joe Thomas)
+70,2,2:18,2,11,DET 49,10,21,Jared Goff pass complete short left to Amon-Ra St. Brown for 12 yards (tackle by Jaylon Jones)
+71,2,2:00,1,10,CHI 39,10,21,Jared Goff pass complete short middle to Amon-Ra St. Brown for 11 yards (tackle by Joe Thomas)
+72,2,1:22,1,10,CHI 28,10,21,Jared Goff pass complete short left to James Mitchell for 15 yards (tackle by Elijah Hicks)
+73,2,1:13,1,10,CHI 13,10,21,D'Andre Swift right tackle for 4 yards (tackle by DeAndre Houston-Carson)
+74,2,1:09,2,6,CHI 9,10,21,Jamaal Williams up the middle for no gain (tackle by Jaquan Brisker and Josh Blackwell)
+75,2,1:05,3,6,CHI 9,10,21,Jared Goff pass complete short right to Josh Reynolds for 5 yards (tackle by Kyler Gordon)
+76,2,0:20,4,1,CHI 4,10,24,Michael Badgley 23 yard field goal good
+77,2,0:17,0,0,DET 35,10,24,"Jack Fox kicks off 73 yards, returned by Velus Jones for 63 yards (tackle by Kerby Joseph)"
+78,2,0:07,1,10,DET 45,10,24,Justin Fields pass short right intended for Byron Pringle is intercepted by Aidan Hutchinson at DET-35 and returned for 5 yards (tackle by Braxton Jones)
+79,3,15:00,0,0,CHI 35,10,24,"Trenton Gill kicks off 65 yards, touchback."
+80,3,15:00,1,10,DET 25,10,24,Jamaal Williams left tackle for 1 yard (tackle by Mike Pennel and Justin Jones)
+81,3,14:25,2,9,DET 26,10,24,Jared Goff sacked by Trevis Gipson for -9 yards
+82,3,13:51,3,18,DET 17,10,24,D'Andre Swift up the middle for 35 yards (tackle by Jaquan Brisker)
+83,3,12:59,1,10,CHI 48,10,24,Jameson Williams right end for 40 yards (tackle by DeAndre Houston-Carson and Jaquan Brisker)
+84,3,12:24,1,8,CHI 8,10,24,D'Andre Swift right tackle for 6 yards (tackle by Jaquan Brisker)
+85,3,11:42,2,2,CHI 2,10,30,"Jamaal Williams left tackle for 2 yards, touchdown"
+86,3,11:38,0,0,CHI 15,10,31,Michael Badgley kicks extra point good
+87,3,11:38,0,0,DET 35,10,31,"Jack Fox kicks off 65 yards, touchback."
+88,3,11:38,1,10,CHI 25,10,31,David Montgomery up the middle for 4 yards (tackle by Alim McNeill and Isaiah Buggs)
+89,3,10:57,2,6,CHI 29,10,31,Justin Fields pass incomplete short right
+90,3,10:51,3,6,CHI 29,10,31,Justin Fields pass incomplete short left intended for Dante Pettis (defended by Kerby Joseph)
+91,3,10:44,4,6,CHI 29,10,31,"Trenton Gill punts 56 yards, returned by Kalif Raymond for no gain (tackle by Joe Thomas and Patrick Scales). Penalty on Amani Oruwariye: Defensive Holding, 7 yards (accepted) "
+92,3,10:32,1,10,DET 8,10,31,Jared Goff pass complete deep right to DJ Chark for 28 yards (tackle by Kyler Gordon)
+93,3,9:53,1,10,DET 36,10,31,Jared Goff pass complete short middle to Amon-Ra St. Brown for 11 yards (tackle by Kyler Gordon)
+94,3,9:15,1,10,DET 47,10,31,Jamaal Williams up the middle for 6 yards (tackle by Justin Jones and Harrison Hand)
+95,3,8:40,2,4,CHI 47,10,31,D'Andre Swift right end for 9 yards (tackle by Joe Thomas)
+96,3,8:04,1,10,CHI 38,10,31,Jared Goff pass complete deep left to Kalif Raymond for 16 yards (tackle by Kyler Gordon)
+97,3,7:25,1,10,CHI 22,10,31,Jamaal Williams right end for 1 yard (tackle by Angelo Blackson)
+98,3,6:44,2,9,CHI 21,10,37,"Jared Goff pass complete short right to D'Andre Swift for 21 yards, touchdown"
+99,3,6:36,0,0,CHI 15,10,38,Michael Badgley kicks extra point good
+100,3,6:36,0,0,DET 35,10,38,"Jack Fox kicks off 65 yards, touchback."
+101,3,6:36,1,10,CHI 25,10,38,Justin Fields left tackle for 4 yards (tackle by Benito Jones and Will Harris)
+102,3,5:56,2,6,CHI 29,10,38,"Justin Fields pass incomplete short right intended for David Montgomery (defended by Benito Jones) DET challenged the fumble ruling, and the play was upheld."
+103,3,5:56,3,6,CHI 29,10,38,Justin Fields scrambles right end for 1 yard (tackle by Jerry Jacobs)
+104,3,5:09,4,5,CHI 30,10,38,"Trenton Gill punts 51 yards, fair catch by Kalif Raymond at DET-19"
+105,3,5:01,1,10,DET 19,10,38,Jamaal Williams left tackle for 4 yards (tackle by Justin Jones)
+106,3,4:24,2,6,DET 23,10,38,Jamaal Williams up the middle for 4 yards (tackle by Kyler Gordon)
+107,3,3:45,3,2,DET 27,10,38,Jared Goff pass incomplete short left intended for Shane Zylstra
+108,3,3:38,4,2,DET 27,10,38,Jack Fox punts 46 yards downed by Brady Breeze
+109,3,3:28,1,10,CHI 27,10,38,Justin Fields sacked by James Houston for -9 yards
+110,3,2:41,2,19,CHI 18,10,38,Khalil Herbert left tackle for no gain (tackle by Alim McNeill)
+111,3,2:11,3,19,CHI 18,10,38,Justin Fields pass complete short right to Cole Kmet for 14 yards (tackle by Alex Anzalone and Ifeatu Melifonwu)
+112,3,1:33,4,5,CHI 32,10,38,"Trenton Gill punts 37 yards, fair catch by Kalif Raymond at DET-31"
+113,3,1:27,1,10,DET 31,10,38,Jamaal Williams right end for 8 yards (tackle by Jaquan Brisker)
+114,3,0:41,2,2,DET 39,10,38,Jamaal Williams left end for 4 yards (tackle by Harrison Hand and Matthew Adams)
+115,4,15:00,1,10,DET 43,10,38,D'Andre Swift right end for no gain (tackle by Nicholas Morrow and Matthew Adams)
+116,4,14:26,2,10,DET 43,10,38,Jamaal Williams up the middle for 9 yards (tackle by Jaquan Brisker)
+117,4,13:52,3,1,CHI 48,10,38,Kalif Raymond right end for 4 yards (tackle by Al-Quadin Muhammad)
+118,4,13:09,1,10,CHI 44,10,38,Jared Goff pass incomplete short middle intended for Jameson Williams
+119,4,13:03,2,10,CHI 44,10,38,Jamaal Williams up the middle for -1 yards (tackle by Al-Quadin Muhammad and Justin Jones)
+120,4,12:26,3,11,CHI 45,10,38,"Jared Goff pass complete short left to D'Andre Swift for 6 yards (tackle by Joe Thomas). Penalty on Shane Zylstra: Offensive Holding, 10 yards (accepted) "
+121,4,12:18,3,15,CHI 49,10,38,Jared Goff pass incomplete short left intended for DJ Chark (defended by Harrison Hand)
+122,4,11:54,4,15,CHI 49,10,38,"Jack Fox punts 44 yards, fair catch by Trestan Ebner at CHI-5"
+123,4,11:47,1,10,CHI 5,10,38,David Montgomery up the middle for 3 yards (tackle by Josh Paschal)
+124,4,11:09,2,7,CHI 8,10,38,David Montgomery left tackle for 1 yard (tackle by Romeo Okwara and Jerry Jacobs)
+125,4,10:27,3,6,CHI 9,10,38,Justin Fields pass incomplete short left
+126,4,10:21,4,6,CHI 9,10,38,"Trenton Gill punts 38 yards, fair catch by Kalif Raymond at CHI-47"
+127,4,10:13,1,10,CHI 47,10,38,D'Andre Swift right end for -1 yards (tackle by Joe Thomas)
+128,4,9:39,2,11,CHI 48,10,38,Jamaal Williams right tackle for 4 yards (tackle by Nicholas Morrow)
+129,4,8:57,3,7,CHI 44,10,38,D'Andre Swift left tackle for 5 yards (tackle by Nicholas Morrow)
+130,4,8:04,4,2,CHI 39,10,38,Jared Goff pass incomplete short left intended for Brock Wright
+131,4,8:00,1,10,CHI 40,10,38,Justin Fields left end for 8 yards (tackle by Malcolm Rodriguez)
+132,4,7:36,2,2,CHI 48,10,38,Justin Fields scrambles left end for 6 yards (tackle by Malcolm Rodriguez)
+133,4,6:57,1,10,DET 46,10,38,"Justin Fields sacked by Josh Paschal for -10 yards. Penalty on Braxton Jones: Offensive Holding, 10 yards (declined) . Penalty on Riley Reiff: Offensive Holding, 10 yards (declined) "
+134,4,6:45,2,20,CHI 44,10,38,"Justin Fields pass complete short right to Cole Kmet for no gain (tackle by Mike Hughes). Penalty on Kerby Joseph: Defensive Holding, 5 yards (accepted) (no play)"
+135,4,6:33,1,10,CHI 49,10,38,Justin Fields pass complete short right to Equanimeous St. Brown for 14 yards (tackle by Ifeatu Melifonwu)
+136,4,6:06,1,10,DET 37,10,38,Justin Fields pass incomplete deep left intended for Byron Pringle
+137,4,6:00,2,10,DET 37,10,38,Justin Fields pass incomplete short left intended for Equanimeous St. Brown (defended by Will Harris)
+138,4,5:54,3,10,DET 37,10,38,Justin Fields pass complete short left to David Montgomery for 8 yards (tackle by John Cominsky)
+139,4,5:16,4,2,DET 29,10,38,Justin Fields pass incomplete short left intended for Ryan Griffin (defended by Ifeatu Melifonwu)
+140,4,5:11,1,10,DET 30,10,38,Jamaal Williams up the middle for 58 yards (tackle by DeAndre Houston-Carson and Harrison Hand)
+141,4,4:21,1,10,CHI 12,10,38,D'Andre Swift left end for 3 yards (tackle by DeAndre Houston-Carson)
+142,4,3:37,2,7,CHI 9,10,38,Jamaal Williams right tackle for -2 yards (tackle by Mike Pennel)
+143,4,2:50,3,9,CHI 11,10,38,"Penalty on Jason Cabinda: False Start, 5 yards (accepted) (no play)"
+144,4,2:50,3,14,CHI 16,10,38,Nate Sudfeld sacked by Justin Jones for -7 yards
+145,4,2:45,4,21,CHI 23,10,41,Michael Badgley 41 yard field goal good
+146,4,2:40,0,0,DET 35,10,41,"Jack Fox kicks off 65 yards, touchback."
+147,4,2:40,1,10,CHI 25,10,41,"Justin Fields pass complete to Trestan Ebner for no gain (tackle by Will Harris and Derrick Barnes). Penalty on Riley Reiff: Offensive Holding, 10 yards (accepted) (no play)"
+148,4,2:32,1,20,CHI 15,10,41,Justin Fields pass complete short left to Equanimeous St. Brown for 6 yards (tackle by Will Harris)
+149,4,2:04,2,14,CHI 21,10,41,"Penalty on Braxton Jones: False Start, 5 yards (accepted) (no play)"
+150,4,2:04,2,19,CHI 16,10,41,Justin Fields pass incomplete short middle intended for Chase Claypool (defended by Amani Oruwariye)
+151,4,1:58,3,19,CHI 16,10,41,Justin Fields pass incomplete short right
+152,4,1:49,4,19,CHI 16,10,41,"Trenton Gill punts 55 yards, returned by Kalif Raymond for 10 yards (tackle by Trevon Wesco)"
+153,4,1:36,1,10,DET 39,10,41,Nate Sudfeld kneels for -1 yards
+154,4,0:54,2,11,DET 38,10,41,Nate Sudfeld kneels for -1 yards
+155,4,0:34,3,12,DET 37,10,41,Nate Sudfeld kneels for -1 yards

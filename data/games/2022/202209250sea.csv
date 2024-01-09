@@ -1,0 +1,156 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,ATL 35,0,0,"Bradley Pinion kicks off 65 yards, touchback."
+1,1,15:00,1,10,SEA 25,0,0,Rashaad Penny left tackle for 10 yards (tackle by Jaylinn Hawkins)
+2,1,14:30,1,10,SEA 35,0,0,Geno Smith pass complete short right to Tyler Lockett for 5 yards (tackle by Rashaan Evans)
+3,1,13:56,2,5,SEA 40,0,0,Rashaad Penny left guard for 11 yards (tackle by Richie Grant)
+4,1,13:24,1,10,ATL 49,0,0,Rashaad Penny right tackle for 14 yards (tackle by Casey Hayward)
+5,1,12:46,1,10,ATL 35,0,0,Geno Smith pass complete short right to Kenneth Walker for 3 yards (tackle by Troy Andersen)
+6,1,12:13,2,7,ATL 32,0,0,Kenneth Walker right guard for -2 yards (tackle by Rashaan Evans)
+7,1,11:33,3,9,ATL 34,0,0,Geno Smith pass complete short right to D.K. Metcalf for 13 yards (tackle by AJ Terrell)
+8,1,11:28,1,10,ATL 21,0,0,Travis Homer right guard for 7 yards (tackle by Grady Jarrett)
+9,1,11:08,2,3,ATL 14,0,0,Rashaad Penny left guard for no gain (tackle by Rashaan Evans and Ta'Quon Graham)
+10,1,10:27,3,3,ATL 14,0,0,Geno Smith pass incomplete short left intended for D.K. Metcalf (defended by AJ Terrell)
+11,1,10:23,4,3,ATL 14,0,3,Jason Myers 32 yard field goal good
+12,1,10:19,0,0,SEA 35,0,3,"Jason Myers kicks off 65 yards, touchback."
+13,1,10:19,1,10,ATL 25,0,3,Marcus Mariota pass incomplete deep middle intended for Kyle Pitts
+14,1,10:13,2,10,ATL 25,0,3,Cordarrelle Patterson right tackle for 6 yards (tackle by Jordyn Brooks and Cody Barton)
+15,1,9:30,3,4,ATL 31,0,3,Marcus Mariota pass complete short middle to Kyle Pitts for 14 yards (tackle by Michael Jackson)
+16,1,8:49,1,10,ATL 45,0,3,"Cordarrelle Patterson right tackle for 4 yards (tackle by Josh Jones and Poona Ford). Penalty on Bryan Mone: Defensive Holding, 5 yards (accepted) "
+17,1,8:23,1,10,SEA 46,0,3,Marcus Mariota pass complete short middle to Anthony Firkser for 22 yards (tackle by Michael Jackson)
+18,1,7:40,1,10,SEA 24,0,3,Marcus Mariota pass complete short right to Kyle Pitts for 21 yards (tackle by Josh Jones)
+19,1,7:20,1,3,SEA 3,0,3,"Marcus Mariota pass incomplete short right intended for Kyle Pitts. Penalty on Michael Jackson: Defensive Holding, 2 yards (accepted) (no play)"
+20,1,7:13,1,1,SEA 1,6,3,"Marcus Mariota right end for no gain (tackle by Cody Barton) ATL challenged the runner broke the plane ruling, and the original play was overturned. Marcus Mariota for 1 yard, touchdown"
+21,1,7:10,0,0,SEA 15,7,3,Younghoe Koo kicks extra point good
+22,1,7:10,0,0,ATL 35,7,3,"Bradley Pinion kicks off 61 yards, returned by DeeJay Dallas for 22 yards (tackle by Erik Harris and Dean Marlowe)"
+23,1,7:03,1,10,SEA 26,7,3,Geno Smith pass complete short middle to D.K. Metcalf for 14 yards (tackle by Jaylinn Hawkins)
+24,1,6:32,1,10,SEA 40,7,3,Rashaad Penny left guard for 5 yards (tackle by Rashaan Evans and Ta'Quon Graham)
+25,1,6:00,2,5,SEA 45,7,3,Geno Smith pass complete short right to Noah Fant for 4 yards (tackle by Rashaan Evans)
+26,1,5:30,3,1,SEA 49,7,3,Geno Smith pass complete deep right to Colby Parkinson for 36 yards (tackle by Jaylinn Hawkins)
+27,1,4:53,1,10,ATL 15,7,3,Rashaad Penny left tackle for -3 yards (tackle by Grady Jarrett)
+28,1,4:16,2,13,ATL 18,7,9,"Geno Smith pass complete deep middle to Will Dissly for 18 yards, touchdown"
+29,1,4:12,0,0,ATL 15,7,10,Jason Myers kicks extra point good
+30,1,4:12,0,0,SEA 35,7,10,"Jason Myers kicks off 65 yards, touchback."
+31,1,4:12,1,10,ATL 25,7,10,Marcus Mariota scrambles right tackle for 6 yards (tackle by Jordyn Brooks)
+32,1,3:31,2,4,ATL 31,7,10,Tyler Allgeier right guard for 7 yards (tackle by Al Woods)
+33,1,2:50,1,10,ATL 38,7,10,Marcus Mariota pass complete deep right to Olamide Zaccheaus for 23 yards (tackle by Tariq Woolen)
+34,1,2:02,1,10,SEA 39,7,10,Marcus Mariota pass incomplete deep right intended for Drake London (defended by Michael Jackson)
+35,1,1:55,2,10,SEA 39,7,10,Marcus Mariota pass complete deep right to Kyle Pitts for 28 yards (tackle by Josh Jones)
+36,1,1:09,1,10,SEA 11,7,10,Cordarrelle Patterson left guard for 4 yards (tackle by Jordyn Brooks and Tariq Woolen)
+37,1,0:31,2,6,SEA 7,7,10,"Marcus Mariota pass incomplete short middle intended for Drake London. Penalty on Drew Dalman: Offensive Holding, 10 yards (accepted) (no play)"
+38,1,0:23,2,16,SEA 17,7,10,"Marcus Mariota sacked by Coby Bryant for -6 yards. Penalty on Jake Matthews: Offensive Holding, 10 yards (declined) "
+39,1,0:17,3,22,SEA 23,7,10,"Marcus Mariota pass incomplete intended for Drake London. Penalty on Drake London: Illegal Touch Pass, 5 yards (declined) "
+40,1,0:11,4,22,SEA 23,10,10,Younghoe Koo 41 yard field goal good
+41,1,0:07,0,0,ATL 35,10,10,"Bradley Pinion kicks off 62 yards, returned by DeeJay Dallas for 30 yards (tackle by Mike Ford and Dean Marlowe)"
+42,2,15:00,1,10,SEA 33,10,10,Geno Smith pass complete short right to Tyler Lockett for 8 yards
+43,2,14:38,2,2,SEA 41,10,10,Geno Smith left tackle for -3 yards (tackle by Grady Jarrett)
+44,2,13:54,3,5,SEA 38,10,10,Geno Smith pass incomplete short right intended for D.K. Metcalf
+45,2,13:50,4,5,SEA 38,10,10,Michael Dickson punts 51 yards out of bounds
+46,2,13:43,1,10,ATL 11,10,10,Cordarrelle Patterson right guard for 1 yard (tackle by Al Woods)
+47,2,13:00,2,9,ATL 12,10,10,Marcus Mariota pass complete deep right to Drake London for 30 yards (tackle by Michael Jackson)
+48,2,12:19,1,10,ATL 42,10,10,Cordarrelle Patterson left tackle for no gain (tackle by Boye Mafe and Quinton Jefferson)
+49,2,11:41,2,10,ATL 42,10,10,Marcus Mariota sacked by Quinton Jefferson for -9 yards
+50,2,11:00,3,19,ATL 33,10,10,Marcus Mariota pass complete deep left to Olamide Zaccheaus for 26 yards (tackle by Josh Jones)
+51,2,10:26,1,10,SEA 41,10,10,Tyler Allgeier right end for 3 yards (tackle by Cody Barton)
+52,2,9:41,2,7,SEA 38,10,10,Marcus Mariota scrambles left end for 2 yards (tackle by Jordyn Brooks)
+53,2,9:01,3,5,SEA 36,10,10,Marcus Mariota pass complete short middle to Kyle Pitts for 19 yards (tackle by Quandre Diggs)
+54,2,8:18,1,10,SEA 17,16,10,"Cordarrelle Patterson right tackle for 17 yards, touchdown"
+55,2,8:12,0,0,SEA 15,17,10,Younghoe Koo kicks extra point good
+56,2,8:12,0,0,ATL 35,17,10,"Bradley Pinion kicks off 65 yards, touchback."
+57,2,8:12,1,10,SEA 25,17,10,Rashaad Penny left tackle for 3 yards (tackle by Lorenzo Carter and Mykal Walker)
+58,2,7:31,2,7,SEA 28,17,10,Geno Smith pass incomplete deep left intended for D.K. Metcalf (defended by AJ Terrell)
+59,2,7:26,3,7,SEA 28,17,10,Geno Smith pass complete short right to Tyler Lockett for 7 yards (tackle by Casey Hayward)
+60,2,6:56,1,10,SEA 35,17,10,Geno Smith pass complete short middle to Noah Fant for 16 yards (tackle by Casey Hayward)
+61,2,6:27,1,10,ATL 49,17,10,Rashaad Penny left guard for 3 yards (tackle by Rashaan Evans and Anthony Rush)
+62,2,5:49,2,7,ATL 46,17,10,Geno Smith pass complete short right to Tyler Lockett for 5 yards
+63,2,5:20,3,2,ATL 41,17,10,Kenneth Walker left tackle for no gain (tackle by AJ Terrell)
+64,2,4:39,4,2,ATL 41,17,10,Geno Smith pass complete deep left to Marquise Goodwin for 23 yards (tackle by Casey Hayward)
+65,2,4:04,1,10,ATL 18,17,16,"Geno Smith pass complete deep left to D.K. Metcalf for 18 yards, touchdown"
+66,2,3:58,0,0,ATL 15,17,17,Jason Myers kicks extra point good
+67,2,3:58,0,0,SEA 35,17,17,"Jason Myers kicks off 65 yards, touchback."
+68,2,3:58,1,10,ATL 25,17,17,Cordarrelle Patterson right tackle for 2 yards (tackle by Boye Mafe and Jordyn Brooks)
+69,2,3:23,2,8,ATL 27,17,17,Marcus Mariota pass incomplete deep left intended for Kyle Pitts
+70,2,3:18,3,8,ATL 27,17,17,Marcus Mariota pass incomplete intended for Kyle Pitts
+71,2,3:12,4,8,ATL 27,17,17,"Bradley Pinion punts 73 yards, touchback."
+72,2,3:03,1,10,SEA 20,17,17,Geno Smith pass complete short right to Tyler Lockett for 5 yards (tackle by Casey Hayward)
+73,2,2:40,2,5,SEA 25,17,17,Geno Smith pass incomplete deep left intended for Tyler Lockett (defended by Richie Grant)
+74,2,2:33,3,5,SEA 25,17,17,Geno Smith pass complete short left to Colby Parkinson for 8 yards (tackle by Mykal Walker)
+75,2,2:00,1,10,SEA 33,17,17,Geno Smith pass complete short middle to Penny Hart for 15 yards (tackle by Richie Grant)
+76,2,1:43,1,10,SEA 48,17,17,DeeJay Dallas right guard for 16 yards (tackle by Richie Grant)
+77,2,1:24,1,10,ATL 36,17,17,DeeJay Dallas right guard for 3 yards (tackle by Arnold Ebiketie)
+78,2,0:58,2,7,ATL 33,17,17,Geno Smith pass incomplete short right intended for Marquise Goodwin
+79,2,0:52,3,7,ATL 33,17,17,Geno Smith pass complete short right to D.K. Metcalf for 13 yards (tackle by Casey Hayward)
+80,2,0:45,1,10,ATL 20,17,17,Geno Smith pass complete short middle to DeeJay Dallas for 7 yards (tackle by Mykal Walker and Grady Jarrett)
+81,2,0:22,2,3,ATL 13,17,17,Geno Smith pass incomplete short right intended for D.K. Metcalf (defended by AJ Terrell)
+82,2,0:17,3,3,ATL 13,17,17,Geno Smith pass incomplete intended for D.K. Metcalf
+83,2,0:09,4,3,ATL 13,17,20,Jason Myers 31 yard field goal good
+84,2,0:05,0,0,SEA 35,17,20,"Jason Myers kicks off 65 yards, touchback."
+85,2,0:05,1,10,ATL 25,17,20,Marcus Mariota pass short middle intended for Drake London is intercepted by Tariq Woolen at ATL-36 and returned for 7 yards (tackle by Parker Hesse)
+86,3,15:00,0,0,SEA 35,17,20,"Jason Myers kicks off 65 yards, touchback."
+87,3,15:00,1,10,ATL 25,17,20,Tyler Allgeier right guard for 5 yards (tackle by Jordyn Brooks and Uchenna Nwosu)
+88,3,14:19,2,5,ATL 30,17,20,Marcus Mariota pass complete short left to Tyler Allgeier for 5 yards (tackle by Al Woods and Jordyn Brooks)
+89,3,13:41,1,10,ATL 35,17,20,Tyler Allgeier right end for 5 yards (tackle by Jordyn Brooks and Cody Barton)
+90,3,12:59,2,5,ATL 40,17,20,"Marcus Mariota pass incomplete deep left. Penalty on Quandre Diggs: Roughing the Passer, 15 yards (accepted) (no play)"
+91,3,12:55,1,10,SEA 45,17,20,Cordarrelle Patterson left guard for 5 yards (tackle by Boye Mafe and Cody Barton)
+92,3,12:09,2,5,SEA 40,17,20,Marcus Mariota pass complete short left to Cordarrelle Patterson for 12 yards (tackle by Tariq Woolen)
+93,3,11:27,1,10,SEA 28,17,20,Cordarrelle Patterson right tackle for 4 yards (tackle by Darryl Johnson and Bryan Mone)
+94,3,11:01,2,6,SEA 24,17,20,Marcus Mariota pass incomplete deep left
+95,3,10:55,3,6,SEA 24,17,20,"Penalty on Colby Gossett: False Start, 5 yards (accepted) (no play)"
+96,3,10:55,3,11,SEA 29,17,20,"Marcus Mariota sacked by Darrell Taylor for -7 yards. Marcus Mariota fumbles (forced by Darrell Taylor), recovered by Kaleb McGary at SEA-36"
+97,3,10:07,4,18,SEA 36,20,20,Younghoe Koo 54 yard field goal good
+98,3,10:00,0,0,ATL 35,20,20,"Bradley Pinion kicks off 65 yards, touchback."
+99,3,10:00,1,10,SEA 25,20,20,Geno Smith pass complete short middle to Marquise Goodwin for 8 yards (tackle by Troy Andersen)
+100,3,9:39,2,2,SEA 33,20,20,Rashaad Penny right tackle for 1 yard (tackle by Anthony Rush)
+101,3,9:17,3,1,SEA 34,20,20,Geno Smith up the middle for 2 yards (tackle by Troy Andersen)
+102,3,8:38,1,10,SEA 36,20,20,Rashaad Penny left guard for 6 yards (tackle by Richie Grant and Adetokunbo Ogundeji)
+103,3,8:12,2,4,SEA 42,20,20,Geno Smith pass complete short middle to Will Dissly for 10 yards (tackle by Mykal Walker)
+104,3,7:28,1,10,ATL 48,20,20,Kenneth Walker right end for 21 yards (tackle by Rashaan Evans)
+105,3,6:38,1,10,ATL 27,20,20,Rashaad Penny right tackle for 3 yards (tackle by Ta'Quon Graham and Rashaan Evans)
+106,3,5:57,2,7,ATL 24,20,20,Geno Smith pass complete short right to Kenneth Walker for 6 yards (tackle by Mykal Walker)
+107,3,5:19,3,1,ATL 18,20,20,Rashaad Penny right guard for 3 yards (tackle by Rashaan Evans and Richie Grant)
+108,3,4:49,1,10,ATL 15,20,20,"Penalty on Colby Parkinson: False Start, 5 yards (accepted) (no play)"
+109,3,4:28,1,15,ATL 20,20,20,Geno Smith pass complete short right to Tyler Lockett for 7 yards (tackle by Mykal Walker)
+110,3,3:49,2,8,ATL 13,20,20,Geno Smith pass complete short right to Will Dissly for 6 yards (tackle by Mykal Walker and Jaylinn Hawkins)
+111,3,3:18,3,2,ATL 7,20,20,Geno Smith pass incomplete short left intended for D.K. Metcalf
+112,3,3:15,4,1,ATL 6,20,23,Jason Myers 25 yard field goal good
+113,3,3:11,0,0,SEA 35,20,23,"Jason Myers kicks off 65 yards, touchback."
+114,3,3:11,1,10,ATL 25,20,23,Cordarrelle Patterson right guard for 40 yards (tackle by Josh Jones)
+115,3,2:41,1,10,SEA 35,20,23,Cordarrelle Patterson right end for 18 yards (tackle by Cody Barton)
+116,3,2:05,1,10,SEA 17,20,23,Tyler Allgeier left guard for 3 yards (tackle by Al Woods)
+117,3,1:26,2,7,SEA 14,20,23,Marcus Mariota left end for no gain (tackle by Tariq Woolen)
+118,3,0:41,3,7,SEA 14,26,23,"Marcus Mariota pass complete short left to Drake London for 14 yards, touchdown"
+119,3,0:35,0,0,SEA 15,27,23,Younghoe Koo kicks extra point good
+120,3,0:35,0,0,ATL 35,27,23,"Bradley Pinion kicks off 65 yards, touchback."
+121,3,0:35,1,10,SEA 25,27,23,Geno Smith pass complete short left to Rashaad Penny for 3 yards (tackle by Mykal Walker)
+122,4,15:00,2,7,SEA 28,27,23,Geno Smith pass complete short middle to Noah Fant for 1 yard (tackle by Richie Grant)
+123,4,14:16,3,6,SEA 29,27,23,Geno Smith pass complete short middle to DeeJay Dallas for 10 yards (tackle by Rashaan Evans and Nathan Landman)
+124,4,13:34,1,10,SEA 39,27,23,DeeJay Dallas left tackle for 2 yards (tackle by Mike Ford)
+125,4,12:56,2,8,SEA 41,27,23,Geno Smith pass incomplete deep middle intended for D.K. Metcalf (defended by Rashaan Evans)
+126,4,12:51,3,8,SEA 41,27,23,Geno Smith pass complete short left to Tyler Lockett for 9 yards (tackle by AJ Terrell)
+127,4,12:10,1,10,SEA 50,27,23,"Rashaad Penny left guard for no gain (tackle by Rashaan Evans). Penalty on Damien Lewis: Offensive Holding, 10 yards (accepted) (no play)"
+128,4,11:55,1,20,SEA 40,27,23,Geno Smith pass incomplete short middle intended for Marquise Goodwin (defended by Mykal Walker)
+129,4,11:51,2,20,SEA 40,27,23,Geno Smith pass incomplete deep middle intended for Marquise Goodwin (defended by Rashaan Evans)
+130,4,11:46,3,20,SEA 40,27,23,Geno Smith pass complete short middle to Kenneth Walker for 5 yards (tackle by Rashaan Evans)
+131,4,11:00,4,15,SEA 45,27,23,"Michael Dickson punts 51 yards, returned by Avery Williams for 6 yards (tackle by Penny Hart and Isaiah Dunn)"
+132,4,10:48,1,10,ATL 10,27,23,Cordarrelle Patterson right tackle for 3 yards (tackle by Al Woods and Darryl Johnson)
+133,4,10:08,2,7,ATL 13,27,23,Marcus Mariota pass complete short right to Drake London for 10 yards (tackle by Poona Ford)
+134,4,9:27,1,10,ATL 23,27,23,Cordarrelle Patterson left tackle for 18 yards (tackle by Josh Jones)
+135,4,8:45,1,10,ATL 41,27,23,Cordarrelle Patterson right end for 6 yards (tackle by Uchenna Nwosu)
+136,4,8:03,2,4,ATL 47,27,23,Marcus Mariota pass complete short right to Kyle Pitts for 5 yards (tackle by Darrell Taylor)
+137,4,7:19,1,10,SEA 48,27,23,Tyler Allgeier left guard for 2 yards (tackle by Uchenna Nwosu and Jordyn Brooks)
+138,4,6:29,2,8,SEA 46,27,23,Avery Williams right end for 9 yards (tackle by Quandre Diggs)
+139,4,5:52,1,10,SEA 37,27,23,Cordarrelle Patterson left end for 3 yards (tackle by Cody Barton)
+140,4,5:16,2,7,SEA 34,27,23,"Marcus Mariota for -3 yards. Marcus Mariota fumbles, recovered by Uchenna Nwosu at SEA-37"
+141,4,5:12,1,10,SEA 37,27,23,Geno Smith sacked by Lorenzo Carter for -7 yards
+142,4,4:44,2,17,SEA 30,27,23,Geno Smith pass complete short right to Tyler Lockett for 10 yards (tackle by Mykal Walker)
+143,4,4:13,3,7,SEA 40,27,23,Geno Smith pass complete short left to Noah Fant for 6 yards (tackle by Rashaan Evans)
+144,4,3:40,4,1,SEA 46,27,23,Rashaad Penny left guard for 4 yards (tackle by AJ Terrell)
+145,4,3:13,1,10,ATL 50,27,23,Geno Smith pass complete deep left to Tyler Lockett for 20 yards (tackle by AJ Terrell)
+146,4,2:39,1,10,ATL 30,27,23,Rashaad Penny left guard for 6 yards (tackle by Richie Grant)
+147,4,2:16,2,4,ATL 24,27,23,"Geno Smith pass complete short left to Rashaad Penny for 13 yards (tackle by Mike Ford). Penalty on Damien Lewis: Offensive Holding, 10 yards (accepted) (no play)"
+148,4,2:05,2,14,ATL 34,27,23,Geno Smith pass complete short left to D.K. Metcalf for 6 yards (tackle by AJ Terrell)
+149,4,2:00,3,8,ATL 28,27,23,Geno Smith sacked by Grady Jarrett for -10 yards
+150,4,1:30,4,18,ATL 38,27,23,Geno Smith pass deep right intended for Tyler Lockett is intercepted by Richie Grant at ATL-6 and returned for 12 yards
+151,4,1:17,1,10,ATL 18,27,23,Cordarrelle Patterson right guard for 5 yards (tackle by Darrell Taylor)
+152,4,1:12,2,5,ATL 23,27,23,Cordarrelle Patterson right guard for 5 yards (tackle by Poona Ford)
+153,4,1:06,1,10,ATL 28,27,23,Marcus Mariota kneels for -1 yards
+154,4,0:36,2,11,ATL 27,27,23,Marcus Mariota kneels for -1 yards

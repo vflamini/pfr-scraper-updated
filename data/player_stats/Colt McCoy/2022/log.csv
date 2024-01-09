@@ -1,0 +1,5 @@
+,date,week,team,game_location,opp,result,team_pts,opp_pts,cmp,att,pass_yds,pass_td,int,rating,sacked,rush_att,rush_yds,rush_td
+0,2022-11-13,10,ARI,@,LAR,W,27,17,26,37,238,1,0,96.5,2,4,4,0
+1,2022-11-21,11,ARI,,SFO,L,10,38,24,34,218,0,1,75.4,3,3,6,0
+2,2022-12-12,14,ARI,,NWE,L,13,27,27,40,246,0,1,73.5,6,5,24,0
+3,2022-12-18,15,ARI,@,DEN,L,15,24,13,21,78,0,1,49.3,2,2,2,0

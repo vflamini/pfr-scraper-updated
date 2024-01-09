@@ -1,0 +1,174 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,NYG 35,0,0,"Graham Gano kicks off 65 yards, touchback."
+1,1,15:00,1,10,MIN 25,0,0,Kirk Cousins pass complete short middle to Adam Thielen for 6 yards (tackle by Dexter Lawrence)
+2,1,14:20,2,4,MIN 31,0,0,Dalvin Cook left tackle for 18 yards (tackle by Nick McCloud and Julian Love)
+3,1,13:43,1,10,MIN 49,0,0,Dalvin Cook up the middle for -1 yards (tackle by Dexter Lawrence)
+4,1,13:07,2,11,MIN 48,0,0,Kirk Cousins pass incomplete short left intended for Adam Thielen
+5,1,13:03,3,11,MIN 48,0,0,Kirk Cousins pass incomplete deep left intended for T.J. Hockenson
+6,1,12:56,4,11,MIN 48,0,0,Ryan Wright punts 28 yards out of bounds
+7,1,12:51,1,10,NYG 24,0,0,Daniel Jones pass complete short middle to Saquon Barkley for 3 yards (tackle by Jordan Hicks)
+8,1,12:17,2,7,NYG 27,0,0,Saquon Barkley up the middle for 4 yards (tackle by Eric Kendricks and Jordan Hicks)
+9,1,11:53,3,3,NYG 31,0,0,Daniel Jones pass complete short left to Darius Slayton for 17 yards (tackle by Duke Shelley)
+10,1,11:20,1,10,NYG 48,0,0,Daniel Jones pass incomplete deep left intended for Darius Slayton
+11,1,11:12,2,10,NYG 48,0,0,Daniel Jones pass incomplete short right intended for Saquon Barkley
+12,1,11:06,3,10,NYG 48,0,0,Daniel Jones pass incomplete short right intended for Isaiah Hodgins (defended by Eric Kendricks)
+13,1,11:03,4,10,NYG 48,0,0,"Jamie Gillan punts 40 yards, fair catch by Jalen Reagor at MIN-12"
+14,1,10:57,1,10,MIN 12,0,0,Dalvin Cook right tackle for 3 yards (tackle by Kayvon Thibodeaux and Leonard Williams)
+15,1,10:23,2,7,MIN 15,0,0,Kirk Cousins pass complete short right to T.J. Hockenson for 8 yards (tackle by Cordale Flott)
+16,1,9:49,1,10,MIN 23,0,0,Kirk Cousins pass incomplete short middle intended for Adam Thielen
+17,1,9:48,2,10,MIN 23,0,0,Kirk Cousins pass complete short left to Justin Jefferson for no gain (tackle by Cordale Flott and Azeez Ojulari)
+18,1,9:06,3,10,MIN 23,0,0,Kirk Cousins pass incomplete deep right intended for T.J. Hockenson (defended by Landon Collins)
+19,1,9:00,4,10,MIN 23,0,0,"Ryan Wright punts 48 yards, returned by Richie James for 4 yards (tackle by Josh Metellus)"
+20,1,8:49,1,10,NYG 33,0,0,"Daniel Jones pass incomplete short right intended for Nick Vannett. Penalty on Jon Feliciano: Offensive Holding, 10 yards (accepted) (no play)"
+21,1,8:44,1,20,NYG 23,0,0,"Daniel Jones sacked by Danielle Hunter for -5 yards. Daniel Jones fumbles (forced by Danielle Hunter), recovered by Evan Neal at NYG-18"
+22,1,7:59,2,25,NYG 18,0,0,Daniel Jones pass complete short right to Daniel Bellinger for 12 yards (tackle by Harrison Smith)
+23,1,7:22,3,13,NYG 30,0,0,Daniel Jones pass incomplete deep right intended for Darius Slayton
+24,1,7:16,4,13,NYG 30,0,0,"Jamie Gillan punts 61 yards, returned by Jalen Reagor for 7 yards (tackle by Marcus Johnson)"
+25,1,7:07,1,10,MIN 16,0,0,Kirk Cousins pass complete deep left to Justin Jefferson for 25 yards (tackle by Fabian Moreau)
+26,1,6:36,1,10,MIN 41,0,0,Dalvin Cook up the middle for 7 yards (tackle by Dexter Lawrence)
+27,1,6:04,2,3,MIN 48,0,0,Kirk Cousins pass complete short middle to Justin Jefferson for 13 yards (tackle by Jason Pinnock and Ryder Anderson)
+28,1,5:22,1,10,NYG 39,0,0,Dalvin Cook up the middle for 6 yards (tackle by Micah McFadden and Dexter Lawrence)
+29,1,4:59,2,4,NYG 33,0,0,Kirk Cousins pass complete short left to C.J. Ham for 5 yards (tackle by Kayvon Thibodeaux)
+30,1,4:29,1,10,NYG 28,0,0,Dalvin Cook right end for 8 yards (tackle by Kayvon Thibodeaux and Jaylon Smith)
+31,1,3:55,2,2,NYG 20,0,0,Kirk Cousins pass complete short middle to T.J. Hockenson for 8 yards (tackle by Micah McFadden)
+32,1,3:23,1,10,NYG 12,0,6,"Kirk Cousins pass complete short left to T.J. Hockenson for 12 yards, touchdown"
+33,1,3:17,0,0,NYG 15,0,7,Greg Joseph kicks extra point good
+34,1,3:17,0,0,MIN 35,0,7,"Penalty on Leonard Williams: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)"
+35,1,3:17,1,10,MIN 50,0,7,"Greg Joseph kicks off 50 yards, touchback."
+36,1,3:17,1,10,NYG 25,0,7,Gary Brightwell left tackle for -1 yards (tackle by Dalvin Tomlinson)
+37,1,2:41,2,11,NYG 24,0,7,Daniel Jones pass complete short right to Isaiah Hodgins for 7 yards (tackle by Patrick Peterson)
+38,1,2:13,3,4,NYG 31,0,7,Daniel Jones pass complete short right to Isaiah Hodgins for 6 yards (tackle by Duke Shelley and Jordan Hicks)
+39,1,1:32,1,10,NYG 37,0,7,Daniel Jones pass complete short middle to Isaiah Hodgins for 14 yards (tackle by Patrick Peterson)
+40,1,0:48,1,10,MIN 49,0,7,Daniel Jones scrambles right end for 10 yards (tackle by Danielle Hunter)
+41,2,15:00,1,10,MIN 39,0,7,"Daniel Jones pass complete short left to Daniel Bellinger for 15 yards. Daniel Bellinger fumbles (forced by Brian Asamoah), recovered by Brian Asamoah at MIN-24 and returned for 12 yards (tackle by Andrew Thomas)"
+42,2,14:50,1,10,MIN 36,0,7,Alexander Mattison left end for 2 yards (tackle by Micah McFadden and Justin Ellis)
+43,2,14:14,2,8,MIN 38,0,7,Kirk Cousins pass complete short right to Justin Jefferson for 12 yards (tackle by Fabian Moreau)
+44,2,13:39,1,10,MIN 50,0,7,Kirk Cousins pass complete short right to T.J. Hockenson for 16 yards (tackle by Micah McFadden and Cordale Flott)
+45,2,13:00,1,10,NYG 34,0,7,Kirk Cousins pass complete short middle to K.J. Osborn for 8 yards (tackle by Kayvon Thibodeaux and Jaylon Smith)
+46,2,12:23,2,2,NYG 26,0,7,Alexander Mattison right tackle for 1 yard (tackle by Micah McFadden and Leonard Williams)
+47,2,11:57,3,1,NYG 25,0,7,Kirk Cousins up the middle for 2 yards (tackle by Jaylon Smith)
+48,2,11:19,1,10,NYG 23,0,7,Alexander Mattison right tackle for 1 yard (tackle by Dexter Lawrence)
+49,2,10:49,2,9,NYG 22,0,7,Kirk Cousins pass complete short right to T.J. Hockenson for 6 yards (tackle by Fabian Moreau)
+50,2,10:20,3,3,NYG 16,0,7,Kirk Cousins sacked by Azeez Ojulari for -6 yards
+51,2,9:45,4,9,NYG 22,0,10,Greg Joseph 40 yard field goal good
+52,2,9:40,0,0,MIN 35,0,10,"Greg Joseph kicks off 60 yards, returned by Gary Brightwell for 26 yards (tackle by Chandon Sullivan)"
+53,2,9:34,1,10,NYG 31,0,10,Daniel Jones pass complete short middle to Richie James for 12 yards (tackle by Josh Metellus)
+54,2,9:00,1,10,NYG 43,0,10,Daniel Jones pass complete short right to Saquon Barkley for 7 yards (tackle by Duke Shelley)
+55,2,8:30,2,3,NYG 50,0,10,Saquon Barkley right end for 7 yards (tackle by Eric Kendricks)
+56,2,7:56,1,10,MIN 43,0,10,Saquon Barkley up the middle for 3 yards (tackle by Jordan Hicks and Eric Kendricks)
+57,2,7:16,2,7,MIN 40,0,10,Daniel Jones pass complete short right to Saquon Barkley for 7 yards (tackle by Eric Kendricks)
+58,2,6:46,1,10,MIN 33,0,10,Daniel Jones scrambles up the middle for 14 yards (tackle by Josh Metellus)
+59,2,6:06,1,10,MIN 19,0,10,Matt Breida right guard for 6 yards (tackle by Eric Kendricks and Dalvin Tomlinson)
+60,2,5:35,2,4,MIN 13,0,10,Saquon Barkley right guard for 4 yards (tackle by Jordan Hicks and Josh Metellus)
+61,2,5:11,1,9,MIN 9,0,10,Daniel Jones pass complete short left to Richie James for 2 yards (tackle by Chandon Sullivan and Camryn Bynum)
+62,2,4:30,2,7,MIN 7,6,10,"Daniel Jones pass complete short right to Isaiah Hodgins for 7 yards, touchdown"
+63,2,4:23,0,0,MIN 15,7,10,Graham Gano kicks extra point good
+64,2,4:23,0,0,NYG 35,7,10,"Graham Gano kicks off 65 yards, touchback."
+65,2,4:23,1,10,MIN 25,7,10,Dalvin Cook up the middle for -1 yards (tackle by Leonard Williams and Ryder Anderson)
+66,2,3:43,2,11,MIN 24,7,10,Kirk Cousins pass complete short right to Justin Jefferson for 10 yards (tackle by Fabian Moreau)
+67,2,3:01,3,1,MIN 34,7,10,Kirk Cousins pass incomplete deep left intended for Justin Jefferson
+68,2,2:53,4,1,MIN 34,7,10,Ryan Wright punts 57 yards out of bounds
+69,2,2:44,1,10,NYG 9,7,10,Saquon Barkley right tackle for 6 yards (tackle by Camryn Bynum)
+70,2,2:30,2,4,NYG 15,7,10,Daniel Jones pass complete deep right to Isaiah Hodgins for 29 yards
+71,2,2:00,1,10,NYG 44,7,10,Saquon Barkley up the middle for 7 yards (tackle by Danielle Hunter and Eric Kendricks)
+72,2,1:37,2,3,MIN 49,7,10,"Saquon Barkley up the middle for 5 yards (tackle by Eric Kendricks). Penalty on Jon Feliciano: Offensive Holding, 10 yards (accepted) "
+73,2,1:30,2,8,NYG 46,7,10,"Daniel Jones pass incomplete short middle intended for Isaiah Hodgins. Penalty on Patrick Peterson: Defensive Pass Interference, 9 yards (accepted) (no play)"
+74,2,1:26,1,10,MIN 45,7,10,Daniel Jones sacked by and Khyiris Tonga for -7 yards and Danielle Hunter for -7 yards
+75,2,0:52,2,17,NYG 48,7,10,Daniel Jones pass complete short middle to Richie James for 8 yards (tackle by Duke Shelley)
+76,2,0:48,3,9,MIN 44,7,10,Daniel Jones pass incomplete short right
+77,2,0:43,4,9,MIN 44,7,10,"Jamie Gillan punts 28 yards, fair catch by Jalen Reagor at MIN-16"
+78,2,0:37,1,10,MIN 16,7,10,Kirk Cousins pass complete short left to T.J. Hockenson for 5 yards (tackle by Darnay Holmes and Landon Collins)
+79,2,0:12,2,5,MIN 21,7,10,Kirk Cousins pass complete short right to T.J. Hockenson for 8 yards (tackle by Darnay Holmes)
+80,2,0:10,1,10,MIN 29,7,10,"Penalty on Kayvon Thibodeaux: Defensive Offside, 5 yards (accepted) (no play)"
+81,2,0:10,1,5,MIN 34,7,10,"Kirk Cousins pass short right is intercepted by Fabian Moreau at MIN-46 and returned for no gain (tackle by Brian O'Neill). Penalty on Fabian Moreau: Defensive Pass Interference, 13 yards (accepted) (no play)"
+82,2,0:01,1,10,MIN 47,7,10,Kirk Cousins sacked by Leonard Williams for -9 yards
+83,3,15:00,0,0,MIN 35,7,10,"Greg Joseph kicks off 65 yards, touchback."
+84,3,15:00,1,10,NYG 25,7,10,"Saquon Barkley right guard for 3 yards (tackle by Jordan Hicks). Penalty on Harrison Phillips: Defensive Holding, 5 yards (accepted) "
+85,3,14:39,1,10,NYG 33,7,10,Matt Breida left tackle for 3 yards (tackle by Danielle Hunter)
+86,3,14:23,2,7,NYG 36,7,10,Daniel Jones pass complete short middle to Richie James for 9 yards (tackle by Chandon Sullivan)
+87,3,13:52,1,10,NYG 45,7,10,Daniel Jones pass complete deep left to Darius Slayton for 22 yards (tackle by Chandon Sullivan)
+88,3,13:20,1,10,MIN 33,7,10,Saquon Barkley up the middle for 3 yards (tackle by Patrick Jones and Jordan Hicks)
+89,3,12:09,2,7,MIN 30,7,10,Saquon Barkley up the middle for 4 yards (tackle by Jordan Hicks)
+90,3,11:32,3,3,MIN 26,7,10,Daniel Jones pass incomplete short right intended for Isaiah Hodgins
+91,3,11:22,4,3,MIN 26,10,10,Graham Gano 44 yard field goal good
+92,3,11:18,0,0,NYG 35,10,10,"Graham Gano kicks off 65 yards, touchback."
+93,3,11:18,1,10,MIN 25,10,10,Kirk Cousins pass complete short right to T.J. Hockenson for 9 yards (tackle by Micah McFadden and Fabian Moreau)
+94,3,10:44,2,1,MIN 34,10,10,Dalvin Cook left guard for 7 yards (tackle by Jason Pinnock and Jaylon Smith)
+95,3,10:07,1,10,MIN 41,10,10,Kirk Cousins pass incomplete deep right intended for T.J. Hockenson (defended by Kayvon Thibodeaux)
+96,3,10:01,2,10,MIN 41,10,10,Kirk Cousins pass complete short left to Dalvin Cook for 3 yards (tackle by Fabian Moreau and Jaylon Smith)
+97,3,9:27,3,7,MIN 44,10,10,Kirk Cousins pass incomplete short left intended for Justin Jefferson
+98,3,9:22,4,7,MIN 44,10,10,"Ryan Wright punts 56 yards, touchback."
+99,3,9:13,1,10,NYG 20,10,10,Daniel Jones pass complete short left to Isaiah Hodgins for 4 yards (tackle by Duke Shelley)
+100,3,8:41,2,6,NYG 24,10,10,Daniel Jones pass complete short right to Saquon Barkley for 18 yards (tackle by Jordan Hicks)
+101,3,8:05,1,10,NYG 42,10,10,Daniel Jones scrambles left end for 2 yards (tackle by Jordan Hicks)
+102,3,7:24,2,8,NYG 44,10,10,Daniel Jones pass complete deep right to Richie James for 33 yards
+103,3,6:54,1,10,MIN 23,10,10,Saquon Barkley left tackle for 4 yards (tackle by Esezi Otomewo)
+104,3,6:15,2,6,MIN 19,10,10,"Penalty on Nick Gates: False Start, 5 yards (accepted) (no play)"
+105,3,5:56,2,11,MIN 24,10,10,Daniel Jones pass complete short left to Saquon Barkley for 2 yards (tackle by Patrick Peterson)
+106,3,5:15,3,9,MIN 22,10,10,Daniel Jones sacked by and D.J. Wonnum for -3 yards and Danielle Hunter for -3 yards
+107,3,4:35,4,12,MIN 25,13,10,Graham Gano 44 yard field goal good
+108,3,4:31,0,0,NYG 35,13,10,"Graham Gano kicks off 65 yards, touchback."
+109,3,4:31,1,10,MIN 25,13,10,Dalvin Cook left end for 4 yards (tackle by Kayvon Thibodeaux)
+110,3,3:58,2,6,MIN 29,13,10,Kirk Cousins pass complete short left to Johnny Mundt for 16 yards (tackle by Jaylon Smith and Kayvon Thibodeaux)
+111,3,3:09,1,10,MIN 45,13,10,"Kirk Cousins pass short middle intended for Adam Thielen is intercepted by Cordale Flott at NYG-40 and returned for -10 yards (tackle by Adam Thielen) Replay Assistant challenged the pass interception ruling, and the original play was overturned. Kirk Cousins pass incomplete short middle intended for Adam Thielen (defended by Cordale Flott)"
+112,3,2:08,2,10,MIN 45,13,10,"Dalvin Cook right guard for 2 yards (tackle by Jihad Ward and Julian Love). Penalty on Leonard Williams: Defensive Holding, 5 yards (accepted) "
+113,3,2:59,1,10,NYG 48,13,10,Kirk Cousins pass complete short right to Justin Jefferson for 1 yard (tackle by Fabian Moreau)
+114,3,2:03,2,9,NYG 47,13,10,Kirk Cousins pass complete short middle to Justin Jefferson for 17 yards (tackle by Julian Love)
+115,3,1:24,1,10,NYG 30,13,10,Dalvin Cook right end for 1 yard (tackle by Jihad Ward and Cordale Flott)
+116,3,0:55,2,9,NYG 29,13,10,Kirk Cousins pass complete short left to Dalvin Cook for 4 yards (tackle by Darnay Holmes and Julian Love)
+117,3,0:13,3,5,NYG 25,13,10,Kirk Cousins pass complete short right to Justin Jefferson for 5 yards (tackle by Darnay Holmes)
+118,4,15:00,1,10,NYG 20,13,10,Kirk Cousins pass incomplete short right intended for K.J. Osborn (defended by Julian Love)
+119,4,14:55,2,10,NYG 20,13,10,Kirk Cousins pass complete short right to T.J. Hockenson for 5 yards (tackle by Landon Collins and Fabian Moreau)
+120,4,14:18,3,5,NYG 15,13,16,"Kirk Cousins pass complete short left to T.J. Hockenson for 15 yards, touchdown"
+121,4,14:12,0,0,NYG 15,13,17,Greg Joseph kicks extra point good
+122,4,14:12,0,0,MIN 35,13,17,"Greg Joseph kicks off 65 yards, touchback."
+123,4,14:12,1,10,NYG 25,13,17,Daniel Jones pass complete short right to Isaiah Hodgins for 17 yards (tackle by Duke Shelley)
+124,4,13:33,1,10,NYG 42,13,17,Daniel Jones pass complete short left to Richie James for 14 yards (tackle by Duke Shelley)
+125,4,12:59,1,10,MIN 44,13,17,Daniel Jones pass complete short right to Richie James for 4 yards (tackle by Duke Shelley)
+126,4,12:22,2,6,MIN 40,13,17,Daniel Jones pass complete short right to Darius Slayton for 8 yards (tackle by Patrick Peterson)
+127,4,11:45,1,10,MIN 32,13,17,Daniel Jones pass short middle intended for Isaiah Hodgins is intercepted by Patrick Peterson at MIN-18 and returned for 11 yards (tackle by Andrew Thomas)
+128,4,11:42,1,10,MIN 29,13,17,Dalvin Cook left tackle for 6 yards (tackle by Micah McFadden)
+129,4,11:08,2,4,MIN 35,13,17,Alexander Mattison right guard for 13 yards (tackle by Jason Pinnock and Jaylon Smith)
+130,4,10:37,1,10,MIN 48,13,17,Kirk Cousins pass incomplete short right intended for Adam Thielen (defended by Jihad Ward)
+131,4,10:30,2,10,MIN 48,13,17,Kirk Cousins pass complete short right to T.J. Hockenson for 7 yards (tackle by Tony Jefferson)
+132,4,9:51,3,3,NYG 45,13,17,Kirk Cousins pass complete short left to K.J. Osborn for 1 yard (tackle by Darnay Holmes)
+133,4,9:01,4,2,NYG 44,13,17,Kirk Cousins pass incomplete deep right intended for Justin Jefferson (defended by Darnay Holmes)
+134,4,8:55,1,10,NYG 44,13,17,Daniel Jones pass complete short left to Saquon Barkley for 6 yards (tackle by Duke Shelley)
+135,4,8:30,2,4,MIN 49,13,17,Saquon Barkley right tackle for 7 yards (tackle by Danielle Hunter)
+136,4,7:51,1,10,MIN 42,13,17,Daniel Jones pass complete short left to Saquon Barkley for 5 yards (tackle by Eric Kendricks and Harrison Smith)
+137,4,7:15,2,5,MIN 37,13,17,Saquon Barkley left end for no gain (tackle by Harrison Phillips)
+138,4,6:34,3,5,MIN 37,13,17,Daniel Jones pass incomplete short left intended for Richie James
+139,4,6:29,4,5,MIN 37,16,17,Graham Gano 55 yard field goal good
+140,4,6:24,0,0,NYG 35,16,17,"Graham Gano kicks off 65 yards, touchback."
+141,4,6:24,1,10,MIN 25,16,17,Dalvin Cook left end for no gain (tackle by Dexter Lawrence and Micah McFadden)
+142,4,5:47,2,10,MIN 25,16,17,Kirk Cousins sacked by Jaylon Smith for -7 yards
+143,4,5:16,3,17,MIN 18,16,17,Kirk Cousins pass complete short left to T.J. Hockenson for 9 yards (tackle by Julian Love)
+144,4,4:40,4,8,MIN 27,16,17,"Ryan Wright punts 52 yards, returned by Richie James for 4 yards (tackle by Kris Boyd and Patrick Jones)"
+145,4,4:24,1,10,NYG 25,16,17,Daniel Jones pass complete short right to Saquon Barkley for 1 yard (tackle by Eric Kendricks)
+146,4,4:17,2,9,NYG 26,16,17,Daniel Jones pass complete short right to Isaiah Hodgins for 5 yards (tackle by Harrison Smith)
+147,4,4:14,3,4,NYG 31,16,17,Daniel Jones pass incomplete short left intended for Isaiah Hodgins (defended by Jordan Hicks)
+148,4,4:10,4,4,NYG 31,16,17,"Jamie Gillan punts blocked by Josh Metellus, recovered by Julian Love at NYG-23 and returned for 8 yards (tackle by Troy Dye)"
+149,4,4:02,1,10,NYG 29,16,17,Dalvin Cook left tackle for 4 yards (tackle by Jihad Ward and Jaylon Smith)
+150,4,3:33,2,6,NYG 25,16,17,Kirk Cousins pass complete short right to K.J. Osborn for 8 yards (tackle by Jaylon Smith)
+151,4,3:30,1,10,NYG 17,16,17,Kirk Cousins pass incomplete short middle intended for Dalvin Cook (defended by Dexter Lawrence)
+152,4,3:12,2,10,NYG 17,16,17,Kirk Cousins pass complete short left to Justin Jefferson for no gain (tackle by Landon Collins)
+153,4,3:06,3,6,NYG 17,16,23,"Kirk Cousins pass complete deep middle to Justin Jefferson for 17 yards, touchdown"
+154,4,3:00,0,0,NYG 15,16,24,Greg Joseph kicks extra point good
+155,4,3:00,0,0,MIN 35,16,24,"Greg Joseph kicks off 65 yards, touchback."
+156,4,3:00,1,10,NYG 25,16,24,Daniel Jones pass complete short right to Richie James for 8 yards (tackle by Eric Kendricks)
+157,4,2:36,2,2,NYG 33,16,24,Daniel Jones pass incomplete short middle intended for Richie James
+158,4,2:31,3,2,NYG 33,16,24,Daniel Jones pass complete short left to Darius Slayton for 32 yards (tackle by Camryn Bynum)
+159,4,2:23,1,10,MIN 40,16,24,Daniel Jones pass incomplete short left intended for Saquon Barkley
+160,4,2:19,2,10,MIN 35,16,24,Daniel Jones pass incomplete short middle intended for Richie James (defended by Khyiris Tonga)
+161,4,2:15,3,10,MIN 35,16,24,Daniel Jones scrambles right end for 8 yards (tackle by Josh Metellus)
+162,4,2:07,4,2,MIN 27,22,24,"Saquon Barkley left guard for 27 yards, touchdown"
+163,4,2:01,0,0,MIN 2,24,24,Two Point Attempt: Daniel Jones pass complete to to Daniel Bellinger for no gain
+164,4,2:01,0,0,NYG 35,24,24,"Graham Gano kicks off 65 yards, touchback."
+165,4,2:01,1,10,MIN 25,24,24,Kirk Cousins pass incomplete short left intended for Justin Jefferson
+166,4,1:57,2,10,MIN 25,24,24,Kirk Cousins pass complete to T.J. Hockenson for 1 yard (tackle by Nick McCloud)
+167,4,1:17,3,8,MIN 26,24,24,Kirk Cousins pass complete deep left to Justin Jefferson for 16 yards (tackle by Darnay Holmes)
+168,4,0:47,1,10,MIN 42,24,24,Kirk Cousins pass complete short middle to Dalvin Cook for 6 yards (tackle by Jihad Ward)
+169,4,0:29,2,5,MIN 48,24,24,Kirk Cousins sacked by Landon Collins for -7 yards
+170,4,0:19,3,12,MIN 41,24,24,Kirk Cousins pass complete short right to Justin Jefferson for 17 yards (tackle by Julian Love)
+171,4,0:04,1,10,NYG 42,24,24,Kirk Cousins spiked the ball
+172,4,0:04,2,10,NYG 42,24,27,Greg Joseph 61 yard field goal good

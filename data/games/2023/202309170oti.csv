@@ -1,0 +1,168 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,TEN 35,0,0,"Nick Folk kicks off 65 yards, touchback."
+1,1,15:00,1,10,LAC 25,0,0,Justin Herbert pass incomplete short left intended for Joshua Kelley
+2,1,14:54,2,10,LAC 25,0,0,Justin Herbert pass complete short left to Quentin Johnston for 7 yards (tackle by Roger McCreary)
+3,1,14:12,3,3,LAC 32,0,0,Justin Herbert sacked by Denico Autry for -7 yards
+4,1,13:30,4,10,LAC 25,0,0,"JK Scott punts 40 yards, returned by Kearis Jackson for no gain (tackle by Nick Niemann). Penalty on Tre Avery: Offensive Holding, 10 yards (accepted) "
+5,1,13:20,1,10,TEN 25,0,0,Ryan Tannehill pass complete short right to Nick Westbrook-Ikhine for 7 yards (tackle by J.C. Jackson)
+6,1,12:49,2,3,TEN 32,0,0,Derrick Henry right guard for 5 yards (tackle by Derwin James and Kenneth Murray)
+7,1,12:08,1,10,TEN 37,0,0,Derrick Henry right guard for 4 yards (tackle by Kenneth Murray and Austin Johnson)
+8,1,11:28,2,6,TEN 41,0,0,Ryan Tannehill pass complete short left to Chigoziem Okonkwo for 4 yards (tackle by Derwin James and Nick Williams)
+9,1,11:00,3,2,TEN 45,0,0,Tyjae Spears right tackle for 3 yards (tackle by Alohi Gilman and Ja'Sir Taylor)
+10,1,10:25,1,10,TEN 48,0,0,Tyjae Spears right end for 4 yards (tackle by Khalil Mack)
+11,1,9:39,2,6,LAC 48,0,0,Derrick Henry left end for 1 yard (tackle by Kenneth Murray and Tuli Tuipulotu)
+12,1,8:58,3,5,LAC 47,0,0,Tyjae Spears up the middle for 1 yard (tackle by Tuli Tuipulotu and Nick Niemann)
+13,1,8:15,4,4,LAC 46,0,0,Ryan Tannehill sacked by Kenneth Murray for -6 yards
+14,1,8:11,1,10,TEN 48,0,0,Joshua Kelley left guard for 1 yard (tackle by Roger McCreary)
+15,1,7:40,2,9,TEN 47,0,0,Justin Herbert pass complete short left to Keenan Allen for 7 yards (tackle by Denico Autry)
+16,1,7:07,3,2,TEN 40,0,0,Joshua Kelley for 5 yards (tackle by Azeez Al-Shaair)
+17,1,6:29,1,10,TEN 35,0,0,Justin Herbert pass complete short left to Keenan Allen for 8 yards (tackle by Tre Avery)
+18,1,5:51,2,2,TEN 27,0,0,Justin Herbert pass complete short left to Mike Williams for -1 yards (tackle by Tre Avery)
+19,1,5:30,3,3,TEN 28,0,0,Elijah Dotson left guard for 1 yard (tackle by Jeffery Simmons and Roger McCreary)
+20,1,4:52,4,2,TEN 27,0,0,Justin Herbert pass complete short left to Mike Williams for 20 yards (tackle by Elijah Molden)
+21,1,4:35,1,7,TEN 7,0,0,Justin Herbert pass incomplete short right intended for Keenan Allen (defended by Sean Murphy-Bunting)
+22,1,4:29,2,7,TEN 7,0,0,Joshua Kelley right tackle for -2 yards (tackle by Roger McCreary and Azeez Al-Shaair)
+23,1,3:56,3,9,TEN 9,0,0,"Justin Herbert pass incomplete short right intended for Mike Williams. Penalty on Trey Pipkins: Offensive Holding, 10 yards (declined) "
+24,1,3:49,4,9,TEN 9,3,0,Cameron Dicker 27 yard field goal good
+25,1,3:46,0,0,LAC 35,3,0,"Cameron Dicker kicks off 65 yards, touchback."
+26,1,3:46,1,10,TEN 25,3,0,Tyjae Spears left guard for 5 yards (tackle by Tuli Tuipulotu and Austin Johnson)
+27,1,3:02,2,5,TEN 30,3,0,"Penalty on Trevon Wesco: False Start, 5 yards (accepted) (no play)"
+28,1,2:38,2,10,TEN 25,3,0,Ryan Tannehill pass incomplete short middle intended for DeAndre Hopkins
+29,1,2:34,3,10,TEN 25,3,0,Ryan Tannehill sacked by Joey Bosa for -8 yards
+30,1,1:54,4,18,TEN 17,3,0,"Ryan Stonehouse punts 60 yards, returned by Derius Davis for 13 yards (tackle by Julius Chestnut)"
+31,1,1:42,1,10,LAC 36,3,0,Justin Herbert pass complete short left to Mike Williams for 7 yards (tackle by Roger McCreary)
+32,1,1:03,2,3,LAC 43,3,0,Joshua Kelley right end for 4 yards (tackle by Rashad Weaver and Sean Murphy-Bunting)
+33,1,0:27,1,10,LAC 47,3,0,Mike Williams left end for 3 yards (tackle by Kevin Byard)
+34,2,15:00,2,7,LAC 50,3,0,Justin Herbert pass incomplete deep left intended for Mike Williams
+35,2,14:53,3,7,LAC 50,3,0,Justin Herbert pass complete short left to Josh Palmer for 6 yards (tackle by Tre Avery)
+36,2,14:05,4,1,TEN 44,3,0,JK Scott punts 29 yards downed by Deane Leonard
+37,2,14:05,1,10,TEN 15,3,0,Derrick Henry right guard for 1 yard (tackle by Derwin James and Nick Niemann)
+38,2,13:29,2,9,TEN 16,3,0,Ryan Tannehill pass complete short right to Derrick Henry for no gain (tackle by Derwin James)
+39,2,12:49,3,9,TEN 16,3,0,Ryan Tannehill sacked by Morgan Fox for -13 yards
+40,2,12:02,4,22,TEN 3,3,0,"Ryan Stonehouse punts 63 yards, returned by Derius Davis for 19 yards (tackle by Rashad Weaver)"
+41,2,11:50,1,10,TEN 47,3,0,Justin Herbert pass complete short right to Elijah Dotson for 7 yards (tackle by Sean Murphy-Bunting and Azeez Al-Shaair)
+42,2,11:23,2,3,TEN 40,3,0,Elijah Dotson up the middle for 2 yards (tackle by Naquan Jones and Kyle Peko)
+43,2,10:46,3,1,TEN 38,3,0,Justin Herbert up the middle for no gain (tackle by Jeffery Simmons)
+44,2,10:10,4,1,TEN 38,3,0,"Derius Davis left end for 10 yards (tackle by Azeez Al-Shaair). Penalty on Azeez Al-Shaair: Horse Collar Tackle, 14 yards (accepted) "
+45,2,9:51,1,10,TEN 14,3,0,Elijah Dotson left guard for 1 yard (tackle by Azeez Al-Shaair and Jeffery Simmons)
+46,2,9:15,2,9,TEN 13,3,0,Justin Herbert pass complete short right to Gerald Everett for 5 yards (tackle by Sean Murphy-Bunting and Kevin Byard)
+47,2,8:30,3,4,TEN 8,3,0,"Justin Herbert pass incomplete short left intended for Josh Palmer LAC challenged the pass completion ruling, and the play was upheld."
+48,2,8:24,4,4,TEN 8,9,0,"Justin Herbert pass complete short left to Keenan Allen for 8 yards, touchdown. Penalty on Tre Avery: Defensive Pass Interference, 15 yards (declined) "
+49,2,8:16,0,0,TEN 15,9,0,"Penalty on Jeffery Simmons: Roughing the Passer, 1 yard (accepted) (no play)"
+50,2,8:16,1,10,TEN 2,11,0,Two Point Attempt: Justin Herbert pass complete to to Trey Pipkins for no gain
+51,2,8:16,0,0,LAC 35,11,0,"Cameron Dicker kicks off 65 yards, touchback."
+52,2,8:16,1,10,TEN 25,11,0,Ryan Tannehill pass complete deep left to Treylon Burks for 70 yards (tackle by Asante Samuel)
+53,2,7:31,1,5,LAC 5,11,0,Derrick Henry up the middle for 4 yards (tackle by Amen Ogbongbemiga and Kenneth Murray)
+54,2,7:12,2,1,LAC 1,11,6,"Derrick Henry up the middle for 1 yard, touchdown"
+55,2,7:09,0,0,LAC 15,11,7,Nick Folk kicks extra point good
+56,2,7:09,0,0,TEN 35,11,7,"Nick Folk kicks off 64 yards, returned by Derius Davis for 24 yards (tackle by Elijah Molden)"
+57,2,7:03,1,10,LAC 25,11,7,Joshua Kelley left guard for 15 yards (tackle by Kevin Byard and Elijah Molden)
+58,2,6:31,1,10,LAC 40,11,7,Joshua Kelley up the middle for 3 yards (tackle by Azeez Al-Shaair)
+59,2,5:55,2,7,LAC 43,11,7,Justin Herbert pass complete deep right to Keenan Allen for 42 yards (tackle by Kevin Byard)
+60,2,5:18,1,10,TEN 15,11,7,Justin Herbert pass incomplete short right
+61,2,5:12,2,10,TEN 15,11,7,Isaiah Spiller up the middle for 3 yards (tackle by Jack Gibbens and Harold Landry)
+62,2,4:32,3,7,TEN 12,11,7,Justin Herbert pass incomplete short left intended for Quentin Johnston (defended by Tre Avery)
+63,2,4:27,4,7,TEN 12,14,7,Cameron Dicker 30 yard field goal good
+64,2,4:23,0,0,LAC 35,14,7,"Cameron Dicker kicks off 65 yards, touchback."
+65,2,4:23,1,10,TEN 25,14,7,Derrick Henry left end for 23 yards (tackle by Alohi Gilman and Nick Niemann)
+66,2,3:42,1,10,TEN 48,14,7,Ryan Tannehill pass complete short right to Treylon Burks for 5 yards (tackle by Asante Samuel)
+67,2,3:04,2,5,LAC 47,14,7,Tyjae Spears left end for 3 yards (tackle by Michael Davis)
+68,2,2:18,3,2,LAC 44,14,7,Tyjae Spears right guard for 8 yards (tackle by Kenneth Murray)
+69,2,2:00,1,10,LAC 36,14,7,Ryan Tannehill pass complete short middle to Nick Westbrook-Ikhine for 14 yards (tackle by Asante Samuel)
+70,2,1:32,1,10,LAC 22,14,7,Derrick Henry right guard for 3 yards (tackle by Joey Bosa)
+71,2,0:57,2,7,LAC 19,14,7,Derrick Henry right guard for 3 yards (tackle by Joey Bosa and Khalil Mack)
+72,2,0:50,3,4,LAC 16,14,7,Ryan Tannehill pass complete short left to Treylon Burks for 1 yard (tackle by Kenneth Murray)
+73,2,0:03,4,3,LAC 15,14,10,Nick Folk 33 yard field goal good
+74,3,15:00,0,0,LAC 35,14,10,"Cameron Dicker kicks off 65 yards, touchback."
+75,3,15:00,1,10,TEN 25,14,10,Derrick Henry right guard for 4 yards (tackle by Nick Niemann)
+76,3,14:22,2,6,TEN 29,14,10,Ryan Tannehill pass complete short left to Tyjae Spears for 2 yards (tackle by Ja'Sir Taylor)
+77,3,13:41,3,4,TEN 31,14,10,Ryan Tannehill pass complete short left to DeAndre Hopkins for 9 yards (tackle by J.C. Jackson)
+78,3,13:04,1,10,TEN 40,14,10,Ryan Tannehill pass complete short middle to Chigoziem Okonkwo for 20 yards (tackle by Derwin James and Alohi Gilman)
+79,3,12:16,1,10,LAC 40,14,10,Ryan Tannehill pass incomplete short right intended for Derrick Henry (defended by Khalil Mack)
+80,3,12:12,2,10,LAC 40,14,10,Derrick Henry for 2 yards (tackle by Khalil Mack and Alohi Gilman)
+81,3,11:31,3,8,LAC 38,14,10,"Penalty on Josh Whyle: False Start, 5 yards (accepted) (no play)"
+82,3,11:09,3,13,LAC 43,14,10,"Ryan Tannehill pass incomplete intended for Nick Westbrook-Ikhine. Penalty on Derwin James: Personal Foul / Defense, 15 yards (accepted) (no play)"
+83,3,11:04,1,10,LAC 28,14,10,Derrick Henry for 4 yards (tackle by Derwin James)
+84,3,10:24,2,6,LAC 24,14,10,Ryan Tannehill pass incomplete deep right intended for Treylon Burks
+85,3,10:19,3,6,LAC 24,14,10,"Ryan Tannehill pass incomplete intended for Treylon Burks. Penalty on Sebastian Joseph-Day: Roughing the Passer, 12 yards (accepted) (no play)"
+86,3,10:14,1,10,LAC 12,14,16,"Ryan Tannehill right tackle for 12 yards, touchdown"
+87,3,10:08,0,0,LAC 15,14,17,Nick Folk kicks extra point good
+88,3,10:08,0,0,TEN 35,14,17,"Nick Folk kicks off 65 yards, touchback."
+89,3,10:08,1,10,LAC 25,14,17,Justin Herbert pass complete short middle to Mike Williams for 11 yards (tackle by Jack Gibbens and Harold Landry)
+90,3,9:31,1,10,LAC 36,14,17,Justin Herbert pass complete short right to Mike Williams for 11 yards (tackle by Sean Murphy-Bunting and Kevin Byard)
+91,3,8:57,1,10,LAC 47,14,17,Joshua Kelley right guard for 3 yards (tackle by Elijah Molden)
+92,3,8:22,2,7,TEN 50,14,17,Joshua Kelley up the middle for 1 yard (tackle by Denico Autry)
+93,3,7:46,3,6,TEN 49,14,17,Justin Herbert sacked by Jeffery Simmons for -9 yards
+94,3,7:03,4,15,LAC 42,14,17,"JK Scott punts 45 yards, fair catch by Kearis Jackson at TEN-13"
+95,3,7:00,1,10,TEN 13,14,17,Derrick Henry up the middle for 4 yards (tackle by Khalil Mack)
+96,3,6:18,2,6,TEN 17,14,17,Ryan Tannehill pass complete short right to Chigoziem Okonkwo for 8 yards (tackle by Nick Niemann)
+97,3,5:44,1,10,TEN 25,14,17,Ryan Tannehill pass complete short left to Derrick Henry for 9 yards (tackle by Kenneth Murray)
+98,3,5:14,2,1,TEN 34,14,17,Derrick Henry up the middle for 2 yards (tackle by Austin Johnson and Tuli Tuipulotu)
+99,3,4:38,1,10,TEN 36,14,17,Tyjae Spears left tackle for 11 yards (tackle by Derwin James)
+100,3,4:03,1,10,TEN 47,14,17,Ryan Tannehill pass complete short left to DeAndre Hopkins for 3 yards (tackle by J.C. Jackson)
+101,3,3:23,2,7,TEN 50,14,17,Ryan Tannehill pass incomplete short left intended for Trevon Wesco
+102,3,3:19,3,7,TEN 50,14,17,Ryan Tannehill sacked by Joey Bosa for -13 yards
+103,3,2:47,4,20,TEN 37,14,17,"Ryan Stonehouse punts 63 yards, touchback."
+104,3,2:39,1,10,LAC 20,14,17,Justin Herbert pass complete short left to Keenan Allen for 9 yards (tackle by Tre Avery)
+105,3,2:00,2,1,LAC 29,14,17,"Justin Herbert pass incomplete deep right intended for Keenan Allen. Penalty on Rashawn Slater: Offensive Holding, 9 yards (accepted) (no play)"
+106,3,1:54,2,11,LAC 20,14,17,Justin Herbert pass complete short middle to Mike Williams for 11 yards (tackle by Kevin Byard)
+107,3,1:17,1,10,LAC 31,14,17,Joshua Kelley up the middle for no gain (tackle by Teair Tart and Kyle Peko)
+108,3,0:47,2,10,LAC 31,14,17,Justin Herbert pass complete deep right to Stone Smartt for 24 yards (tackle by Kevin Byard)
+109,3,0:12,1,10,TEN 45,14,17,Justin Herbert pass complete short right to Gerald Everett for 29 yards (tackle by Azeez Al-Shaair)
+110,4,15:00,1,10,TEN 16,14,17,Joshua Kelley left guard for 4 yards (tackle by Azeez Al-Shaair)
+111,4,14:41,2,6,TEN 12,20,17,"Justin Herbert pass complete short left to Keenan Allen for 12 yards, touchdown"
+112,4,14:38,0,0,TEN 15,21,17,Cameron Dicker kicks extra point good
+113,4,14:38,0,0,LAC 35,21,17,"Cameron Dicker kicks off 65 yards, touchback."
+114,4,14:38,1,10,TEN 25,21,17,Derrick Henry up the middle for 6 yards (tackle by Derwin James and Sebastian Joseph-Day)
+115,4,14:01,2,4,TEN 31,21,17,Derrick Henry right tackle for -1 yards (tackle by Michael Davis and Sebastian Joseph-Day)
+116,4,13:15,3,5,TEN 30,21,17,"Penalty on Dillon Radunz: False Start, 5 yards (accepted) (no play)"
+117,4,13:15,3,10,TEN 25,21,17,Ryan Tannehill pass complete short left to Chigoziem Okonkwo for 3 yards (tackle by Asante Samuel and Derwin James)
+118,4,12:34,4,7,TEN 28,21,17,"Ryan Stonehouse punts 58 yards, returned by Derius Davis for 20 yards (tackle by Monty Rice)"
+119,4,12:25,1,10,LAC 34,21,17,Justin Herbert pass incomplete deep left intended for Mike Williams
+120,4,12:19,2,10,LAC 34,21,17,Justin Herbert pass complete short right to Elijah Dotson for 6 yards (tackle by Jack Gibbens)
+121,4,11:45,3,4,LAC 40,21,17,Elijah Dotson up the middle for 2 yards (tackle by Kevin Byard and Jeffery Simmons)
+122,4,11:06,4,2,LAC 42,21,17,"JK Scott punts 44 yards, fair catch by Kearis Jackson at TEN-14"
+123,4,11:01,1,10,TEN 14,21,17,Derrick Henry right tackle for 2 yards (tackle by Tuli Tuipulotu)
+124,4,10:20,2,8,TEN 16,21,17,Ryan Tannehill pass complete short right to Tyjae Spears for 4 yards (tackle by Derwin James)
+125,4,9:42,3,4,TEN 20,21,17,Ryan Tannehill sacked by Tuli Tuipulotu for -6 yards
+126,4,8:53,4,10,TEN 14,21,17,"Ryan Stonehouse punts 62 yards, returned by Derius Davis for 11 yards (tackle by Luke Gifford and Julius Chestnut)"
+127,4,8:44,1,10,LAC 35,21,17,Joshua Kelley left end for 4 yards (tackle by Kevin Byard and Jack Gibbens)
+128,4,8:09,2,6,LAC 39,21,17,Joshua Kelley up the middle for -2 yards (tackle by Teair Tart)
+129,4,7:33,3,8,LAC 37,21,17,Justin Herbert pass complete short right to Gerald Everett for 13 yards (tackle by Sean Murphy-Bunting)
+130,4,6:49,1,10,TEN 50,21,17,Joshua Kelley right guard for 3 yards (tackle by Jack Gibbens)
+131,4,6:12,2,7,TEN 47,21,17,Justin Herbert pass incomplete short right intended for Mike Williams (defended by Sean Murphy-Bunting)
+132,4,6:12,3,7,TEN 47,21,17,Justin Herbert pass incomplete short middle intended for Keenan Allen (defended by Mike Brown)
+133,4,6:08,4,7,TEN 47,21,17,"JK Scott punts 29 yards, fair catch by Kearis Jackson at TEN-18"
+134,4,6:00,1,10,TEN 18,21,17,Ryan Tannehill pass complete deep middle to Chris Moore for 49 yards (tackle by Michael Davis)
+135,4,5:22,1,10,LAC 33,21,17,Derrick Henry right guard for 5 yards (tackle by Nick Niemann and Khalil Mack)
+136,4,4:42,2,5,LAC 28,21,17,Derrick Henry right end for 1 yard (tackle by Tuli Tuipulotu and Kenneth Murray)
+137,4,3:59,3,4,LAC 27,21,17,"Ryan Tannehill pass complete short right to DeAndre Hopkins for 14 yards (tackle by Derwin James). Penalty on Kenneth Murray: Roughing the Passer, 7 yards (accepted) "
+138,4,3:50,1,6,LAC 6,21,17,Derrick Henry left end for 5 yards (tackle by Austin Johnson)
+139,4,3:09,2,1,LAC 1,21,17,Derrick Henry right tackle for -3 yards (tackle by Kenneth Murray)
+140,4,2:25,3,4,LAC 4,21,23,"Ryan Tannehill pass complete short middle to Nick Westbrook-Ikhine for 4 yards, touchdown"
+141,4,2:22,0,0,LAC 15,21,24,Nick Folk kicks extra point good
+142,4,2:22,0,0,TEN 35,21,24,"Nick Folk kicks off 65 yards, touchback."
+143,4,2:22,1,10,LAC 25,21,24,Justin Herbert pass complete short middle to Mike Williams for 15 yards (tackle by Tre Avery)
+144,4,2:05,1,10,LAC 40,21,24,Justin Herbert pass complete short left to Mike Williams for 9 yards (tackle by Tre Avery)
+145,4,1:56,2,1,LAC 49,21,24,Justin Herbert pass complete short left to Donald Parham for 7 yards (tackle by Tre Avery and Kevin Byard)
+146,4,1:40,1,10,TEN 44,21,24,"Justin Herbert pass incomplete deep left. Penalty on Arden Key: Defensive Offside, 5 yards (accepted) (no play)"
+147,4,1:34,1,5,TEN 39,21,24,Justin Herbert pass complete short right to Keenan Allen for 14 yards (tackle by Roger McCreary and Kevin Byard)
+148,4,1:18,1,10,TEN 25,21,24,Justin Herbert pass incomplete deep left intended for Donald Parham
+149,4,1:11,2,10,TEN 25,21,24,Justin Herbert pass complete short left to Keenan Allen for 11 yards (tackle by Elijah Molden)
+150,4,0:55,1,10,TEN 14,21,24,Justin Herbert pass complete short left to Josh Palmer for 4 yards (tackle by Kevin Byard)
+151,4,0:28,2,6,TEN 10,21,24,Justin Herbert pass complete short left to Josh Palmer for 3 yards (tackle by Tre Avery)
+152,4,0:21,3,2,TEN 7,21,24,Justin Herbert sacked by Harold Landry for -8 yards
+153,4,0:03,4,10,TEN 15,24,24,Cameron Dicker 33 yard field goal good
+154,5,10:00,0,0,TEN 35,24,24,"Nick Folk kicks off 65 yards, touchback."
+155,5,10:00,1,10,LAC 25,24,24,Justin Herbert pass incomplete deep right intended for Mike Williams (defended by Sean Murphy-Bunting)
+156,5,9:54,2,10,LAC 25,24,24,Justin Herbert pass incomplete deep right
+157,5,9:49,3,10,LAC 25,24,24,Justin Herbert pass incomplete deep left intended for Josh Palmer
+158,5,9:43,4,10,LAC 25,24,24,"JK Scott punts 47 yards, returned by Kearis Jackson for 11 yards (tackle by Josh Harris)"
+159,5,9:32,1,10,TEN 39,24,24,Tyjae Spears right end for 14 yards (tackle by Alohi Gilman)
+160,5,8:52,1,10,LAC 47,24,24,Ryan Tannehill pass complete short right to Derrick Henry for 6 yards (tackle by Nick Niemann)
+161,5,8:09,2,4,LAC 41,24,24,Derrick Henry up the middle for 2 yards (tackle by Nick Niemann and Nick Williams)
+162,5,7:35,3,2,LAC 39,24,24,"Derrick Henry left tackle for 2 yards (tackle by Asante Samuel and Khalil Mack) Replay Assistant challenged the first down ruling, and the play was upheld."
+163,5,6:54,1,10,LAC 37,24,24,Ryan Tannehill pass complete short right to DeAndre Hopkins for 14 yards
+164,5,6:24,1,10,LAC 23,24,24,Derrick Henry up the middle for -2 yards (tackle by Asante Samuel and Sebastian Joseph-Day)
+165,5,5:48,2,12,LAC 25,24,24,Derrick Henry right guard for 2 yards (tackle by Sebastian Joseph-Day and Alohi Gilman)
+166,5,5:06,3,10,LAC 23,24,27,Nick Folk 41 yard field goal good

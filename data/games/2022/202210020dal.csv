@@ -1,0 +1,172 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,WAS 35,0,0,"Joey Slye kicks off 65 yards, touchback."
+1,1,15:00,1,10,DAL 25,0,0,Ezekiel Elliott left tackle for 5 yards (tackle by Montez Sweat and Daron Payne)
+2,1,14:27,2,5,DAL 30,0,0,Cooper Rush pass incomplete short right intended for Michael Gallup
+3,1,14:20,3,5,DAL 30,0,0,Cooper Rush pass complete short left to Ezekiel Elliott for 31 yards (tackle by Kamren Curl)
+4,1,13:32,1,10,WAS 39,0,0,Ezekiel Elliott right tackle for 1 yard (tackle by Jonathan Allen)
+5,1,12:58,2,9,WAS 38,0,0,Ezekiel Elliott left guard for 1 yard (tackle by Jamin Davis and Jonathan Allen)
+6,1,12:18,3,8,WAS 37,0,0,Cooper Rush pass complete short right to Tony Pollard for 2 yards (tackle by Cole Holcomb)
+7,1,11:39,4,6,WAS 35,0,3,Brett Maher 53 yard field goal good
+8,1,11:34,0,0,DAL 35,0,3,"Brett Maher kicks off 65 yards, touchback."
+9,1,11:34,1,10,WAS 25,0,3,Antonio Gibson right guard for 4 yards (tackle by Osa Odighizuwa and Leighton Vander Esch)
+10,1,10:56,2,6,WAS 29,0,3,Antonio Gibson left end for 8 yards (tackle by Leighton Vander Esch and Israel Mukuamu)
+11,1,10:12,1,10,WAS 37,0,3,Carson Wentz pass complete short middle to Antonio Gibson for 3 yards (tackle by Leighton Vander Esch and DeMarcus Lawrence)
+12,1,9:42,2,7,WAS 40,0,3,Carson Wentz pass complete short right to Terry McLaurin for 9 yards (tackle by Leighton Vander Esch)
+13,1,9:04,1,10,WAS 49,0,3,Jonathan Williams right tackle for 3 yards (tackle by Quinton Bohanna)
+14,1,8:22,2,7,DAL 48,0,3,"Penalty on Trai Turner: False Start, 5 yards (accepted) (no play)"
+15,1,8:01,2,12,WAS 47,0,3,Carson Wentz sacked by Neville Gallimore for -9 yards
+16,1,7:17,3,21,WAS 38,0,3,Carson Wentz pass incomplete short left intended for John Bates
+17,1,7:12,4,21,WAS 38,0,3,Tress Way punts 52 yards downed by Milo Eifler
+18,1,7:01,1,10,DAL 10,0,3,Ezekiel Elliott right guard for 5 yards (tackle by Darrick Forrest)
+19,1,6:24,2,5,DAL 15,0,3,Ezekiel Elliott left guard for 2 yards (tackle by Jonathan Allen and Cole Holcomb)
+20,1,5:46,3,3,DAL 17,0,3,Cooper Rush sacked by Jonathan Allen for -6 yards
+21,1,5:06,4,9,DAL 11,0,3,"Bryan Anger punts 51 yards, returned by Dax Milne for no gain (tackle by C.J. Goodwin and Kelvin Joseph)"
+22,1,4:58,1,10,WAS 38,0,3,Antonio Gibson left tackle for 4 yards (tackle by Dorance Armstrong)
+23,1,4:21,2,6,WAS 42,0,3,"Antonio Gibson for no gain (tackle by Leighton Vander Esch). Penalty on Nick Martin: Offensive Holding, 10 yards (accepted) (no play)"
+24,1,3:50,2,16,WAS 32,0,3,J.D. McKissic right tackle for 1 yard (tackle by Trysten Hill)
+25,1,3:02,3,15,WAS 33,0,3,Carson Wentz pass incomplete deep right intended for Terry McLaurin
+26,1,2:56,4,15,WAS 33,0,3,"Tress Way punts 51 yards, returned by KaVontae Turpin for -3 yards (tackle by Darrick Forrest)"
+27,1,2:44,1,10,DAL 13,0,3,Cooper Rush pass complete short middle to CeeDee Lamb for 23 yards (tackle by Bobby McCain and Jamin Davis)
+28,1,2:14,1,10,DAL 36,0,3,Cooper Rush pass complete short left to CeeDee Lamb for 16 yards (tackle by Kamren Curl)
+29,1,1:26,1,10,WAS 48,0,3,Cooper Rush pass complete short middle to CeeDee Lamb for 17 yards (tackle by Darrick Forrest and Bobby McCain)
+30,1,0:53,1,10,WAS 31,0,3,Tony Pollard left tackle for -2 yards (tackle by Jonathan Allen)
+31,1,0:16,2,12,WAS 33,0,3,Cooper Rush pass incomplete short right intended for Noah Brown
+32,1,0:12,3,12,WAS 33,0,3,Cooper Rush scrambles for 6 yards (tackle by Benjamin St-Juste)
+33,2,15:00,4,6,WAS 27,0,6,Brett Maher 45 yard field goal good
+34,2,14:56,0,0,DAL 35,0,6,"Brett Maher kicks off 65 yards, touchback."
+35,2,14:56,1,10,WAS 25,0,6,Carson Wentz pass complete short right to Antonio Gibson for no gain (tackle by Donovan Wilson)
+36,2,14:20,2,10,WAS 25,0,6,Antonio Gibson left end for 11 yards (tackle by Malik Hooker)
+37,2,13:49,1,10,WAS 36,0,6,Jonathan Williams up the middle for 2 yards (tackle by DeMarcus Lawrence)
+38,2,13:08,2,8,WAS 38,0,6,Jonathan Williams left end for 18 yards (tackle by Leighton Vander Esch)
+39,2,12:34,1,10,DAL 44,0,6,"Carson Wentz pass incomplete short right. Penalty on Carson Wentz: Intentional Grounding, 12 yards (accepted) "
+40,2,12:25,2,22,WAS 44,0,6,Carson Wentz pass complete short right to Antonio Gibson for 11 yards (tackle by Micah Parsons)
+41,2,11:47,3,11,DAL 45,0,6,Carson Wentz pass incomplete short right intended for J.D. McKissic
+42,2,11:43,4,11,DAL 45,0,6,Tress Way punts 29 yards downed by Jeremy Reaves
+43,2,11:33,1,10,DAL 16,0,6,Ezekiel Elliott right tackle for 1 yard (tackle by Kamren Curl)
+44,2,10:59,2,9,DAL 17,0,6,Cooper Rush pass incomplete deep left intended for Noah Brown
+45,2,10:53,3,9,DAL 17,0,6,Cooper Rush pass incomplete short right
+46,2,10:48,4,9,DAL 17,0,6,"Bryan Anger punts 48 yards, fair catch by Dax Milne at WAS-35"
+47,2,10:40,1,10,WAS 35,0,6,Antonio Gibson left tackle for 6 yards (tackle by Dorance Armstrong and Osa Odighizuwa)
+48,2,10:07,2,4,WAS 41,0,6,Carson Wentz pass complete short right to Curtis Samuel for 6 yards (tackle by Micah Parsons)
+49,2,9:42,1,10,WAS 47,0,6,Antonio Gibson up the middle for 3 yards (tackle by Anthony Barr and Leighton Vander Esch)
+50,2,9:00,2,7,WAS 50,0,6,J.D. McKissic right tackle for 33 yards (tackle by Leighton Vander Esch)
+51,2,8:26,1,10,DAL 17,0,6,Carson Wentz pass complete short left to Terry McLaurin for 6 yards (tackle by Leighton Vander Esch and Malik Hooker)
+52,2,8:01,2,4,DAL 11,0,6,J.D. McKissic up the middle for 1 yard (tackle by Donovan Wilson)
+53,2,7:11,3,3,DAL 10,6,6,"Carson Wentz pass complete short right to Jahan Dotson for 10 yards, touchdown"
+54,2,7:05,0,0,DAL 15,7,6,Joey Slye kicks extra point good
+55,2,7:05,0,0,WAS 35,7,6,"Joey Slye kicks off 65 yards, touchback."
+56,2,7:05,1,10,DAL 25,7,6,Cooper Rush pass incomplete short right intended for Dalton Schultz (defended by Darrick Forrest)
+57,2,7:00,2,10,DAL 25,7,6,Ezekiel Elliott up the middle for 3 yards (tackle by Daron Payne and Cole Holcomb)
+58,2,6:16,3,7,DAL 28,7,6,"Cooper Rush pass is intercepted by Benjamin St-Juste at 50 and returned for no gain (tackle by Michael Gallup). Penalty on Benjamin St-Juste: Illegal Contact, 5 yards (accepted) (no play)"
+59,2,6:05,1,10,DAL 33,7,6,Ezekiel Elliott left guard for 2 yards (tackle by Darrick Forrest)
+60,2,5:28,2,8,DAL 35,7,6,Cooper Rush pass incomplete short middle intended for CeeDee Lamb (defended by Daron Payne)
+61,2,5:26,3,8,DAL 35,7,6,Cooper Rush pass complete short left to Michael Gallup for 15 yards (tackle by Kendall Fuller)
+62,2,5:00,1,10,DAL 50,7,6,Cooper Rush pass complete short right to CeeDee Lamb for 3 yards (tackle by William Jackson)
+63,2,4:26,2,7,WAS 47,7,6,Ezekiel Elliott right guard for 6 yards (tackle by Cole Holcomb)
+64,2,4:01,3,1,WAS 41,7,6,Ezekiel Elliott right guard for 7 yards (tackle by Kamren Curl)
+65,2,3:23,1,10,WAS 34,7,6,Tony Pollard left tackle for 5 yards (tackle by Cole Holcomb and Jamin Davis)
+66,2,2:44,2,5,WAS 29,7,6,Tony Pollard left tackle for 4 yards (tackle by Kendall Fuller and Jonathan Allen)
+67,2,2:13,3,1,WAS 25,7,6,Cooper Rush up the middle for 1 yard (tackle by Cole Holcomb)
+68,2,2:00,1,10,WAS 24,7,6,Cooper Rush pass complete short left to Noah Brown for 11 yards (tackle by Cole Holcomb and Benjamin St-Juste)
+69,2,1:23,1,10,WAS 13,7,6,"Penalty on Tyler Biadasz: False Start, 5 yards (accepted) (no play)"
+70,2,1:23,1,15,WAS 18,7,6,Tony Pollard up the middle for 9 yards (tackle by Cole Holcomb and Kamren Curl)
+71,2,1:15,2,6,WAS 9,7,6,Cooper Rush pass incomplete short left intended for Tony Pollard
+72,2,1:10,3,6,WAS 9,7,12,"Cooper Rush pass complete short right to Michael Gallup for 9 yards, touchdown"
+73,2,1:04,0,0,WAS 15,7,12,Brett Maher kicks extra point blocked blocked by Efe Obada
+74,2,1:04,0,0,DAL 35,7,12,"Brett Maher kicks off 65 yards, touchback."
+75,2,1:04,1,10,WAS 25,7,12,J.D. McKissic right end for 3 yards (tackle by Israel Mukuamu)
+76,2,0:26,2,7,WAS 28,7,12,Carson Wentz pass complete short right to Logan Thomas for 5 yards (tackle by Israel Mukuamu)
+77,2,0:22,3,2,WAS 33,7,12,J.D. McKissic up the middle for 4 yards (tackle by Israel Mukuamu and Donovan Wilson)
+78,2,0:17,1,10,WAS 37,7,12,Carson Wentz pass deep left intended for Jahan Dotson is intercepted by Trevon Diggs at DAL-17 and returned for no gain (tackle by Jahan Dotson)
+79,2,0:10,1,10,DAL 17,7,12,Ezekiel Elliott up the middle for 3 yards (tackle by Daron Payne and Efe Obada)
+80,3,15:00,0,0,DAL 35,7,12,"Brett Maher kicks off 65 yards, touchback."
+81,3,15:00,1,10,WAS 25,7,12,Antonio Gibson left end for -2 yards (tackle by Micah Parsons)
+82,3,14:14,2,12,WAS 23,7,12,Carson Wentz pass incomplete short left intended for Terry McLaurin
+83,3,14:09,3,12,WAS 23,7,12,Carson Wentz pass complete short right to Curtis Samuel for 14 yards (tackle by DaRon Bland)
+84,3,13:30,1,10,WAS 37,7,12,J.D. McKissic left tackle for 1 yard (tackle by Micah Parsons)
+85,3,12:50,2,9,WAS 38,7,12,J.D. McKissic right end for -2 yards (tackle by Neville Gallimore)
+86,3,12:04,3,11,WAS 36,7,12,Carson Wentz pass complete short left to Jahan Dotson for 2 yards (tackle by Donovan Wilson)
+87,3,11:30,4,9,WAS 38,7,12,"Tress Way punts 47 yards, fair catch by KaVontae Turpin at DAL-15"
+88,3,11:22,1,10,DAL 15,7,12,Tony Pollard right tackle for -7 yards (tackle by William Jackson)
+89,3,10:43,2,17,DAL 8,7,12,"Cooper Rush pass is intercepted by Kamren Curl at DAL-35 and returned for no gain. Penalty on William Jackson: Defensive Holding, 5 yards (accepted) (no play)"
+90,3,10:35,1,10,DAL 13,7,12,Tony Pollard up the middle for -2 yards (tackle by Daron Payne)
+91,3,10:03,2,12,DAL 11,7,12,Cooper Rush pass incomplete short right intended for Tony Pollard
+92,3,9:59,3,12,DAL 11,7,12,Cooper Rush pass incomplete short right intended for Dalton Schultz
+93,3,9:52,4,12,DAL 11,7,12,"Bryan Anger punts 58 yards, returned by Dax Milne for 8 yards (tackle by Kelvin Joseph)"
+94,3,9:41,1,10,WAS 39,7,12,Carson Wentz pass complete short right to Logan Thomas for -1 yards (tackle by Malik Hooker)
+95,3,8:53,2,11,WAS 38,7,12,"Carson Wentz pass incomplete short middle intended for Terry McLaurin. Penalty on Saahdiq Charles: Offensive Holding, 10 yards (accepted) (no play)"
+96,3,8:48,2,21,WAS 28,7,12,"Penalty on Samuel Cosmi: False Start, 5 yards (accepted) (no play)"
+97,3,8:48,2,26,WAS 23,7,12,J.D. McKissic up the middle for -1 yards (tackle by Dante Fowler)
+98,3,8:03,3,27,WAS 22,7,12,Carson Wentz pass incomplete short right intended for John Bates
+99,3,7:55,4,27,WAS 22,7,12,Tress Way punts 40 yards out of bounds
+100,3,7:48,1,10,DAL 38,7,12,Cooper Rush pass complete deep middle to Noah Brown for 45 yards (tackle by Bobby McCain)
+101,3,7:01,1,10,WAS 17,7,12,"Penalty on Dalton Schultz: False Start, 5 yards (accepted) (no play)"
+102,3,6:48,1,15,WAS 22,7,12,Ezekiel Elliott left tackle for -1 yards (tackle by Montez Sweat)
+103,3,6:29,2,16,WAS 23,7,12,Cooper Rush pass complete short left to CeeDee Lamb for 8 yards (tackle by Kendall Fuller)
+104,3,5:43,3,8,WAS 15,7,12,Cooper Rush pass complete short right to Noah Brown for 5 yards (tackle by William Jackson)
+105,3,5:00,4,3,WAS 10,7,15,Brett Maher 28 yard field goal good
+106,3,4:56,0,0,DAL 35,7,15,"Brett Maher kicks off 65 yards, touchback."
+107,3,4:56,1,10,WAS 25,7,15,Antonio Gibson left tackle for 2 yards (tackle by Donovan Wilson)
+108,3,4:11,2,8,WAS 27,7,15,Carson Wentz pass incomplete short right intended for Curtis Samuel
+109,3,4:05,3,8,WAS 27,7,15,Carson Wentz pass complete deep right to Jahan Dotson for 31 yards (tackle by DaRon Bland)
+110,3,3:26,1,10,DAL 42,7,15,Jonathan Williams right tackle for 23 yards (tackle by Anthony Brown and Malik Hooker)
+111,3,2:56,1,10,DAL 19,7,15,Jonathan Williams up the middle for 2 yards (tackle by Donovan Wilson)
+112,3,2:17,2,8,DAL 17,7,15,"Carson Wentz pass incomplete short right. Penalty on Carson Wentz: Intentional Grounding, 14 yards (accepted) "
+113,3,2:10,3,22,DAL 31,7,15,"Penalty on Samuel Cosmi: False Start, 5 yards (accepted) (no play)"
+114,3,2:10,3,27,DAL 36,7,15,Carson Wentz pass complete short left to J.D. McKissic for 9 yards (tackle by Israel Mukuamu)
+115,3,1:31,4,16,DAL 27,10,15,Joey Slye 45 yard field goal good
+116,3,1:27,0,0,WAS 35,10,15,"Joey Slye kicks off 65 yards, touchback."
+117,3,1:27,1,10,DAL 25,10,15,Ezekiel Elliott right tackle for 2 yards (tackle by John Ridgeway and Jamin Davis)
+118,3,0:54,2,8,DAL 27,10,15,"Cooper Rush pass incomplete deep middle intended for Michael Gallup. Penalty on William Jackson: Defensive Pass Interference, 38 yards (accepted) (no play)"
+119,3,0:48,1,10,WAS 35,10,15,Ezekiel Elliott up the middle for 5 yards (tackle by Bobby McCain)
+120,4,15:00,2,5,WAS 30,10,21,"Cooper Rush pass complete deep middle to CeeDee Lamb for 30 yards, touchdown"
+121,4,14:54,0,0,WAS 15,10,22,Brett Maher kicks extra point good
+122,4,14:54,0,0,DAL 35,10,22,"Brett Maher kicks off 65 yards, returned by Dax Milne for 18 yards (tackle by Peyton Hendershot)"
+123,4,14:49,1,10,WAS 18,10,22,Carson Wentz pass complete short left to Curtis Samuel for 15 yards (tackle by Malik Hooker)
+124,4,14:23,1,10,WAS 33,10,22,Carson Wentz pass complete short right to Curtis Samuel for 3 yards (tackle by Malik Hooker)
+125,4,13:58,2,7,WAS 36,10,22,Antonio Gibson right tackle for 4 yards (tackle by Dorance Armstrong)
+126,4,13:22,3,3,WAS 40,10,22,Antonio Gibson up the middle for no gain (tackle by Osa Odighizuwa)
+127,4,12:43,4,3,WAS 40,10,22,"Tress Way punts 51 yards, fair catch by KaVontae Turpin at DAL-9"
+128,4,12:35,1,10,DAL 9,10,22,Tony Pollard left tackle for -3 yards (tackle by Jonathan Allen)
+129,4,11:58,2,13,DAL 6,10,22,"Tony Pollard right end for 2 yards (tackle by Bobby McCain). Penalty on Dalton Schultz: Offensive Holding, 3 yards (declined) "
+130,4,11:32,3,10,DAL 9,10,22,Cooper Rush pass incomplete short middle intended for Noah Brown (defended by Jonathan Allen)
+131,4,11:28,4,11,DAL 8,10,22,Bryan Anger punts 22 yards out of bounds
+132,4,11:21,1,10,DAL 30,10,22,Antonio Gibson up the middle for 5 yards (tackle by Anthony Brown and Malik Hooker)
+133,4,10:35,2,5,DAL 25,10,22,Carson Wentz pass complete short left to Logan Thomas for 6 yards (tackle by Malik Hooker)
+134,4,10:02,1,10,DAL 19,10,22,Antonio Gibson left tackle for 3 yards (tackle by Quinton Bohanna)
+135,4,9:32,2,7,DAL 16,10,22,"Carson Wentz pass incomplete short left intended for Jahan Dotson. Penalty on Anthony Brown: Defensive Holding, 5 yards (accepted) (no play)"
+136,4,9:32,1,10,DAL 11,10,22,Antonio Gibson left end for 1 yard (tackle by Donovan Wilson)
+137,4,8:51,2,9,DAL 10,10,22,Carson Wentz pass incomplete short right intended for Curtis Samuel
+138,4,8:45,3,9,DAL 10,10,22,Carson Wentz sacked by Dante Fowler for -6 yards
+139,4,8:02,4,15,DAL 16,10,22,Carson Wentz pass incomplete deep right intended for Terry McLaurin (defended by Trevon Diggs)
+140,4,7:57,1,10,DAL 16,10,22,"Cooper Rush pass incomplete deep right intended for Michael Gallup. Penalty on William Jackson: Defensive Pass Interference, 27 yards (accepted) (no play)"
+141,4,7:51,1,10,DAL 43,10,22,Ezekiel Elliott left guard for 7 yards (tackle by Bobby McCain)
+142,4,7:12,2,3,DAL 50,10,22,Cooper Rush pass incomplete deep right intended for CeeDee Lamb (defended by William Jackson)
+143,4,7:03,3,3,DAL 50,10,22,Ezekiel Elliott up the middle for no gain (tackle by Jamin Davis)
+144,4,6:17,4,3,DAL 50,10,22,Bryan Anger punts 39 yards downed by Jabril Cox
+145,4,6:08,1,10,WAS 11,10,22,Carson Wentz pass complete short right to J.D. McKissic for 2 yards (tackle by Sam Williams)
+146,4,5:41,2,8,WAS 13,10,22,Carson Wentz pass incomplete short right intended for Dyami Brown
+147,4,5:36,3,8,WAS 13,10,22,Carson Wentz pass short middle intended for Curtis Samuel is intercepted by DaRon Bland at WAS-24 and returned for 4 yards (tackle by Terry McLaurin)
+148,4,5:29,1,10,WAS 20,10,22,Ezekiel Elliott right tackle for 2 yards (tackle by Kamren Curl and James Smith-Williams)
+149,4,4:46,2,8,WAS 18,10,22,Cooper Rush pass incomplete short right intended for Dalton Schultz
+150,4,4:39,3,8,WAS 18,10,22,Cooper Rush pass complete short right to Jake Ferguson for 7 yards (tackle by William Jackson)
+151,4,3:54,4,1,WAS 11,10,25,Brett Maher 29 yard field goal good
+152,4,3:51,0,0,DAL 35,10,25,"Brett Maher kicks off 65 yards, touchback."
+153,4,3:51,1,10,WAS 25,10,25,Carson Wentz pass complete short middle to J.D. McKissic for 5 yards (tackle by Anthony Barr)
+154,4,3:28,2,5,WAS 30,10,25,Carson Wentz pass complete short right to Logan Thomas for 6 yards (tackle by Anthony Barr)
+155,4,3:25,1,10,WAS 36,10,25,Carson Wentz pass complete short middle to Logan Thomas for 3 yards (tackle by Anthony Barr)
+156,4,2:57,2,7,WAS 39,10,25,Carson Wentz pass incomplete deep right intended for Dyami Brown
+157,4,2:51,3,7,WAS 39,10,25,Carson Wentz pass complete short right to John Bates for 5 yards (tackle by DaRon Bland)
+158,4,2:45,4,2,WAS 44,10,25,Carson Wentz pass incomplete deep left intended for Terry McLaurin (defended by Trevon Diggs)
+159,4,2:39,1,10,WAS 44,10,25,Ezekiel Elliott up the middle for -3 yards (tackle by Jonathan Allen)
+160,4,2:34,2,13,WAS 47,10,25,Cooper Rush pass complete short right to Ezekiel Elliott for 1 yard (tackle by Kamren Curl)
+161,4,2:24,3,12,WAS 46,10,25,Ezekiel Elliott up the middle for 1 yard (tackle by Daron Payne)
+162,4,2:00,4,11,WAS 45,10,25,"Bryan Anger punts 38 yards, fair catch by Dax Milne at WAS-7"
+163,4,1:53,1,10,WAS 7,10,25,Carson Wentz pass incomplete short right intended for Logan Thomas
+164,4,1:49,2,10,WAS 7,10,25,"Penalty on DeMarcus Lawrence: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+165,4,1:49,2,5,WAS 12,10,25,Carson Wentz pass complete short middle to Dyami Brown for 6 yards (tackle by Donovan Wilson)
+166,4,1:23,1,10,WAS 18,10,25,Carson Wentz scrambles right end for 5 yards (tackle by Donovan Wilson)
+167,4,0:56,2,5,WAS 23,10,25,Carson Wentz pass incomplete deep right intended for Dyami Brown
+168,4,0:50,3,5,WAS 23,10,25,Carson Wentz pass complete short middle to John Bates for 7 yards (tackle by Israel Mukuamu)
+169,4,0:25,1,10,WAS 30,10,25,Carson Wentz pass complete short right to John Bates for 7 yards (tackle by Anthony Brown)
+170,4,0:18,2,3,WAS 37,10,25,"Carson Wentz pass complete short left to John Bates for no gain. John Bates fumbles (forced by Anthony Brown), recovered by John Bates at WAS-37"

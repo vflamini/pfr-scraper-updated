@@ -1,0 +1,167 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,WAS 35,0,0,"Joey Slye kicks off 65 yards, touchback."
+1,1,15:00,1,10,CHI 25,0,0,Justin Fields pass incomplete deep right intended for Darnell Mooney
+2,1,14:54,2,10,CHI 25,0,0,Khalil Herbert left tackle for 1 yard (tackle by Montez Sweat)
+3,1,14:17,3,9,CHI 26,0,0,Justin Fields pass complete deep left to D.J. Moore for 58 yards (tackle by Darrick Forrest)
+4,1,13:30,1,10,WAS 16,0,0,Khalil Herbert right tackle for no gain (tackle by Cody Barton and Kamren Curl)
+5,1,12:47,2,10,WAS 16,0,0,Justin Fields sacked by Montez Sweat for -4 yards
+6,1,12:09,3,14,WAS 20,6,0,"Justin Fields pass complete deep left to D.J. Moore for 20 yards, touchdown"
+7,1,12:04,0,0,WAS 15,7,0,Cairo Santos kicks extra point good
+8,1,12:04,0,0,CHI 35,7,0,"Cairo Santos kicks off 65 yards, touchback."
+9,1,12:04,1,10,WAS 25,7,0,Brian Robinson right guard for 5 yards (tackle by T.J. Edwards and Jaquan Brisker)
+10,1,11:31,2,5,WAS 30,7,0,Sam Howell pass complete short right to Logan Thomas for 4 yards (tackle by Tyrique Stevenson)
+11,1,10:50,3,1,WAS 34,7,0,Brian Robinson left tackle for -1 yards (tackle by Andrew Billings)
+12,1,9:55,4,2,WAS 33,7,0,"Tress Way punts 52 yards, returned by Trent Taylor for 11 yards (tackle by Jeremy Reaves)"
+13,1,9:51,1,10,CHI 26,7,0,Justin Fields right end for 7 yards (tackle by Darrick Forrest)
+14,1,9:17,2,3,CHI 33,7,0,Justin Fields pass complete short middle to Robert Tonyan for 7 yards (tackle by Darrick Forrest)
+15,1,9:07,1,10,CHI 40,7,0,Justin Fields pass incomplete deep left intended for Darnell Mooney
+16,1,8:34,2,10,CHI 40,7,0,Justin Fields pass complete short right to D.J. Moore for 9 yards (tackle by Montez Sweat)
+17,1,8:05,3,1,CHI 49,7,0,Justin Fields up the middle for 1 yard (tackle by Kamren Curl and Jonathan Allen)
+18,1,7:11,1,10,CHI 50,7,0,Justin Fields pass complete short left to Robert Tonyan for 3 yards
+19,1,6:39,2,7,WAS 47,7,0,Khalil Herbert right tackle for 34 yards (tackle by Cody Barton)
+20,1,6:08,1,10,WAS 13,7,0,Justin Fields pass incomplete short left
+21,1,5:59,2,10,WAS 13,7,0,"Justin Fields pass complete short middle to Cole Kmet for 1 yard. Cole Kmet fumbles (forced by Daron Payne), recovered by Cole Kmet at WAS-12"
+22,1,5:01,3,9,WAS 12,7,0,Justin Fields pass complete short left to Cole Kmet for 8 yards (tackle by Cody Barton)
+23,1,4:20,4,1,WAS 4,10,0,Cairo Santos 22 yard field goal good
+24,1,4:18,0,0,CHI 35,10,0,"Cairo Santos kicks off 65 yards, touchback."
+25,1,4:18,1,10,WAS 25,10,0,Sam Howell scrambles left tackle for 3 yards (tackle by Jack Sanborn)
+26,1,3:41,2,6,WAS 29,10,0,"Penalty on Byron Pringle: False Start, 5 yards (accepted) (no play)"
+27,1,3:12,2,12,WAS 23,10,0,Brian Robinson left end for 1 yard (tackle by DeMarcus Walker and Yannick Ngakoue)
+28,1,2:22,3,11,WAS 24,10,0,Sam Howell sacked by T.J. Edwards for no gain
+29,1,2:05,4,11,WAS 24,10,0,"Tress Way punts 51 yards, returned by Trent Taylor for 6 yards (tackle by Percy Butler)"
+30,1,1:52,1,10,CHI 31,10,0,Justin Fields pass complete short right to D.J. Moore for 39 yards (tackle by Benjamin St-Juste)
+31,1,1:36,1,10,WAS 30,10,0,Roschon Johnson left guard for 5 yards (tackle by Benjamin St-Juste)
+32,1,0:47,2,5,WAS 25,10,0,Roschon Johnson left end for 10 yards (tackle by Darrick Forrest and Kendall Fuller)
+33,1,0:06,1,10,WAS 15,10,0,Justin Fields pass incomplete short left
+34,2,15:00,2,10,WAS 15,10,0,Roschon Johnson right end for 4 yards (tackle by Chase Young)
+35,2,14:20,3,6,WAS 11,16,0,"Justin Fields pass complete short left to D.J. Moore for 11 yards, touchdown"
+36,2,14:15,0,0,WAS 15,17,0,Cairo Santos kicks extra point good
+37,2,14:15,0,0,CHI 35,17,0,"Cairo Santos kicks off 65 yards, touchback."
+38,2,14:15,1,10,WAS 25,17,0,Brian Robinson right end for 2 yards (tackle by Zacch Pickens and Terell Smith)
+39,2,13:37,2,8,WAS 27,17,0,Sam Howell pass complete short right to Curtis Samuel for 6 yards (tackle by Greg Stroman)
+40,2,12:56,3,2,WAS 33,17,0,Sam Howell pass complete short left to Logan Thomas for 3 yards (tackle by Jack Sanborn)
+41,2,12:13,1,10,WAS 36,17,0,Sam Howell pass complete short right to Jahan Dotson for 9 yards (tackle by Terell Smith)
+42,2,11:34,2,1,WAS 45,17,0,Brian Robinson left guard for 2 yards (tackle by Gervon Dexter and Tremaine Edmunds)
+43,2,10:55,1,10,WAS 47,17,0,Sam Howell pass complete short left to Terry McLaurin for 3 yards (tackle by Terell Smith)
+44,2,10:24,2,7,WAS 50,17,0,Sam Howell pass complete short middle to Logan Thomas for 11 yards (tackle by Greg Stroman and T.J. Edwards)
+45,2,9:41,1,10,CHI 39,17,0,Sam Howell pass incomplete deep middle intended for Dyami Brown
+46,2,9:28,2,10,CHI 39,17,0,Brian Robinson left tackle for 1 yard (tackle by Andrew Billings)
+47,2,8:50,3,9,CHI 38,17,0,"Sam Howell pass incomplete deep middle intended for Jahan Dotson. Penalty on Dominique Robinson: Defensive Offside, 5 yards (accepted) (no play)"
+48,2,8:40,3,4,CHI 33,17,0,"Sam Howell pass incomplete short left intended for Jahan Dotson (defended by Justin Jones) Penalty on WAS: Illegal Shift, 5 yards (declined) "
+49,2,8:37,4,4,CHI 33,17,3,Joey Slye 51 yard field goal good
+50,2,8:33,0,0,WAS 35,17,3,"Joey Slye kicks off 65 yards, touchback."
+51,2,8:33,1,10,CHI 25,17,3,Justin Fields left end for 7 yards (tackle by Kamren Curl)
+52,2,8:23,2,3,CHI 32,17,3,Justin Fields pass complete deep middle to Cole Kmet for 23 yards (tackle by Cody Barton)
+53,2,7:19,1,10,WAS 45,17,3,Khalil Herbert right tackle for 3 yards (tackle by Daron Payne and Percy Butler)
+54,2,6:33,2,7,WAS 42,17,3,Justin Fields pass incomplete deep left intended for Darnell Mooney
+55,2,6:28,3,7,WAS 42,17,3,Khalil Herbert right guard for 6 yards (tackle by Kamren Curl)
+56,2,6:03,4,1,WAS 36,17,3,Justin Fields up the middle for 1 yard (tackle by Cody Barton and Montez Sweat)
+57,2,5:40,1,10,WAS 35,17,3,Justin Fields pass incomplete short left intended for Equanimeous St. Brown
+58,2,5:23,2,10,WAS 35,17,3,Khalil Herbert left tackle for 9 yards (tackle by Cody Barton)
+59,2,4:40,3,1,WAS 26,17,3,Justin Fields up the middle for 2 yards (tackle by Jamin Davis)
+60,2,4:04,1,10,WAS 24,17,3,Justin Fields sacked by and Montez Sweat for no gain and Chase Young for no gain
+61,2,3:21,2,10,WAS 24,17,3,Justin Fields pass complete short right to Cole Kmet for 6 yards (tackle by Kamren Curl)
+62,2,2:36,3,4,WAS 18,17,3,Justin Fields pass incomplete deep left intended for Darnell Mooney (defended by Benjamin St-Juste)
+63,2,2:28,4,4,WAS 18,20,3,Cairo Santos 36 yard field goal good
+64,2,2:24,0,0,CHI 35,20,3,"Cairo Santos kicks off 65 yards, touchback."
+65,2,2:24,1,10,WAS 25,20,3,Sam Howell pass short middle intended for Curtis Samuel is intercepted by Greg Stroman at WAS-36 and returned for no gain (tackle by Curtis Samuel)
+66,2,2:19,1,10,WAS 36,20,3,Justin Fields pass incomplete short left intended for Khalil Herbert (defended by Chase Young)
+67,2,2:15,2,10,WAS 36,20,3,Khalil Herbert right tackle for 3 yards (tackle by John Ridgeway and James Smith-Williams)
+68,2,2:00,3,7,WAS 33,20,3,Khalil Herbert left guard for 16 yards (tackle by Cody Barton)
+69,2,1:13,1,10,WAS 17,20,3,Khalil Herbert left end for 4 yards (tackle by Benjamin St-Juste)
+70,2,1:07,2,6,WAS 13,20,3,Justin Fields scrambles left end for 9 yards (tackle by Darrick Forrest)
+71,2,0:27,1,4,WAS 4,26,3,"Justin Fields pass complete short middle to Cole Kmet for 4 yards, touchdown"
+72,2,0:24,0,0,WAS 15,27,3,Cairo Santos kicks extra point good
+73,2,0:24,0,0,CHI 35,27,3,"Cairo Santos kicks off 65 yards, touchback."
+74,2,0:24,1,10,WAS 25,27,3,Sam Howell pass incomplete short right
+75,2,0:19,2,10,WAS 25,27,3,Sam Howell pass complete short right to Antonio Gibson for 1 yard (tackle by Tyrique Stevenson)
+76,2,0:12,3,9,WAS 26,27,3,Sam Howell pass complete short right to Antonio Gibson for 10 yards (tackle by T.J. Edwards and Tyrique Stevenson)
+77,2,0:03,1,10,WAS 36,27,3,Sam Howell pass complete short right to Logan Thomas for 24 yards (tackle by T.J. Edwards and Tremaine Edmunds)
+78,3,15:00,0,0,CHI 35,27,3,"Cairo Santos kicks off 65 yards, touchback."
+79,3,15:00,1,10,WAS 25,27,3,Sam Howell pass complete short right to Brian Robinson for 24 yards (tackle by Tyrique Stevenson and DeMarcus Walker)
+80,3,14:13,1,10,WAS 49,27,3,Sam Howell pass complete short middle to Brian Robinson for 7 yards (tackle by Tremaine Edmunds and T.J. Edwards)
+81,3,13:37,2,3,CHI 44,27,3,Sam Howell pass complete short right to Logan Thomas for 5 yards (tackle by Tyrique Stevenson)
+82,3,13:09,1,10,CHI 39,27,3,Sam Howell pass complete short left to Antonio Gibson for 12 yards (tackle by Jack Sanborn)
+83,3,12:13,1,10,CHI 27,27,3,"Sam Howell pass incomplete deep left intended for Terry McLaurin. Penalty on Tyrique Stevenson: Defensive Pass Interference, 25 yards (accepted) (no play)"
+84,3,12:06,1,2,CHI 2,27,9,"Sam Howell pass complete short right to Logan Thomas for 2 yards, touchdown"
+85,3,12:00,0,0,CHI 2,27,11,"Two Point Attempt: Sam Howell rushes, conversion succeeds."
+86,3,12:00,0,0,WAS 35,27,11,"Joey Slye kicks off 65 yards, touchback."
+87,3,12:00,1,10,CHI 25,27,11,Justin Fields up the middle for 1 yard (tackle by Kamren Curl)
+88,3,11:14,2,9,CHI 26,27,11,Justin Fields left tackle for 14 yards (tackle by Darrick Forrest)
+89,3,10:41,1,10,CHI 40,27,11,Justin Fields pass incomplete short right intended for Khalil Herbert (defended by Montez Sweat)
+90,3,10:33,2,10,CHI 40,27,11,Justin Fields pass complete short left to D.J. Moore for 5 yards (tackle by Emmanuel Forbes)
+91,3,9:54,3,5,CHI 45,27,11,Justin Fields pass incomplete short left intended for Khalil Herbert
+92,3,9:45,4,5,CHI 45,27,11,"Trenton Gill punts 45 yards, returned by Jamison Crowder for 20 yards (tackle by Elijah Hicks)"
+93,3,9:32,1,10,WAS 30,27,11,Sam Howell pass complete short middle to Logan Thomas for 7 yards (tackle by Jaquan Brisker)
+94,3,8:54,2,3,WAS 37,27,11,Sam Howell pass complete short right to Logan Thomas for 8 yards. Logan Thomas fumbles (forced by Terell Smith) (tackle by Greg Stroman and Terell Smith)
+95,3,8:44,1,10,WAS 46,27,11,Justin Fields sacked by Jonathan Allen for -5 yards
+96,3,8:01,2,15,CHI 49,27,11,Justin Fields pass incomplete short left
+97,3,7:54,3,15,CHI 49,27,11,"Penalty on Ja'Tyre Carter: False Start, 5 yards (accepted) (no play)"
+98,3,7:54,3,20,CHI 44,27,11,Justin Fields pass incomplete short left
+99,3,7:49,4,20,CHI 44,27,11,Trenton Gill punts 39 yards downed by Jack Sanborn
+100,3,7:40,1,10,WAS 17,27,11,Sam Howell pass complete short right to Brian Robinson for 7 yards (tackle by Jaquan Brisker and Tyrique Stevenson)
+101,3,7:04,2,3,WAS 24,27,11,Sam Howell pass complete deep right to Antonio Gibson for 41 yards (tackle by Elijah Hicks and Jaquan Brisker)
+102,3,6:23,1,10,CHI 35,27,11,Sam Howell pass complete short right to Jahan Dotson for 14 yards (tackle by Tyrique Stevenson)
+103,3,5:35,1,10,CHI 21,27,11,Sam Howell sacked by Greg Stroman for -9 yards
+104,3,4:48,2,19,CHI 30,27,11,Sam Howell pass complete short right to Jahan Dotson for 7 yards (tackle by T.J. Edwards)
+105,3,4:14,3,12,CHI 23,27,11,Sam Howell scrambles right end for 10 yards (tackle by Tremaine Edmunds and Jaquan Brisker)
+106,3,3:20,4,2,CHI 13,27,14,Joey Slye 32 yard field goal good
+107,3,3:17,0,0,WAS 35,27,14,"Joey Slye kicks off 65 yards, touchback."
+108,3,3:17,1,10,CHI 25,27,14,Justin Fields right end for 4 yards (tackle by Kendall Fuller)
+109,3,2:34,2,6,CHI 29,27,14,Justin Fields left guard for 8 yards (tackle by Jamin Davis)
+110,3,1:49,1,10,CHI 37,27,14,Khalil Herbert right tackle for no gain (tackle by Montez Sweat)
+111,3,1:09,2,10,CHI 37,27,14,Justin Fields pass complete short right to D.J. Moore for 32 yards (tackle by Darrick Forrest)
+112,3,0:37,1,10,WAS 31,27,14,Khari Blasingame left tackle for 3 yards (tackle by Cody Barton and Jonathan Allen)
+113,4,15:00,2,7,WAS 28,27,14,Khari Blasingame left tackle for 3 yards (tackle by Jonathan Allen and Daron Payne)
+114,4,14:20,3,4,WAS 25,27,14,Justin Fields pass incomplete deep left intended for D.J. Moore
+115,4,14:13,4,5,WAS 26,30,14,Cairo Santos 43 yard field goal good
+116,4,14:09,0,0,CHI 35,30,14,"Cairo Santos kicks off 65 yards, touchback."
+117,4,14:09,1,10,WAS 25,30,14,Sam Howell scrambles up the middle for 5 yards (tackle by Yannick Ngakoue and Tremaine Edmunds)
+118,4,13:40,2,5,WAS 30,30,14,"Sam Howell pass complete short right to Terry McLaurin for 10 yards (tackle by Terell Smith). Penalty on Tremaine Edmunds: Illegal Contact, 5 yards (declined) "
+119,4,13:34,1,10,WAS 40,30,14,Sam Howell pass complete short middle to Byron Pringle for 10 yards (tackle by Jaquan Brisker)
+120,4,13:06,1,10,CHI 50,30,14,Sam Howell pass incomplete short right intended for Byron Pringle
+121,4,13:02,2,10,CHI 50,30,14,Sam Howell pass complete short middle to Jamison Crowder for 11 yards (tackle by Greg Stroman)
+122,4,12:12,1,10,CHI 39,30,14,Sam Howell pass incomplete short right
+123,4,12:09,2,10,CHI 39,30,14,Sam Howell pass incomplete deep right intended for Logan Thomas (defended by Tyrique Stevenson)
+124,4,12:03,3,10,CHI 39,30,14,Sam Howell pass complete short right to Dyami Brown for 11 yards (tackle by Justin Jones and Tyrique Stevenson)
+125,4,11:37,1,10,CHI 28,30,14,Sam Howell pass complete deep left to Curtis Samuel for 25 yards (tackle by Terell Smith and Elijah Hicks)
+126,4,11:04,1,3,CHI 3,30,14,Sam Howell pass incomplete short right intended for Logan Thomas (defended by Elijah Hicks)
+127,4,10:58,2,3,CHI 3,30,14,Sam Howell pass incomplete short middle intended for Dyami Brown
+128,4,10:55,3,3,CHI 3,30,20,"Sam Howell pass complete short right to Curtis Samuel for 3 yards, touchdown"
+129,4,10:51,0,0,CHI 2,30,20,"Two Point Attempt: Sam Howell pass incomplete, sacked by"
+130,4,10:51,0,0,WAS 35,30,20,"Joey Slye kicks off 65 yards, touchback."
+131,4,10:51,1,10,CHI 25,30,20,Khari Blasingame left guard for 5 yards (tackle by Jonathan Allen and John Ridgeway)
+132,4,10:10,2,5,CHI 30,30,20,Justin Fields right end for 3 yards (tackle by Danny Johnson and Kamren Curl)
+133,4,9:29,3,2,CHI 33,30,20,Justin Fields pass incomplete short left intended for D.J. Moore (defended by Benjamin St-Juste)
+134,4,9:25,4,2,CHI 33,30,20,"Trenton Gill punts 47 yards, fair catch by Jamison Crowder at WAS-20"
+135,4,9:13,1,10,WAS 20,30,20,Sam Howell pass incomplete short left intended for Antonio Gibson (defended by Gervon Dexter)
+136,4,9:08,2,10,WAS 20,30,20,Sam Howell pass complete short middle to Curtis Samuel for 15 yards (tackle by Jaylon Jones)
+137,4,8:39,1,10,WAS 35,30,20,Sam Howell scrambles left end for 1 yard (tackle by Elijah Hicks)
+138,4,7:58,2,9,WAS 36,30,20,Sam Howell sacked by Yannick Ngakoue for -4 yards
+139,4,7:19,3,13,WAS 32,30,20,Sam Howell pass complete short middle to Logan Thomas for 13 yards (tackle by Tremaine Edmunds)
+140,4,6:45,1,10,WAS 45,30,20,Sam Howell pass incomplete deep right intended for Terry McLaurin
+141,4,6:38,2,10,WAS 45,30,20,Sam Howell pass complete deep left to Terry McLaurin for 32 yards (tackle by Greg Stroman and Tyrique Stevenson)
+142,4,6:10,1,10,CHI 23,30,20,Sam Howell pass incomplete deep left intended for Jahan Dotson
+143,4,5:44,2,10,CHI 23,30,20,Sam Howell pass complete short left to Brian Robinson for -5 yards (tackle by DeMarcus Walker and Tremaine Edmunds)
+144,4,5:20,3,15,CHI 28,30,20,Sam Howell pass incomplete short right intended for Antonio Gibson
+145,4,5:14,4,15,CHI 28,30,20,Joey Slye 46 yard field goal no good
+146,4,5:11,1,10,CHI 36,30,20,Khari Blasingame left end for 6 yards (tackle by John Ridgeway and James Smith-Williams)
+147,4,4:31,2,4,CHI 42,30,20,Khari Blasingame right guard for 2 yards (tackle by Jonathan Allen and Daron Payne)
+148,4,4:18,3,2,CHI 44,36,20,"Justin Fields pass complete short left to D.J. Moore for 56 yards, touchdown"
+149,4,4:09,0,0,WAS 15,37,20,Cairo Santos kicks extra point good
+150,4,4:09,0,0,CHI 35,37,20,"Cairo Santos kicks off 65 yards, touchback."
+151,4,4:09,1,10,WAS 25,37,20,Sam Howell sacked by DeMarcus Walker for -11 yards
+152,4,3:42,2,21,WAS 14,37,20,Sam Howell pass complete short right to Curtis Samuel for 8 yards (tackle by Greg Stroman)
+153,4,3:21,3,13,WAS 22,37,20,Sam Howell sacked by Rasheem Green for -5 yards
+154,4,2:39,4,18,WAS 17,37,20,Sam Howell pass complete short right to Cole Turner for 9 yards (tackle by T.J. Edwards and Jaylon Jones)
+155,4,2:30,1,10,WAS 26,37,20,Khari Blasingame left end for 2 yards (tackle by Jonathan Allen)
+156,4,2:24,2,8,WAS 24,37,20,Khari Blasingame right guard for 3 yards (tackle by Daron Payne and Abdullah Anderson)
+157,4,2:19,3,5,WAS 21,37,20,Khari Blasingame left tackle for 2 yards (tackle by Abdullah Anderson and Jamin Davis)
+158,4,2:00,4,3,WAS 19,40,20,Cairo Santos 37 yard field goal good
+159,4,1:56,0,0,CHI 35,40,20,"Cairo Santos kicks off 65 yards, touchback."
+160,4,1:56,1,10,WAS 25,40,20,Sam Howell pass complete short middle to Curtis Samuel for 8 yards (tackle by Tremaine Edmunds and T.J. Edwards)
+161,4,1:29,2,2,WAS 33,40,20,Sam Howell pass complete short left to John Bates for 10 yards (tackle by Tremaine Edmunds and Jaylon Jones)
+162,4,1:10,1,10,WAS 43,40,20,Sam Howell pass incomplete short left
+163,4,1:07,2,10,WAS 43,40,20,Sam Howell pass complete short right to Terry McLaurin for 4 yards (tackle by Jaylon Jones)
+164,4,0:47,3,6,WAS 47,40,20,Sam Howell pass complete short left to Jamison Crowder for 10 yards (tackle by Jack Sanborn and Joejuan Williams)
+165,4,0:21,1,10,CHI 43,40,20,Sam Howell pass complete short middle to John Bates for 9 yards (tackle by Jack Sanborn and T.J. Edwards)

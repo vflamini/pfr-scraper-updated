@@ -1,0 +1,154 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,BAL 35,0,0,"Justin Tucker kicks off 59 yards, returned by Montrell Washington for 11 yards (tackle by Daryl Worley)"
+1,1,14:56,1,10,DEN 17,0,0,Latavius Murray left tackle for 3 yards (tackle by Calais Campbell and Marlon Humphrey)
+2,1,14:25,2,7,DEN 20,0,0,Russell Wilson pass complete short left to Greg Dulcich for 8 yards (tackle by Marlon Humphrey)
+3,1,13:54,1,10,DEN 28,0,0,Latavius Murray up the middle for 7 yards (tackle by Jason Pierre-Paul)
+4,1,13:32,2,3,DEN 35,0,0,Latavius Murray left guard for 2 yards (tackle by Roquan Smith)
+5,1,12:56,3,1,DEN 37,0,0,Latavius Murray up the middle for 2 yards (tackle by Justin Madubuike)
+6,1,12:20,1,10,DEN 39,0,0,Marlon Mack left end for 4 yards (tackle by Patrick Queen)
+7,1,11:51,2,6,DEN 43,0,0,Russell Wilson pass complete short middle to Greg Dulcich for 19 yards (tackle by Patrick Queen)
+8,1,11:15,1,10,BAL 38,0,0,Latavius Murray up the middle for 3 yards (tackle by Marlon Humphrey)
+9,1,10:38,2,7,BAL 35,0,0,Latavius Murray left tackle for 2 yards (tackle by Roquan Smith and Brent Urban)
+10,1,9:54,3,5,BAL 33,0,0,Mike Boone left tackle for -1 yards (tackle by Patrick Queen)
+11,1,9:09,4,6,BAL 34,3,0,Brandon McManus 52 yard field goal good
+12,1,9:03,0,0,DEN 35,3,0,"Brandon McManus kicks off 65 yards, returned by Devin Duvernay for 23 yards (tackle by Jalen Virgil and P.J. Locke)"
+13,1,8:59,1,10,BAL 23,3,0,Gus Edwards left tackle for 1 yard (tackle by DeShawn Williams and Jonathon Cooper)
+14,1,8:36,2,9,BAL 24,3,0,Lamar Jackson pass complete short left to Devin Duvernay for 4 yards (tackle by Alex Singleton and Patrick Surtain)
+15,1,8:02,3,5,BAL 28,3,0,Lamar Jackson pass incomplete short middle intended for Mark Andrews
+16,1,7:58,4,5,BAL 28,3,0,"Jordan Stout punts 52 yards, fair catch by Montrell Washington at DEN-20"
+17,1,7:50,1,10,DEN 20,3,0,Latavius Murray left tackle for 4 yards (tackle by Kyle Hamilton)
+18,1,7:21,2,6,DEN 24,3,0,Russell Wilson pass complete short left to Greg Dulcich for 5 yards (tackle by Roquan Smith)
+19,1,6:43,3,1,DEN 29,3,0,Latavius Murray up the middle for no gain (tackle by Justin Madubuike and Patrick Queen)
+20,1,6:08,4,1,DEN 29,3,0,Corliss Waitman punts 39 yards downed by Delarrin Turner-Yell
+21,1,5:58,1,10,BAL 32,3,0,Lamar Jackson up the middle for 9 yards (tackle by Alex Singleton)
+22,1,5:09,2,1,BAL 41,3,0,Gus Edwards left tackle for 3 yards (tackle by Baron Browning and Dre'Mont Jones)
+23,1,4:27,1,10,BAL 44,3,0,Lamar Jackson sacked by DeShawn Williams for -4 yards
+24,1,3:42,2,14,BAL 40,3,0,Lamar Jackson pass complete short left to DeSean Jackson for 5 yards (tackle by Josey Jewell)
+25,1,3:06,3,9,BAL 45,3,0,Lamar Jackson pass complete short right to Devin Duvernay for 2 yards (tackle by Justin Simmons)
+26,1,2:29,4,7,BAL 47,3,0,"Jordan Stout punts 34 yards, fair catch by Montrell Washington at DEN-19"
+27,1,2:24,1,10,DEN 19,3,0,Russell Wilson pass incomplete short right intended for Courtland Sutton
+28,1,2:20,2,10,DEN 19,3,0,Latavius Murray up the middle for 5 yards (tackle by Patrick Queen and Chuck Clark)
+29,1,1:38,3,5,DEN 24,3,0,Russell Wilson sacked by Marlon Humphrey for no gain
+30,1,0:59,4,5,DEN 24,3,0,"Corliss Waitman punts 46 yards, fair catch by Devin Duvernay at BAL-30"
+31,1,0:54,1,10,BAL 30,3,0,Gus Edwards right tackle for 3 yards (tackle by Josey Jewell and Kareem Jackson)
+32,1,0:10,2,7,BAL 33,3,0,Lamar Jackson sacked by Jonathon Cooper for -6 yards
+33,2,15:00,3,13,BAL 27,3,0,Tyler Huntley pass complete short right to Devin Duvernay for 11 yards (tackle by Damarri Mathis)
+34,2,14:12,4,2,BAL 38,3,0,"Jordan Stout punts 53 yards, returned by Montrell Washington for 5 yards (tackle by Justice Hill)"
+35,2,14:01,1,10,DEN 14,3,0,Latavius Murray left tackle for 7 yards (tackle by Kyle Hamilton and Chuck Clark)
+36,2,13:21,2,3,DEN 21,3,0,Mike Boone left end for 6 yards (tackle by Marlon Humphrey)
+37,2,12:54,1,10,DEN 27,3,0,Latavius Murray right guard for 1 yard (tackle by Roquan Smith and Chuck Clark)
+38,2,12:19,2,9,DEN 28,3,0,Latavius Murray right end for 6 yards (tackle by Marcus Peters and Chuck Clark)
+39,2,11:44,3,3,DEN 34,3,0,Russell Wilson pass complete short left to Greg Dulcich for 1 yard (tackle by Geno Stone)
+40,2,11:09,4,2,DEN 35,3,0,Corliss Waitman punts 35 yards downed by Jonathon Cooper
+41,2,10:57,1,10,BAL 30,3,0,Kenyan Drake right guard for 4 yards (tackle by Justin Simmons and Mike Purcell)
+42,2,10:24,2,6,BAL 34,3,0,Tyler Huntley pass complete short left to Mark Andrews for 22 yards (tackle by Kareem Jackson)
+43,2,9:49,1,10,DEN 44,3,0,Tyler Huntley pass complete short left to Demarcus Robinson for 5 yards (tackle by Patrick Surtain)
+44,2,9:32,2,5,DEN 39,3,0,Tyler Huntley up the middle for 2 yards (tackle by Alex Singleton)
+45,2,8:55,3,3,DEN 37,3,0,Devin Duvernay left end for 10 yards (tackle by Josey Jewell)
+46,2,8:21,1,10,DEN 27,3,0,Tyler Huntley pass complete short right to DeSean Jackson for 5 yards (tackle by Damarri Mathis)
+47,2,7:47,2,5,DEN 22,3,0,"Tyler Huntley pass incomplete deep right intended for Devin Duvernay. Penalty on Jonathon Cooper: Roughing the Passer, 11 yards (accepted) (no play)"
+48,2,7:47,1,10,DEN 11,3,0,Tyler Huntley pass complete short middle to Devin Duvernay for -1 yards (tackle by Justin Simmons)
+49,2,7:26,2,11,DEN 12,3,0,Tyler Huntley pass complete short middle to Demarcus Robinson for 2 yards (tackle by Josey Jewell)
+50,2,6:44,3,9,DEN 10,3,0,Tyler Huntley scrambles right end for 2 yards (tackle by Alex Singleton and Josey Jewell)
+51,2,5:58,4,7,DEN 8,3,3,Justin Tucker 26 yard field goal good
+52,2,5:55,0,0,BAL 35,3,3,"Justin Tucker kicks off 47 yards, returned by Eric Saubert for 6 yards (tackle by Daryl Worley)"
+53,2,5:51,1,10,DEN 24,3,3,Russell Wilson pass complete short middle to Marlon Mack for 6 yards (tackle by Roquan Smith)
+54,2,5:14,2,4,DEN 30,3,3,Marlon Mack left tackle for -1 yards (tackle by Roquan Smith and Broderick Washington)
+55,2,4:33,3,5,DEN 29,3,3,Russell Wilson pass incomplete short right intended for Greg Dulcich (defended by Tyus Bowser)
+56,2,4:29,4,5,DEN 29,3,3,"Corliss Waitman punts 42 yards, fair catch by Devin Duvernay at BAL-29"
+57,2,4:23,1,10,BAL 29,3,3,Tyler Huntley pass incomplete deep right intended for Demarcus Robinson (defended by Patrick Surtain)
+58,2,4:15,2,10,BAL 29,3,3,Tyler Huntley pass complete short left to Demarcus Robinson for 6 yards (tackle by Patrick Surtain)
+59,2,3:47,3,4,BAL 35,3,3,Justice Hill left end for 2 yards (tackle by D.J. Jones and Josey Jewell)
+60,2,3:08,4,2,BAL 37,3,3,Jordan Stout punts 56 yards downed by Kevon Seymour
+61,2,2:55,1,10,DEN 7,3,3,Russell Wilson pass complete deep middle to Jerry Jeudy for 40 yards (tackle by Geno Stone and Marlon Humphrey)
+62,2,2:25,1,10,DEN 47,3,3,Latavius Murray left end for 2 yards (tackle by Broderick Washington)
+63,2,2:03,2,8,DEN 49,3,3,"Penalty on Russell Wilson: False Start, 5 yards (accepted) (no play)"
+64,2,2:00,2,13,DEN 44,3,3,Russell Wilson pass complete short left to Latavius Murray for 2 yards (tackle by Patrick Queen)
+65,2,1:27,3,11,DEN 46,3,3,Russell Wilson pass complete deep left to Greg Dulcich for 22 yards (tackle by Marlon Humphrey)
+66,2,1:06,1,10,BAL 32,3,3,Russell Wilson pass incomplete short right
+67,2,0:49,2,10,BAL 32,3,3,Russell Wilson pass complete short left to Jerry Jeudy for 2 yards
+68,2,0:42,3,8,BAL 30,3,3,"Russell Wilson pass complete short right to Jerry Jeudy for 8 yards (tackle by Kyle Hamilton) Replay Assistant challenged the first down ruling, and the original play was overturned. Russell Wilson pass complete short right to Jerry Jeudy for 7 yards (tackle by Kyle Hamilton)"
+69,2,0:42,4,1,BAL 23,6,3,Brandon McManus 41 yard field goal good
+70,2,0:37,0,0,DEN 35,6,3,"Brandon McManus kicks off 65 yards, touchback."
+71,2,0:37,1,10,BAL 25,6,3,"Penalty on Demarcus Robinson: False Start, 5 yards (accepted) (no play)"
+72,2,0:37,1,15,BAL 20,6,3,Tyler Huntley pass complete short right to Mark Andrews for 10 yards (tackle by Josey Jewell)
+73,2,0:31,2,5,BAL 30,6,3,Tyler Huntley pass incomplete deep right intended for DeSean Jackson
+74,2,0:25,3,5,BAL 30,6,3,Tyler Huntley pass complete short middle to Isaiah Likely for 9 yards (tackle by Essang Bassey)
+75,2,0:21,1,10,BAL 39,6,3,Tyler Huntley pass incomplete short right intended for Mark Andrews
+76,2,0:16,2,10,BAL 39,6,3,Tyler Huntley pass complete short middle to Mark Andrews for 16 yards (tackle by Josey Jewell and Alex Singleton)
+77,2,0:01,1,10,DEN 45,6,3,Tyler Huntley spiked the ball
+78,3,15:00,0,0,DEN 35,6,3,"Brandon McManus kicks off 67 yards, returned by Devin Duvernay for 18 yards (tackle by Jalen Virgil)"
+79,3,14:55,1,10,BAL 16,6,3,Gus Edwards right end for 4 yards (tackle by Dre'Mont Jones and Alex Singleton)
+80,3,14:16,2,6,BAL 20,6,3,Tyler Huntley pass complete short middle to Devin Duvernay for 5 yards (tackle by Damarri Mathis)
+81,3,13:44,3,1,BAL 25,6,3,Tyler Huntley left guard for 2 yards (tackle by Kareem Jackson and Josey Jewell)
+82,3,13:02,1,10,BAL 27,6,3,Kenyan Drake left guard for 2 yards (tackle by Eyioma Uwazurike)
+83,3,12:34,2,8,BAL 29,6,3,Tyler Huntley pass complete short right to Demarcus Robinson for 5 yards (tackle by Damarri Mathis)
+84,3,11:56,3,3,BAL 34,6,3,Devin Duvernay right end for -1 yards (tackle by Jacob Martin and Josey Jewell)
+85,3,11:17,4,4,BAL 33,6,3,"Jordan Stout punts 63 yards, returned by Montrell Washington for 14 yards (tackle by Nick Boyle and Nick Moore)"
+86,3,11:06,1,10,DEN 18,6,3,Mike Boone left tackle for 10 yards (tackle by Kyle Hamilton)
+87,3,10:29,1,10,DEN 28,6,3,Mike Boone left tackle for 2 yards (tackle by Patrick Queen and Roquan Smith)
+88,3,9:47,2,8,DEN 30,6,3,"Russell Wilson pass incomplete short right. Penalty on Marlon Humphrey: Defensive Holding, 5 yards (accepted) (no play)"
+89,3,9:47,1,10,DEN 35,6,3,Mike Boone right end for 1 yard (tackle by Jason Pierre-Paul and Marcus Peters)
+90,3,9:10,2,9,DEN 36,6,3,Latavius Murray right guard for no gain (tackle by Chuck Clark)
+91,3,8:32,3,9,DEN 36,6,3,Russell Wilson pass complete short middle to Latavius Murray for 6 yards (tackle by Roquan Smith)
+92,3,8:00,4,3,DEN 42,6,3,"Corliss Waitman punts 46 yards, fair catch by Devin Duvernay at BAL-12"
+93,3,7:55,1,10,BAL 12,6,3,Tyler Huntley pass complete short left to Demarcus Robinson for 3 yards (tackle by Alex Singleton)
+94,3,7:18,2,7,BAL 15,6,3,Tyler Huntley pass complete short left to Devin Duvernay for 13 yards (tackle by Kareem Jackson)
+95,3,6:33,1,10,BAL 28,6,3,Kenyan Drake up the middle for 12 yards (tackle by Josey Jewell and Kareem Jackson)
+96,3,6:03,1,10,BAL 40,6,3,Tyler Huntley pass short right intended for Mark Andrews is intercepted by Justin Simmons at BAL-48 and returned for 8 yards
+97,3,5:59,1,10,BAL 40,6,3,Russell Wilson pass complete short left to Latavius Murray for 2 yards (tackle by Jason Pierre-Paul)
+98,3,5:22,2,8,BAL 38,6,3,Latavius Murray left guard for -2 yards (tackle by Jason Pierre-Paul)
+99,3,4:40,3,10,BAL 40,6,3,Russell Wilson pass complete short left to Mike Boone for 8 yards (tackle by Geno Stone and Patrick Queen)
+100,3,4:03,4,2,BAL 32,9,3,Brandon McManus 50 yard field goal good
+101,3,3:58,0,0,DEN 35,9,3,"Brandon McManus kicks off 64 yards, returned by Devin Duvernay for 21 yards (tackle by P.J. Locke)"
+102,3,3:53,1,10,BAL 22,9,3,Tyler Huntley pass complete short left to Patrick Ricard for no gain (tackle by Alex Singleton)
+103,3,3:10,2,10,BAL 22,9,3,Tyler Huntley scrambles up the middle for 14 yards (tackle by Patrick Surtain)
+104,3,2:27,1,10,BAL 36,9,3,Gus Edwards left guard for 1 yard (tackle by Alex Singleton and Jonathon Cooper)
+105,3,1:50,2,9,BAL 37,9,3,Tyler Huntley pass complete short left to Demarcus Robinson for 10 yards (tackle by Patrick Surtain)
+106,3,1:12,1,10,BAL 47,9,3,Kenyan Drake right tackle for 3 yards (tackle by Alex Singleton)
+107,3,0:31,2,7,BAL 50,9,3,Tyler Huntley pass complete short left to James Proche for 2 yards (tackle by Essang Bassey and Jonathon Cooper)
+108,4,15:00,3,5,DEN 48,9,3,Tyler Huntley pass complete short left to Isaiah Likely for 4 yards (tackle by Kareem Jackson)
+109,4,14:23,4,1,DEN 44,9,3,Tyler Huntley up the middle for 2 yards (tackle by Josey Jewell and Alex Singleton)
+110,4,13:42,1,10,DEN 42,9,3,Tyler Huntley pass complete short right to Demarcus Robinson for 10 yards (tackle by Damarri Mathis)
+111,4,13:06,1,10,DEN 32,9,3,Kenyan Drake up the middle for 3 yards (tackle by D.J. Jones and Alex Singleton)
+112,4,12:25,2,7,DEN 29,9,3,James Proche pass deep right intended for Kenyan Drake is intercepted by Justin Simmons in end zone and returned for no gain
+113,4,12:15,1,10,DEN 20,9,3,Latavius Murray right tackle for 5 yards (tackle by Chuck Clark)
+114,4,11:41,2,5,DEN 25,9,3,Russell Wilson pass complete short right to Kendall Hinton for 11 yards (tackle by Marcus Peters and Chuck Clark)
+115,4,11:03,1,10,DEN 36,9,3,Latavius Murray for no gain (tackle by Geno Stone and Roquan Smith)
+116,4,10:28,2,10,DEN 36,9,3,Mike Boone right end for no gain (tackle by Justin Houston)
+117,4,9:51,3,10,DEN 36,9,3,Russell Wilson sacked by Odafe Oweh for -5 yards
+118,4,9:20,4,15,DEN 31,9,3,"Corliss Waitman punts 41 yards, returned by Devin Duvernay for 3 yards (tackle by Jonathon Cooper)"
+119,4,9:10,1,10,BAL 31,9,3,Kenyan Drake right guard for 4 yards (tackle by Justin Simmons and Matt Henningsen)
+120,4,8:33,2,6,BAL 35,9,3,Tyler Huntley sacked by Baron Browning for -6 yards
+121,4,7:53,3,12,BAL 29,9,3,"Tyler Huntley scrambles right end for 7 yards (tackle by Patrick Surtain). Penalty on Kevin Zeitler: Offensive Holding, 10 yards (declined) "
+122,4,7:43,4,5,BAL 36,9,3,"Jordan Stout punts 45 yards, returned by Montrell Washington for no gain (tackle by Kevon Seymour)"
+123,4,7:35,1,10,DEN 19,9,3,Russell Wilson pass complete short left to Latavius Murray for 4 yards (tackle by Patrick Queen and Roquan Smith)
+124,4,6:56,2,6,DEN 23,9,3,Russell Wilson pass complete deep middle to Greg Dulcich for 30 yards (tackle by Geno Stone)
+125,4,6:09,1,10,BAL 47,9,3,Montrell Washington left end for -1 yards (tackle by Roquan Smith)
+126,4,5:22,2,11,BAL 48,9,3,Russell Wilson pass incomplete deep left intended for Greg Dulcich
+127,4,5:17,3,11,BAL 48,9,3,Russell Wilson pass incomplete deep right intended for Montrell Washington
+128,4,5:12,4,11,BAL 48,9,3,Corliss Waitman punts 39 yards downed by Mike Boone
+129,4,5:02,1,10,BAL 9,9,3,Tyler Huntley scrambles right end for 4 yards (tackle by Jacob Martin)
+130,4,4:56,2,6,BAL 13,9,3,Tyler Huntley pass complete short left to Isaiah Likely for 5 yards (tackle by Josey Jewell)
+131,4,4:38,3,1,BAL 18,9,3,Gus Edwards right end for no gain (tackle by Alex Singleton and Josey Jewell)
+132,4,4:22,4,1,BAL 18,9,3,Mark Andrews up the middle for 1 yard (tackle by Alex Singleton and Josey Jewell)
+133,4,3:47,1,10,BAL 19,9,3,Tyler Huntley pass complete short middle to James Proche for 7 yards (tackle by Mike Purcell)
+134,4,3:09,2,3,BAL 26,9,3,"Tyler Huntley pass incomplete short middle intended for Justice Hill. Penalty on Daniel Faalele: Ineligible Downfield Pass, 5 yards (accepted) (no play)"
+135,4,3:09,2,8,BAL 21,9,3,"Tyler Huntley pass complete short middle to Mark Andrews for 5 yards (tackle by Damarri Mathis). Penalty on Alex Singleton: Personal Foul / Defense, 15 yards (accepted) "
+136,4,3:03,1,10,BAL 41,9,3,Tyler Huntley sacked by DeShawn Williams for no gain
+137,4,2:32,2,10,BAL 41,9,3,Tyler Huntley pass complete short right to Justice Hill for 5 yards. Justice Hill fumbles (forced by Justin Simmons)
+138,4,2:00,3,5,BAL 46,9,3,"Tyler Huntley pass incomplete deep right intended for Mark Andrews. Penalty on Patrick Surtain: Defensive Pass Interference, 17 yards (accepted) (no play)"
+139,4,1:56,1,10,DEN 37,9,3,Tyler Huntley pass complete short right to Justice Hill for -1 yards (tackle by Patrick Surtain)
+140,4,1:50,2,11,DEN 38,9,3,Tyler Huntley pass complete short left to Isaiah Likely for 12 yards (tackle by Alex Singleton)
+141,4,1:26,1,10,DEN 26,9,3,Tyler Huntley scrambles left end for 3 yards (tackle by Essang Bassey)
+142,4,1:19,2,7,DEN 23,9,3,Tyler Huntley pass complete short right to Kenyan Drake for 4 yards (tackle by Josey Jewell)
+143,4,1:13,3,3,DEN 19,9,3,Kenyan Drake right tackle for 1 yard (tackle by Josey Jewell and DeShawn Williams)
+144,4,1:06,4,2,DEN 18,9,3,Tyler Huntley left tackle for 3 yards (tackle by Josey Jewell)
+145,4,0:35,1,10,DEN 15,9,3,Tyler Huntley pass complete short left to Kenyan Drake for 13 yards (tackle by Alex Singleton)
+146,4,0:31,1,2,DEN 2,9,9,"Tyler Huntley up the middle for 2 yards, touchdown"
+147,4,0:28,0,0,DEN 15,9,10,Justin Tucker kicks extra point good
+148,4,0:28,0,0,BAL 35,9,10,"Justin Tucker kicks off 62 yards, returned by Montrell Washington for 15 yards (tackle by Kevon Seymour)"
+149,4,0:23,1,10,DEN 18,9,10,Russell Wilson pass complete short right to Jerry Jeudy for 16 yards (tackle by Marcus Peters)
+150,4,0:16,1,10,DEN 34,9,10,Russell Wilson scrambles up the middle for 17 yards (tackle by Kyle Hamilton and Chuck Clark)
+151,4,0:09,1,10,BAL 49,9,10,Russell Wilson scrambles right end for 4 yards (tackle by Tyus Bowser)
+152,4,0:02,2,6,BAL 45,9,10,Brandon McManus 63 yard field goal no good

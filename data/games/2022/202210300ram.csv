@@ -1,0 +1,138 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,SFO 35,0,0,"Robbie Gould kicks off 65 yards, returned by Russ Yeast for 29 yards (tackle by Demetrius Flannigan-Fowles)"
+1,1,14:54,1,10,LAR 29,0,0,Ronnie Rivers for no gain (tackle by Samson Ebukam)
+2,1,14:18,2,10,LAR 29,0,0,Matthew Stafford pass incomplete short left intended for Tyler Higbee
+3,1,14:14,3,10,LAR 29,0,0,Matthew Stafford pass complete short left to Ronnie Rivers for -2 yards (tackle by Oren Burks)
+4,1,13:19,4,12,LAR 27,0,0,"Riley Dixon punts 46 yards, fair catch by Ray-Ray McCloud at SF-27"
+5,1,13:11,1,10,SFO 27,0,0,Jimmy Garoppolo pass complete short left to Jeff Wilson for 9 yards (tackle by Ernest Jones and Leonard Floyd)
+6,1,12:33,2,1,SFO 36,0,0,Christian McCaffrey left tackle for 5 yards (tackle by Taylor Rapp)
+7,1,11:49,1,10,SFO 41,0,0,Christian McCaffrey right end for 4 yards (tackle by Nick Scott and Leonard Floyd)
+8,1,11:13,2,6,SFO 45,0,0,Jimmy Garoppolo pass complete short left to Christian McCaffrey for 11 yards (tackle by Bobby Wagner)
+9,1,10:34,1,10,LAR 44,0,0,Christian McCaffrey right end for 1 yard (tackle by Bobby Wagner)
+10,1,9:50,2,9,LAR 43,0,0,Jimmy Garoppolo pass incomplete deep middle intended for Ray-Ray McCloud (defended by Nick Scott)
+11,1,9:44,3,9,LAR 43,0,0,Jimmy Garoppolo pass incomplete short middle intended for George Kittle (defended by Jalen Ramsey)
+12,1,9:38,4,9,LAR 43,0,0,"Mitch Wishnowsky punts 31 yards, fair catch by Brandon Powell at LA-12"
+13,1,9:30,1,10,LAR 12,0,0,Matthew Stafford pass complete deep left to Cooper Kupp for 20 yards (tackle by Deommodore Lenoir)
+14,1,8:46,1,10,LAR 32,0,0,Matthew Stafford pass complete short right to Allen Robinson for 6 yards (tackle by Charvarius Ward)
+15,1,8:05,2,4,LAR 38,0,0,Matthew Stafford pass complete short right to Cooper Kupp for 4 yards (tackle by Charvarius Ward)
+16,1,7:25,1,10,LAR 42,0,0,Ronnie Rivers up the middle for 4 yards (tackle by Talanoa Hufanga and Charles Omenihu)
+17,1,6:39,2,7,LAR 46,0,0,Matthew Stafford pass complete short right to Tyler Higbee for 10 yards (tackle by Jimmie Ward and Fred Warner)
+18,1,5:55,1,10,SFO 44,0,0,Ronnie Rivers right tackle for 1 yard (tackle by Kerry Hyder)
+19,1,5:13,2,9,SFO 43,0,0,Matthew Stafford pass complete short right to Ronnie Rivers for 6 yards (tackle by Charvarius Ward)
+20,1,4:35,3,3,SFO 37,0,0,Matthew Stafford pass complete short left to Cooper Kupp for 3 yards (tackle by Fred Warner and Jimmie Ward)
+21,1,3:58,1,10,SFO 34,0,0,Matthew Stafford pass incomplete short left intended for Cooper Kupp (defended by Oren Burks)
+22,1,3:51,2,10,SFO 34,0,0,Darrell Henderson up the middle for 1 yard (tackle by Nick Bosa and Fred Warner)
+23,1,3:13,3,9,SFO 33,0,0,Matthew Stafford pass complete to Allen Robinson for 23 yards
+24,1,2:36,1,10,SFO 10,0,0,Matthew Stafford pass complete short right to Allen Robinson for 6 yards (tackle by Ambry Thomas)
+25,1,1:54,2,4,SFO 4,0,0,"Matthew Stafford pass incomplete short right intended for Ben Skowronek. Penalty on Ambry Thomas: Defensive Holding, 2 yards (accepted) (no play)"
+26,1,1:49,1,2,SFO 2,0,0,Malcolm Brown left guard for no gain (tackle by Oren Burks and Fred Warner)
+27,1,1:05,2,2,SFO 2,0,0,Matthew Stafford pass incomplete intended for Cooper Kupp
+28,1,1:01,3,2,SFO 2,0,0,"Matthew Stafford pass incomplete short right intended for Allen Robinson. Penalty on Charvarius Ward: Defensive Pass Interference, 1 yard (accepted) (no play)"
+29,1,0:57,1,1,SFO 1,0,0,Matthew Stafford pass incomplete short left intended for Allen Robinson
+30,1,0:54,2,1,SFO 1,0,0,Malcolm Brown up the middle for no gain (tackle by Fred Warner and Nick Bosa)
+31,1,0:16,3,1,SFO 1,0,6,"Matthew Stafford scrambles right end for 1 yard, touchdown"
+32,1,0:09,0,0,SFO 15,0,7,Matt Gay kicks extra point good
+33,1,0:09,0,0,LAR 35,0,7,"Matt Gay kicks off 63 yards, returned by Ray-Ray McCloud for 27 yards (tackle by Jake Gervase)"
+34,1,0:01,1,10,SFO 29,0,7,"Penalty on Trent Williams: False Start, 5 yards (accepted) (no play)"
+35,1,0:01,1,15,SFO 24,0,7,Jimmy Garoppolo pass complete short left to George Kittle for 9 yards (tackle by Taylor Rapp)
+36,2,15:00,2,6,SFO 33,0,7,Christian McCaffrey right tackle for -1 yards (tackle by Aaron Donald)
+37,2,14:20,3,7,SFO 32,0,7,Jimmy Garoppolo pass complete short left to Christian McCaffrey for 9 yards (tackle by Terrell Lewis and Troy Hill)
+38,2,13:42,1,10,SFO 41,0,7,Jimmy Garoppolo pass complete short left to George Kittle for 23 yards (tackle by Taylor Rapp and Jalen Ramsey)
+39,2,13:02,1,10,LAR 36,0,7,Christian McCaffrey left end for 2 yards (tackle by Ernest Jones and Leonard Floyd)
+40,2,12:17,2,8,LAR 34,6,7,"Christian McCaffrey pass complete deep right to Brandon Aiyuk for 34 yards, touchdown"
+41,2,12:10,0,0,LAR 15,7,7,Robbie Gould kicks extra point good
+42,2,12:10,0,0,SFO 35,7,7,"Robbie Gould kicks off 65 yards, touchback."
+43,2,12:10,1,10,LAR 25,7,7,Matthew Stafford pass complete short left to Ronnie Rivers for 7 yards (tackle by Talanoa Hufanga and Fred Warner)
+44,2,11:29,2,3,LAR 32,7,7,Matthew Stafford pass complete short left to Cooper Kupp for 2 yards (tackle by Talanoa Hufanga)
+45,2,10:57,3,1,LAR 34,7,7,Matthew Stafford pass complete short left to Ben Skowronek for 10 yards (tackle by Talanoa Hufanga)
+46,2,10:10,1,10,LAR 44,7,7,Matthew Stafford pass complete short middle to Darrell Henderson for 7 yards (tackle by Oren Burks)
+47,2,9:30,2,3,SFO 49,7,7,Matthew Stafford pass complete deep left to Cooper Kupp for 23 yards (tackle by Deommodore Lenoir)
+48,2,8:43,1,10,SFO 26,7,7,Matthew Stafford pass complete short right to Cooper Kupp for 5 yards (tackle by Jimmie Ward)
+49,2,8:03,2,5,SFO 21,7,7,Matthew Stafford pass complete short right to Ronnie Rivers for 4 yards (tackle by Fred Warner)
+50,2,7:21,3,1,SFO 17,7,7,Ronnie Rivers right tackle for 1 yard (tackle by Talanoa Hufanga and Hassan Ridgeway)
+51,2,6:41,1,10,SFO 16,7,13,"Matthew Stafford pass complete short middle to Cooper Kupp for 16 yards, touchdown"
+52,2,6:35,0,0,SFO 15,7,14,Matt Gay kicks extra point good
+53,2,6:35,0,0,LAR 35,7,14,"Matt Gay kicks off 68 yards, returned by Ray-Ray McCloud for 39 yards (tackle by Cobie Durant)"
+54,2,6:28,1,10,SFO 36,7,14,"Jimmy Garoppolo pass complete short left to Christian McCaffrey for -5 yards (tackle by Ernest Jones). Penalty on Aaron Banks: Offensive Illegal Block Above the Waist, 15 yards (declined) "
+55,2,6:20,2,14,SFO 31,7,14,"Jimmy Garoppolo pass complete short middle to Ray-Ray McCloud for 11 yards (tackle by Taylor Rapp). Penalty on Taylor Rapp: Unnecessary Roughness / Defense, 15 yards (accepted) "
+56,2,5:43,1,10,LAR 43,7,14,"Christian McCaffrey up the middle for no gain (tackle by Leonard Floyd and Ernest Jones). Penalty on Justin Hollins: Defensive Offside, 5 yards (accepted) (no play)"
+57,2,5:17,1,5,LAR 38,7,14,Jimmy Garoppolo pass complete short left to Christian McCaffrey for 6 yards (tackle by Derion Kendrick)
+58,2,4:39,1,10,LAR 32,7,14,Jimmy Garoppolo sacked by Leonard Floyd for -4 yards
+59,2,3:54,2,14,LAR 36,7,14,Jimmy Garoppolo pass complete short left to Brandon Aiyuk for 12 yards (tackle by Bobby Wagner and Ernest Jones)
+60,2,3:09,3,2,LAR 24,7,14,Jimmy Garoppolo up the middle for 3 yards (tackle by Aaron Donald)
+61,2,2:29,1,10,LAR 21,7,14,Christian McCaffrey right tackle for 13 yards (tackle by Taylor Rapp and Jalen Ramsey)
+62,2,2:00,1,8,LAR 8,7,14,Christian McCaffrey right tackle for no gain (tackle by Aaron Donald and Leonard Floyd)
+63,2,1:14,2,8,LAR 8,7,14,Jimmy Garoppolo sacked by Leonard Floyd for -4 yards
+64,2,1:07,3,12,LAR 12,7,14,"Jimmy Garoppolo pass complete short middle to Christian McCaffrey for 8 yards. Christian McCaffrey fumbles (forced by Bobby Wagner), recovered by George Kittle at LA-3 Replay Assistant challenged the pass completion ruling, and the original play was overturned. Jimmy Garoppolo pass incomplete short middle intended for Christian McCaffrey (defended by Bobby Wagner)"
+65,2,1:04,4,12,LAR 12,10,14,Robbie Gould 29 yard field goal good
+66,2,1:00,0,0,SFO 35,10,14,"Robbie Gould kicks off 65 yards, touchback."
+67,2,1:00,1,10,LAR 25,10,14,Ronnie Rivers left tackle for 4 yards (tackle by Drake Jackson)
+68,2,0:19,2,6,LAR 29,10,14,Ronnie Rivers right guard for 3 yards (tackle by Samson Ebukam)
+69,3,15:00,0,0,LAR 35,10,14,"Matt Gay kicks off 65 yards, touchback."
+70,3,15:00,1,10,SFO 25,10,14,Christian McCaffrey up the middle for 25 yards (tackle by Derion Kendrick and Nick Scott)
+71,3,14:24,1,10,SFO 50,10,14,Christian McCaffrey up the middle for 1 yard (tackle by Nick Scott and Leonard Floyd)
+72,3,13:38,2,9,LAR 49,10,14,Jimmy Garoppolo pass incomplete short middle intended for George Kittle (defended by Jalen Ramsey)
+73,3,13:34,3,9,LAR 49,10,14,Jimmy Garoppolo sacked by Greg Gaines for -4 yards
+74,3,12:54,4,13,SFO 47,10,14,"Mitch Wishnowsky punts 43 yards, fair catch by Brandon Powell at LA-10"
+75,3,12:46,1,10,LAR 10,10,14,Ronnie Rivers right guard for 5 yards (tackle by Oren Burks and Fred Warner)
+76,3,12:02,2,5,LAR 15,10,14,Cooper Kupp left end for 5 yards (tackle by Jimmie Ward)
+77,3,11:20,1,10,LAR 20,10,14,Matthew Stafford pass incomplete short right
+78,3,11:14,2,10,LAR 20,10,14,Darrell Henderson up the middle for 5 yards (tackle by Kevin Givens and Hassan Ridgeway)
+79,3,10:31,3,5,LAR 25,10,14,Matthew Stafford pass complete short middle to Allen Robinson for 13 yards (tackle by Talanoa Hufanga)
+80,3,9:50,1,10,LAR 38,10,14,Matthew Stafford pass incomplete deep left intended for Cooper Kupp
+81,3,9:45,2,10,LAR 38,10,14,Darrell Henderson left tackle for 4 yards (tackle by Fred Warner and Talanoa Hufanga)
+82,3,9:01,3,6,LAR 42,10,14,Matthew Stafford pass incomplete short right intended for Cooper Kupp
+83,3,8:56,4,6,LAR 42,10,14,"Riley Dixon punts 54 yards, returned by Ray-Ray McCloud for 8 yards (tackle by Christian Rozeboom)"
+84,3,8:45,1,10,SFO 12,10,14,Jimmy Garoppolo pass complete short left to Tyler Kroft for 6 yards (tackle by Derion Kendrick)
+85,3,8:03,2,4,SFO 18,10,14,Jimmy Garoppolo pass complete short middle to Brandon Aiyuk for 11 yards (tackle by Nick Scott)
+86,3,7:23,1,10,SFO 29,10,14,"Christian McCaffrey left end for 3 yards. Christian McCaffrey fumbles (forced by Jalen Ramsey), recovered by Ray-Ray McCloud at SF-34 (tackle by Jalen Ramsey) (tackle by Jalen Ramsey)"
+87,3,6:36,2,5,SFO 34,10,14,Jimmy Garoppolo pass complete short middle to Christian McCaffrey for 14 yards (tackle by Bobby Wagner)
+88,3,5:50,1,10,SFO 48,10,14,Jeff Wilson left tackle for 1 yard (tackle by Aaron Donald and Bobby Wagner)
+89,3,5:12,2,9,SFO 48,10,14,Jimmy Garoppolo pass complete short right to Jeff Wilson for 12 yards (tackle by Nick Scott and Jalen Ramsey)
+90,3,4:31,1,10,LAR 39,10,14,Jimmy Garoppolo pass complete short left to Brandon Aiyuk for 11 yards (tackle by Derion Kendrick)
+91,3,4:14,1,10,LAR 28,10,14,Jeff Wilson left tackle for 12 yards (tackle by Jalen Ramsey)
+92,3,3:28,1,10,LAR 16,10,14,Jeff Wilson right tackle for -1 yards (tackle by A'Shawn Robinson and Greg Gaines)
+93,3,2:47,2,11,LAR 17,10,14,Jimmy Garoppolo pass complete short left to Brandon Aiyuk for 8 yards (tackle by Ernest Jones)
+94,3,1:58,3,3,LAR 9,16,14,"Jimmy Garoppolo pass complete short right to Christian McCaffrey for 9 yards, touchdown"
+95,3,1:51,0,0,LAR 15,17,14,Robbie Gould kicks extra point good
+96,3,1:51,0,0,SFO 35,17,14,"Robbie Gould kicks off 65 yards, touchback."
+97,3,1:51,1,10,LAR 25,17,14,Ronnie Rivers right tackle for 3 yards (tackle by Charles Omenihu and Charvarius Ward)
+98,3,1:08,2,7,LAR 28,17,14,Matthew Stafford pass incomplete short right intended for Tyler Higbee
+99,3,1:05,3,7,LAR 28,17,14,Matthew Stafford sacked by and Fred Warner for -9 yards and Nick Bosa for -9 yards
+100,3,0:27,4,16,LAR 19,17,14,"Riley Dixon punts 50 yards, returned by Ray-Ray McCloud for 11 yards (tackle by Nick Scott)"
+101,3,0:15,1,10,SFO 42,17,14,"Jimmy Garoppolo pass complete short right to Christian McCaffrey for 7 yards (tackle by Ernest Jones). Penalty on Ernest Jones: Unnecessary Roughness / Defense, 15 yards (accepted) "
+102,4,15:00,1,10,LAR 36,17,14,Jimmy Garoppolo pass complete short left to Brandon Aiyuk for 5 yards (tackle by Derion Kendrick)
+103,4,14:19,2,5,LAR 31,17,14,Jimmy Garoppolo pass complete short right to Christian McCaffrey for 4 yards (tackle by Leonard Floyd and A'Shawn Robinson)
+104,4,13:36,3,1,LAR 27,17,14,Jeff Wilson right guard for 2 yards (tackle by Leonard Floyd and Aaron Donald)
+105,4,12:51,1,10,LAR 25,17,14,Christian McCaffrey up the middle for 24 yards (tackle by Taylor Rapp)
+106,4,12:11,1,1,LAR 1,23,14,"Christian McCaffrey for 1 yard, touchdown"
+107,4,12:07,0,0,LAR 15,24,14,Robbie Gould kicks extra point good
+108,4,12:07,0,0,SFO 35,24,14,"Robbie Gould kicks off 65 yards, touchback."
+109,4,12:07,1,10,LAR 25,24,14,Cooper Kupp right end for 5 yards (tackle by Charvarius Ward)
+110,4,11:28,2,5,LAR 30,24,14,Matthew Stafford pass incomplete short middle intended for Allen Robinson (defended by Fred Warner)
+111,4,11:23,3,5,LAR 30,24,14,Matthew Stafford pass complete short middle to Allen Robinson for 6 yards (tackle by Talanoa Hufanga)
+112,4,11:11,1,10,LAR 36,24,14,"Penalty on Allen Robinson: Taunting / Offense, 15 yards (accepted) (no play)"
+113,4,10:49,1,10,LAR 21,24,14,Matthew Stafford pass incomplete short right intended for Tyler Higbee
+114,4,10:44,2,10,LAR 21,24,14,Matthew Stafford pass complete short right to Darrell Henderson for 7 yards (tackle by Charvarius Ward)
+115,4,10:00,3,3,LAR 28,24,14,Matthew Stafford pass incomplete short left intended for Tyler Higbee
+116,4,9:55,4,3,LAR 28,24,14,Riley Dixon punts 45 yards out of bounds
+117,4,9:47,1,10,SFO 27,24,14,Christian McCaffrey up the middle for 3 yards (tackle by Aaron Donald)
+118,4,9:08,2,7,SFO 30,24,14,Jimmy Garoppolo pass complete deep left to Ross Dwelley for 56 yards (tackle by Derion Kendrick)
+119,4,8:19,1,10,LAR 14,24,14,Christian McCaffrey right tackle for 2 yards (tackle by Ernest Jones and Nick Scott)
+120,4,7:34,2,8,LAR 12,24,14,Christian McCaffrey right end for 5 yards (tackle by Greg Gaines and Nick Scott)
+121,4,6:48,3,3,LAR 7,30,14,"Jimmy Garoppolo pass complete to George Kittle for 7 yards, touchdown"
+122,4,6:41,0,0,LAR 15,31,14,Robbie Gould kicks extra point good
+123,4,6:41,0,0,SFO 35,31,14,"Robbie Gould kicks off 65 yards, returned by Brandon Powell for 21 yards (tackle by Demetrius Flannigan-Fowles)"
+124,4,6:37,1,10,LAR 21,31,14,Matthew Stafford pass complete short right to Tyler Higbee for 5 yards (tackle by Oren Burks)
+125,4,6:16,2,5,LAR 26,31,14,Matthew Stafford sacked by Nick Bosa for -11 yards
+126,4,5:35,3,16,LAR 15,31,14,Darrell Henderson left end for 6 yards (tackle by Fred Warner and Oren Burks)
+127,4,4:56,4,10,LAR 21,31,14,"Riley Dixon punts 58 yards, returned by Ray-Ray McCloud for 15 yards (tackle by Christian Rozeboom and Jake Hummel)"
+128,4,4:43,1,10,SFO 36,31,14,Christian McCaffrey left end for 3 yards (tackle by Justin Hollins and Jalen Ramsey)
+129,4,3:59,2,7,SFO 39,31,14,Christian McCaffrey up the middle for 3 yards (tackle by A'Shawn Robinson)
+130,4,3:16,3,4,SFO 42,31,14,Christian McCaffrey up the middle for no gain (tackle by Aaron Donald)
+131,4,2:30,4,4,SFO 42,31,14,"Mitch Wishnowsky punts 49 yards, returned by Brandon Powell for no gain (tackle by Samuel Womack)"
+132,4,2:24,1,10,LAR 9,31,14,Malcolm Brown left tackle for 4 yards (tackle by Samson Ebukam and Jimmie Ward)
+133,4,2:00,2,6,LAR 13,31,14,Malcolm Brown left tackle for 2 yards (tackle by Oren Burks)
+134,4,1:19,3,4,LAR 15,31,14,Matthew Stafford pass complete short right to Cooper Kupp for 6 yards (tackle by Fred Warner)
+135,4,1:02,1,10,LAR 21,31,14,Malcolm Brown left tackle for 4 yards (tackle by Hassan Ridgeway)
+136,4,0:28,2,6,LAR 25,31,14,Matthew Stafford kneels for -2 yards

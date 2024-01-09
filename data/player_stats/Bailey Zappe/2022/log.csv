@@ -1,0 +1,5 @@
+,date,week,team,game_location,opp,result,team_pts,opp_pts,cmp,att,pass_yds,pass_td,int,rating,sacked,rush_att,rush_yds,rush_td
+0,2022-10-02,4,NWE,@,GNB,L,24,27,10,15,99,1,0,107.4,3,0,0,0
+1,2022-10-09,5,NWE,,DET,W,29,0,17,21,188,1,1,100.0,0,5,5,0
+2,2022-10-16,6,NWE,@,CLE,W,38,15,24,34,309,2,0,118.4,2,3,-4,0
+3,2022-10-24,7,NWE,,CHI,L,14,33,14,22,185,1,2,67.4,1,2,-1,0

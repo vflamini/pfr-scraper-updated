@@ -1,0 +1,176 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,JAX 35,0,0,"Riley Patterson kicks off 65 yards, touchback."
+1,1,15:00,1,10,NYG 25,0,0,Daniel Jones pass complete short right to Darius Slayton for 12 yards (tackle by Andre Cisco)
+2,1,14:25,1,10,NYG 37,0,0,Daniel Jones pass incomplete short middle intended for Darius Slayton
+3,1,14:21,2,10,NYG 37,0,0,Daniel Jones pass complete short right to Wan'Dale Robinson for 7 yards (tackle by Darious Williams)
+4,1,13:39,3,3,NYG 44,0,0,Daniel Jones scrambles up the middle for 14 yards (tackle by Andre Cisco)
+5,1,13:08,1,10,JAX 42,0,0,Daniel Jones pass complete short left to Wan'Dale Robinson for 1 yard (tackle by Darious Williams)
+6,1,12:24,2,9,JAX 41,0,0,Daniel Jones pass complete short right to Wan'Dale Robinson for 4 yards (tackle by Tre Herndon and Darious Williams)
+7,1,11:54,3,5,JAX 37,0,0,Daniel Jones pass complete short left to Saquon Barkley for 9 yards (tackle by Arden Key)
+8,1,11:12,1,10,JAX 28,0,0,Saquon Barkley left end for -4 yards (tackle by Roy Robertson-Harris)
+9,1,10:29,2,14,JAX 32,6,0,"Daniel Jones pass complete deep right to Darius Slayton for 32 yards, touchdown"
+10,1,10:21,0,0,JAX 15,7,0,Graham Gano kicks extra point good
+11,1,10:21,0,0,NYG 35,7,0,"Graham Gano kicks off 54 yards, returned by Jamycal Hasty for 19 yards (tackle by Fabian Moreau)"
+12,1,10:16,1,10,JAX 30,7,0,Trevor Lawrence pass complete short left to Evan Engram for 13 yards
+13,1,9:42,1,10,JAX 43,7,0,Travis Etienne up the middle for 1 yard (tackle by Jihad Ward and Nick Williams)
+14,1,9:04,2,9,JAX 44,7,0,Zay Jones right end for 14 yards (tackle by Kayvon Thibodeaux)
+15,1,8:27,1,10,NYG 42,7,0,Trevor Lawrence pass complete short middle to Christian Kirk for 11 yards (tackle by Jaylon Smith)
+16,1,7:46,1,10,NYG 31,7,0,Trevor Lawrence pass complete short left to Dan Arnold for 24 yards (tackle by Fabian Moreau)
+17,1,7:02,1,7,NYG 7,7,6,"Travis Etienne left guard for 7 yards, touchdown"
+18,1,6:58,0,0,NYG 15,7,6,Riley Patterson kicks extra point good (no play)
+19,1,6:58,1,1,NYG 2,7,8,"Two Point Attempt: Travis Etienne rushes, conversion succeeds."
+20,1,6:58,0,0,JAX 35,7,8,"Riley Patterson kicks off 65 yards, touchback."
+21,1,6:58,1,10,NYG 25,7,8,"Daniel Jones scrambles right end for 2 yards (tackle by Rayshawn Jenkins). Penalty on Josh Allen: Defensive Holding, 5 yards (accepted) "
+22,1,6:37,1,10,NYG 32,7,8,Saquon Barkley right end for 2 yards (tackle by Devin Lloyd and Foyesade Oluokun)
+23,1,5:58,2,8,NYG 34,7,8,Daniel Jones pass incomplete short left intended for Wan'Dale Robinson (defended by Darious Williams)
+24,1,5:53,3,8,NYG 34,7,8,"Daniel Jones sacked by Josh Allen for no gain. Daniel Jones fumbles (forced by Josh Allen), recovered by Darious Williams at NYG-39 (tackle by Josh Allen). Penalty on Josh Allen: Defensive Offside, 5 yards (accepted) (no play)"
+25,1,5:50,3,3,NYG 39,7,8,Daniel Jones pass complete short left to Wan'Dale Robinson for 10 yards (tackle by Darious Williams)
+26,1,5:20,1,10,NYG 49,7,8,"Daniel Jones pass incomplete intended for Wan'Dale Robinson. Penalty on Tanner Hudson: Offensive Holding, 10 yards (accepted) (no play)"
+27,1,5:20,1,20,NYG 39,7,8,Daniel Jones pass incomplete deep middle intended for Marcus Johnson
+28,1,5:13,2,20,NYG 39,7,8,Daniel Jones pass complete short right to Saquon Barkley for 6 yards (tackle by Devin Lloyd and Tre Herndon)
+29,1,4:26,3,14,NYG 45,7,8,Daniel Jones pass incomplete short left intended for Richie James (defended by Darious Williams)
+30,1,4:18,4,14,NYG 45,7,8,Jamie Gillan punts 34 yards downed by Tomon Fox
+31,1,4:07,1,10,JAX 21,7,8,Travis Etienne left end for 15 yards (tackle by Tae Crowder)
+32,1,3:32,1,10,JAX 35,7,8,Trevor Lawrence pass complete short middle to Evan Engram for 28 yards (tackle by Adoree' Jackson and Julian Love)
+33,1,2:56,1,10,NYG 36,7,8,Travis Etienne up the middle for 7 yards (tackle by Jihad Ward)
+34,1,2:35,2,3,NYG 29,7,8,Travis Etienne right guard for 1 yard (tackle by Jaylon Smith)
+35,1,1:56,3,2,NYG 28,7,8,Trevor Lawrence right end for 1 yard (tackle by Dexter Lawrence)
+36,1,1:19,4,1,NYG 27,7,8,Trevor Lawrence pass complete short right to Zay Jones for 2 yards (tackle by Fabian Moreau)
+37,1,0:36,1,10,NYG 25,7,8,Trevor Lawrence pass complete short right to Christian Kirk for 5 yards (tackle by Adoree' Jackson and Darnay Holmes)
+38,2,15:00,2,5,NYG 20,7,8,Jamycal Hasty left end for 6 yards (tackle by Kayvon Thibodeaux and Fabian Moreau)
+39,2,14:14,1,10,NYG 14,7,8,Trevor Lawrence pass incomplete short left intended for James Robinson
+40,2,14:08,2,10,NYG 14,7,8,Trevor Lawrence pass incomplete short right intended for Evan Engram
+41,2,14:03,3,10,NYG 14,7,8,Trevor Lawrence pass complete short right to Travis Etienne for 5 yards (tackle by Landon Collins)
+42,2,13:26,4,5,NYG 9,7,11,Riley Patterson 27 yard field goal good
+43,2,13:23,0,0,JAX 35,7,11,"Riley Patterson kicks off 65 yards, touchback."
+44,2,13:23,1,10,NYG 25,7,11,Saquon Barkley up the middle for 5 yards (tackle by Roy Robertson-Harris)
+45,2,12:54,2,6,NYG 29,7,11,Daniel Jones pass complete short middle to Wan'Dale Robinson for 17 yards (tackle by Andre Cisco)
+46,2,12:17,1,10,NYG 47,7,11,Saquon Barkley up the middle for 2 yards (tackle by Folorunso Fatukasi and Foyesade Oluokun)
+47,2,11:38,2,8,NYG 49,7,11,Daniel Jones pass complete short left to Matt Breida for 14 yards (tackle by Devin Lloyd)
+48,2,10:57,1,10,JAX 37,7,11,Daniel Jones pass complete short left to Richie James for 2 yards (tackle by Arden Key)
+49,2,10:16,2,8,JAX 35,7,11,Daniel Jones right end for 12 yards (tackle by Darious Williams)
+50,2,9:40,1,10,JAX 23,7,11,Saquon Barkley up the middle for -3 yards (tackle by Rayshawn Jenkins and Dawuane Smoot)
+51,2,8:58,2,13,JAX 26,7,11,"Daniel Jones pass incomplete intended for Wan'Dale Robinson. Penalty on Marcus Johnson: Offensive Pass Interference, 9 yards (accepted) . Penalty on Joshua Ezeudu: Ineligible Downfield Pass, 5 yards (declined) (no play)"
+52,2,8:58,2,23,JAX 36,7,11,Daniel Jones scrambles right end for 9 yards (tackle by Foyesade Oluokun)
+53,2,8:12,3,13,JAX 26,7,11,Daniel Jones pass complete short left to Wan'Dale Robinson for 11 yards (tackle by Foyesade Oluokun and Devin Lloyd)
+54,2,7:31,4,2,JAX 15,10,11,Graham Gano 33 yard field goal good
+55,2,7:27,0,0,NYG 35,10,11,"Graham Gano kicks off 68 yards, returned by Jamycal Hasty for 22 yards (tackle by Cam Brown)"
+56,2,7:22,1,10,JAX 19,10,11,Trevor Lawrence pass complete short left to Marvin Jones for 13 yards (tackle by Fabian Moreau)
+57,2,6:46,1,10,JAX 32,10,11,"Trevor Lawrence pass complete to Christian Kirk for 15 yards. Penalty on Brandon Scherff: Ineligible Downfield Pass, 5 yards (accepted) (no play)"
+58,2,6:11,1,15,JAX 27,10,11,Trevor Lawrence pass incomplete short middle intended for Evan Engram (defended by Tae Crowder)
+59,2,6:07,2,15,JAX 27,10,11,Trevor Lawrence pass complete short left to Evan Engram for 14 yards (tackle by Julian Love and Justin Ellis)
+60,2,5:24,3,1,JAX 41,10,11,Trevor Lawrence pass complete short right to Christian Kirk for 8 yards (tackle by Adoree' Jackson)
+61,2,4:42,1,10,JAX 49,10,11,"James Robinson for -2 yards. Penalty on Chris Manhertz: Unnecessary Roughness / Offense, 15 yards (accepted) (no play)"
+62,2,4:16,1,25,JAX 34,10,11,Trevor Lawrence pass incomplete intended for Christian Kirk (defended by Adoree' Jackson)
+63,2,4:10,2,25,JAX 34,10,11,Trevor Lawrence pass complete deep left to Christian Kirk for 34 yards (tackle by Julian Love)
+64,2,4:04,1,10,NYG 31,10,11,"Penalty on Julian Love: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)"
+65,2,3:43,1,10,NYG 17,10,11,Trevor Lawrence pass incomplete deep right intended for Zay Jones
+66,2,3:35,2,10,NYG 17,10,11,"Travis Etienne up the middle for 12 yards. Travis Etienne fumbles (forced by Xavier McKinney), recovered by Julian Love in end zone"
+67,2,3:26,1,10,NYG 20,10,11,Saquon Barkley up the middle for 2 yards (tackle by DaVon Hamilton and Travon Walker)
+68,2,2:54,2,8,NYG 22,10,11,Saquon Barkley left guard for 10 yards (tackle by Tyson Campbell)
+69,2,2:17,1,10,NYG 32,10,11,Saquon Barkley up the middle for 2 yards (tackle by Folorunso Fatukasi)
+70,2,2:00,2,8,NYG 34,10,11,Daniel Jones pass complete short middle to David Sills for 19 yards (tackle by Darious Williams)
+71,2,1:34,1,10,JAX 46,10,11,Saquon Barkley up the middle for 2 yards (tackle by Travon Walker and DaVon Hamilton)
+72,2,1:08,2,10,JAX 46,10,11,Daniel Jones pass complete short middle to Daniel Bellinger for 13 yards (tackle by Tre Herndon)
+73,2,1:00,1,10,JAX 32,10,11,Daniel Jones pass incomplete deep right intended for Darius Slayton (defended by Tre Herndon)
+74,2,0:56,2,10,JAX 32,10,11,Daniel Jones pass complete short left to Chris Myarick for 11 yards (tackle by Tyson Campbell)
+75,2,0:50,1,10,JAX 21,10,11,Daniel Jones pass incomplete short right intended for Wan'Dale Robinson (defended by Andre Cisco)
+76,2,0:46,2,10,JAX 21,10,11,Matt Breida left guard for 6 yards (tackle by Foyesade Oluokun)
+77,2,0:41,3,4,JAX 15,10,11,Daniel Jones pass incomplete short left
+78,2,0:32,4,4,JAX 15,13,11,Graham Gano 33 yard field goal good
+79,2,0:28,0,0,NYG 35,13,11,"Graham Gano kicks off 65 yards, touchback."
+80,2,0:28,1,10,JAX 25,13,11,Trevor Lawrence pass complete deep right to Zay Jones for 18 yards (tackle by Fabian Moreau)
+81,2,0:23,1,10,JAX 43,13,11,Trevor Lawrence pass complete short left to Tim Jones for 7 yards (tackle by Fabian Moreau and Darnay Holmes)
+82,2,0:17,2,3,JAX 50,13,11,Trevor Lawrence pass incomplete short left intended for Zay Jones
+83,2,0:12,3,3,JAX 50,13,11,Trevor Lawrence pass incomplete short right intended for Travis Etienne
+84,2,0:08,4,3,JAX 50,13,11,Trevor Lawrence pass incomplete deep middle
+85,3,15:00,0,0,NYG 35,13,11,"Graham Gano kicks off 65 yards, returned by Jamycal Hasty for 27 yards (tackle by Fabian Moreau)"
+86,3,14:55,1,10,JAX 27,13,11,Travis Etienne left end for 49 yards (tackle by Kayvon Thibodeaux)
+87,3,14:08,1,10,NYG 24,13,11,Trevor Lawrence pass incomplete short right intended for Zay Jones
+88,3,14:05,2,10,NYG 24,13,11,"Trevor Lawrence pass complete short middle to Marvin Jones for 6 yards (tackle by Adoree' Jackson). Penalty on Dexter Lawrence: Roughing the Passer, 7 yards (accepted) . Penalty on Darnay Holmes: Defensive Holding, 5 yards (declined) "
+89,3,13:50,1,10,NYG 10,13,11,Travis Etienne right end for 8 yards (tackle by Julian Love)
+90,3,13:17,2,3,NYG 3,13,11,Travis Etienne left end for 1 yard (tackle by Xavier McKinney)
+91,3,12:32,3,1,NYG 1,13,11,Trevor Lawrence right guard for 1 yard (tackle by Tae Crowder)
+92,3,11:47,1,1,NYG 1,13,17,"Trevor Lawrence up the middle for 1 yard, touchdown"
+93,3,11:45,0,0,NYG 15,13,17,"Penalty on Ross Matiscik: False Start, 5 yards (accepted) (no play)"
+94,3,11:45,0,0,NYG 20,13,17,Riley Patterson kicks extra point blocked blocked by Nick McCloud
+95,3,11:45,0,0,JAX 35,13,17,"Riley Patterson kicks off 65 yards, touchback."
+96,3,11:45,1,10,NYG 25,13,17,Daniel Jones pass complete short left to Saquon Barkley for 6 yards (tackle by Foyesade Oluokun and Darious Williams)
+97,3,11:15,2,4,NYG 31,13,17,Daniel Jones pass complete short middle to Darius Slayton for 14 yards (tackle by Tyson Campbell)
+98,3,10:47,1,10,NYG 45,13,17,Daniel Jones pass complete short middle to Chris Myarick for 10 yards (tackle by Devin Lloyd)
+99,3,10:07,1,10,JAX 45,13,17,Matt Breida right end for 5 yards (tackle by Foyesade Oluokun)
+100,3,9:37,2,5,JAX 40,13,17,Saquon Barkley up the middle for 3 yards (tackle by Devin Lloyd and Foyesade Oluokun)
+101,3,9:11,3,2,JAX 37,13,17,Daniel Jones right end for 11 yards (tackle by Andre Cisco)
+102,3,8:32,1,10,JAX 25,13,17,Daniel Jones pass complete short right to Saquon Barkley for 4 yards (tackle by Rayshawn Jenkins)
+103,3,8:02,2,6,JAX 21,13,17,"Daniel Jones pass is intercepted by Devin Lloyd at JAC-17 and returned for no gain. Penalty on Foyesade Oluokun: Roughing the Passer, 11 yards (accepted) (no play)"
+104,3,7:54,1,10,JAX 11,13,17,Saquon Barkley up the middle for 8 yards (tackle by Tyson Campbell)
+105,3,7:12,2,1,JAX 2,13,17,Saquon Barkley up the middle for no gain (tackle by Devin Lloyd and Travon Walker)
+106,3,6:27,3,2,JAX 3,13,17,Daniel Jones pass incomplete short right intended for Marcus Johnson (defended by Dawuane Smoot)
+107,3,6:22,4,2,JAX 3,13,17,Daniel Jones pass incomplete short right intended for Marcus Johnson (defended by Darious Williams)
+108,3,6:20,1,10,JAX 4,13,17,Travis Etienne up the middle for 2 yards (tackle by Tae Crowder and Dexter Lawrence)
+109,3,5:47,2,8,JAX 6,13,17,Travis Etienne left end for 4 yards (tackle by Ryder Anderson)
+110,3,5:04,3,4,JAX 10,13,17,Trevor Lawrence pass incomplete deep left intended for Marvin Jones
+111,3,5:01,4,4,JAX 10,13,17,"Logan Cooke punts 57 yards, fair catch by Richie James at NYG-33"
+112,3,4:53,1,10,NYG 33,13,17,Saquon Barkley up the middle for 6 yards (tackle by Josh Allen and De'Shaan Dixon)
+113,3,4:23,2,4,NYG 39,13,17,Daniel Jones left end for 9 yards (tackle by Tyson Campbell)
+114,3,3:40,1,10,NYG 48,13,17,Saquon Barkley right end for 3 yards (tackle by Foyesade Oluokun and DaVon Hamilton)
+115,3,2:56,2,8,NYG 50,13,17,Daniel Jones sacked by Travon Walker for -2 yards
+116,3,2:09,3,9,NYG 49,13,17,"Daniel Jones pass incomplete intended for Darius Slayton. Penalty on Travon Walker: Defensive Offside, 5 yards (accepted) (no play)"
+117,3,2:03,3,4,JAX 46,13,17,"Daniel Jones pass complete to Tanner Hudson for 2 yards JAX challenged the pass completion ruling, and the original play was overturned. Daniel Jones pass incomplete short left intended for Tanner Hudson (defended by Rayshawn Jenkins)"
+118,3,1:59,4,4,JAX 46,13,17,"Jamie Gillan punts 46 yards, touchback."
+119,3,1:51,1,10,JAX 20,13,17,Travis Etienne right end for 3 yards (tackle by Julian Love)
+120,3,1:14,2,7,JAX 23,13,17,Trevor Lawrence pass complete short left to Zay Jones for 14 yards (tackle by Tae Crowder)
+121,3,0:35,1,10,JAX 37,13,17,"Trevor Lawrence for no gain. Penalty on Cam Robinson: Offensive Holding, 10 yards (accepted) (no play)"
+122,3,0:06,1,20,JAX 27,13,17,Trevor Lawrence pass incomplete short middle intended for Zay Jones (defended by Nick Williams)
+123,3,0:02,2,20,JAX 27,13,17,Trevor Lawrence pass complete short left to Christian Kirk for 12 yards (tackle by Fabian Moreau)
+124,4,15:00,3,8,JAX 39,13,17,Trevor Lawrence pass complete deep right to Zay Jones for 20 yards (tackle by Adoree' Jackson)
+125,4,14:35,1,10,NYG 40,13,17,Trevor Lawrence pass incomplete deep right intended for Marvin Jones
+126,4,14:30,2,10,NYG 41,13,17,Trevor Lawrence pass incomplete short left intended for Travis Etienne (defended by Darnay Holmes)
+127,4,14:26,3,10,NYG 41,13,17,Trevor Lawrence pass complete short right to Evan Engram for 12 yards (tackle by Dane Belton)
+128,4,13:50,1,10,NYG 30,13,17,Travis Etienne right end for 4 yards (tackle by Jaylon Smith and Tae Crowder)
+129,4,13:07,2,6,NYG 25,13,17,Christian Kirk left end for 5 yards (tackle by Julian Love)
+130,4,12:13,3,1,NYG 21,13,17,Travis Etienne up the middle for no gain (tackle by Tae Crowder and Quincy Roche)
+131,4,11:30,4,1,NYG 21,13,17,Trevor Lawrence up the middle for no gain (tackle by Jaylon Smith and Julian Love)
+132,4,11:25,1,10,NYG 21,13,17,Daniel Jones scrambles up the middle for 1 yard (tackle by DaVon Hamilton)
+133,4,10:45,2,9,NYG 22,13,17,Saquon Barkley left end for 8 yards (tackle by Tyson Campbell and Rayshawn Jenkins)
+134,4,10:01,3,1,NYG 30,13,17,Matt Breida right end for 6 yards (tackle by Travon Walker)
+135,4,9:14,1,10,NYG 36,13,17,Daniel Jones pass incomplete short right intended for Darius Slayton (defended by Rayshawn Jenkins)
+136,4,9:09,2,10,NYG 36,13,17,Daniel Jones right end for 24 yards (tackle by Andre Cisco)
+137,4,8:22,1,10,JAX 40,13,17,Daniel Jones up the middle for 9 yards (tackle by Andre Cisco)
+138,4,7:46,2,1,JAX 31,13,17,Saquon Barkley right end for -1 yards (tackle by Foyesade Oluokun)
+139,4,7:07,3,2,JAX 32,13,17,Saquon Barkley up the middle for 3 yards (tackle by DaVon Hamilton)
+140,4,6:30,1,10,JAX 29,13,17,Saquon Barkley right guard for 18 yards (tackle by Josh Allen)
+141,4,5:35,1,10,JAX 11,13,17,"Daniel Jones pass incomplete intended for Darius Slayton. Penalty on Tyson Campbell: Defensive Pass Interference, 10 yards (accepted) (no play)"
+142,4,5:35,1,1,JAX 1,13,17,Penalty on JAX: Defensive Too Many Men on Field (accepted) (no play)
+143,4,5:35,1,1,JAX 1,13,17,Penalty on DaVon Hamilton: Encroachment (accepted) (no play)
+144,4,5:35,1,1,JAX 1,19,17,"Daniel Jones up the middle for 1 yard, touchdown"
+145,4,5:31,0,0,JAX 15,20,17,Graham Gano kicks extra point good
+146,4,5:31,0,0,NYG 35,20,17,"Graham Gano kicks off 65 yards, touchback."
+147,4,5:31,1,10,JAX 25,20,17,"Penalty on Jawaan Taylor: False Start, 5 yards (accepted) (no play)"
+148,4,5:31,1,15,JAX 20,20,17,Trevor Lawrence pass incomplete deep middle intended for Christian Kirk
+149,4,5:27,2,15,JAX 20,20,17,Trevor Lawrence pass complete short right to Marvin Jones for 10 yards (tackle by Adoree' Jackson)
+150,4,4:39,3,5,JAX 30,20,17,Trevor Lawrence pass incomplete short left intended for Evan Engram
+151,4,4:40,4,5,JAX 30,20,17,"Logan Cooke punts 49 yards, returned by Richie James for 2 yards (tackle by Chris Claybrooks and Andrew Wingard)"
+152,4,4:29,1,10,NYG 23,20,17,Saquon Barkley right end for 13 yards (tackle by Rayshawn Jenkins)
+153,4,4:23,1,10,NYG 36,20,17,Saquon Barkley right end for 7 yards (tackle by Foyesade Oluokun)
+154,4,3:38,2,3,NYG 43,20,17,Saquon Barkley right end for 20 yards (tackle by Darious Williams and Andre Cisco)
+155,4,3:30,1,10,JAX 37,20,17,Matt Breida up the middle for 2 yards (tackle by DaVon Hamilton and Corey Peters)
+156,4,2:45,2,8,JAX 35,20,17,Daniel Jones left end for 15 yards (tackle by Andre Cisco)
+157,4,2:00,1,10,JAX 20,20,17,Saquon Barkley right end for 1 yard (tackle by Folorunso Fatukasi)
+158,4,1:57,2,9,JAX 19,20,17,Saquon Barkley right end for -1 yards (tackle by DaVon Hamilton)
+159,4,1:11,3,10,JAX 20,20,17,"Saquon Barkley right end for 4 yards (tackle by Foyesade Oluokun) Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Saquon Barkley right end for 4 yards and Foyesade Oluokun and Tyson Campbell)"
+160,4,1:07,4,6,JAX 16,23,17,Graham Gano 34 yard field goal good
+161,4,1:04,0,0,NYG 35,23,17,"Graham Gano kicks off 65 yards, touchback."
+162,4,1:04,1,10,JAX 25,23,17,Trevor Lawrence pass incomplete short right intended for Travis Etienne
+163,4,1:00,2,10,JAX 25,23,17,Trevor Lawrence pass incomplete short left intended for Zay Jones
+164,4,0:55,3,10,JAX 25,23,17,Trevor Lawrence pass complete short right to Christian Kirk for 10 yards (tackle by Adoree' Jackson)
+165,4,0:51,1,10,JAX 35,23,17,"Trevor Lawrence sacked by. Penalty on Adoree' Jackson: Defensive Holding, 5 yards (accepted) (no play)"
+166,4,0:42,1,10,JAX 40,23,17,"Trevor Lawrence pass is intercepted by Fabian Moreau at NYG-49 and returned for no gain. Penalty on Dane Belton: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)"
+167,4,0:35,1,5,JAX 45,23,17,Trevor Lawrence pass incomplete short left intended for Christian Kirk (defended by Fabian Moreau)
+168,4,0:32,2,5,JAX 45,23,17,"Penalty on Cam Robinson: False Start, 5 yards (accepted) (no play)"
+169,4,0:32,2,15,JAX 40,23,17,Trevor Lawrence pass incomplete deep middle intended for Marvin Jones (defended by Fabian Moreau)
+170,4,0:28,3,15,JAX 40,23,17,Christian Kirk pass incomplete short right intended for Travis Etienne
+171,4,0:22,4,15,JAX 40,23,17,"Trevor Lawrence pass complete deep middle to Marvin Jones for 28 yards (tackle by Julian Love). Penalty on Leonard Williams: Roughing the Passer, 15 yards (accepted) "
+172,4,0:16,1,10,NYG 17,23,17,Trevor Lawrence pass incomplete deep right intended for Zay Jones (defended by Adoree' Jackson)
+173,4,0:12,2,10,NYG 17,23,17,Trevor Lawrence pass incomplete deep left intended for Marvin Jones
+174,4,0:07,3,10,NYG 17,23,17,Trevor Lawrence pass complete deep middle to Christian Kirk for 16 yards (tackle by Xavier McKinney and Julian Love)

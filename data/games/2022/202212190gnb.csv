@@ -1,0 +1,140 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,GNB 35,0,0,"Mason Crosby kicks off 55 yards, returned by Brandon Powell for 10 yards (tackle by Innis Gaines)"
+1,1,14:56,1,10,LAR 20,0,0,Cam Akers left tackle for 15 yards (tackle by Jaire Alexander)
+2,1,14:14,1,10,LAR 35,0,0,Cam Akers right guard for -2 yards (tackle by Kenny Clark)
+3,1,13:39,2,12,LAR 33,0,0,"Penalty on Ty Nsekhe: False Start, 5 yards (accepted) (no play)"
+4,1,13:22,2,17,LAR 28,0,0,Kyren Williams right tackle for 2 yards (tackle by Kenny Clark)
+5,1,13:02,3,15,LAR 30,0,0,Baker Mayfield pass complete deep right to Van Jefferson for 17 yards (tackle by Darnell Savage)
+6,1,12:26,1,10,LAR 47,0,0,Cam Akers right tackle for 1 yard (tackle by Rasul Douglas and Preston Smith)
+7,1,11:44,2,9,LAR 48,0,0,Baker Mayfield pass incomplete short middle intended for Ben Skowronek
+8,1,11:37,3,9,LAR 48,0,0,Baker Mayfield sacked by Preston Smith for -8 yards
+9,1,10:52,4,17,LAR 40,0,0,"Riley Dixon punts 47 yards, returned by Keisean Nixon for 19 yards (tackle by Matthew Orzech and Malcolm Brown)"
+10,1,10:39,1,10,GNB 32,0,0,Aaron Rodgers pass incomplete short right intended for Aaron Jones
+11,1,10:31,2,10,GNB 32,0,0,Aaron Jones right guard for 5 yards (tackle by Russ Yeast and Jalen Ramsey)
+12,1,9:59,3,5,GNB 37,0,0,Aaron Rodgers pass complete short left to Romeo Doubs for 11 yards (tackle by Cobie Durant)
+13,1,9:23,1,10,GNB 48,0,0,Aaron Jones left end for 9 yards (tackle by Taylor Rapp)
+14,1,8:45,2,1,LAR 43,0,0,AJ Dillon left end for 7 yards (tackle by Ernest Jones)
+15,1,8:05,1,10,LAR 36,0,0,Aaron Rodgers pass complete short left to Allen Lazard for 7 yards (tackle by Troy Hill)
+16,1,7:33,2,3,LAR 29,0,0,Aaron Rodgers pass complete short left to Romeo Doubs for 11 yards (tackle by Troy Hill)
+17,1,6:52,1,10,LAR 18,0,0,Aaron Jones up the middle for 10 yards (tackle by Taylor Rapp)
+18,1,5:59,1,8,LAR 8,0,0,Aaron Jones right end for 3 yards (tackle by Leonard Floyd and Greg Gaines)
+19,1,5:20,2,5,LAR 5,0,0,Aaron Rodgers pass incomplete short right intended for Christian Watson
+20,1,5:11,3,5,LAR 5,0,0,Aaron Rodgers sacked by Leonard Floyd for -11 yards
+21,1,4:29,4,16,LAR 16,0,3,Mason Crosby 34 yard field goal good
+22,1,4:25,0,0,GNB 35,0,3,"Mason Crosby kicks off 55 yards, returned by Brandon Powell for 16 yards (tackle by Darnell Savage)"
+23,1,4:20,1,10,LAR 26,0,3,Baker Mayfield sacked by Kingsley Enagbare for -1 yards
+24,1,3:40,2,11,LAR 25,0,3,Baker Mayfield pass complete short left to Tyler Higbee for 5 yards (tackle by Adrian Amos)
+25,1,3:03,3,6,LAR 30,0,3,"Penalty on Coleman Shelton: False Start, 5 yards (accepted) (no play)"
+26,1,2:50,3,11,LAR 25,0,3,Baker Mayfield pass incomplete short left intended for Tyler Higbee (defended by Kingsley Enagbare)
+27,1,2:43,4,11,LAR 25,0,3,Riley Dixon punts 31 yards out of bounds
+28,1,2:36,1,10,GNB 44,0,3,AJ Dillon left end for 6 yards (tackle by Jonah Williams and Ernest Jones)
+29,1,2:05,2,4,GNB 50,0,3,AJ Dillon right guard for 2 yards (tackle by Greg Gaines)
+30,1,1:28,3,2,LAR 48,0,3,Aaron Rodgers pass complete short left to Robert Tonyan for 4 yards (tackle by Cobie Durant)
+31,1,0:50,1,10,LAR 44,0,3,Aaron Rodgers pass deep left intended for Allen Lazard is intercepted by Taylor Rapp at LA-14 and returned for 18 yards (tackle by AJ Dillon)
+32,1,0:28,1,10,LAR 32,0,3,Kyren Williams up the middle for 5 yards (tackle by Justin Hollins)
+33,2,15:00,2,5,LAR 37,0,3,Cam Akers left end for 7 yards (tackle by De'Vondre Campbell)
+34,2,14:17,1,10,LAR 44,0,3,Baker Mayfield pass complete short right to Cam Akers for 10 yards (tackle by Keisean Nixon)
+35,2,13:27,1,10,GNB 46,0,3,Baker Mayfield pass complete short left to Tyler Higbee for 7 yards
+36,2,12:46,2,3,GNB 39,0,3,"Cam Akers left end for 6 yards (tackle by Rudy Ford). Penalty on Rudy Ford: Unnecessary Roughness / Defense, 15 yards (accepted) "
+37,2,12:23,1,10,GNB 18,0,3,Tutu Atwell left end for -4 yards (tackle by Adrian Amos)
+38,2,11:36,2,14,GNB 22,0,3,Baker Mayfield pass complete short right to Tyler Higbee for 7 yards (tackle by Keisean Nixon)
+39,2,10:54,3,7,GNB 15,0,3,Baker Mayfield pass incomplete short right intended for Malcolm Brown (defended by Quay Walker)
+40,2,10:45,4,7,GNB 15,3,3,Matt Gay 33 yard field goal good
+41,2,10:41,0,0,LAR 35,3,3,"Matt Gay kicks off 63 yards, returned by Keisean Nixon for 24 yards (tackle by Robert Rochell)"
+42,2,10:36,1,10,GNB 26,3,3,Aaron Jones right tackle for 2 yards (tackle by Jonah Williams)
+43,2,10:00,2,8,GNB 28,3,3,AJ Dillon left guard for 5 yards (tackle by Greg Gaines)
+44,2,9:08,3,3,GNB 33,3,3,"Aaron Rodgers pass complete short middle to Randall Cobb for 12 yards (tackle by Nick Scott). Penalty on Leonard Floyd: Illegal Use of Hands / Defense, 5 yards (declined) "
+45,2,9:05,1,10,GNB 45,3,3,Aaron Rodgers pass complete short left to AJ Dillon for 17 yards (tackle by Michael Hoecht)
+46,2,8:19,1,10,LAR 38,3,3,Aaron Rodgers pass complete short middle to Randall Cobb for 14 yards (tackle by Nick Scott)
+47,2,7:29,1,10,LAR 24,3,3,Aaron Rodgers pass incomplete short left
+48,2,7:22,2,10,LAR 24,3,3,Aaron Rodgers pass complete short left to AJ Dillon for 1 yard (tackle by Taylor Rapp)
+49,2,6:44,3,9,LAR 23,3,3,Aaron Rodgers pass complete short middle to Randall Cobb for 6 yards (tackle by Jalen Ramsey and Nick Scott)
+50,2,5:51,4,3,LAR 17,3,3,AJ Dillon left tackle for 4 yards (tackle by Jonah Williams)
+51,2,5:14,1,10,LAR 13,3,3,AJ Dillon left guard for 5 yards (tackle by Bobby Wagner)
+52,2,4:33,2,5,LAR 8,3,9,"AJ Dillon up the middle for 8 yards, touchdown"
+53,2,4:26,0,0,LAR 15,3,10,Mason Crosby kicks extra point good
+54,2,4:26,0,0,GNB 35,3,10,"Mason Crosby kicks off 59 yards, returned by Brandon Powell for 29 yards (tackle by Rasul Douglas and Eric Wilson)"
+55,2,4:21,1,10,LAR 35,3,10,Baker Mayfield pass complete short middle to Ben Skowronek for 3 yards (tackle by Keisean Nixon and Tedarrell Slaton)
+56,2,3:41,2,7,LAR 38,3,10,Brandon Powell left tackle for 3 yards (tackle by Tedarrell Slaton and De'Vondre Campbell)
+57,2,2:59,3,4,LAR 41,3,10,Baker Mayfield pass complete short right to Tutu Atwell for 10 yards (tackle by De'Vondre Campbell)
+58,2,2:21,1,10,GNB 49,3,10,Cam Akers left tackle for 6 yards (tackle by Kingsley Enagbare)
+59,2,2:00,2,4,GNB 43,3,10,"Baker Mayfield sacked by Quay Walker for -9 yards. Baker Mayfield fumbles (forced by Quay Walker), recovered by Rob Havenstein at LA-48 (tackle by Quay Walker)"
+60,2,1:48,3,13,LAR 48,3,10,Baker Mayfield pass complete short middle to Van Jefferson for 15 yards (tackle by Rasul Douglas)
+61,2,1:08,1,10,GNB 37,3,10,Baker Mayfield pass incomplete deep middle intended for Tutu Atwell
+62,2,1:02,2,10,GNB 37,3,10,Baker Mayfield pass incomplete short left intended for Tutu Atwell
+63,2,0:57,3,10,GNB 37,3,10,Baker Mayfield pass incomplete short right
+64,2,0:51,4,10,GNB 37,6,10,Matt Gay 55 yard field goal good
+65,2,0:46,0,0,LAR 35,6,10,"Matt Gay kicks off 61 yards, returned by Keisean Nixon for 19 yards. Penalty on Jonathan Garvin: Offensive Holding, 10 yards (accepted) "
+66,2,0:37,1,10,GNB 13,6,10,Aaron Jones up the middle for 6 yards (tackle by Russ Yeast)
+67,2,0:17,2,4,GNB 19,6,10,Aaron Rodgers pass complete short middle to Aaron Jones for 25 yards (tackle by Taylor Rapp)
+68,2,0:07,1,10,GNB 44,6,10,Aaron Rodgers pass incomplete short middle intended for Robert Tonyan
+69,2,0:03,2,10,GNB 44,6,10,Aaron Rodgers sacked by Greg Gaines for -4 yards
+70,3,15:00,0,0,LAR 35,6,10,"Matt Gay kicks off 40 yards, recovered by Corey Ballentine at GB-32 returned by Corey Ballentine for no gain"
+71,3,14:57,1,10,GNB 32,6,10,Aaron Jones left end for -1 yards (tackle by Greg Gaines and Bobby Wagner)
+72,3,14:23,2,11,GNB 31,6,10,"Aaron Rodgers sacked by and Jonah Williams for no gain and Michael Hoecht for no gain. Penalty on Cobie Durant: Defensive Holding, 5 yards (accepted) . Penalty on Ernest Jones: Defensive Holding, 5 yards (declined) (no play)"
+73,3,14:07,1,10,GNB 36,6,10,Aaron Jones up the middle for no gain (tackle by Cobie Durant and Bobby Wagner)
+74,3,13:28,2,10,GNB 36,6,10,Aaron Rodgers pass complete short middle to Romeo Doubs for 10 yards (tackle by Troy Hill)
+75,3,12:46,1,10,GNB 46,6,10,Aaron Rodgers pass complete short right to Christian Watson for 10 yards (tackle by Troy Hill)
+76,3,12:05,1,10,LAR 44,6,10,AJ Dillon left end for -1 yards (tackle by Bobby Wagner and Jalen Ramsey)
+77,3,11:36,2,11,LAR 45,6,10,Aaron Rodgers pass complete short left to AJ Dillon for 17 yards (tackle by Michael Hoecht)
+78,3,11:05,1,10,LAR 28,6,10,Aaron Rodgers pass complete short middle to Christian Watson for 15 yards (tackle by Nick Scott)
+79,3,10:22,1,10,LAR 13,6,10,Aaron Rodgers pass complete short middle to Aaron Jones for no gain (tackle by Bobby Wagner)
+80,3,9:41,2,10,LAR 13,6,10,Aaron Rodgers pass complete short right to Aaron Jones for 4 yards (tackle by Nick Scott)
+81,3,8:47,3,6,LAR 9,6,10,"Aaron Rodgers pass incomplete short middle intended for Randall Cobb (defended by Cobie Durant). Penalty on Jalen Ramsey: Illegal Contact, 5 yards (accepted) (no play)"
+82,3,8:47,1,4,LAR 4,6,10,AJ Dillon up the middle for 3 yards (tackle by Jalen Ramsey and Earnest Brown)
+83,3,8:09,2,1,LAR 1,6,16,"AJ Dillon up the middle for 1 yard, touchdown"
+84,3,8:04,0,0,LAR 15,6,17,Mason Crosby kicks extra point good
+85,3,8:04,0,0,GNB 35,6,17,"Mason Crosby kicks off 63 yards, returned by Brandon Powell for 24 yards (tackle by Rasul Douglas)"
+86,3,7:57,1,10,LAR 26,6,17,Cam Akers right tackle for -2 yards (tackle by Quay Walker)
+87,3,7:05,2,12,LAR 24,6,17,"Brandon Powell up the middle for 9 yards (tackle by Quay Walker). Penalty on Matt Skura: Offensive Holding, 10 yards (accepted) (no play)"
+88,3,6:51,2,22,LAR 14,6,17,Cam Akers left guard for 5 yards (tackle by Jarran Reed)
+89,3,6:26,3,17,LAR 19,6,17,Baker Mayfield pass complete short right to Cam Akers for 7 yards (tackle by Rasul Douglas and De'Vondre Campbell)
+90,3,5:33,4,10,LAR 26,6,17,"Riley Dixon punts 41 yards, returned by Keisean Nixon for 17 yards (tackle by Riley Dixon). Penalty on Russ Yeast: Face Mask (15 Yards), 15 yards (accepted) "
+91,3,5:33,1,10,LAR 35,6,17,Aaron Jones right tackle for 9 yards (tackle by Nick Scott)
+92,3,4:50,2,1,LAR 26,6,17,Aaron Jones left end for 2 yards (tackle by Bobby Wagner)
+93,3,4:11,1,10,LAR 24,6,17,Aaron Jones up the middle for 3 yards (tackle by Jonah Williams and Bobby Brown)
+94,3,3:32,2,7,LAR 21,6,17,Aaron Rodgers pass complete short middle to Marcedes Lewis for 14 yards (tackle by Nick Scott)
+95,3,2:43,1,7,LAR 7,6,17,Aaron Rodgers pass incomplete short left
+96,3,2:36,2,7,LAR 7,6,23,"Aaron Rodgers pass complete short left to Aaron Jones for 7 yards, touchdown"
+97,3,2:31,0,0,LAR 15,6,24,Mason Crosby kicks extra point good
+98,3,2:31,0,0,GNB 35,6,24,"Mason Crosby kicks off 55 yards, returned by Brandon Powell for 20 yards (tackle by Tyler Davis)"
+99,3,2:25,1,10,LAR 30,6,24,"Baker Mayfield pass complete short left to Cam Akers for 18 yards (tackle by Rasul Douglas). Penalty on Jaire Alexander: Defensive Chop Block, 15 yards (accepted) "
+100,3,2:10,1,10,GNB 37,6,24,Cam Akers left guard for 8 yards (tackle by Quay Walker)
+101,3,1:37,2,2,GNB 29,6,24,Cam Akers right tackle for 19 yards (tackle by Rasul Douglas)
+102,3,1:11,1,10,GNB 10,6,24,Cam Akers up the middle for 2 yards (tackle by Quay Walker)
+103,3,0:38,2,8,GNB 8,6,24,Baker Mayfield pass incomplete short middle intended for Tutu Atwell (defended by Quay Walker) (defended by Adrian Amos)
+104,3,0:26,3,8,GNB 8,12,24,"Baker Mayfield pass complete short middle to Tyler Higbee for 8 yards, touchdown"
+105,3,0:22,0,0,GNB 15,12,24,Matt Gay kicks extra point no good
+106,3,0:22,0,0,LAR 35,12,24,"Matt Gay kicks off 64 yards, returned by Keisean Nixon for 52 yards (tackle by Matt Gay and Nick Scott)"
+107,3,0:13,1,10,LAR 47,12,24,AJ Dillon right guard for -4 yards (tackle by Ernest Jones and Michael Hoecht)
+108,4,15:00,2,14,GNB 49,12,24,"Aaron Rodgers pass incomplete deep left intended for Christian Watson. Penalty on Troy Hill: Defensive Pass Interference, 16 yards (accepted) (no play)"
+109,4,14:53,1,10,LAR 35,12,24,Aaron Jones left end for no gain (tackle by Jalen Ramsey)
+110,4,14:10,2,10,LAR 35,12,24,Aaron Rodgers pass incomplete short middle intended for Randall Cobb (defended by Cobie Durant)
+111,4,14:06,3,10,LAR 35,12,24,Aaron Rodgers sacked by Leonard Floyd for -7 yards
+112,4,13:23,4,17,LAR 42,12,24,"Pat O'Donnell punts 37 yards, returned by Brandon Powell for 8 yards (tackle by Tyler Davis)"
+113,4,13:13,1,10,LAR 13,12,24,Cam Akers left end for no gain (tackle by Devonte Wyatt)
+114,4,12:41,2,10,LAR 13,12,24,Baker Mayfield sacked by and Justin Hollins for -3 yards and Devonte Wyatt for -3 yards
+115,4,12:14,3,13,LAR 10,12,24,"Baker Mayfield pass deep right intended for Ben Skowronek is intercepted by Rasul Douglas at LA-33 and returned for no gain. Rasul Douglas fumbles, recovered by Adrian Amos at LA-33 and returned for -1 yards (tackle by Tyler Higbee)"
+116,4,11:53,1,10,LAR 34,12,24,Aaron Jones left end for 3 yards (tackle by Michael Hoecht)
+117,4,11:10,2,7,LAR 31,12,24,"Aaron Jones right tackle for 13 yards. Aaron Jones fumbles (forced by Jalen Ramsey) (tackle by Taylor Rapp), recovered by Jalen Ramsey at LA-18 and returned for 12 yards (tackle by Robert Tonyan). Penalty on Yosuah Nijman: Face Mask (15 Yards), 15 yards (declined) . Penalty on Greg Gaines: Unnecessary Roughness / Defense, 15 yards (accepted) "
+118,4,10:55,1,10,LAR 15,12,24,Baker Mayfield pass complete short right to Brandon Powell for 4 yards (tackle by Rasul Douglas)
+119,4,10:13,2,6,LAR 19,12,24,"Baker Mayfield pass incomplete deep right intended for Tutu Atwell. Penalty on Adrian Amos: Defensive Pass Interference, 40 yards (accepted) (no play)"
+120,4,10:06,1,10,GNB 41,12,24,Baker Mayfield sacked by Preston Smith for -6 yards
+121,4,9:21,2,16,GNB 47,12,24,Baker Mayfield pass incomplete short right intended for Brandon Powell
+122,4,9:17,3,16,GNB 47,12,24,"Baker Mayfield scrambles left end for 1 yard (tackle by Quay Walker). Penalty on Rob Havenstein: Offensive Holding, 10 yards (declined) "
+123,4,8:58,4,15,GNB 46,12,24,"Riley Dixon punts 32 yards, fair catch by Randall Cobb at GB-14"
+124,4,8:51,1,10,GNB 14,12,24,Aaron Jones left end for 9 yards (tackle by Ernest Jones)
+125,4,8:08,2,1,GNB 23,12,24,Patrick Taylor up the middle for 5 yards (tackle by Ernest Jones and Michael Hoecht)
+126,4,7:24,1,10,GNB 28,12,24,Aaron Rodgers pass complete short middle to Romeo Doubs for 23 yards (tackle by Taylor Rapp)
+127,4,6:38,1,10,LAR 49,12,24,Patrick Taylor up the middle for 6 yards (tackle by Jonah Williams and Cobie Durant)
+128,4,5:56,2,4,LAR 43,12,24,Patrick Taylor right tackle for 3 yards (tackle by Leonard Floyd)
+129,4,5:13,3,1,LAR 40,12,24,Aaron Rodgers pass complete short left to Christian Watson for 13 yards (tackle by Nick Scott)
+130,4,4:34,1,10,LAR 27,12,24,Patrick Taylor right tackle for 1 yard (tackle by Bobby Wagner and Leonard Floyd)
+131,4,3:42,2,9,LAR 26,12,24,Aaron Jones right end for 14 yards (tackle by Taylor Rapp)
+132,4,2:54,1,10,LAR 12,12,24,Aaron Rodgers pass complete short right to Romeo Doubs for no gain (tackle by Troy Hill)
+133,4,2:06,2,10,LAR 12,12,24,Aaron Rodgers pass complete short left to Christian Watson for 8 yards (tackle by Troy Hill)
+134,4,1:59,3,2,LAR 4,12,24,Aaron Rodgers pass incomplete short right intended for Christian Watson
+135,4,1:57,4,2,LAR 4,12,24,Aaron Jones left guard for 3 yards (tackle by Greg Gaines)
+136,4,1:36,1,1,LAR 1,12,24,Aaron Rodgers kneels for -1 yards
+137,4,0:53,2,2,LAR 2,12,24,Aaron Rodgers kneels for -1 yards
+138,4,0:34,3,3,LAR 3,12,24,Aaron Rodgers kneels for -1 yards

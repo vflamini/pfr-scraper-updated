@@ -1,0 +1,156 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,PHI 35,0,0,"Jake Elliott kicks off 63 yards, returned by Jamal Agnew for 21 yards (tackle by Josiah Scott)"
+1,1,14:54,1,10,JAX 23,0,0,James Robinson up the middle for 5 yards (tackle by T.J. Edwards)
+2,1,14:19,2,5,JAX 28,0,0,Trevor Lawrence pass incomplete short middle intended for Christian Kirk (defended by Marcus Epps)
+3,1,14:15,3,5,JAX 28,0,0,Trevor Lawrence pass incomplete short left intended for Christian Kirk
+4,1,14:11,4,5,JAX 28,0,0,"Logan Cooke punts 53 yards, returned by Britain Covey for 2 yards (tackle by Andrew Wingard and Chris Claybrooks)"
+5,1,14:00,1,10,PHI 21,0,0,Jalen Hurts pass incomplete short left intended for Miles Sanders
+6,1,13:56,2,10,PHI 21,0,0,Miles Sanders right guard for 9 yards (tackle by Devin Lloyd and Andre Cisco)
+7,1,13:17,3,1,PHI 30,0,0,Miles Sanders left guard for no gain (tackle by Travon Walker and Roy Robertson-Harris)
+8,1,12:51,4,1,PHI 30,0,0,Jalen Hurts up the middle for 3 yards (tackle by Roy Robertson-Harris and Josh Allen)
+9,1,12:04,1,10,PHI 33,0,0,"Penalty on Zach Pascal: False Start, 5 yards (accepted) (no play)"
+10,1,11:51,1,15,PHI 28,0,0,Jalen Hurts pass complete short left to Dallas Goedert for 8 yards (tackle by Rayshawn Jenkins)
+11,1,11:30,2,7,PHI 36,6,0,"Jalen Hurts pass deep left (defended by Darious Williams) intended for Zach Pascal is intercepted by Andre Cisco at JAC-41 and returned for 59 yards, touchdown"
+12,1,11:15,0,0,PHI 15,7,0,Riley Patterson kicks extra point good
+13,1,11:15,0,0,JAX 35,7,0,"Riley Patterson kicks off 59 yards, returned by Britain Covey for 23 yards (tackle by Andrew Wingard)"
+14,1,11:09,1,10,PHI 29,7,0,Miles Sanders left end for -1 yards (tackle by Roy Robertson-Harris)
+15,1,10:31,2,11,PHI 28,7,0,Jalen Hurts pass complete short middle to Miles Sanders for 16 yards (tackle by Devin Lloyd)
+16,1,9:58,1,10,PHI 44,7,0,Jalen Hurts scrambles left end for 4 yards (tackle by Foyesade Oluokun)
+17,1,9:19,2,6,PHI 48,7,0,Jalen Hurts left guard for -1 yards (tackle by Foyesade Oluokun)
+18,1,8:36,3,7,PHI 47,7,0,Jalen Hurts pass incomplete deep right intended for DeVonta Smith (defended by Rayshawn Jenkins)
+19,1,8:29,4,7,PHI 47,7,0,"Arryn Siposs punts 53 yards, touchback."
+20,1,8:22,1,10,JAX 20,7,0,James Robinson left tackle for 7 yards (tackle by Marcus Epps)
+21,1,7:51,2,3,JAX 27,7,0,James Robinson right end for -2 yards (tackle by Haason Reddick)
+22,1,7:07,3,5,JAX 25,7,0,Trevor Lawrence pass complete deep left to Jamal Agnew for 24 yards (tackle by C.J. Gardner-Johnson)
+23,1,6:25,1,10,JAX 49,7,0,Trevor Lawrence pass complete short right to Dan Arnold for 26 yards (tackle by Josiah Scott)
+24,1,5:59,1,10,PHI 25,7,0,James Robinson right tackle for 5 yards (tackle by Haason Reddick)
+25,1,5:22,2,5,PHI 20,7,0,"James Robinson left end for 9 yards. James Robinson fumbles (forced by Patrick Johnson), recovered by Christian Kirk at PHI-3 (tackle by Patrick Johnson)"
+26,1,4:36,1,3,PHI 3,7,0,James Robinson right guard for -1 yards (tackle by Josh Sweat and Jordan Davis)
+27,1,3:56,2,4,PHI 4,13,0,"Trevor Lawrence pass complete short right to Jamal Agnew for 4 yards, touchdown"
+28,1,3:50,0,0,PHI 15,14,0,Riley Patterson kicks extra point good
+29,1,3:50,0,0,JAX 35,14,0,"Riley Patterson kicks off 66 yards, returned by Britain Covey for 23 yards (tackle by Ty Summers and Caleb Johnson)"
+30,1,3:44,1,10,PHI 22,14,0,Jalen Hurts pass complete deep right to A.J. Brown for 31 yards (tackle by Devin Lloyd and Shaquill Griffin)
+31,1,3:14,1,10,JAX 47,14,0,Miles Sanders up the middle for no gain (tackle by Foyesade Oluokun)
+32,1,2:42,2,10,JAX 47,14,0,Jalen Hurts pass complete short left to DeVonta Smith for 5 yards (tackle by Devin Lloyd and Tyson Campbell)
+33,1,2:04,3,5,JAX 42,14,0,Miles Sanders up the middle for 2 yards (tackle by Foyesade Oluokun)
+34,1,1:22,4,3,JAX 40,14,0,Jalen Hurts pass incomplete deep left intended for A.J. Brown
+35,1,1:14,1,10,JAX 40,14,0,Travis Etienne right guard for 5 yards (tackle by Josh Sweat and Jordan Davis)
+36,1,0:37,2,5,JAX 45,14,0,Trevor Lawrence pass complete short left to Jamal Agnew for 14 yards (tackle by T.J. Edwards)
+37,2,15:00,1,10,PHI 41,14,0,Trevor Lawrence pass incomplete deep right intended for Jamal Agnew
+38,2,14:53,2,10,PHI 41,14,0,Trevor Lawrence pass complete short left to Jamycal Hasty for 7 yards (tackle by Kyzir White)
+39,2,14:16,3,3,PHI 34,14,0,Travis Etienne left end for no gain (tackle by Josh Sweat)
+40,2,13:34,4,3,PHI 34,14,0,"Trevor Lawrence sacked by. Trevor Lawrence fumbles, recovered by Fletcher Cox at PHI-43"
+41,2,13:26,1,10,PHI 43,14,0,Jalen Hurts pass complete short right to Kenneth Gainwell for -2 yards (tackle by Foyesade Oluokun)
+42,2,12:45,2,12,PHI 41,14,0,"Jalen Hurts pass incomplete short right intended for Zach Pascal. Penalty on Shaquill Griffin: Defensive Holding, 5 yards (accepted) (no play)"
+43,2,12:38,1,10,PHI 46,14,0,Jalen Hurts pass complete short middle to A.J. Brown for 18 yards (tackle by Devin Lloyd and Shaquill Griffin)
+44,2,12:03,1,10,JAX 36,14,0,Jalen Hurts pass complete short middle to Dallas Goedert for 26 yards (tackle by Rayshawn Jenkins)
+45,2,11:36,1,10,JAX 10,14,0,"Jalen Hurts pass complete short left to A.J. Brown for no gain, touchdown. Penalty on Dallas Goedert: Offensive Pass Interference, 10 yards (accepted) (no play)"
+46,2,11:28,1,20,JAX 20,14,0,Miles Sanders left end for -1 yards (tackle by Foyesade Oluokun)
+47,2,10:48,2,21,JAX 21,14,0,Jalen Hurts pass complete short left to DeVonta Smith for 5 yards (tackle by Tyson Campbell and Devin Lloyd)
+48,2,10:04,3,16,JAX 16,14,0,Jalen Hurts scrambles up the middle for 13 yards (tackle by Arden Key)
+49,2,9:20,4,3,JAX 3,14,6,"Jalen Hurts scrambles up the middle for 3 yards, touchdown"
+50,2,9:13,0,0,JAX 15,14,7,Jake Elliott kicks extra point good
+51,2,9:13,0,0,PHI 35,14,7,"Jake Elliott kicks off 65 yards, touchback."
+52,2,9:13,1,10,JAX 25,14,7,Trevor Lawrence pass incomplete short left intended for Christian Kirk
+53,2,9:11,2,10,JAX 25,14,7,Trevor Lawrence pass incomplete short left intended for Tim Jones
+54,2,9:08,3,10,JAX 25,14,7,Travis Etienne right tackle for no gain (tackle by Brandon Graham and Fletcher Cox)
+55,2,8:35,4,10,JAX 25,14,7,Logan Cooke punts 46 yards out of bounds
+56,2,8:24,1,10,PHI 29,14,7,"Penalty on Folorunso Fatukasi: Encroachment, 5 yards (accepted) (no play)"
+57,2,8:24,1,5,PHI 34,14,7,Miles Sanders right tackle for 8 yards (tackle by Foyesade Oluokun)
+58,2,7:48,1,10,PHI 42,14,7,Jalen Hurts pass complete short left to Dallas Goedert for 7 yards (tackle by Shaquill Griffin)
+59,2,7:04,2,3,PHI 49,14,7,Miles Sanders right tackle for 13 yards (tackle by Foyesade Oluokun)
+60,2,6:38,1,10,JAX 38,14,7,Miles Sanders right tackle for 5 yards (tackle by Travon Walker)
+61,2,6:09,2,5,JAX 33,14,7,Miles Sanders left tackle for 4 yards (tackle by Travon Walker)
+62,2,5:48,3,1,JAX 29,14,7,Jalen Hurts up the middle for 1 yard (tackle by Josh Allen and Devin Lloyd)
+63,2,5:08,1,10,JAX 28,14,7,Trey Sermon left end for 14 yards (tackle by Foyesade Oluokun)
+64,2,4:42,1,10,JAX 14,14,7,Jalen Hurts up the middle for 4 yards (tackle by Darious Williams)
+65,2,3:59,2,6,JAX 10,14,13,"Miles Sanders right end for 10 yards, touchdown"
+66,2,3:55,0,0,JAX 15,14,14,Jake Elliott kicks extra point good
+67,2,3:55,0,0,PHI 35,14,14,"Jake Elliott kicks off 65 yards, touchback."
+68,2,3:55,1,10,JAX 25,14,14,Trevor Lawrence pass incomplete short right intended for Christian Kirk (defended by Kyzir White)
+69,2,3:51,2,10,JAX 25,14,14,Travis Etienne for 9 yards (tackle by Kyzir White)
+70,2,3:10,3,1,JAX 34,14,14,"Trevor Lawrence aborted snap, recovered by Haason Reddick at JAC-35"
+71,2,3:00,1,10,JAX 35,14,14,Jalen Hurts left tackle for 1 yard (tackle by DaVon Hamilton)
+72,2,2:25,2,9,JAX 34,14,14,Jalen Hurts pass complete short left to A.J. Brown for 13 yards (tackle by Andre Cisco)
+73,2,2:00,1,10,JAX 21,14,14,Miles Sanders right end for -2 yards (tackle by Travon Walker)
+74,2,1:21,2,12,JAX 23,14,14,Miles Sanders left guard for 10 yards (tackle by Roy Robertson-Harris and Devin Lloyd)
+75,2,1:15,3,2,JAX 13,14,14,Miles Sanders up the middle for 1 yard (tackle by DaVon Hamilton)
+76,2,1:10,4,1,JAX 12,14,14,Jalen Hurts up the middle for 2 yards (tackle by Josh Allen)
+77,2,0:34,1,10,JAX 10,14,14,Jalen Hurts pass incomplete short left intended for Kenneth Gainwell
+78,2,0:30,2,10,JAX 10,14,20,"Kenneth Gainwell right guard for 10 yards, touchdown"
+79,2,0:26,0,0,JAX 15,14,20,Jake Elliott kicks extra point no good
+80,2,0:26,0,0,PHI 35,14,20,"Jake Elliott kicks off 65 yards, touchback."
+81,2,0:26,1,10,JAX 25,14,20,James Robinson up the middle for 3 yards (tackle by Brandon Graham and Milton Williams)
+82,3,15:00,0,0,JAX 35,14,20,"Riley Patterson kicks off 58 yards, returned by Britain Covey for 23 yards (tackle by Andre Cisco)"
+83,3,14:53,1,10,PHI 30,14,20,Jalen Hurts pass complete short middle to A.J. Brown for 22 yards (tackle by Rayshawn Jenkins)
+84,3,14:27,1,10,JAX 48,14,20,Jalen Hurts sacked by Josh Allen for -10 yards
+85,3,13:42,2,20,PHI 42,14,20,Jalen Hurts pass incomplete short left
+86,3,13:38,3,20,PHI 42,14,20,Jalen Hurts pass complete short left to A.J. Brown for 11 yards (tackle by Tyson Campbell)
+87,3,12:54,4,9,JAX 47,14,20,"Arryn Siposs punts 38 yards, returned by Jamal Agnew for 8 yards (tackle by Zach Pascal)"
+88,3,12:41,1,10,JAX 17,14,20,Trevor Lawrence sacked by T.J. Edwards for no gain
+89,3,12:02,2,10,JAX 17,14,20,Trevor Lawrence pass incomplete short middle intended for Christian Kirk (defended by Josiah Scott)
+90,3,11:57,3,10,JAX 17,14,20,Trevor Lawrence pass incomplete short middle intended for Jamal Agnew
+91,3,11:52,4,10,JAX 17,14,20,Logan Cooke punts 61 yards downed by Daniel Thomas
+92,3,11:39,1,10,PHI 22,14,20,"Miles Sanders left end for no gain. Penalty on Isaac Seumalo: Offensive Holding, 10 yards (offset) . Penalty on Josh Allen: Illegal Use of Hands / Defense, 5 yards (offset) (no play)"
+93,3,11:22,1,10,PHI 22,14,20,Jalen Hurts pass complete short left to Miles Sanders for 6 yards (tackle by Shaquill Griffin)
+94,3,10:34,2,4,PHI 28,14,20,Kenneth Gainwell right tackle for 1 yard (tackle by Roy Robertson-Harris and Foyesade Oluokun)
+95,3,9:55,3,3,PHI 29,14,20,Jalen Hurts pass incomplete short left intended for Quez Watkins (defended by Adam Gotsis)
+96,3,9:51,4,3,PHI 29,14,20,"Arryn Siposs punts 43 yards, returned by Jamal Agnew for no gain (tackle by Andre Chachere)"
+97,3,9:42,1,10,JAX 28,14,20,Travis Etienne up the middle for -1 yards (tackle by Jordan Davis)
+98,3,9:07,2,11,JAX 27,14,20,Trevor Lawrence pass complete short middle to Evan Engram for 16 yards (tackle by Josh Sweat)
+99,3,8:33,1,10,JAX 43,14,20,Travis Etienne left end for 2 yards (tackle by T.J. Edwards)
+100,3,7:51,2,8,JAX 45,14,20,Trevor Lawrence pass complete short left to Jamycal Hasty for 15 yards (tackle by Josiah Scott and T.J. Edwards)
+101,3,7:05,1,10,PHI 40,14,20,Travis Etienne left guard for 6 yards (tackle by T.J. Edwards and Marlon Tuipulotu)
+102,3,6:24,2,4,PHI 34,14,20,"Trevor Lawrence pass incomplete short right intended for Evan Engram. Penalty on Josiah Scott: Defensive Holding, 5 yards (accepted) (no play)"
+103,3,6:16,1,10,PHI 29,14,20,Christian Kirk left end for 3 yards (tackle by James Bradberry)
+104,3,5:44,2,8,PHI 26,14,20,Trevor Lawrence right end for 7 yards (tackle by Josiah Scott and Kyzir White)
+105,3,5:01,1,10,PHI 19,14,20,James Robinson right tackle for 3 yards (tackle by Josh Sweat and Kyzir White)
+106,3,4:23,2,7,PHI 16,14,20,Trevor Lawrence pass short left intended for Christian Kirk is intercepted by James Bradberry at PHI-7 and returned for 5 yards (tackle by Jamal Agnew)
+107,3,4:17,1,10,PHI 12,14,20,Miles Sanders left tackle for 3 yards (tackle by Devin Lloyd and Roy Robertson-Harris)
+108,3,3:43,2,7,PHI 15,14,20,Miles Sanders left tackle for 35 yards (tackle by Rayshawn Jenkins and Tyson Campbell)
+109,3,2:58,1,10,JAX 50,14,20,Miles Sanders left tackle for 6 yards (tackle by Devin Lloyd and Foyesade Oluokun)
+110,3,2:17,2,4,JAX 44,14,20,"Trey Sermon left guard for 5 yards (tackle by Josh Allen and Roy Robertson-Harris). Penalty on Roy Robertson-Harris: Face Mask (15 Yards), 15 yards (accepted) "
+111,3,1:57,1,10,JAX 24,14,20,"Jalen Hurts aborted snap, recovered by Miles Sanders at JAC-29 Miles Sanders for no gain"
+112,3,1:21,2,17,JAX 31,14,20,Jalen Hurts pass complete short left to Dallas Goedert for 9 yards (tackle by Foyesade Oluokun)
+113,3,0:35,3,8,JAX 22,14,20,Jalen Hurts sacked by and Adam Gotsis for -3 yards and Dawuane Smoot for -3 yards
+114,3,0:02,4,11,JAX 25,14,20,"Jake Elliott yard field goal good. Penalty on Tyson Campbell: Roughing the Kicker, 13 yards (accepted) (no play)"
+115,4,15:00,1,10,JAX 12,14,20,Miles Sanders left end for no gain (tackle by Tyson Campbell)
+116,4,14:31,2,10,JAX 12,14,20,Miles Sanders for 2 yards (tackle by Adam Gotsis and Travon Walker)
+117,4,13:49,3,8,JAX 10,14,20,Jalen Hurts pass incomplete short middle intended for Dallas Goedert
+118,4,13:45,4,8,JAX 10,14,23,Jake Elliott 28 yard field goal good
+119,4,13:42,0,0,PHI 35,14,23,"Jake Elliott kicks off 67 yards, returned by Jamal Agnew for 22 yards (tackle by Kyron Johnson)"
+120,4,13:36,1,10,JAX 20,14,23,Travis Etienne left end for 11 yards (tackle by Jordan Davis)
+121,4,12:52,1,10,JAX 31,14,23,Trevor Lawrence pass complete to Chris Manhertz for no gain (tackle by Javon Hargrave and Brandon Graham)
+122,4,12:15,2,10,JAX 31,14,23,"Trevor Lawrence sacked by Haason Reddick for -8 yards. Trevor Lawrence fumbles (forced by Haason Reddick), recovered by Haason Reddick at JAC-24 (tackle by Jawaan Taylor)"
+123,4,12:06,1,10,JAX 24,14,23,Miles Sanders right end for 5 yards (tackle by Foyesade Oluokun)
+124,4,11:32,2,5,JAX 19,14,23,Jalen Hurts up the middle for no gain (tackle by Devin Lloyd)
+125,4,11:03,3,5,JAX 19,14,23,Jalen Hurts pass complete short middle to DeVonta Smith for 7 yards (tackle by Shaquill Griffin)
+126,4,10:26,1,10,JAX 12,14,23,Kenneth Gainwell left guard for 3 yards (tackle by Foyesade Oluokun)
+127,4,9:53,2,7,JAX 9,14,23,"Kenneth Gainwell for no gain (tackle by Josh Allen). Penalty on Jack Driscoll: Offensive Holding, 10 yards (offset) . Penalty on Roy Robertson-Harris: Illegal Use of Hands / Defense, 5 yards (offset) (no play)"
+128,4,9:35,2,7,JAX 9,14,23,Miles Sanders right tackle for 4 yards (tackle by Rayshawn Jenkins and Josh Allen)
+129,4,8:55,3,3,JAX 5,14,29,"Miles Sanders left tackle for 5 yards, touchdown"
+130,4,8:49,0,0,JAX 2,14,29,Two Point Attempt: Jalen Hurts pass incomplete
+131,4,8:49,0,0,PHI 35,14,29,"Jake Elliott kicks off 60 yards, returned by Jamal Agnew for 27 yards (tackle by Nakobe Dean)"
+132,4,8:43,1,10,JAX 32,14,29,Trevor Lawrence pass incomplete short left intended for Christian Kirk
+133,4,8:39,2,10,JAX 32,14,29,Trevor Lawrence pass complete short middle to Christian Kirk for 15 yards (tackle by James Bradberry)
+134,4,8:20,1,10,JAX 47,14,29,Trevor Lawrence pass incomplete short right intended for Marvin Jones
+135,4,8:14,2,10,JAX 47,14,29,Trevor Lawrence pass incomplete deep left intended for Travis Etienne
+136,4,8:07,3,10,JAX 47,14,29,Trevor Lawrence pass complete deep middle to Christian Kirk for 45 yards (tackle by C.J. Gardner-Johnson)
+137,4,7:26,1,8,PHI 8,20,29,"Trevor Lawrence pass complete short right to Jamal Agnew for 8 yards, touchdown"
+138,4,7:19,0,0,PHI 15,21,29,Riley Patterson kicks extra point good
+139,4,7:19,0,0,JAX 35,21,29,"Riley Patterson kicks off 65 yards, touchback."
+140,4,7:19,1,10,PHI 25,21,29,Jalen Hurts right end for 8 yards (tackle by Shaquill Griffin)
+141,4,6:36,2,2,PHI 33,21,29,Miles Sanders left tackle for 3 yards (tackle by Adam Gotsis and Devin Lloyd)
+142,4,5:55,1,10,PHI 36,21,29,Miles Sanders up the middle for 2 yards (tackle by DaVon Hamilton)
+143,4,5:14,2,8,PHI 38,21,29,Jalen Hurts pass complete short middle to Dallas Goedert for 22 yards (tackle by Andre Cisco)
+144,4,4:29,1,10,JAX 40,21,29,Kenneth Gainwell right guard for 4 yards (tackle by Roy Robertson-Harris and Foyesade Oluokun)
+145,4,3:48,2,6,JAX 36,21,29,Kenneth Gainwell left guard for 1 yard (tackle by DaVon Hamilton and Adam Gotsis)
+146,4,3:03,3,5,JAX 35,21,29,Miles Sanders right guard for 7 yards (tackle by Foyesade Oluokun and DaVon Hamilton)
+147,4,2:19,1,10,JAX 28,21,29,Miles Sanders right guard for 2 yards (tackle by Roy Robertson-Harris)
+148,4,2:15,2,8,JAX 26,21,29,Miles Sanders left end for 2 yards (tackle by Devin Lloyd and Josh Allen)
+149,4,2:10,3,6,JAX 24,21,29,Jalen Hurts right end for 3 yards (tackle by Devin Lloyd and Rayshawn Jenkins)
+150,4,2:00,4,3,JAX 21,21,29,Jalen Hurts pass incomplete short middle intended for A.J. Brown (defended by Tyson Campbell)
+151,4,1:54,1,10,JAX 21,21,29,"Trevor Lawrence sacked by Haason Reddick for -7 yards. Trevor Lawrence fumbles (forced by Haason Reddick), recovered by Javon Hargrave at JAC-13 (tackle by Haason Reddick)"
+152,4,1:48,1,10,JAX 13,21,29,Jalen Hurts kneels for -1 yards
+153,4,1:06,2,11,JAX 14,21,29,Jalen Hurts kneels for -1 yards
+154,4,0:33,3,12,JAX 15,21,29,Jalen Hurts kneels for -1 yards

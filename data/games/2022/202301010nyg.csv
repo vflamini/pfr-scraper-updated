@@ -1,0 +1,146 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,NYG 35,0,0,"Graham Gano kicks off 65 yards, touchback."
+1,1,15:00,1,10,IND 25,0,0,Zack Moss up the middle for -3 yards (tackle by Kayvon Thibodeaux)
+2,1,14:25,2,13,IND 22,0,0,Zack Moss right tackle for 6 yards (tackle by Jaylon Smith and Landon Collins)
+3,1,13:38,3,7,IND 28,0,0,"Nick Foles pass incomplete short left intended for Parris Campbell. Penalty on Darnay Holmes: Defensive Holding, 5 yards (accepted) (no play)"
+4,1,13:38,1,10,IND 33,0,0,Nick Foles pass complete short left to Parris Campbell for 1 yard (tackle by Nick McCloud and Leonard Williams)
+5,1,12:57,2,9,IND 34,0,0,Zack Moss left tackle for 3 yards (tackle by Dexter Lawrence)
+6,1,12:25,3,6,IND 37,0,0,Nick Foles pass incomplete deep right intended for Michael Pittman
+7,1,12:20,4,6,IND 37,0,0,"Matt Haack punts 42 yards, fair catch by Richie James at NYG-21"
+8,1,12:12,1,10,NYG 21,0,0,Daniel Jones pass incomplete deep right intended for Darius Slayton (defended by Zaire Franklin)
+9,1,12:07,2,10,NYG 21,0,0,Daniel Jones pass complete short middle to Richie James for 16 yards (tackle by Rodney Thomas)
+10,1,11:34,1,10,NYG 37,0,0,Saquon Barkley right tackle for 2 yards (tackle by Rodney Thomas and Grover Stewart)
+11,1,10:56,2,8,NYG 39,0,0,Daniel Jones pass complete short left to Richie James for 7 yards (tackle by Brandon Facyson)
+12,1,10:21,3,1,NYG 46,0,0,Daniel Jones up the middle for 2 yards (tackle by Zaire Franklin)
+13,1,9:43,1,10,NYG 48,0,0,Daniel Jones pass complete short right to Saquon Barkley for -3 yards (tackle by Bobby Okereke)
+14,1,9:06,2,13,NYG 45,0,0,Daniel Jones pass complete short right to Matt Breida for 8 yards (tackle by Julian Blackmon)
+15,1,8:30,3,5,IND 47,0,0,Daniel Jones pass incomplete short middle intended for Isaiah Hodgins
+16,1,8:26,4,5,IND 47,0,0,"Jamie Gillan punts 47 yards, touchback."
+17,1,8:16,1,10,IND 20,0,0,Zack Moss right end for 5 yards (tackle by Kayvon Thibodeaux and Leonard Williams)
+18,1,7:42,2,5,IND 25,0,0,Zack Moss up the middle for 10 yards (tackle by Micah McFadden and Jaylon Smith)
+19,1,7:13,1,10,IND 35,0,0,"Zack Moss left guard for 8 yards (tackle by Jaylon Smith and Xavier McKinney). Penalty on Bernhard Raimann: Offensive Holding, 10 yards (accepted) (no play)"
+20,1,6:52,1,20,IND 25,0,0,Nick Foles scrambles up the middle for 8 yards (tackle by Oshane Ximines)
+21,1,6:17,2,12,IND 33,0,0,Jordan Wilkins right guard for 4 yards (tackle by Jaylon Smith)
+22,1,5:32,3,8,IND 37,0,0,Nick Foles pass complete deep middle to Parris Campbell for 49 yards (tackle by Xavier McKinney)
+23,1,4:45,1,10,NYG 14,0,0,Jordan Wilkins right tackle for 3 yards (tackle by Kayvon Thibodeaux and Jaylon Smith)
+24,1,4:00,2,7,NYG 11,0,0,Jordan Wilkins right tackle for 2 yards (tackle by Micah McFadden and Jihad Ward)
+25,1,3:17,3,5,NYG 9,0,0,Nick Foles pass complete short right to Jordan Wilkins for 4 yards (tackle by Tony Jefferson and Landon Collins)
+26,1,2:29,4,1,NYG 5,3,0,Chase McLaughlin 23 yard field goal good
+27,1,2:26,0,0,IND 35,3,0,"Chase McLaughlin kicks off 53 yards, returned by Gary Brightwell for 17 yards (tackle by JoJo Domann)"
+28,1,2:21,1,10,NYG 29,3,0,Saquon Barkley right end for 5 yards (tackle by Dallis Flowers)
+29,1,1:46,2,5,NYG 34,3,0,Matt Breida right guard for 8 yards (tackle by Chris Williams and Zaire Franklin)
+30,1,1:13,1,10,NYG 42,3,0,Saquon Barkley left guard for 5 yards (tackle by Julian Blackmon and Bobby Okereke)
+31,1,0:38,2,5,NYG 47,3,0,Daniel Jones scrambles up the middle for 5 yards (tackle by Julian Blackmon)
+32,2,15:00,1,10,IND 48,3,0,Saquon Barkley right guard for 7 yards (tackle by Bobby Okereke)
+33,2,14:27,2,3,IND 41,3,0,Saquon Barkley left tackle for 19 yards (tackle by Zaire Franklin)
+34,2,13:47,1,10,IND 22,3,0,Matt Breida left tackle for 1 yard (tackle by Kwity Paye)
+35,2,13:09,2,9,IND 21,3,0,Daniel Jones pass complete short middle to Isaiah Hodgins for 12 yards (tackle by Dallis Flowers and Bobby Okereke)
+36,2,12:31,1,9,IND 9,3,0,Matt Breida right guard for 2 yards (tackle by Zaire Franklin)
+37,2,11:45,2,7,IND 7,3,0,"Saquon Barkley right end for 3 yards (tackle by Zaire Franklin). Penalty on Nick Gates: Tripping / Offense, 10 yards (accepted) (no play)"
+38,2,11:24,2,17,IND 17,3,0,Daniel Jones pass complete short left to Richie James for 11 yards (tackle by Rodney Thomas)
+39,2,10:44,3,6,IND 6,3,6,"Daniel Jones pass complete short right to Richie James for 6 yards, touchdown"
+40,2,10:38,0,0,IND 15,3,7,Graham Gano kicks extra point good
+41,2,10:38,0,0,NYG 35,3,7,"Graham Gano kicks off 65 yards, touchback."
+42,2,10:38,1,10,IND 25,3,7,"Nick Foles pass complete short right to Jelani Woods for 2 yards (tackle by Jaylon Smith). Penalty on Braden Smith: Offensive Holding, 10 yards (accepted) "
+43,2,10:14,1,18,IND 17,3,7,Nick Foles pass incomplete short right intended for Alec Pierce
+44,2,10:09,2,18,IND 17,3,7,Zack Moss up the middle for 9 yards (tackle by Xavier McKinney and Landon Collins)
+45,2,9:27,3,9,IND 26,3,7,Nick Foles pass incomplete deep left intended for Michael Pittman
+46,2,9:20,4,9,IND 26,3,7,Matt Haack punts 38 yards downed by JoJo Domann
+47,2,9:10,1,10,NYG 36,3,7,Daniel Jones pass incomplete short left intended for Saquon Barkley
+48,2,9:06,2,10,NYG 36,3,7,"Daniel Jones pass complete short left to Richie James for no gain (tackle by Dallis Flowers and Zaire Franklin). Penalty on Dallis Flowers: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)"
+49,2,8:43,1,10,NYG 41,3,7,Saquon Barkley right tackle for -1 yards (tackle by Bobby Okereke and Byron Cowart)
+50,2,8:11,2,11,NYG 40,3,7,Daniel Jones pass complete short left to Isaiah Hodgins for 5 yards (tackle by Bobby Okereke)
+51,2,7:33,3,6,NYG 45,3,7,Daniel Jones pass complete short middle to Daniel Bellinger for 10 yards (tackle by Rodney Thomas)
+52,2,6:55,1,10,IND 45,3,7,Saquon Barkley left tackle for 1 yard (tackle by Rodney Thomas and Zaire Franklin)
+53,2,6:23,2,9,IND 44,3,7,Daniel Jones scrambles left end for 13 yards
+54,2,5:41,1,10,IND 31,3,7,Daniel Jones pass complete deep left to Daniel Bellinger for 24 yards (tackle by Stephon Gilmore)
+55,2,5:02,1,7,IND 7,3,7,Saquon Barkley up the middle for 1 yard (tackle by DeForest Buckner)
+56,2,4:26,2,6,IND 6,3,13,"Daniel Jones pass complete short right to Isaiah Hodgins for 6 yards, touchdown"
+57,2,4:21,0,0,IND 15,3,14,Graham Gano kicks extra point good
+58,2,4:21,0,0,NYG 35,3,14,"Graham Gano kicks off 68 yards, returned by Dallis Flowers for 28 yards (tackle by Carter Coughlin)"
+59,2,4:17,1,10,IND 25,3,14,Jordan Wilkins up the middle for 3 yards (tackle by Julian Love)
+60,2,3:33,2,7,IND 28,3,14,Nick Foles pass complete short right to Jordan Wilkins for 10 yards (tackle by Julian Love)
+61,2,2:43,1,10,IND 38,3,14,"Jordan Wilkins right end for 4 yards (tackle by Dexter Lawrence). Penalty on Dexter Lawrence: Defensive Holding, 5 yards (accepted) "
+62,2,2:27,1,10,IND 47,3,14,Parris Campbell left end for 1 yard (tackle by Darnay Holmes)
+63,2,2:00,2,9,IND 48,3,14,Nick Foles pass complete short right to Alec Pierce for -2 yards (tackle by Darnay Holmes)
+64,2,1:54,3,11,IND 46,3,20,"Nick Foles pass short right intended for Parris Campbell is intercepted by Landon Collins at NYG-48 and returned for 52 yards, touchdown"
+65,2,1:45,0,0,IND 15,3,21,Graham Gano kicks extra point good
+66,2,1:45,0,0,NYG 35,3,21,"Graham Gano kicks off 70 yards, returned by Dallis Flowers for 36 yards (tackle by Graham Gano)"
+67,2,1:39,1,10,IND 31,3,21,Nick Foles pass complete short middle to Jelani Woods for 11 yards (tackle by Nick McCloud and Xavier McKinney)
+68,2,1:13,1,10,IND 42,3,21,Nick Foles pass complete short left to Jelani Woods for 6 yards (tackle by Tony Jefferson)
+69,2,0:58,2,4,IND 48,3,21,Nick Foles pass incomplete short middle intended for Parris Campbell
+70,2,0:53,3,4,IND 48,3,21,Nick Foles sacked by Kayvon Thibodeaux for -9 yards
+71,2,0:50,4,13,IND 39,3,21,Matt Haack punts 22 yards out of bounds
+72,2,0:46,1,10,NYG 39,3,21,Daniel Jones pass complete short right to Darius Slayton for 9 yards (tackle by Zaire Franklin)
+73,2,0:40,2,1,NYG 48,3,21,Daniel Jones pass complete short right to Richie James for 3 yards
+74,2,0:37,1,10,IND 49,3,21,Daniel Jones right guard for 7 yards (tackle by Bobby Okereke)
+75,2,0:31,2,3,IND 42,3,21,Daniel Jones pass complete short right to Saquon Barkley for -2 yards (tackle by Rodney McLeod)
+76,2,0:27,3,5,IND 44,3,21,Daniel Jones scrambles left end for 7 yards (tackle by DeForest Buckner)
+77,2,0:20,1,10,IND 37,3,21,Daniel Jones pass complete short middle to Isaiah Hodgins for 19 yards (tackle by Zaire Franklin and Bobby Okereke)
+78,2,0:14,1,10,IND 18,3,21,Daniel Jones pass incomplete short middle intended for Saquon Barkley (defended by Zaire Franklin)
+79,2,0:10,2,10,IND 18,3,21,Daniel Jones pass incomplete deep right
+80,2,0:05,3,10,IND 18,3,24,Graham Gano 36 yard field goal good
+81,3,15:00,0,0,IND 35,3,24,"Chase McLaughlin kicks off 65 yards, touchback."
+82,3,15:00,1,10,NYG 25,3,24,"Daniel Jones pass complete short left to Darius Slayton for 5 yards. Darius Slayton fumbles (forced by Bobby Okereke), recovered by Rodney McLeod at NYG-30 (tackle by Bobby Okereke)"
+83,3,14:53,1,10,NYG 30,3,24,Zack Moss right end for 1 yard (tackle by Dexter Lawrence and Micah McFadden)
+84,3,14:14,2,9,NYG 29,3,24,Sam Ehlinger pass incomplete short middle intended for Mo Alie-Cox
+85,3,14:09,3,9,NYG 29,3,24,Sam Ehlinger pass incomplete short right intended for Parris Campbell (defended by Kayvon Thibodeaux)
+86,3,14:04,4,9,NYG 29,3,24,Chase McLaughlin 48 yard field goal no good
+87,3,13:59,1,10,NYG 38,3,24,Saquon Barkley left guard for no gain (tackle by DeForest Buckner)
+88,3,13:27,2,10,NYG 38,3,24,Daniel Jones pass complete short middle to Richie James for 28 yards (tackle by Rodney Thomas)
+89,3,12:41,1,10,IND 34,3,24,Daniel Jones pass complete short left to Daniel Bellinger for 8 yards (tackle by Zaire Franklin)
+90,3,12:03,2,2,IND 26,3,24,Daniel Jones left end for 3 yards (tackle by Stephon Gilmore)
+91,3,11:25,1,10,IND 23,3,24,Daniel Jones pass complete short left to Richie James for 5 yards (tackle by Bobby Okereke)
+92,3,10:46,2,5,IND 18,3,30,"Daniel Jones left end for 18 yards, touchdown"
+93,3,10:40,0,0,IND 15,3,31,Graham Gano kicks extra point good
+94,3,10:40,0,0,NYG 35,3,31,"Graham Gano kicks off 69 yards, returned by Dallis Flowers for 36 yards (tackle by Tony Jefferson)"
+95,3,10:34,1,10,IND 32,3,31,Deon Jackson up the middle for 3 yards (tackle by Jaylon Smith)
+96,3,9:55,2,7,IND 35,3,31,Deon Jackson right guard for 4 yards (tackle by Xavier McKinney)
+97,3,9:30,3,3,IND 39,3,31,Sam Ehlinger pass complete short middle to Michael Pittman for 9 yards (tackle by Julian Love and Jihad Ward)
+98,3,9:00,1,10,IND 48,3,31,Deon Jackson up the middle for 3 yards (tackle by Tomon Fox and Micah McFadden)
+99,3,8:32,2,7,NYG 49,3,31,Sam Ehlinger left end for 12 yards (tackle by Xavier McKinney)
+100,3,7:53,1,10,NYG 37,3,31,Sam Ehlinger pass incomplete deep right intended for Mike Strachan (defended by Xavier McKinney)
+101,3,7:45,2,10,NYG 37,3,31,Zack Moss left guard for 8 yards (tackle by Kayvon Thibodeaux and Xavier McKinney)
+102,3,7:12,3,2,NYG 29,3,31,Sam Ehlinger pass complete short right to Michael Pittman for 1 yard (tackle by Darnay Holmes)
+103,3,6:42,4,1,NYG 28,3,31,Zack Moss right guard for 6 yards (tackle by Jaylon Smith and Xavier McKinney)
+104,3,6:11,1,10,NYG 22,3,31,Zack Moss left tackle for 2 yards (tackle by Dexter Lawrence and Jihad Ward)
+105,3,5:31,2,8,NYG 20,3,31,Sam Ehlinger sacked by Dexter Lawrence for -8 yards
+106,3,4:51,3,16,NYG 28,3,31,Sam Ehlinger pass complete short right to Alec Pierce for 10 yards (tackle by Fabian Moreau)
+107,3,4:08,4,6,NYG 18,3,31,Sam Ehlinger pass complete short middle to Michael Pittman for 7 yards (tackle by Fabian Moreau)
+108,3,3:45,1,10,NYG 11,3,31,Zack Moss left tackle for 2 yards (tackle by Jihad Ward and Jaylon Smith)
+109,3,3:02,2,8,NYG 9,3,31,Sam Ehlinger pass complete short right to Michael Pittman for 3 yards (tackle by Fabian Moreau)
+110,3,2:13,3,5,NYG 6,9,31,"Sam Ehlinger pass complete short middle to Michael Pittman for 6 yards, touchdown"
+111,3,2:08,0,0,NYG 15,10,31,Chase McLaughlin kicks extra point good
+112,3,2:08,0,0,IND 35,10,31,"Chase McLaughlin kicks off 58 yards, returned by Gary Brightwell for 23 yards (tackle by Segun Olubi and Nick Cross)"
+113,3,2:00,1,10,NYG 30,10,31,Saquon Barkley up the middle for 12 yards (tackle by Rodney McLeod)
+114,3,1:19,1,10,NYG 42,10,31,Daniel Jones right end for 25 yards (tackle by Rodney Thomas)
+115,3,0:34,1,10,IND 33,10,31,Saquon Barkley left guard for 6 yards (tackle by Rodney McLeod and Bobby Okereke)
+116,4,15:00,2,4,IND 27,10,31,Saquon Barkley up the middle for 1 yard (tackle by DeForest Buckner)
+117,4,14:18,3,3,IND 26,10,31,Daniel Jones left end for no gain (tackle by Bobby Okereke)
+118,4,13:24,4,3,IND 26,10,31,"Graham Gano yard field goal good. Penalty on Tony Brown: Defensive Offside, 5 yards (accepted) (no play)"
+119,4,13:19,1,10,IND 21,10,31,"Daniel Jones scrambles right end for 1 yard (tackle by Bobby Okereke). Penalty on Bobby Okereke: Unnecessary Roughness / Defense, 10 yards (accepted) "
+120,4,12:48,1,10,IND 10,10,31,Matt Breida up the middle for no gain (tackle by Grover Stewart)
+121,4,12:04,2,10,IND 10,10,37,"Daniel Jones left end for 10 yards, touchdown"
+122,4,11:57,0,0,IND 15,10,38,Graham Gano kicks extra point good
+123,4,11:57,0,0,NYG 35,10,38,"Graham Gano kicks off 58 yards, returned by Nikola Kalinic for 15 yards (tackle by Micah McFadden). Penalty on Deon Jackson: Offensive Holding, 10 yards (accepted) "
+124,4,11:52,1,10,IND 12,10,38,Zack Moss left end for 3 yards (tackle by Landon Collins)
+125,4,11:11,2,7,IND 15,10,38,Zack Moss right guard for 12 yards (tackle by Jaylon Smith)
+126,4,10:33,1,10,IND 27,10,38,Sam Ehlinger pass complete short middle to Michael Pittman for 15 yards (tackle by Jason Pinnock and Tomon Fox)
+127,4,9:59,1,10,IND 42,10,38,"Jordan Wilkins left guard for 7 yards (tackle by Julian Love and Fabian Moreau). Penalty on Will Fries: Offensive Holding, 10 yards (accepted) "
+128,4,9:29,1,13,IND 39,10,38,Sam Ehlinger pass incomplete short right intended for Jelani Woods
+129,4,9:25,2,13,IND 39,10,38,Sam Ehlinger pass incomplete short right intended for Alec Pierce (defended by Nick McCloud)
+130,4,9:21,3,13,IND 39,10,38,Sam Ehlinger pass complete short right to Parris Campbell for 2 yards (tackle by Tony Jefferson and Zyon Gilbert)
+131,4,8:42,4,11,IND 41,10,38,"Matt Haack punts 45 yards, fair catch by Richie James at NYG-14"
+132,4,8:36,1,10,NYG 14,10,38,Matt Breida left end for 6 yards (tackle by Bobby Okereke and Kwity Paye)
+133,4,7:50,2,4,NYG 20,10,38,Gary Brightwell up the middle for 6 yards (tackle by Dayo Odeyingbo)
+134,4,7:07,1,10,NYG 26,10,38,Gary Brightwell left tackle for 2 yards (tackle by Dallis Flowers)
+135,4,6:23,2,8,NYG 28,10,38,Matt Breida right end for 16 yards (tackle by Stephon Gilmore)
+136,4,5:38,1,10,NYG 44,10,38,Gary Brightwell left guard for 3 yards (tackle by Zaire Franklin and DeForest Buckner)
+137,4,4:57,2,7,NYG 47,10,38,Matt Breida right end for 18 yards (tackle by Bobby Okereke)
+138,4,4:10,1,10,IND 35,10,38,Gary Brightwell left guard for no gain (tackle by Bobby Okereke)
+139,4,3:27,2,10,IND 35,10,38,Matt Breida right tackle for 5 yards (tackle by Zaire Franklin)
+140,4,2:47,3,5,IND 30,10,38,Matt Breida left end for 3 yards (tackle by Bobby Okereke)
+141,4,2:00,4,2,IND 27,10,38,Gary Brightwell right guard for -2 yards (tackle by E.J. Speed)
+142,4,1:56,1,10,IND 29,10,38,Sam Ehlinger pass complete short left to Alec Pierce for 7 yards (tackle by Zyon Gilbert)
+143,4,1:19,2,3,IND 36,10,38,Zack Moss left end for 5 yards (tackle by Carter Coughlin and Justin Ellis)
+144,4,0:37,1,10,IND 41,10,38,Zack Moss left guard for 5 yards (tackle by Henry Mondeaux and Justin Ellis)

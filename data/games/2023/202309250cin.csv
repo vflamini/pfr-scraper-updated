@@ -1,0 +1,169 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,LAR 35,0,0,"Ethan Evans kicks off 65 yards, touchback."
+1,1,15:00,1,10,CIN 25,0,0,Joe Burrow pass incomplete deep right
+2,1,14:54,2,10,CIN 25,0,0,Joe Burrow pass complete short left to Tyler Boyd for 9 yards (tackle by Cobie Durant)
+3,1,14:19,3,1,CIN 34,0,0,Joe Burrow pass complete short middle to Tyler Boyd for 12 yards (tackle by Ernest Jones and Russ Yeast)
+4,1,13:33,1,10,CIN 46,0,0,Joe Mixon up the middle for 4 yards (tackle by Derion Kendrick and Ernest Jones)
+5,1,12:57,2,6,LAR 50,0,0,Joe Burrow pass complete short left to Charlie Jones for 6 yards (tackle by Derion Kendrick)
+6,1,12:13,1,10,LAR 44,0,0,Joe Burrow pass incomplete short right intended for Ja'Marr Chase
+7,1,12:08,2,10,LAR 44,0,0,Joe Mixon left tackle for 6 yards (tackle by Aaron Donald)
+8,1,11:36,3,4,LAR 38,0,0,Joe Burrow pass incomplete short middle intended for Tanner Hudson
+9,1,11:31,4,3,LAR 37,0,0,Evan McPherson 56 yard field goal no good
+10,1,11:26,1,10,LAR 46,0,0,Matthew Stafford pass complete short middle to Tyler Higbee for 12 yards (tackle by Cam Taylor-Britt)
+11,1,10:55,1,10,CIN 42,0,0,Kyren Williams left guard for 6 yards (tackle by B.J. Hill)
+12,1,10:16,2,4,CIN 36,0,0,Matthew Stafford pass complete short middle to Puka Nacua for 12 yards (tackle by Cam Taylor-Britt and Germaine Pratt)
+13,1,9:32,1,10,CIN 24,0,0,"Tutu Atwell right end for no gain, touchdown Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Tutu Atwell right end for 22 yards (tackle by Nick Scott)"
+14,1,9:12,1,2,CIN 2,0,0,Matthew Stafford sacked by D.J. Reader for -9 yards
+15,1,8:34,2,11,CIN 11,0,0,Matthew Stafford pass incomplete short right intended for Kyren Williams
+16,1,8:31,3,11,CIN 11,0,0,Matthew Stafford pass incomplete short middle intended for Kyren Williams
+17,1,8:26,4,11,CIN 11,3,0,Brett Maher 30 yard field goal good
+18,1,8:22,0,0,LAR 35,3,0,"Ethan Evans kicks off 65 yards, touchback."
+19,1,8:22,1,10,CIN 25,3,0,Joe Mixon left tackle for 2 yards (tackle by Byron Young)
+20,1,7:44,2,8,CIN 27,3,0,Joe Burrow pass complete short left to Mitchell Wilcox for 7 yards (tackle by Russ Yeast)
+21,1,7:23,3,1,CIN 34,3,0,"Penalty on Joe Mixon: False Start, 5 yards (accepted) (no play)"
+22,1,6:59,3,6,CIN 29,3,0,"Penalty on Orlando Brown: False Start, 5 yards (accepted) (no play)"
+23,1,6:37,3,11,CIN 24,3,0,Joe Burrow pass complete short right to Tyler Boyd for 4 yards (tackle by Quentin Lake)
+24,1,6:02,4,7,CIN 28,3,0,"Brad Robbins punts 46 yards, fair catch by Kyren Williams at LA-26"
+25,1,5:55,1,10,LAR 26,3,0,Kyren Williams right tackle for 1 yard (tackle by Germaine Pratt)
+26,1,5:14,2,9,LAR 27,3,0,Matthew Stafford pass complete short middle to Puka Nacua for 8 yards (tackle by Logan Wilson and Sam Hubbard)
+27,1,4:38,3,1,LAR 35,3,0,Matthew Stafford pass incomplete short left intended for Kyren Williams
+28,1,4:32,4,1,LAR 35,3,0,"Ethan Evans punts 51 yards, returned by Charlie Jones for 7 yards (tackle by Tre'Vius Tomlinson and Michael Hoecht)"
+29,1,4:22,1,10,CIN 21,3,0,Joe Burrow pass complete short left to Tanner Hudson for 4 yards (tackle by Russ Yeast)
+30,1,3:42,2,6,CIN 25,3,0,Joe Mixon left tackle for 2 yards (tackle by Jonah Williams and Christian Rozeboom)
+31,1,3:04,3,4,CIN 27,3,0,Joe Burrow pass complete short left to Ja'Marr Chase for 6 yards (tackle by Derion Kendrick)
+32,1,2:24,1,10,CIN 33,3,0,Joe Burrow pass complete short right to Joe Mixon for 5 yards (tackle by Ernest Jones)
+33,1,1:37,2,5,CIN 38,3,0,Joe Burrow pass complete short middle to Ja'Marr Chase for 10 yards (tackle by Christian Rozeboom)
+34,1,0:58,1,10,CIN 48,3,0,Joe Burrow pass complete short right to Ja'Marr Chase for 7 yards
+35,1,0:20,2,3,LAR 45,3,0,Joe Mixon left guard for 7 yards (tackle by Ernest Jones)
+36,2,15:00,1,10,LAR 38,3,0,Joe Burrow pass complete short left to Mitchell Wilcox for 3 yards (tackle by Christian Rozeboom and Derion Kendrick)
+37,2,14:16,2,7,LAR 35,3,0,"Joe Burrow pass incomplete short right intended for Tee Higgins. Penalty on Cobie Durant: Defensive Holding, 5 yards (accepted) (no play)"
+38,2,14:11,1,10,LAR 30,3,0,Joe Burrow pass incomplete short right
+39,2,14:07,2,10,LAR 30,3,0,Joe Burrow pass complete short left to Tyler Boyd for 4 yards (tackle by Cobie Durant)
+40,2,13:23,3,5,LAR 26,3,0,"Penalty on Tyler Boyd: False Start, 5 yards (accepted) (no play)"
+41,2,13:04,3,10,LAR 31,3,0,Joe Burrow pass incomplete short left intended for Tanner Hudson
+42,2,13:00,4,10,LAR 31,3,3,Evan McPherson 49 yard field goal good
+43,2,12:55,0,0,CIN 35,3,3,"Evan McPherson kicks off 65 yards, touchback."
+44,2,12:55,1,10,LAR 25,3,3,Matthew Stafford pass complete short right to Puka Nacua for 11 yards (tackle by Cam Taylor-Britt)
+45,2,12:14,1,10,LAR 36,3,3,Matthew Stafford pass complete short middle to Tyler Higbee for 15 yards (tackle by Daxton Hill)
+46,2,11:27,1,10,CIN 49,3,3,Matthew Stafford pass complete deep left to Tutu Atwell for 37 yards (tackle by Daxton Hill)
+47,2,10:43,1,10,CIN 12,3,3,Matthew Stafford pass incomplete short right intended for Kyren Williams
+48,2,10:39,2,10,CIN 12,3,3,Kyren Williams right tackle for 7 yards (tackle by Chidobe Awuzie)
+49,2,9:56,3,3,CIN 5,3,3,Matthew Stafford pass incomplete short middle intended for Tutu Atwell
+50,2,9:52,4,3,CIN 5,6,3,Brett Maher 23 yard field goal good
+51,2,9:49,0,0,LAR 35,6,3,"Ethan Evans kicks off 65 yards, touchback."
+52,2,9:49,1,10,CIN 25,6,3,Joe Mixon left guard for no gain (tackle by Byron Young)
+53,2,9:17,2,10,CIN 25,6,3,Joe Burrow pass incomplete short middle intended for Tee Higgins (defended by Derion Kendrick)
+54,2,9:12,3,10,CIN 25,6,3,Joe Burrow pass complete short left to Ja'Marr Chase for 11 yards
+55,2,8:40,1,10,CIN 36,6,3,Joe Burrow pass incomplete short left intended for Tee Higgins (defended by Derion Kendrick)
+56,2,8:37,2,10,CIN 36,6,3,Joe Burrow sacked by Aaron Donald for -8 yards
+57,2,7:52,3,18,CIN 28,6,3,Joe Burrow pass complete short left to Tee Higgins for 8 yards (tackle by Derion Kendrick and Russ Yeast)
+58,2,7:11,4,10,CIN 36,6,3,"Brad Robbins punts 33 yards out of bounds. Penalty on Tycen Anderson: Player Out of Bounds on Kick, 5 yards (accepted) "
+59,2,7:04,1,10,LAR 36,6,3,Van Jefferson right end for 4 yards (tackle by Sam Hubbard and Chidobe Awuzie)
+60,2,6:21,2,6,LAR 40,6,3,Kyren Williams left end for -3 yards (tackle by Daxton Hill)
+61,2,5:37,3,9,LAR 37,6,3,Matthew Stafford pass complete short right to Tyler Higbee for 7 yards (tackle by Daxton Hill)
+62,2,4:56,4,2,LAR 44,6,3,Ethan Evans punts 45 yards out of bounds
+63,2,4:46,1,10,CIN 11,6,3,Joe Burrow pass complete short middle to Ja'Marr Chase for 13 yards (tackle by Christian Rozeboom and Derion Kendrick)
+64,2,4:03,1,10,CIN 24,6,3,Joe Burrow pass incomplete short right intended for Tee Higgins
+65,2,3:59,2,10,CIN 24,6,3,Joe Burrow pass incomplete short left intended for Tyler Boyd
+66,2,3:56,3,10,CIN 24,6,3,Joe Burrow pass incomplete deep left intended for Ja'Marr Chase
+67,2,3:50,4,10,CIN 24,6,3,"Brad Robbins punts 46 yards, fair catch by Kyren Williams at LA-30"
+68,2,3:43,1,10,LAR 30,6,3,"Matthew Stafford pass short middle intended for Van Jefferson is intercepted by Logan Wilson at LA-41 and returned for no gain (tackle by Van Jefferson) Replay Assistant challenged the pass interception ruling, and the play was upheld."
+69,2,3:38,1,10,LAR 41,6,3,Joe Mixon right tackle for 2 yards (tackle by Aaron Donald)
+70,2,2:56,2,8,LAR 39,6,3,"Joe Burrow pass complete deep right to Tee Higgins for no gain (tackle by Ahkello Witherspoon). Penalty on Tee Higgins: Offensive Pass Interference, 10 yards (accepted) (no play)"
+71,2,2:36,2,18,LAR 49,6,3,Joe Burrow pass incomplete deep right intended for Tee Higgins
+72,2,2:33,3,18,LAR 49,6,3,Joe Burrow pass incomplete deep right intended for Ja'Marr Chase
+73,2,2:27,4,18,LAR 49,6,3,"Brad Robbins punts 44 yards, returned by Kyren Williams for 3 yards (tackle by Tycen Anderson)"
+74,2,2:18,1,10,LAR 8,6,3,Kyren Williams right tackle for 9 yards (tackle by Cam Taylor-Britt)
+75,2,2:00,2,1,LAR 17,6,3,Matthew Stafford pass complete short middle to Puka Nacua for 4 yards (tackle by Logan Wilson)
+76,2,1:37,1,10,LAR 21,6,3,Matthew Stafford pass incomplete short right intended for Puka Nacua
+77,2,1:33,2,10,LAR 21,6,3,Matthew Stafford sacked by Daxton Hill for -8 yards
+78,2,1:29,3,18,LAR 13,6,3,Kyren Williams up the middle for 6 yards (tackle by Sam Hubbard)
+79,2,1:24,4,12,LAR 19,6,3,"Ethan Evans punts 51 yards, returned by Charlie Jones for 10 yards (tackle by Royce Freeman and Michael Hoecht)"
+80,2,1:13,1,10,CIN 40,6,3,Joe Burrow pass complete short right to Ja'Marr Chase for 9 yards
+81,2,1:09,2,1,CIN 49,6,3,Joe Burrow pass complete deep middle to Tanner Hudson for 26 yards (tackle by Jordan Fuller and Russ Yeast)
+82,2,0:48,1,10,LAR 25,6,3,Joe Burrow pass incomplete short left intended for Tyler Boyd (defended by Cobie Durant)
+83,2,0:42,2,10,LAR 25,6,3,Joe Burrow sacked by and Byron Young for -9 yards and Kobie Turner for -9 yards
+84,2,0:03,3,19,LAR 34,6,3,Joe Burrow spiked the ball
+85,2,0:03,4,19,LAR 34,6,6,Evan McPherson 53 yard field goal good
+86,3,15:00,0,0,CIN 35,6,6,"Evan McPherson kicks off 53 yards,"
+87,3,15:00,1,10,LAR 25,6,6,Matthew Stafford pass complete deep left to Tyler Higbee for 22 yards (tackle by Cam Taylor-Britt)
+88,3,14:21,1,10,LAR 47,6,6,"Penalty on Zachary Thomas: False Start, 5 yards (accepted) (no play)"
+89,3,14:04,1,15,LAR 42,6,6,Matthew Stafford pass complete short left to Kyren Williams for 20 yards (tackle by Logan Wilson)
+90,3,13:18,1,10,CIN 38,6,6,Matthew Stafford pass complete short right to Ben Skowronek for 3 yards (tackle by Chidobe Awuzie)
+91,3,12:33,2,7,CIN 35,6,6,"Matthew Stafford sacked by Trey Hendrickson for no gain. Penalty on Sam Hubbard: Face Mask (15 Yards), 14 yards (accepted) (no play)"
+92,3,12:08,1,10,CIN 21,6,6,Kyren Williams right guard for 4 yards (tackle by Sam Hubbard)
+93,3,11:32,2,6,CIN 17,6,6,Matthew Stafford pass incomplete short left intended for Kyren Williams
+94,3,11:24,3,5,CIN 17,6,6,Matthew Stafford sacked by Trey Hendrickson for -7 yards
+95,3,10:42,4,13,CIN 24,9,6,Brett Maher 42 yard field goal good
+96,3,10:37,0,0,LAR 35,9,6,"Ethan Evans kicks off 65 yards,"
+97,3,10:37,1,10,CIN 25,9,6,Joe Mixon left tackle for 13 yards (tackle by Cobie Durant)
+98,3,10:00,1,10,CIN 38,9,6,Joe Mixon left guard for 2 yards (tackle by Byron Young)
+99,3,9:20,2,8,CIN 40,9,6,Joe Burrow pass complete short right to Ja'Marr Chase for 16 yards (tackle by Cobie Durant)
+100,3,8:39,1,10,LAR 44,9,6,Joe Burrow pass incomplete short right intended for Charlie Jones
+101,3,8:33,2,10,LAR 44,9,6,Joe Burrow pass incomplete short left intended for Trayveon Williams
+102,3,8:29,3,10,LAR 44,9,6,Joe Burrow pass complete short middle to Ja'Marr Chase for 13 yards (tackle by Jordan Fuller)
+103,3,7:51,1,10,LAR 31,9,6,Joe Mixon right tackle for no gain (tackle by Ernest Jones)
+104,3,7:06,2,10,LAR 31,9,6,Joe Burrow pass complete short right to Tee Higgins for 13 yards (tackle by Jordan Fuller)
+105,3,6:22,1,10,LAR 18,9,6,Joe Burrow pass complete short left to Ja'Marr Chase for 4 yards (tackle by Christian Rozeboom)
+106,3,5:39,2,6,LAR 14,9,12,"Joe Mixon left tackle for 14 yards, touchdown"
+107,3,5:34,0,0,LAR 15,9,13,Evan McPherson kicks extra point good
+108,3,5:34,0,0,CIN 35,9,13,"Evan McPherson kicks off 57 yards, returned by Ronnie Rivers for 16 yards (tackle by Chase Brown and Akeem Davis-Gaither)"
+109,3,5:29,1,10,LAR 24,9,13,Matthew Stafford pass complete deep middle to Van Jefferson for 46 yards (tackle by Nick Scott)
+110,3,5:01,1,10,CIN 30,9,13,Matthew Stafford pass short left (defended by Mike Hilton) intended for Puka Nacua is intercepted by Logan Wilson at CIN-22 and returned for no gain
+111,3,4:57,1,10,CIN 22,9,13,Joe Burrow pass incomplete deep middle intended for Tee Higgins
+112,3,4:52,2,10,CIN 22,9,13,"Joe Burrow pass incomplete short middle intended for Tanner Hudson. Penalty on Quentin Lake: Defensive Pass Interference, 3 yards (accepted) (no play)"
+113,3,4:48,1,10,CIN 25,9,13,Joe Burrow pass complete deep right to Ja'Marr Chase for 43 yards (tackle by Jordan Fuller)
+114,3,4:09,1,10,LAR 32,9,13,Joe Burrow pass complete short left to Ja'Marr Chase for 2 yards (tackle by Byron Young)
+115,3,3:24,2,8,LAR 30,9,13,Joe Burrow pass incomplete short right intended for Tee Higgins
+116,3,3:20,3,8,LAR 30,9,13,Joe Burrow pass incomplete short left intended for Trayveon Williams (defended by Ernest Jones)
+117,3,3:14,4,8,LAR 30,9,16,Evan McPherson 48 yard field goal good
+118,3,3:09,0,0,CIN 35,9,16,"Evan McPherson kicks off 65 yards, touchback."
+119,3,3:09,1,10,LAR 25,9,16,Matthew Stafford pass complete short left to Kyren Williams for 7 yards (tackle by Logan Wilson)
+120,3,2:45,2,3,LAR 32,9,16,Kyren Williams left guard for 2 yards (tackle by D.J. Reader)
+121,3,1:55,3,1,LAR 34,9,16,"Matthew Stafford pass complete to Tutu Atwell for no gain (tackle by Mike Hilton). Penalty on Tremayne Anchrum: Offensive Facemask, 15 yards (accepted) (no play)"
+122,3,1:24,3,16,LAR 19,9,16,Kyren Williams right tackle for 4 yards (tackle by Sam Hubbard)
+123,3,0:47,4,12,LAR 23,9,16,"Ethan Evans punts 58 yards, returned by Charlie Jones for 9 yards (tackle by Royce Freeman)"
+124,3,0:37,1,10,CIN 28,9,16,Joe Mixon up the middle for 4 yards (tackle by Ernest Jones)
+125,4,15:00,2,6,CIN 32,9,16,Joe Mixon right tackle for 8 yards (tackle by Ernest Jones)
+126,4,14:23,1,10,CIN 40,9,16,Joe Mixon right tackle for 1 yard (tackle by Aaron Donald and Ernest Jones)
+127,4,13:35,2,9,CIN 41,9,16,Joe Burrow pass incomplete short right intended for Joe Mixon
+128,4,13:29,3,9,CIN 41,9,16,Joe Burrow pass complete short middle to Tyler Boyd for 10 yards (tackle by Cobie Durant)
+129,4,12:48,1,10,LAR 49,9,16,Joe Mixon right end for 2 yards (tackle by Jonah Williams and Michael Hoecht)
+130,4,12:05,2,8,LAR 47,9,16,Joe Burrow pass incomplete short middle intended for Mitchell Wilcox (defended by Jonah Williams)
+131,4,11:59,3,8,LAR 47,9,16,Joe Burrow pass complete short left to Drew Sample for 7 yards (tackle by Cobie Durant)
+132,4,11:12,4,1,LAR 40,9,16,Joe Mixon left tackle for 3 yards (tackle by Aaron Donald)
+133,4,10:27,1,10,LAR 37,9,16,Joe Burrow pass deep left intended for Tyler Boyd is intercepted by Ahkello Witherspoon at LA-20 and returned for no gain (tackle by Tyler Boyd)
+134,4,10:21,1,10,LAR 20,9,16,Matthew Stafford pass incomplete deep left intended for Tutu Atwell
+135,4,10:16,2,10,LAR 20,9,16,Matthew Stafford sacked by Trey Hendrickson for -8 yards
+136,4,9:30,3,18,LAR 12,9,16,Matthew Stafford sacked by B.J. Hill for -8 yards
+137,4,8:53,4,26,LAR 4,9,16,"Ethan Evans punts 55 yards, returned by Charlie Jones for 19 yards (tackle by Tre'Vius Tomlinson)"
+138,4,8:46,1,10,LAR 40,9,16,Joe Mixon left tackle for -2 yards (tackle by Michael Hoecht)
+139,4,8:05,2,12,LAR 42,9,16,Joe Burrow pass complete short left to Ja'Marr Chase for 7 yards (tackle by Russ Yeast)
+140,4,7:23,3,5,LAR 35,9,16,Joe Burrow pass incomplete short right intended for Tyler Boyd
+141,4,7:18,4,5,LAR 35,9,19,Evan McPherson 54 yard field goal good
+142,4,7:13,0,0,CIN 35,9,19,"Evan McPherson kicks off 65 yards, touchback."
+143,4,7:13,1,10,LAR 25,9,19,Matthew Stafford pass incomplete deep left intended for Tutu Atwell (defended by DJ Turner)
+144,4,7:08,2,10,LAR 25,9,19,Matthew Stafford pass incomplete short right intended for Tutu Atwell
+145,4,7:05,3,10,LAR 25,9,19,"Matthew Stafford sacked by and Logan Wilson for no gain and Trey Hendrickson for no gain. Penalty on Coleman Shelton: Offensive Holding, 10 yards (offset) . Penalty on Cam Taylor-Britt: Illegal Use of Hands / Defense, 5 yards (offset) (no play)"
+146,4,6:45,3,10,LAR 25,9,19,Matthew Stafford pass complete short left to Tutu Atwell for 5 yards (tackle by Mike Hilton and Daxton Hill)
+147,4,6:09,4,5,LAR 30,9,19,"Ethan Evans punts 46 yards, fair catch by Charlie Jones at CIN-24"
+148,4,6:02,1,10,CIN 24,9,19,Joe Mixon right guard for -2 yards (tackle by Ernest Jones and Aaron Donald)
+149,4,5:14,2,12,CIN 22,9,19,"Penalty on CIN: Delay of Game, 5 yards (accepted) (no play)"
+150,4,5:14,2,17,CIN 17,9,19,Joe Mixon left guard for -1 yards (tackle by Aaron Donald)
+151,4,4:26,3,18,CIN 16,9,19,Trayveon Williams right end for 4 yards (tackle by Larrell Murchison and Michael Hoecht)
+152,4,3:41,4,14,CIN 20,9,19,"Brad Robbins punts 41 yards, fair catch by Kyren Williams at LA-39"
+153,4,3:34,1,10,LAR 39,9,19,Matthew Stafford pass complete short right to Tyler Higbee for 15 yards (tackle by Daxton Hill)
+154,4,3:07,1,10,CIN 46,9,19,Matthew Stafford pass complete short left to Tutu Atwell for 7 yards (tackle by Cam Taylor-Britt)
+155,4,2:54,2,3,CIN 39,9,19,Matthew Stafford pass incomplete deep left intended for Van Jefferson
+156,4,2:49,3,3,CIN 39,9,19,Matthew Stafford pass incomplete short middle intended for Tutu Atwell (defended by Jalen Davis)
+157,4,2:43,4,3,CIN 39,9,19,Matthew Stafford scrambles up the middle for 7 yards (tackle by Mike Hilton and DJ Turner)
+158,4,2:21,1,10,CIN 32,9,19,Matthew Stafford sacked by Sam Hubbard for -8 yards
+159,4,2:00,2,18,CIN 40,9,19,Matthew Stafford pass complete deep right to Puka Nacua for 37 yards (tackle by Daxton Hill)
+160,4,1:35,1,3,CIN 3,9,19,Kyren Williams up the middle for 2 yards (tackle by Nick Scott and Chidobe Awuzie)
+161,4,1:13,2,1,CIN 1,9,19,Matthew Stafford pass incomplete short right
+162,4,1:06,3,1,CIN 1,15,19,"Matthew Stafford pass complete short left to Tutu Atwell for 1 yard, touchdown"
+163,4,1:03,0,0,CIN 15,16,19,Brett Maher kicks extra point good
+164,4,1:03,0,0,LAR 35,16,19,"Brett Maher kicks onside 10 yards, returned by Mitchell Wilcox for no gain"
+165,4,1:02,1,10,LAR 45,16,19,Joe Burrow kneels for -1 yards
+166,4,0:58,2,11,LAR 46,16,19,Joe Burrow kneels for no gain
+167,4,0:38,3,11,LAR 46,16,19,Joe Burrow kneels for -1 yards

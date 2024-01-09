@@ -1,0 +1,160 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,SEA 35,0,0,"Jason Myers kicks off 61 yards, returned by Raheem Blackshear for 24 yards (tackle by Joey Blount and Boye Mafe)"
+1,1,14:53,1,10,CAR 28,0,0,"Penalty on Austin Corbett: False Start, 5 yards (accepted) (no play)"
+2,1,14:53,1,15,CAR 23,0,0,D'Onta Foreman right tackle for 2 yards (tackle by Quinton Jefferson)
+3,1,14:16,2,13,CAR 25,0,0,D'Onta Foreman left guard for 3 yards (tackle by Jordyn Brooks and Bruce Irvin)
+4,1,13:37,3,10,CAR 28,0,0,Chuba Hubbard left end for 12 yards (tackle by Teez Tabor)
+5,1,12:54,1,10,CAR 40,0,0,Sam Darnold pass complete short right to D'Onta Foreman for 1 yard (tackle by Jordyn Brooks)
+6,1,12:12,2,9,CAR 41,0,0,Chuba Hubbard up the middle for 4 yards (tackle by Jordyn Brooks)
+7,1,11:32,3,5,CAR 45,0,0,Sam Darnold pass complete short middle to Laviska Shenault for 11 yards (tackle by Michael Jackson)
+8,1,10:49,1,10,SEA 44,0,0,D'Onta Foreman left tackle for 4 yards (tackle by L.J. Collier)
+9,1,10:10,2,6,SEA 40,0,0,D.J. Moore left end for 5 yards (tackle by Bruce Irvin)
+10,1,9:33,3,1,SEA 35,0,0,Sam Darnold pass complete short right to Chuba Hubbard for 2 yards (tackle by Coby Bryant)
+11,1,8:49,1,10,SEA 33,0,0,"Penalty on Tommy Tremble: False Start, 5 yards (accepted) (no play)"
+12,1,8:31,1,15,SEA 38,0,0,Sam Darnold pass incomplete deep left intended for D.J. Moore (defended by Tariq Woolen)
+13,1,8:26,2,15,SEA 38,0,0,Laviska Shenault left end for 7 yards (tackle by Ryan Neal and Tariq Woolen)
+14,1,7:48,3,8,SEA 31,0,0,Chuba Hubbard left guard for 2 yards (tackle by Cody Barton and Bruce Irvin)
+15,1,7:10,4,6,SEA 29,3,0,Eddy Pineiro 47 yard field goal good
+16,1,7:05,0,0,CAR 35,3,0,"Eddy Pineiro kicks off 65 yards, touchback."
+17,1,7:05,1,10,SEA 25,3,0,Geno Smith pass deep left intended for Tyler Lockett is intercepted by Jaycee Horn at SEA-44 and returned for 31 yards (tackle by Tyler Lockett)
+18,1,6:49,1,10,SEA 13,9,0,"Sam Darnold pass complete short right to Shi Smith for 13 yards, touchdown"
+19,1,6:44,0,0,SEA 15,10,0,Eddy Pineiro kicks extra point good
+20,1,6:44,0,0,CAR 35,10,0,"Eddy Pineiro kicks off 65 yards, touchback."
+21,1,6:44,1,10,SEA 25,10,0,Marquise Goodwin right end for -2 yards (tackle by Frankie Luvu)
+22,1,6:12,2,12,SEA 23,10,0,Geno Smith pass complete short left to D.K. Metcalf for 7 yards (tackle by Jaycee Horn)
+23,1,5:29,3,5,SEA 30,10,0,"Geno Smith pass incomplete deep left intended for Noah Fant (defended by Jeremy Chinn). Penalty on Derrick Brown: Defensive Offside, 5 yards (accepted) (no play)"
+24,1,5:23,1,10,SEA 35,10,0,Travis Homer up the middle for 2 yards (tackle by Yetur Gross-Matos)
+25,1,4:50,2,8,SEA 37,10,0,Geno Smith pass incomplete deep middle intended for D.K. Metcalf
+26,1,4:43,3,8,SEA 37,10,0,Geno Smith pass incomplete short left intended for Marquise Goodwin
+27,1,4:37,4,8,SEA 37,10,0,"Michael Dickson punts 42 yards, returned by Shi Smith for 5 yards (tackle by Travis Homer and Nick Bellore)"
+28,1,4:27,1,10,CAR 26,10,0,D'Onta Foreman up the middle for 3 yards (tackle by Boye Mafe and Cody Barton)
+29,1,3:49,2,7,CAR 29,10,0,Sam Darnold pass complete short left to Laviska Shenault for 9 yards (tackle by Quandre Diggs)
+30,1,3:11,1,10,CAR 38,10,0,D'Onta Foreman left end for 2 yards (tackle by Jordyn Brooks and Al Woods)
+31,1,2:28,2,8,CAR 40,10,0,Sam Darnold pass complete short right to Raheem Blackshear for 17 yards (tackle by Michael Jackson)
+32,1,1:47,1,10,SEA 43,10,0,Sam Darnold pass complete short left to Chuba Hubbard for 17 yards (tackle by Jordyn Brooks)
+33,1,1:09,1,10,SEA 26,10,0,Chuba Hubbard up the middle for 3 yards (tackle by Myles Adams and Poona Ford)
+34,1,0:27,2,7,SEA 23,10,0,Sam Darnold pass complete short right to Ian Thomas for 8 yards (tackle by Ryan Neal and Cody Barton)
+35,2,15:00,1,10,SEA 15,10,0,Chuba Hubbard up the middle for 7 yards (tackle by Ryan Neal and Cody Barton)
+36,2,14:20,2,3,SEA 8,10,0,D'Onta Foreman right guard for 5 yards (tackle by Bryan Mone and Cody Barton)
+37,2,13:41,1,3,SEA 3,10,0,D'Onta Foreman left guard for 2 yards (tackle by Cody Barton)
+38,2,13:21,2,1,SEA 1,10,0,D'Onta Foreman right guard for -1 yards (tackle by Bryan Mone)
+39,2,12:39,3,2,SEA 2,16,0,"Chuba Hubbard up the middle for 2 yards, touchdown"
+40,2,12:35,0,0,SEA 15,17,0,Eddy Pineiro kicks extra point good
+41,2,12:35,0,0,CAR 35,17,0,"Eddy Pineiro kicks off 56 yards, returned by Godwin Igwebuike for 19 yards (tackle by Damien Wilson). Penalty on Joel Iyiegbuniwe: Illegal Formation, 5 yards (accepted) "
+42,2,12:29,1,10,SEA 33,17,0,Travis Homer up the middle for 5 yards (tackle by Bravvion Roy and Shaq Thompson)
+43,2,11:51,2,5,SEA 38,17,0,Geno Smith pass incomplete short right intended for Tyler Lockett
+44,2,11:48,3,5,SEA 38,17,0,Geno Smith pass complete deep right to Marquise Goodwin for 38 yards (tackle by Jeremy Chinn)
+45,2,11:15,1,10,CAR 24,17,0,Geno Smith pass complete deep right to Tyler Lockett for 17 yards (tackle by Jaycee Horn)
+46,2,10:52,1,7,CAR 7,17,0,Travis Homer left guard for no gain (tackle by Derrick Brown and Jeremy Chinn)
+47,2,10:08,2,7,CAR 7,17,0,Travis Homer up the middle for 3 yards (tackle by Shaq Thompson)
+48,2,9:33,3,4,CAR 4,17,6,"Geno Smith pass complete short left to Tyler Lockett for 4 yards, touchdown"
+49,2,9:26,0,0,CAR 15,17,7,Jason Myers kicks extra point good
+50,2,9:26,0,0,SEA 35,17,7,"Jason Myers kicks off 65 yards, touchback."
+51,2,9:26,1,10,CAR 25,17,7,D'Onta Foreman right guard for 3 yards (tackle by Bryan Mone)
+52,2,8:46,2,7,CAR 28,17,7,Sam Darnold pass incomplete short right
+53,2,8:40,3,7,CAR 28,17,7,Sam Darnold sacked by Darrell Taylor for -10 yards
+54,2,8:03,4,17,CAR 18,17,7,"Johnny Hekker punts 40 yards, fair catch by Tyler Lockett at SEA-42"
+55,2,7:57,1,10,SEA 42,17,7,"Penalty on Noah Fant: False Start, 5 yards (accepted) (no play)"
+56,2,7:57,1,15,SEA 37,17,7,Travis Homer right end for -2 yards (tackle by Jeremy Chinn and Brian Burns)
+57,2,7:14,2,17,SEA 35,17,7,Geno Smith pass complete short right to Will Dissly for 8 yards (tackle by Shaq Thompson)
+58,2,6:26,3,9,SEA 43,17,7,Geno Smith pass deep left intended for D.K. Metcalf is intercepted by C.J. Henderson at CAR-41 and returned for 20 yards (tackle by Abraham Lucas and Travis Homer)
+59,2,6:18,1,10,SEA 39,17,7,"Sam Darnold scrambles right end for 3 yards (tackle by Uchenna Nwosu). Penalty on Uchenna Nwosu: Unnecessary Roughness / Defense, 15 yards (accepted) "
+60,2,5:51,1,10,SEA 21,17,7,D'Onta Foreman right tackle for 7 yards (tackle by Bruce Irvin)
+61,2,5:13,2,3,SEA 14,17,7,Raheem Blackshear up the middle for 2 yards (tackle by Al Woods)
+62,2,4:30,3,1,SEA 12,17,7,D.J. Moore right end for 1 yard (tackle by Quandre Diggs)
+63,2,3:52,1,10,SEA 11,17,7,"D'Onta Foreman for no gain. Penalty on D.J. Moore: False Start, 4 yards (accepted) (no play)"
+64,2,3:44,1,15,SEA 15,17,7,Sam Darnold pass incomplete short right intended for D.J. Moore
+65,2,3:39,2,14,SEA 15,17,7,Sam Darnold sacked by Bruce Irvin for -5 yards
+66,2,2:52,3,19,SEA 20,17,7,Sam Darnold pass complete short middle to Chuba Hubbard for 6 yards (tackle by Ryan Neal)
+67,2,2:13,4,14,SEA 14,20,7,Eddy Pineiro 32 yard field goal good
+68,2,2:09,0,0,CAR 35,20,7,"Eddy Pineiro kicks off 61 yards, returned by Godwin Igwebuike for 50 yards (tackle by T.J. Carrie and Eddy Pineiro)"
+69,2,2:01,1,10,CAR 46,20,7,Geno Smith scrambles right end for 5 yards (tackle by Juston Burris)
+70,2,1:53,2,5,CAR 41,20,7,Geno Smith pass complete short right to Travis Homer for 2 yards (tackle by Frankie Luvu)
+71,2,1:36,3,3,CAR 39,20,7,Geno Smith pass complete short middle to D.K. Metcalf for 10 yards (tackle by T.J. Carrie)
+72,2,1:16,1,10,CAR 29,20,7,Geno Smith sacked by Frankie Luvu for -4 yards
+73,2,1:06,2,14,CAR 33,20,7,Geno Smith pass complete short left to Tyler Lockett for 6 yards (tackle by Shaq Thompson)
+74,2,0:35,3,8,CAR 27,20,7,Geno Smith pass complete short right to Marquise Goodwin for 15 yards (tackle by Jeremy Chinn)
+75,2,0:29,1,10,CAR 12,20,7,Geno Smith pass incomplete short left intended for D.K. Metcalf
+76,2,0:25,2,10,CAR 12,20,7,Geno Smith pass incomplete short middle intended for Colby Parkinson
+77,2,0:20,3,10,CAR 12,20,13,"Geno Smith pass complete short middle to D.K. Metcalf for 12 yards, touchdown"
+78,2,0:16,0,0,CAR 15,20,14,Jason Myers kicks extra point good
+79,2,0:16,0,0,SEA 35,20,14,"Jason Myers kicks off 65 yards, touchback."
+80,2,0:16,1,10,CAR 25,20,14,Chuba Hubbard right guard for no gain (tackle by Bruce Irvin and Uchenna Nwosu)
+81,3,15:00,0,0,CAR 35,20,14,"Eddy Pineiro kicks off 60 yards, returned by Godwin Igwebuike for 35 yards (tackle by Marquis Haynes)"
+82,3,14:53,1,10,SEA 40,20,14,Travis Homer left tackle for 1 yard (tackle by Matthew Ioannidis and Yetur Gross-Matos)
+83,3,14:08,2,9,SEA 41,20,14,Geno Smith pass complete short right to Marquise Goodwin for 14 yards
+84,3,13:34,1,10,CAR 45,20,14,Geno Smith pass incomplete deep left intended for Will Dissly
+85,3,13:29,2,10,CAR 45,20,14,Geno Smith scrambles left end for 13 yards (tackle by Juston Burris)
+86,3,12:57,1,10,CAR 32,20,14,Travis Homer up the middle for 16 yards (tackle by Jaycee Horn and C.J. Henderson)
+87,3,12:12,1,10,CAR 16,20,14,Travis Homer left guard for 1 yard (tackle by Bravvion Roy)
+88,3,11:33,2,9,CAR 15,20,14,Geno Smith scrambles left end for 2 yards (tackle by Shaq Thompson)
+89,3,10:48,3,7,CAR 13,20,14,Geno Smith pass complete short right to Marquise Goodwin for 4 yards (tackle by Jaycee Horn)
+90,3,10:03,4,3,CAR 9,20,17,Jason Myers 27 yard field goal good
+91,3,10:00,0,0,SEA 35,20,17,"Jason Myers kicks off 65 yards, touchback."
+92,3,10:00,1,10,CAR 25,20,17,D'Onta Foreman left tackle for 4 yards (tackle by Cody Barton and L.J. Collier)
+93,3,9:17,2,6,CAR 29,20,17,Sam Darnold pass complete short middle to Shi Smith for 4 yards (tackle by Cody Barton)
+94,3,8:29,3,2,CAR 33,20,17,Sam Darnold pass incomplete deep right intended for Stephen Sullivan (defended by Coby Bryant)
+95,3,8:21,4,2,CAR 33,20,17,"Johnny Hekker punts 67 yards, touchback."
+96,3,8:13,1,10,SEA 20,20,17,Geno Smith pass complete short middle to Tony Jones for no gain (tackle by Brandon Smith)
+97,3,7:33,2,10,SEA 20,20,17,Geno Smith pass incomplete short middle intended for Tony Jones (defended by Frankie Luvu)
+98,3,7:29,3,10,SEA 20,20,17,Geno Smith pass incomplete short left intended for Tyler Lockett (defended by Jeremy Chinn)
+99,3,7:25,4,10,SEA 20,20,17,Michael Dickson punts 49 yards downed by Travis Homer
+100,3,7:14,1,10,CAR 31,20,17,D'Onta Foreman right guard for 1 yard (tackle by Ryan Neal and Quinton Jefferson)
+101,3,6:30,2,9,CAR 32,20,17,"Sam Darnold pass complete deep right to Terrace Marshall for 18 yards (tackle by Ryan Neal) SEA challenged the pass completion ruling, and the play was upheld."
+102,3,6:02,1,10,CAR 50,20,17,Sam Darnold pass incomplete short right
+103,3,5:54,2,10,CAR 50,20,17,Sam Darnold scrambles up the middle for 26 yards (tackle by Tariq Woolen)
+104,3,5:14,1,10,SEA 24,20,17,D'Onta Foreman up the middle for 6 yards (tackle by Myles Adams)
+105,3,4:32,2,4,SEA 18,20,17,D'Onta Foreman right guard for 4 yards (tackle by Cody Barton and Jordyn Brooks)
+106,3,3:53,1,10,SEA 14,20,17,Sam Darnold pass complete short right to Ian Thomas for 3 yards (tackle by Ryan Neal and Bryan Mone)
+107,3,3:09,2,7,SEA 11,20,17,Sam Darnold pass complete short left to Laviska Shenault for 5 yards (tackle by Quandre Diggs and Cody Barton)
+108,3,2:25,3,2,SEA 6,20,17,Chuba Hubbard up the middle for 1 yard (tackle by Ryan Neal)
+109,3,1:41,4,1,SEA 5,20,17,D'Onta Foreman right guard for 2 yards (tackle by Michael Jackson and Jordyn Brooks)
+110,3,0:56,1,3,SEA 3,20,17,Sam Darnold pass incomplete short right
+111,3,0:48,2,3,SEA 3,20,17,Sam Darnold pass incomplete short right intended for D.J. Moore
+112,3,0:45,3,3,SEA 3,20,17,Sam Darnold pass incomplete short middle intended for Tommy Tremble (defended by Ryan Neal)
+113,3,0:40,4,3,SEA 3,20,17,Sam Darnold pass incomplete short middle intended for Tommy Tremble (defended by Quandre Diggs)
+114,3,0:34,1,10,SEA 4,20,17,Geno Smith pass incomplete short right intended for D.K. Metcalf
+115,3,0:30,2,10,SEA 4,20,17,Geno Smith pass incomplete short left intended for Travis Homer (defended by C.J. Henderson)
+116,3,0:26,3,10,SEA 4,20,17,Geno Smith pass complete short left to Tyler Lockett for 10 yards (tackle by C.J. Henderson)
+117,4,15:00,1,10,SEA 14,20,17,Geno Smith pass complete short middle to Will Dissly for 12 yards (tackle by Shaq Thompson)
+118,4,14:23,1,10,SEA 26,20,17,Geno Smith pass complete deep left to D.K. Metcalf for 17 yards (tackle by Jaycee Horn)
+119,4,13:46,1,10,SEA 43,20,17,Travis Homer up the middle for no gain (tackle by Frankie Luvu and Yetur Gross-Matos)
+120,4,13:13,2,10,SEA 43,20,17,Geno Smith pass incomplete short left intended for Noah Fant
+121,4,13:09,3,10,SEA 43,20,17,Geno Smith sacked by and Shaq Thompson for -6 yards and Brian Burns for -6 yards
+122,4,12:32,4,16,SEA 37,20,17,"Michael Dickson punts 37 yards, recovered by Keith Taylor at CAR-26"
+123,4,12:23,1,10,CAR 26,20,17,Chuba Hubbard left guard for 11 yards (tackle by Uchenna Nwosu)
+124,4,11:50,1,10,CAR 37,20,17,Chuba Hubbard left end for 6 yards (tackle by Ryan Neal and Jordyn Brooks)
+125,4,11:06,2,4,CAR 43,20,17,Sam Darnold right tackle for 2 yards (tackle by Uchenna Nwosu)
+126,4,10:25,3,2,CAR 45,20,17,Chuba Hubbard up the middle for 12 yards (tackle by Quandre Diggs)
+127,4,9:44,1,10,SEA 43,20,17,Sam Darnold pass incomplete short right
+128,4,9:36,2,10,SEA 43,20,17,Raheem Blackshear left guard for 16 yards (tackle by Ryan Neal)
+129,4,8:55,1,10,SEA 27,20,17,Raheem Blackshear left tackle for 6 yards (tackle by Cody Barton and Ryan Neal)
+130,4,8:16,2,4,SEA 21,20,17,Chuba Hubbard left tackle for 7 yards (tackle by Cody Barton)
+131,4,7:35,1,10,SEA 14,20,17,Sam Darnold pass complete short right to Laviska Shenault for 6 yards (tackle by Coby Bryant)
+132,4,7:02,2,4,SEA 8,26,17,"Raheem Blackshear up the middle for 8 yards, touchdown"
+133,4,6:57,0,0,SEA 15,27,17,Eddy Pineiro kicks extra point good
+134,4,6:57,0,0,CAR 35,27,17,"Eddy Pineiro kicks off 65 yards, touchback."
+135,4,6:57,1,10,SEA 25,27,17,Geno Smith pass incomplete short right intended for Tyler Lockett
+136,4,6:53,2,10,SEA 25,27,17,Tony Jones right tackle for 2 yards (tackle by Shaq Thompson and Jeremy Chinn)
+137,4,6:31,3,8,SEA 27,27,17,"Geno Smith pass short left intended for D.K. Metcalf is intercepted by Jaycee Horn at SEA-37 and returned for no gain Replay Assistant challenged the pass interception ruling, and the original play was overturned. Geno Smith pass incomplete short left intended for D.K. Metcalf (defended by Jaycee Horn)"
+138,4,6:28,4,8,SEA 27,27,17,"Michael Dickson punts 49 yards, returned by Shi Smith for 11 yards (tackle by Carson Tinker)"
+139,4,6:17,1,10,CAR 35,27,17,D'Onta Foreman right guard for 11 yards (tackle by Jordyn Brooks)
+140,4,5:39,1,10,CAR 46,27,17,D'Onta Foreman left guard for 7 yards (tackle by Bryan Mone)
+141,4,4:52,2,3,SEA 47,27,17,Chuba Hubbard left guard for 7 yards (tackle by Cody Barton)
+142,4,4:05,1,10,SEA 40,27,17,D'Onta Foreman up the middle for 1 yard (tackle by Jordyn Brooks)
+143,4,3:19,2,9,SEA 39,27,17,"D'Onta Foreman left end for 3 yards (tackle by Tariq Woolen). Penalty on Tariq Woolen: Face Mask (15 Yards), 15 yards (accepted) "
+144,4,3:12,1,10,SEA 21,27,17,"Penalty on Cameron Erving: False Start, 5 yards (accepted) (no play)"
+145,4,3:12,1,15,SEA 26,27,17,D'Onta Foreman right guard for 3 yards (tackle by Myles Adams and L.J. Collier)
+146,4,3:06,2,12,SEA 23,27,17,D'Onta Foreman right guard for 2 yards (tackle by Myles Adams and Cody Barton)
+147,4,2:18,3,10,SEA 21,27,17,Chuba Hubbard up the middle for no gain (tackle by Quandre Diggs)
+148,4,2:00,4,10,SEA 21,30,17,Eddy Pineiro 39 yard field goal good
+149,4,1:56,0,0,CAR 35,30,17,"Eddy Pineiro kicks off 65 yards, touchback."
+150,4,1:56,1,10,SEA 25,30,17,"Geno Smith pass complete deep right to Tyler Lockett for 23 yards. Penalty on Brian Burns: Defensive Offside, 5 yards (declined) "
+151,4,1:49,1,10,SEA 48,30,17,Geno Smith sacked by Marquis Haynes for -13 yards
+152,4,1:14,2,23,SEA 35,30,17,Geno Smith pass complete short left to Colby Parkinson for 10 yards (tackle by T.J. Carrie)
+153,4,1:08,3,13,SEA 45,30,17,Geno Smith pass complete short middle to Travis Homer for 6 yards (tackle by Shaq Thompson)
+154,4,0:46,4,7,CAR 49,30,17,Geno Smith pass complete short right to D.K. Metcalf for 25 yards (tackle by Jaycee Horn and Myles Hartsfield)
+155,4,0:27,1,10,CAR 24,30,23,"Geno Smith pass complete short right to Marquise Goodwin for 24 yards, touchdown. Penalty on Brian Burns: Defensive Offside, 5 yards (declined) "
+156,4,0:16,0,0,CAR 15,30,24,Jason Myers kicks extra point good
+157,4,0:16,0,0,SEA 35,30,24,"Jason Myers kicks onside 9 yards, returned by Jaycee Horn for 3 yards"
+158,4,0:15,1,10,SEA 41,30,24,Sam Darnold kneels for -1 yards

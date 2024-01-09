@@ -1,0 +1,160 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,LAR 35,0,0,"Ethan Evans kicks off 65 yards, touchback."
+1,1,15:00,1,10,DAL 25,0,0,Dak Prescott sacked by Michael Hoecht for -5 yards
+2,1,14:30,2,15,DAL 20,0,0,Tony Pollard up the middle for 4 yards (tackle by Byron Young)
+3,1,13:48,3,11,DAL 24,0,0,"Dak Prescott sacked by Byron Young for no gain. Penalty on Quentin Lake: Illegal Contact, 6 yards (accepted) (no play)"
+4,1,13:28,1,10,DAL 30,0,0,Dak Prescott sacked by Aaron Donald for -7 yards
+5,1,12:49,2,17,DAL 23,0,0,Dak Prescott pass complete short middle to CeeDee Lamb for 17 yards (tackle by Cobie Durant and Ernest Jones)
+6,1,12:07,1,10,DAL 40,0,0,Dak Prescott pass complete short right to CeeDee Lamb for 5 yards (tackle by Quentin Lake and Jordan Fuller)
+7,1,11:34,2,5,DAL 45,0,0,Dak Prescott pass complete short right to Michael Gallup for 14 yards
+8,1,11:03,1,10,LAR 41,0,0,Dak Prescott pass complete short right to CeeDee Lamb for 4 yards (tackle by Ahkello Witherspoon)
+9,1,10:33,2,6,LAR 37,0,0,Dak Prescott pass incomplete short right intended for Jalen Tolbert (defended by Ahkello Witherspoon)
+10,1,10:30,3,6,LAR 37,0,0,Dak Prescott pass complete short left to Brandin Cooks for 19 yards (tackle by Derion Kendrick)
+11,1,9:49,1,10,LAR 18,0,6,"Dak Prescott pass complete deep middle to Jake Ferguson for 18 yards, touchdown"
+12,1,9:44,0,0,LAR 15,0,7,Brandon Aubrey kicks extra point good
+13,1,9:44,0,0,DAL 35,0,7,"Brandon Aubrey kicks off 65 yards, touchback."
+14,1,9:44,1,10,LAR 25,0,7,Darrell Henderson up the middle for 5 yards (tackle by Damone Clark and Jayron Kearse)
+15,1,9:07,2,5,LAR 30,0,7,Matthew Stafford pass complete short left to Darrell Henderson for 12 yards (tackle by Damone Clark)
+16,1,8:25,1,10,LAR 42,0,7,Matthew Stafford pass complete deep left to Tyler Higbee for 20 yards (tackle by Jayron Kearse)
+17,1,7:59,1,10,DAL 38,0,7,Darrell Henderson left tackle for -1 yards (tackle by DeMarcus Lawrence)
+18,1,7:30,2,11,DAL 39,0,7,Matthew Stafford pass incomplete short right intended for Tutu Atwell
+19,1,7:23,3,11,DAL 39,0,7,Matthew Stafford pass complete short right to Puka Nacua for 22 yards (tackle by DaRon Bland)
+20,1,6:46,1,10,DAL 17,0,7,Tutu Atwell left end for no gain (tackle by Malik Hooker)
+21,1,6:09,2,10,DAL 17,0,7,Matthew Stafford pass incomplete short middle intended for Cooper Kupp
+22,1,6:04,3,10,DAL 17,0,7,Matthew Stafford pass complete short left to Cooper Kupp for 2 yards (tackle by DaRon Bland)
+23,1,5:25,4,8,DAL 15,3,7,Lucas Havrisik 33 yard field goal good
+24,1,5:22,0,0,LAR 35,3,7,"Ethan Evans kicks off 65 yards, touchback."
+25,1,5:22,1,10,DAL 25,3,7,Dak Prescott pass complete short left to CeeDee Lamb for 17 yards (tackle by Ochaun Mathis)
+26,1,4:47,1,10,DAL 42,3,7,Dak Prescott scrambles up the middle for 7 yards (tackle by Ernest Jones)
+27,1,4:00,2,3,DAL 49,3,7,Tony Pollard right guard for 1 yard (tackle by Jonah Williams and Larrell Murchison)
+28,1,3:27,3,2,DAL 50,3,7,Dak Prescott left end for 2 yards (tackle by Quentin Lake)
+29,1,2:53,1,10,LAR 48,3,7,CeeDee Lamb left end for 12 yards (tackle by Ernest Jones and Derion Kendrick)
+30,1,2:18,1,10,LAR 36,3,7,Dak Prescott pass incomplete short right intended for Michael Gallup (defended by Quentin Lake)
+31,1,2:09,2,10,LAR 36,3,7,Tony Pollard left guard for 6 yards (tackle by Christian Rozeboom)
+32,1,1:35,3,4,LAR 30,3,7,Dak Prescott sacked by Aaron Donald for -10 yards
+33,1,0:48,4,14,LAR 40,3,10,Brandon Aubrey 58 yard field goal good
+34,1,0:43,0,0,DAL 35,3,10,"Brandon Aubrey kicks off 65 yards, touchback."
+35,1,0:43,1,10,LAR 25,3,16,"Matthew Stafford pass short left intended for Cooper Kupp is intercepted by DaRon Bland at LA-30 and returned for 30 yards, touchdown"
+36,1,0:36,0,0,LAR 15,3,17,Brandon Aubrey kicks extra point good
+37,1,0:36,0,0,DAL 35,3,17,"Brandon Aubrey kicks off 65 yards, touchback."
+38,1,0:36,1,10,LAR 25,3,17,Matthew Stafford pass complete short right to Tyler Higbee for -3 yards (tackle by Jayron Kearse and Neville Gallimore)
+39,2,15:00,2,13,LAR 22,3,17,Royce Freeman left tackle for 10 yards (tackle by Donovan Wilson and Jayron Kearse)
+40,2,14:27,3,3,LAR 32,3,17,Matthew Stafford sacked by Micah Parsons for -9 yards
+41,2,13:45,4,12,LAR 23,3,19,"Ethan Evans punts blocked by Sam Williams, safety."
+42,2,13:39,0,0,LAR 20,3,19,"Ethan Evans kicks off 56 yards, returned by KaVontae Turpin for 63 yards (tackle by Duke Shelley)"
+43,2,13:29,1,10,LAR 13,3,19,Brandin Cooks left end for 3 yards (tackle by Ernest Jones)
+44,2,12:50,2,7,LAR 10,3,25,"Dak Prescott pass complete short middle to CeeDee Lamb for 10 yards, touchdown"
+45,2,12:45,0,0,LAR 15,3,26,Brandon Aubrey kicks extra point good
+46,2,12:45,0,0,DAL 35,3,26,"Brandon Aubrey kicks off 65 yards, touchback."
+47,2,12:45,1,10,LAR 25,3,26,Darrell Henderson left tackle for 2 yards (tackle by DaRon Bland and Damone Clark)
+48,2,12:12,2,8,LAR 27,3,26,Matthew Stafford pass complete short left to Cooper Kupp for 5 yards (tackle by Jourdan Lewis)
+49,2,11:35,3,3,LAR 32,3,26,Matthew Stafford pass incomplete short right intended for Tutu Atwell
+50,2,11:30,4,3,LAR 32,3,26,Ethan Evans punts 48 yards downed by Tre'Vius Tomlinson
+51,2,11:18,1,10,DAL 20,3,26,Dak Prescott pass complete short right to Jake Ferguson for 12 yards (tackle by Jordan Fuller)
+52,2,10:38,1,10,DAL 32,3,26,Tony Pollard up the middle for -1 yards (tackle by Kobie Turner)
+53,2,10:08,2,11,DAL 31,3,26,Tony Pollard up the middle for 3 yards (tackle by Byron Young)
+54,2,9:23,3,8,DAL 34,3,26,Dak Prescott pass complete short middle to CeeDee Lamb for 21 yards (tackle by Jordan Fuller)
+55,2,8:48,1,10,LAR 45,3,26,Tony Pollard right tackle for 4 yards (tackle by Jonah Williams and Aaron Donald)
+56,2,8:16,2,6,LAR 41,3,26,Dak Prescott pass incomplete deep right intended for CeeDee Lamb
+57,2,8:08,3,6,LAR 41,3,26,Dak Prescott pass complete short left to KaVontae Turpin for 13 yards (tackle by Derion Kendrick)
+58,2,7:37,1,10,LAR 28,3,26,Rico Dowdle up the middle for 7 yards (tackle by Zach VanValkenburg and Russ Yeast)
+59,2,7:00,2,3,LAR 21,3,26,Dak Prescott pass complete short right to Jake Ferguson for 12 yards (tackle by Jordan Fuller)
+60,2,6:20,1,9,LAR 9,3,26,Dak Prescott pass short middle (defended by Kobie Turner) intended for Sean McKeon is intercepted by Jordan Fuller at LA-1 and returned for 18 yards (tackle by Dak Prescott)
+61,2,6:12,1,10,LAR 19,3,26,Matthew Stafford pass incomplete deep middle intended for Puka Nacua (defended by DaRon Bland)
+62,2,6:05,2,10,LAR 19,3,26,Darrell Henderson left tackle for 4 yards (tackle by Damone Clark)
+63,2,5:19,3,6,LAR 23,3,26,"Matthew Stafford sacked by Micah Parsons for no gain. Matthew Stafford fumbles (forced by Micah Parsons), recovered by Jourdan Lewis at LA-29 Replay Assistant challenged the fumble ruling, and the original play was overturned. Matthew Stafford pass incomplete short middle intended for Puka Nacua (defended by Micah Parsons)"
+64,2,5:15,4,6,LAR 23,3,26,"Ethan Evans punts 40 yards, returned by KaVontae Turpin for no gain (tackle by Tre'Vius Tomlinson)"
+65,2,5:08,1,10,DAL 37,3,26,Dak Prescott pass complete short right to Luke Schoonmaker for 13 yards (tackle by Christian Rozeboom)
+66,2,4:33,1,10,LAR 50,3,26,Dak Prescott pass complete short middle to CeeDee Lamb for 26 yards (tackle by Ernest Jones)
+67,2,3:52,1,10,LAR 24,3,26,Dak Prescott pass complete short left to CeeDee Lamb for no gain (tackle by Quentin Lake)
+68,2,3:14,2,10,LAR 24,3,26,Dak Prescott pass complete short left to Rico Dowdle for 2 yards (tackle by Christian Rozeboom)
+69,2,2:34,3,8,LAR 22,3,32,"Dak Prescott pass complete deep right to CeeDee Lamb for 22 yards, touchdown"
+70,2,2:27,0,0,LAR 15,3,33,Brandon Aubrey kicks extra point good
+71,2,2:27,0,0,DAL 35,3,33,"Brandon Aubrey kicks off 65 yards, touchback."
+72,2,2:27,1,10,LAR 25,3,33,Matthew Stafford pass complete short right to Cooper Kupp for 9 yards (tackle by Stephon Gilmore)
+73,2,2:06,2,1,LAR 34,3,33,Matthew Stafford pass incomplete short right intended for Puka Nacua
+74,2,2:02,3,1,LAR 34,3,33,"Royce Freeman left guard for no gain (tackle by Donovan Wilson). Penalty on Sam Williams: Defensive Offside, 5 yards (accepted) (no play)"
+75,2,1:59,1,10,LAR 39,3,33,Matthew Stafford pass incomplete deep right intended for Tyler Higbee
+76,2,1:54,2,10,LAR 39,3,33,"Matthew Stafford pass complete short right to Puka Nacua for no gain (tackle by Donovan Wilson). Penalty on Steve Avila: Offensive Holding, 10 yards (accepted) (no play)"
+77,2,1:47,2,20,LAR 29,3,33,Matthew Stafford pass complete short right to Tyler Higbee for 12 yards (tackle by Stephon Gilmore)
+78,2,1:40,3,8,LAR 41,3,33,Matthew Stafford pass complete deep left to Tutu Atwell for 20 yards (tackle by DaRon Bland)
+79,2,1:23,1,10,DAL 39,3,33,"Matthew Stafford scrambles left end for 9 yards (tackle by Donovan Wilson). Penalty on DaRon Bland: Defensive Holding, 5 yards (accepted) "
+80,2,1:14,1,10,DAL 25,3,33,Royce Freeman up the middle for 5 yards (tackle by Chauncey Golston and Dorance Armstrong)
+81,2,0:47,2,5,DAL 20,3,33,Royce Freeman up the middle for 6 yards (tackle by Markquese Bell and Sam Williams)
+82,2,0:40,1,10,DAL 14,3,33,Matthew Stafford pass complete short left to Puka Nacua for 8 yards (tackle by Markquese Bell)
+83,2,0:19,2,2,DAL 6,3,33,Matthew Stafford pass incomplete short right intended for Puka Nacua (defended by Stephon Gilmore)
+84,2,0:13,3,2,DAL 6,3,33,Darrell Henderson up the middle for 5 yards (tackle by Donovan Wilson and Osa Odighizuwa)
+85,2,0:09,1,1,DAL 1,9,33,"Royce Freeman up the middle for 1 yard, touchdown"
+86,2,0:04,0,0,DAL 2,9,33,Two Point Attempt: Matthew Stafford pass incomplete
+87,2,0:04,0,0,LAR 35,9,33,"Ethan Evans kicks off 41 yards, returned by Rico Dowdle for 8 yards (tackle by Ben Skowronek)"
+88,3,15:00,0,0,DAL 35,9,33,"Brandon Aubrey kicks off 65 yards, touchback."
+89,3,15:00,1,10,LAR 25,9,33,Darrell Henderson left end for 7 yards (tackle by Damone Clark)
+90,3,14:32,2,3,LAR 32,9,33,Matthew Stafford pass complete short left to Darrell Henderson for 32 yards (tackle by Jourdan Lewis and DaRon Bland)
+91,3,13:57,1,10,DAL 36,9,33,Darrell Henderson right guard for 2 yards (tackle by Osa Odighizuwa and Johnathan Hankins)
+92,3,13:17,2,8,DAL 34,9,33,Royce Freeman left end for 10 yards (tackle by DaRon Bland)
+93,3,12:46,1,10,DAL 24,9,33,Matthew Stafford pass complete short left to Tyler Higbee for 3 yards (tackle by Markquese Bell)
+94,3,12:12,2,7,DAL 21,9,33,Darrell Henderson up the middle for 1 yard (tackle by Markquese Bell)
+95,3,11:35,3,6,DAL 20,15,33,"Matthew Stafford pass complete short middle to Ben Skowronek for 20 yards, touchdown"
+96,3,11:29,0,0,DAL 2,17,33,"Two Point Attempt: Tutu Atwell pass complete to to Matthew Stafford for no gain Replay Assistant challenged the runner broke the plane ruling, and the play was upheld."
+97,3,11:29,0,0,LAR 35,17,33,"Ethan Evans kicks off 74 yards, returned by KaVontae Turpin for 25 yards (tackle by Ben Skowronek and Troy Reeder)"
+98,3,11:23,1,10,DAL 16,17,33,Tony Pollard up the middle for 9 yards (tackle by Michael Hoecht and Ernest Jones)
+99,3,10:53,2,1,DAL 25,17,33,Tony Pollard right end for 7 yards (tackle by Ahkello Witherspoon)
+100,3,10:18,1,10,DAL 32,17,33,Dak Prescott pass complete short left to Michael Gallup for 6 yards (tackle by Russ Yeast)
+101,3,9:42,2,4,DAL 38,17,33,Rico Dowdle left tackle for 5 yards (tackle by Ernest Jones)
+102,3,9:03,1,10,DAL 43,17,33,Dak Prescott pass complete short right to CeeDee Lamb for 4 yards (tackle by Ahkello Witherspoon)
+103,3,8:24,2,6,DAL 47,17,33,Tony Pollard up the middle for 3 yards (tackle by Jordan Fuller)
+104,3,7:40,3,3,DAL 50,17,33,"Penalty on KaVontae Turpin: False Start, 5 yards (accepted) (no play)"
+105,3,7:15,3,8,DAL 45,17,33,Dak Prescott scrambles left end for 9 yards (tackle by Russ Yeast)
+106,3,6:31,1,10,LAR 46,17,33,Dak Prescott scrambles right end for 1 yard (tackle by Christian Rozeboom)
+107,3,5:53,2,9,LAR 45,17,33,Dak Prescott pass incomplete deep middle intended for Brandin Cooks (defended by Derion Kendrick)
+108,3,5:46,3,9,LAR 45,17,33,Dak Prescott pass complete short right to CeeDee Lamb for 8 yards (tackle by Jordan Fuller)
+109,3,5:09,4,1,LAR 37,17,33,Dak Prescott pass complete short right to Brandin Cooks for 5 yards (tackle by Quentin Lake)
+110,3,4:30,1,10,LAR 32,17,33,Tony Pollard left end for 13 yards (tackle by Russ Yeast)
+111,3,3:45,1,10,LAR 19,17,33,Dak Prescott pass incomplete short middle intended for CeeDee Lamb (defended by Quentin Lake)
+112,3,3:40,2,10,LAR 19,17,33,"Dak Prescott pass incomplete short left intended for Rico Dowdle. Penalty on Derion Kendrick: Defensive Pass Interference, 4 yards (accepted) (no play)"
+113,3,3:32,1,10,LAR 15,17,33,Tony Pollard left tackle for no gain (tackle by Larrell Murchison and Kobie Turner)
+114,3,2:59,2,10,LAR 15,17,33,Tony Pollard up the middle for 4 yards (tackle by Jonah Williams and Kobie Turner)
+115,3,2:24,3,6,LAR 11,17,33,Dak Prescott pass complete short left to Tony Pollard for 2 yards (tackle by Christian Rozeboom)
+116,3,1:36,4,4,LAR 9,17,36,Brandon Aubrey 27 yard field goal good
+117,3,1:32,0,0,DAL 35,17,36,"Brandon Aubrey kicks off 65 yards, touchback."
+118,3,1:32,1,10,LAR 25,17,36,Royce Freeman right guard for 7 yards (tackle by Damone Clark and Donovan Wilson)
+119,3,0:51,2,3,LAR 32,17,36,Royce Freeman left guard for 1 yard (tackle by Mazi Smith)
+120,3,0:06,3,2,LAR 33,17,36,Brett Rypien pass incomplete deep left intended for Tyler Higbee
+121,4,15:00,4,2,LAR 33,17,36,Brett Rypien pass complete short right to Puka Nacua for 13 yards (tackle by Osa Odighizuwa)
+122,4,14:32,1,10,LAR 46,17,36,Brett Rypien pass incomplete short left intended for Cooper Kupp
+123,4,14:03,2,10,LAR 46,17,36,Darrell Henderson up the middle for -2 yards (tackle by Micah Parsons)
+124,4,13:47,3,12,LAR 44,17,36,Brett Rypien pass complete short right to Darrell Henderson for 10 yards (tackle by Donovan Wilson)
+125,4,13:24,4,2,DAL 46,17,36,Brett Rypien pass incomplete deep middle intended for Cooper Kupp
+126,4,13:19,1,10,DAL 46,17,36,Dak Prescott pass complete deep left to CeeDee Lamb for 24 yards (tackle by Derion Kendrick)
+127,4,13:08,1,10,LAR 30,17,36,Dak Prescott pass complete short left to Jake Ferguson for 5 yards (tackle by Derion Kendrick)
+128,4,12:24,2,5,LAR 25,17,42,"Dak Prescott pass complete deep right to Brandin Cooks for 25 yards, touchdown"
+129,4,12:19,0,0,LAR 15,17,43,Brandon Aubrey kicks extra point good
+130,4,12:19,0,0,DAL 35,17,43,"Brandon Aubrey kicks off 65 yards, touchback."
+131,4,12:19,1,10,LAR 25,17,43,Darrell Henderson left guard for 3 yards (tackle by Donovan Wilson)
+132,4,11:43,2,7,LAR 28,17,43,Darrell Henderson right end for 1 yard (tackle by DeMarcus Lawrence)
+133,4,11:01,3,6,LAR 29,17,43,Brett Rypien pass incomplete short right intended for Cooper Kupp
+134,4,10:34,4,6,LAR 29,17,43,"Ethan Evans punts 58 yards, returned by KaVontae Turpin for no gain. Penalty on Nahshon Wright: Offensive Holding, 6 yards (accepted) "
+135,4,10:34,1,10,DAL 7,17,43,Rico Dowdle left guard for 1 yard (tackle by Aaron Donald and Christian Rozeboom)
+136,4,9:57,2,9,DAL 8,17,43,Cooper Rush pass complete short right to Hunter Luepke for -2 yards (tackle by Ernest Jones)
+137,4,9:10,3,11,DAL 6,17,43,Rico Dowdle left guard for 2 yards (tackle by Russ Yeast and Cory Durden)
+138,4,8:30,4,9,DAL 8,17,43,"Bryan Anger punts 41 yards, returned by Austin Trammell for -5 yards (tackle by Sam Williams and Nahshon Wright)"
+139,4,8:19,1,10,LAR 46,17,43,Royce Freeman up the middle for 6 yards (tackle by Rashaan Evans)
+140,4,7:44,2,4,DAL 48,17,43,Tutu Atwell right end for 8 yards (tackle by Stephon Gilmore)
+141,4,7:18,1,10,DAL 40,17,43,Brett Rypien pass complete short left to Tyler Higbee for 13 yards (tackle by Stephon Gilmore)
+142,4,6:50,1,10,DAL 27,17,43,Brett Rypien pass complete short left to Cooper Kupp for 5 yards (tackle by DaRon Bland)
+143,4,6:16,2,5,DAL 22,17,43,Brett Rypien pass incomplete short middle intended for Cooper Kupp (defended by Neville Gallimore)
+144,4,6:12,3,5,DAL 22,17,43,"Penalty on LAR: Delay of Game, 5 yards (accepted) (no play)"
+145,4,6:12,3,10,DAL 27,17,43,Royce Freeman up the middle for -2 yards (tackle by Dante Fowler)
+146,4,5:34,4,12,DAL 29,20,43,Lucas Havrisik 47 yard field goal good
+147,4,5:31,0,0,LAR 35,20,43,"Lucas Havrisik kicks off 65 yards, touchback."
+148,4,5:31,1,10,DAL 25,20,43,Rico Dowdle up the middle for 3 yards (tackle by Larrell Murchison)
+149,4,4:24,2,7,DAL 28,20,43,Cooper Rush pass complete short right to Rico Dowdle for 5 yards (tackle by Christian Rozeboom)
+150,4,4:04,3,2,DAL 33,20,43,Cooper Rush pass incomplete deep left intended for KaVontae Turpin
+151,4,3:55,4,2,DAL 33,20,43,"Bryan Anger punts 52 yards, fair catch by Austin Trammell at LA-15"
+152,4,3:48,1,10,LAR 15,20,43,Darrell Henderson right tackle for 4 yards (tackle by Markquese Bell)
+153,4,3:13,2,6,LAR 19,20,43,Brett Rypien pass complete short left to Tutu Atwell for 1 yard (tackle by Markquese Bell)
+154,4,2:37,3,5,LAR 20,20,43,Brett Rypien sacked by Dorance Armstrong for -7 yards
+155,4,2:00,4,12,LAR 13,20,43,Ethan Evans punts 37 yards out of bounds
+156,4,1:53,1,10,DAL 50,20,43,Cooper Rush kneels for -1 yards
+157,4,1:13,2,11,DAL 49,20,43,Cooper Rush kneels for -1 yards
+158,4,0:37,3,12,DAL 48,20,43,Cooper Rush kneels for -1 yards

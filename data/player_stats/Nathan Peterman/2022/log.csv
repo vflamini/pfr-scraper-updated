@@ -1,0 +1,4 @@
+,date,week,team,game_location,opp,result,team_pts,opp_pts,cmp,att,pass_yds,pass_td,int,rating,sacked,rush_att,rush_yds,rush_td
+0,2022-12-18,15,CHI,,PHI,L,20,25,0,1,0,0,0,39.6,0,0,0,0
+1,2022-12-24,16,CHI,,BUF,L,13,35,3,5,25,0,1,33.3,0,0,0,0
+2,2023-01-08,18,CHI,,MIN,L,13,29,11,19,114,1,0,92.9,1,2,7,0

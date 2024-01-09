@@ -1,0 +1,167 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,NYJ 35,0,0,"Austin Seibert kicks off 65 yards, touchback."
+1,1,15:00,1,10,DAL 25,0,0,Tony Pollard right end for 4 yards (tackle by Michael Carter)
+2,1,14:32,2,6,DAL 29,0,0,Tony Pollard up the middle for 8 yards (tackle by C.J. Mosley)
+3,1,14:03,1,10,DAL 37,0,0,Dak Prescott pass complete short right to Tony Pollard for 4 yards (tackle by Quincy Williams)
+4,1,13:41,2,6,DAL 41,0,0,Rico Dowdle up the middle for 4 yards (tackle by John Franklin-Myers)
+5,1,13:05,3,2,DAL 45,0,0,Dak Prescott pass complete short left to CeeDee Lamb for 6 yards (tackle by C.J. Mosley)
+6,1,12:31,1,10,NYJ 49,0,0,"Dak Prescott pass complete deep left to CeeDee Lamb for 25 yards (tackle by Tony Adams). Penalty on D.J. Reed: Defensive Holding, 5 yards (declined) "
+7,1,12:17,1,10,NYJ 24,0,0,Tony Pollard right tackle for 2 yards (tackle by Solomon Thomas)
+8,1,11:49,2,8,NYJ 22,0,0,Dak Prescott pass complete short middle to Tony Pollard for 2 yards (tackle by Quincy Williams)
+9,1,11:10,3,6,NYJ 20,0,0,Dak Prescott scrambles left end for 15 yards (tackle by Tony Adams)
+10,1,10:29,1,5,NYJ 5,0,0,Tony Pollard up the middle for 2 yards (tackle by Quinnen Williams)
+11,1,10:00,2,3,NYJ 3,0,0,Tony Pollard left tackle for -1 yards (tackle by Quinnen Williams and Micheal Clemons)
+12,1,9:25,3,4,NYJ 4,0,6,"Dak Prescott pass complete short left to Jake Ferguson for 4 yards, touchdown"
+13,1,9:19,0,0,NYJ 15,0,7,Brandon Aubrey kicks extra point good
+14,1,9:19,0,0,DAL 35,0,7,"Brandon Aubrey kicks off 65 yards, touchback."
+15,1,9:19,1,10,NYJ 25,0,7,Breece Hall left end for -4 yards (tackle by DeMarcus Lawrence)
+16,1,8:39,2,14,NYJ 21,0,7,Zach Wilson pass complete short right to Allen Lazard for 9 yards (tackle by Stephon Gilmore)
+17,1,7:57,3,5,NYJ 30,0,7,Zach Wilson sacked by Micah Parsons for -7 yards
+18,1,7:12,4,12,NYJ 23,0,7,"Thomas Morstead punts 46 yards, fair catch by KaVontae Turpin at DAL-31"
+19,1,7:03,1,10,DAL 31,0,7,Dak Prescott pass complete short left to CeeDee Lamb for 5 yards (tackle by D.J. Reed)
+20,1,6:40,2,5,DAL 36,0,7,Deuce Vaughn right guard for no gain (tackle by Quinnen Williams)
+21,1,6:18,3,5,DAL 36,0,7,Dak Prescott pass complete short right to Deuce Vaughn for 4 yards (tackle by Quincy Williams)
+22,1,5:39,4,1,DAL 40,0,7,"Bryan Anger punts 50 yards, fair catch by Xavier Gipson at NYJ-10"
+23,1,5:31,1,10,NYJ 10,0,7,Dalvin Cook left guard for 3 yards (tackle by Damone Clark and Johnathan Hankins)
+24,1,4:57,2,7,NYJ 13,0,7,Dalvin Cook right tackle for 6 yards (tackle by Malik Hooker)
+25,1,4:21,3,1,NYJ 19,0,7,Dalvin Cook up the middle for no gain (tackle by Osa Odighizuwa and Dorance Armstrong)
+26,1,3:26,4,1,NYJ 19,0,7,Ashtyn Davis up the middle for 4 yards (tackle by Devin Harper and Dante Fowler)
+27,1,2:45,1,10,NYJ 23,0,7,Breece Hall for 9 yards (tackle by Trevon Diggs)
+28,1,2:11,2,1,NYJ 32,0,7,Zach Wilson pass incomplete short right intended for Garrett Wilson
+29,1,1:58,3,1,NYJ 32,0,7,Zach Wilson up the middle for no gain (tackle by Neville Gallimore and Chauncey Golston)
+30,1,1:03,4,1,NYJ 32,0,7,"Thomas Morstead punts 58 yards, fair catch by KaVontae Turpin at DAL-10. Penalty on DaRon Bland: Offensive Holding, 5 yards (accepted) "
+31,1,0:54,1,10,DAL 5,0,7,"Penalty on CeeDee Lamb: False Start, 2 yards (accepted) (no play)"
+32,1,0:54,1,12,DAL 3,0,7,"Dak Prescott pass complete short middle to CeeDee Lamb for 31 yards. CeeDee Lamb fumbles (forced by Sauce Gardner) (tackle by Jamien Sherwood), recovered by Tyler Biadasz at DAL-36 (tackle by Jamien Sherwood) (tackle by Jamien Sherwood) (tackle by Sauce Gardner) (tackle by Sauce Gardner)"
+33,1,0:09,1,10,DAL 36,0,7,Tony Pollard up the middle for 2 yards (tackle by Jamien Sherwood)
+34,2,15:00,2,8,DAL 38,0,7,Dak Prescott pass complete short right to Jalen Tolbert for 6 yards
+35,2,14:51,3,2,DAL 44,0,7,Dak Prescott pass complete short left to CeeDee Lamb for 12 yards (tackle by Tony Adams and Sauce Gardner)
+36,2,14:15,1,10,NYJ 44,0,7,Tony Pollard right guard for 4 yards (tackle by Quinton Jefferson and Jordan Whitehead)
+37,2,13:35,2,6,NYJ 40,0,7,Dak Prescott pass complete short right to Jalen Tolbert for 5 yards (tackle by Jordan Whitehead)
+38,2,12:57,3,1,NYJ 35,0,7,Dak Prescott up the middle for 2 yards (tackle by Jordan Whitehead)
+39,2,12:22,1,10,NYJ 33,0,7,Dak Prescott pass complete short left to Tony Pollard for 2 yards (tackle by Michael Carter)
+40,2,11:52,2,8,NYJ 31,0,7,Tony Pollard left end for 1 yard (tackle by Carl Lawson)
+41,2,11:20,3,7,NYJ 30,0,7,Dak Prescott pass complete short left to Jalen Tolbert for 7 yards (tackle by Tony Adams)
+42,2,10:44,1,10,NYJ 23,0,7,Rico Dowdle up the middle for 3 yards (tackle by Quincy Williams and D.J. Reed)
+43,2,10:08,2,7,NYJ 20,0,7,Dak Prescott pass incomplete short left
+44,2,9:56,3,7,NYJ 20,0,7,Dak Prescott pass complete short left to Michael Gallup for 3 yards (tackle by D.J. Reed)
+45,2,9:14,4,4,NYJ 17,0,10,Brandon Aubrey 35 yard field goal good
+46,2,9:10,0,0,DAL 35,0,10,"Brandon Aubrey kicks off 65 yards, touchback."
+47,2,9:10,1,10,NYJ 25,0,10,Zach Wilson pass incomplete short middle intended for Breece Hall
+48,2,9:06,2,10,NYJ 25,0,10,Breece Hall right tackle for 6 yards (tackle by Malik Hooker and Leighton Vander Esch)
+49,2,8:28,3,4,NYJ 31,0,10,Zach Wilson pass incomplete short left intended for Randall Cobb
+50,2,8:23,4,4,NYJ 31,0,10,"Thomas Morstead punts 46 yards, fair catch by KaVontae Turpin at DAL-23"
+51,2,8:16,1,10,DAL 23,0,10,Tony Pollard right tackle for 2 yards (tackle by Quincy Williams)
+52,2,7:47,2,8,DAL 25,0,10,Dak Prescott pass incomplete short middle intended for Michael Gallup (defended by C.J. Mosley)
+53,2,7:40,3,8,DAL 25,0,10,Dak Prescott pass incomplete deep left intended for Jalen Tolbert
+54,2,7:33,4,8,DAL 25,0,10,"Bryan Anger punts 50 yards, returned by Xavier Gipson for 7 yards (tackle by Devin Harper)"
+55,2,7:21,1,10,NYJ 32,6,10,"Zach Wilson pass complete short middle to Garrett Wilson for 68 yards, touchdown"
+56,2,7:12,0,0,DAL 15,7,10,Austin Seibert kicks extra point good
+57,2,7:12,0,0,NYJ 35,7,10,"Austin Seibert kicks off 65 yards, touchback."
+58,2,7:12,1,10,DAL 25,7,10,Dak Prescott pass complete short left to Deuce Vaughn for 1 yard (tackle by Michael Carter)
+59,2,6:32,2,9,DAL 26,7,10,Dak Prescott pass complete deep left to CeeDee Lamb for 20 yards (tackle by Tony Adams)
+60,2,6:14,1,10,DAL 46,7,10,Dak Prescott pass complete short right to CeeDee Lamb for 7 yards (tackle by Quinnen Williams)
+61,2,5:49,2,3,NYJ 47,7,10,Dak Prescott pass incomplete short right intended for CeeDee Lamb (defended by Sauce Gardner)
+62,2,5:41,3,3,NYJ 47,7,10,Dak Prescott pass complete short right to KaVontae Turpin for 9 yards (tackle by Adrian Amos)
+63,2,5:14,1,10,NYJ 38,7,10,Dak Prescott pass incomplete short right intended for CeeDee Lamb (defended by Quincy Williams)
+64,2,5:13,2,10,NYJ 38,7,10,Dak Prescott pass complete short right to Deuce Vaughn for 11 yards (tackle by Sauce Gardner)
+65,2,4:35,1,10,NYJ 27,7,10,Deuce Vaughn right end for 13 yards (tackle by Jordan Whitehead)
+66,2,4:05,1,10,NYJ 14,7,10,Deuce Vaughn up the middle for 3 yards (tackle by John Franklin-Myers and Quinton Jefferson)
+67,2,3:35,2,7,NYJ 11,7,10,Dak Prescott pass complete short right to Tony Pollard for no gain (tackle by Jordan Whitehead)
+68,2,2:47,3,7,NYJ 11,7,10,"Dak Prescott pass incomplete short left intended for CeeDee Lamb (defended by Michael Carter). Penalty on John Franklin-Myers: Roughing the Passer, 6 yards (accepted) (no play)"
+69,2,2:47,1,5,NYJ 5,7,10,Tony Pollard left tackle for -1 yards (tackle by Al Woods and C.J. Mosley)
+70,2,2:15,2,6,NYJ 6,7,10,Dak Prescott sacked by Solomon Thomas for -7 yards
+71,2,2:00,3,13,NYJ 13,7,10,"Dak Prescott pass incomplete short left intended for Jalen Tolbert. Penalty on Brandin Echols: Defensive Pass Interference, 12 yards (accepted) (no play)"
+72,2,1:56,1,1,NYJ 1,7,16,"Dak Prescott pass complete short left to Luke Schoonmaker for 1 yard, touchdown. Penalty on Micheal Clemons: Roughing the Passer, 1 yard (accepted) . Penalty on Samuel Eguavoen: Defensive Holding, 5 yards (declined) "
+73,2,1:52,1,1,NYJ 1,7,18,"Two Point Attempt: Tony Pollard rushes, conversion succeeds."
+74,2,1:52,0,0,DAL 35,7,18,"Brandon Aubrey kicks off 65 yards, touchback."
+75,2,1:52,1,10,NYJ 25,7,18,Zach Wilson pass complete short right to Tyler Conklin for 8 yards (tackle by Markquese Bell)
+76,2,1:32,2,2,NYJ 33,7,18,Zach Wilson pass complete short middle to Michael Carter for 3 yards (tackle by Leighton Vander Esch)
+77,2,1:12,1,10,NYJ 36,7,18,Zach Wilson pass complete short right to Tyler Conklin for 6 yards (tackle by Markquese Bell)
+78,2,0:50,2,4,NYJ 42,7,18,Zach Wilson scrambles right end for 3 yards (tackle by DeMarcus Lawrence)
+79,2,0:50,3,1,NYJ 45,7,18,Michael Carter left end for 6 yards (tackle by Markquese Bell)
+80,2,0:45,1,10,DAL 49,7,18,Zach Wilson scrambles up the middle for 12 yards (tackle by Leighton Vander Esch)
+81,2,0:38,1,10,DAL 37,7,18,Zach Wilson scrambles right end for 16 yards (tackle by Jayron Kearse)
+82,2,0:30,1,10,DAL 21,7,18,Zach Wilson scrambles up the middle for 5 yards (tackle by Jayron Kearse)
+83,2,0:13,2,5,DAL 16,7,18,Zach Wilson spiked the ball
+84,2,0:12,3,5,DAL 16,7,18,Zach Wilson pass incomplete short left intended for Garrett Wilson (defended by DeMarcus Lawrence)
+85,2,0:07,4,5,DAL 16,10,18,Austin Seibert 34 yard field goal good
+86,2,0:04,0,0,NYJ 35,10,18,"Austin Seibert kicks off 46 yards, recovered by Hunter Luepke at DAL-24"
+87,2,0:01,1,10,DAL 24,10,18,Dak Prescott kneels for -1 yards
+88,3,15:00,0,0,DAL 35,10,18,"Brandon Aubrey kicks off 65 yards, touchback."
+89,3,15:00,1,10,NYJ 25,10,18,Zach Wilson pass incomplete short middle intended for Breece Hall
+90,3,14:55,2,10,NYJ 25,10,18,Breece Hall up the middle for -2 yards (tackle by Micah Parsons)
+91,3,14:18,3,12,NYJ 23,10,18,"Penalty on Mekhi Becton: False Start, 5 yards (accepted) (no play)"
+92,3,14:18,3,17,NYJ 18,10,18,Michael Carter left tackle for 2 yards (tackle by Dorance Armstrong)
+93,3,13:38,4,15,NYJ 20,10,18,Thomas Morstead punts 38 yards out of bounds
+94,3,13:16,1,10,DAL 42,10,18,Tony Pollard right guard for 23 yards (tackle by Jermaine Johnson)
+95,3,12:43,1,10,NYJ 35,10,18,Tony Pollard right end for -4 yards (tackle by Quinnen Williams)
+96,3,12:15,2,14,NYJ 39,10,18,Dak Prescott pass complete short left to CeeDee Lamb for no gain (tackle by Jermaine Johnson)
+97,3,11:39,3,14,NYJ 39,10,18,Dak Prescott pass complete short right to CeeDee Lamb for 15 yards
+98,3,11:09,1,10,NYJ 24,10,18,Tony Pollard left end for 6 yards (tackle by Adrian Amos)
+99,3,10:34,2,4,NYJ 18,10,18,KaVontae Turpin right end for 6 yards (tackle by C.J. Mosley)
+100,3,9:57,1,10,NYJ 12,10,18,Rico Dowdle up the middle for 9 yards (tackle by C.J. Mosley)
+101,3,9:17,2,1,NYJ 3,10,18,Rico Dowdle up the middle for 2 yards (tackle by Carl Lawson and Jordan Whitehead)
+102,3,8:42,1,1,NYJ 1,10,18,Peyton Hendershot right end for no gain (tackle by Jordan Whitehead)
+103,3,8:10,2,1,NYJ 1,10,18,Rico Dowdle right end for -2 yards (tackle by C.J. Mosley and Micheal Clemons)
+104,3,7:32,3,3,NYJ 3,10,18,Dak Prescott pass incomplete short right intended for Jake Ferguson
+105,3,7:27,4,3,NYJ 3,10,21,Brandon Aubrey 21 yard field goal good
+106,3,7:24,0,0,DAL 35,10,21,"Brandon Aubrey kicks off 65 yards, touchback."
+107,3,7:24,1,10,NYJ 25,10,21,Zach Wilson pass complete short right to Allen Lazard for 14 yards (tackle by Stephon Gilmore)
+108,3,6:48,1,10,NYJ 39,10,21,"Dalvin Cook right end for no gain. Dalvin Cook fumbles (forced by Micah Parsons), recovered by Micah Parsons at NYJ-37, touchdown Replay Assistant challenged the fumble ruling, and the original play was overturned. Dalvin Cook left end for -2 yards. Dalvin Cook fumbles (forced by Micah Parsons), recovered by Micah Parsons at NYJ-37 (tackle by Laken Tomlinson)"
+109,3,6:41,1,10,NYJ 37,10,21,KaVontae Turpin left end for no gain (tackle by Jamien Sherwood and C.J. Mosley)
+110,3,6:07,2,10,NYJ 37,10,21,Dak Prescott pass complete short right to CeeDee Lamb for 1 yard (tackle by Sauce Gardner)
+111,3,5:28,3,9,NYJ 36,10,21,Dak Prescott pass incomplete short right intended for Tony Pollard
+112,3,5:24,4,9,NYJ 36,10,24,Brandon Aubrey 55 yard field goal good
+113,3,5:19,0,0,DAL 35,10,24,"Brandon Aubrey kicks off 65 yards, touchback."
+114,3,5:19,1,10,NYJ 25,10,24,Zach Wilson sacked by Osa Odighizuwa for -7 yards
+115,3,4:41,2,17,NYJ 18,10,24,Zach Wilson pass incomplete short right intended for Garrett Wilson
+116,3,4:38,3,17,NYJ 18,10,24,Zach Wilson pass complete short right to Tyler Conklin for 8 yards (tackle by DaRon Bland)
+117,3,3:53,4,9,NYJ 26,10,24,"Thomas Morstead punts 53 yards, fair catch by KaVontae Turpin at DAL-21"
+118,3,3:44,1,10,DAL 21,10,24,Tony Pollard up the middle for 3 yards (tackle by D.J. Reed and Al Woods)
+119,3,3:18,2,7,DAL 24,10,24,Dak Prescott pass complete short right to Tony Pollard for 7 yards (tackle by Ashtyn Davis and C.J. Mosley)
+120,3,2:34,1,10,DAL 31,10,24,Tony Pollard up the middle for 3 yards (tackle by Jamien Sherwood)
+121,3,2:04,2,7,DAL 34,10,24,Dak Prescott pass complete short right to Rico Dowdle for 17 yards (tackle by Jamien Sherwood and Adrian Amos)
+122,3,1:29,1,10,NYJ 49,10,24,Rico Dowdle right guard for 5 yards (tackle by Jordan Whitehead)
+123,3,0:52,2,5,NYJ 44,10,24,Tony Pollard left tackle for no gain (tackle by Brandin Echols)
+124,3,0:24,3,5,NYJ 44,10,24,Dak Prescott pass complete short right to Tony Pollard for 19 yards (tackle by Sauce Gardner)
+125,4,15:00,1,10,NYJ 25,10,24,"Penalty on Terence Steele: False Start, 5 yards (accepted) (no play)"
+126,4,14:59,1,15,NYJ 30,10,24,Dak Prescott pass complete short left to CeeDee Lamb for 21 yards (tackle by D.J. Reed)
+127,4,14:20,1,9,NYJ 9,10,24,Tony Pollard left end for -4 yards (tackle by Bryce Huff)
+128,4,13:40,2,13,NYJ 13,10,24,Tony Pollard left tackle for 2 yards (tackle by C.J. Mosley and Quinnen Williams)
+129,4,13:01,3,11,NYJ 11,10,24,Dak Prescott pass complete short left to Tony Pollard for 3 yards (tackle by Sauce Gardner)
+130,4,12:27,4,8,NYJ 8,10,27,Brandon Aubrey 26 yard field goal good
+131,4,12:23,0,0,DAL 35,10,27,"Brandon Aubrey kicks off 65 yards, touchback."
+132,4,12:23,1,10,NYJ 25,10,27,Zach Wilson pass complete short right to Garrett Wilson for 15 yards (tackle by Stephon Gilmore)
+133,4,11:55,1,10,NYJ 40,10,27,Zach Wilson pass incomplete short middle intended for Tyler Conklin (defended by Micah Parsons)
+134,4,11:41,2,10,NYJ 40,10,27,"Zach Wilson pass short right intended for Garrett Wilson is intercepted by Jayron Kearse at NYJ-49 and returned for 32 yards (tackle by Duane Brown). Penalty on Mekhi Becton: Offensive Holding, 10 yards (declined) "
+135,4,11:36,1,10,NYJ 17,10,27,Tony Pollard up the middle for 8 yards (tackle by Adrian Amos)
+136,4,10:52,2,2,NYJ 9,10,27,Tony Pollard left guard for 3 yards (tackle by Jermaine Johnson)
+137,4,10:07,1,6,NYJ 6,10,27,Tony Pollard left guard for no gain (tackle by Jamien Sherwood)
+138,4,9:28,2,6,NYJ 6,10,27,"Tony Pollard right tackle for no gain, touchdown. Penalty on Tyron Smith: Offensive Holding, 10 yards (accepted) (no play)"
+139,4,9:18,2,16,NYJ 16,10,27,Dak Prescott pass complete short right to Jake Ferguson for 1 yard (tackle by Quincy Williams)
+140,4,8:37,3,15,NYJ 15,10,27,"Tony Pollard up the middle for 3 yards (tackle by Quinton Jefferson) Penalty on DAL: Illegal Shift, 5 yards (declined) "
+141,4,8:22,4,12,NYJ 12,10,30,Brandon Aubrey 30 yard field goal good
+142,4,8:18,0,0,DAL 35,10,30,"Brandon Aubrey kicks off 65 yards, touchback."
+143,4,8:18,1,10,NYJ 25,10,30,Zach Wilson pass incomplete deep left intended for Garrett Wilson (defended by Trevon Diggs)
+144,4,8:12,2,10,NYJ 25,10,30,Zach Wilson pass complete short right to Mecole Hardman for 6 yards (tackle by Dante Fowler and Stephon Gilmore)
+145,4,7:32,3,4,NYJ 31,10,30,"Zach Wilson pass complete to Allen Lazard for no gain. Penalty on Duane Brown: Offensive Holding, 10 yards (accepted) Replay Assistant challenged the pass completion ruling, and the original play was overturned. Zach Wilson pass incomplete deep left intended for Allen Lazard (defended by Malik Hooker). Penalty on Duane Brown: Offensive Holding, 10 yards (declined) "
+146,4,7:32,4,4,NYJ 31,10,30,"Zach Wilson pass incomplete intended for Allen Lazard. Penalty on Stephon Gilmore: Defensive Pass Interference, 10 yards (accepted) (no play)"
+147,4,7:21,1,10,NYJ 41,10,30,"Penalty on Mekhi Becton: False Start, 5 yards (accepted) (no play)"
+148,4,7:21,1,15,NYJ 36,10,30,Zach Wilson pass complete short right to Tyler Conklin for 17 yards (tackle by Stephon Gilmore)
+149,4,6:52,1,10,DAL 47,10,30,Zach Wilson sacked by Micah Parsons for -5 yards
+150,4,6:12,2,15,NYJ 48,10,30,Zach Wilson pass deep left intended for Garrett Wilson is intercepted by Malik Hooker at DAL-8 and returned for no gain (tackle by Garrett Wilson)
+151,4,6:02,1,10,DAL 8,10,30,Tony Pollard right guard for 6 yards (tackle by Micheal Clemons and Jamien Sherwood)
+152,4,5:17,2,4,DAL 14,10,30,Tony Pollard right guard for 3 yards (tackle by Micheal Clemons)
+153,4,4:36,3,1,DAL 17,10,30,Tony Pollard for -3 yards (tackle by Jordan Whitehead and Quinton Jefferson)
+154,4,4:02,4,4,DAL 14,10,30,"Bryan Anger punts 55 yards, fair catch by Xavier Gipson at NYJ-31"
+155,4,3:56,1,10,NYJ 31,10,30,Zach Wilson pass complete short middle to Tyler Conklin for 11 yards (tackle by Markquese Bell and Leighton Vander Esch)
+156,4,3:33,1,10,NYJ 42,10,30,Zach Wilson pass incomplete short left
+157,4,3:26,2,10,NYJ 42,10,30,Zach Wilson pass incomplete deep right intended for Allen Lazard
+158,4,3:18,3,10,NYJ 42,10,30,Zach Wilson pass complete short right to Dalvin Cook for 5 yards (tackle by Juanyeh Thomas)
+159,4,3:12,4,5,NYJ 47,10,30,"Zach Wilson pass incomplete short middle intended for Garrett Wilson. Penalty on DaRon Bland: Defensive Pass Interference, 6 yards (accepted) (no play)"
+160,4,3:07,1,10,DAL 47,10,30,Zach Wilson pass short left intended for Michael Carter is intercepted by Trevon Diggs at DAL-45 and returned for 8 yards (tackle by Michael Carter)
+161,4,3:00,1,10,NYJ 47,10,30,Rico Dowdle right guard for 5 yards (tackle by Jermaine Johnson)
+162,4,2:17,2,5,NYJ 42,10,30,Dak Prescott pass complete short right to Jake Ferguson for 6 yards (tackle by Quincy Williams)
+163,4,2:00,1,10,NYJ 36,10,30,Dak Prescott kneels for -1 yards
+164,4,1:21,2,11,NYJ 37,10,30,Dak Prescott kneels for no gain
+165,4,0:37,3,11,NYJ 37,10,30,Dak Prescott kneels for -1 yards

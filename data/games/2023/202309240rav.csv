@@ -1,0 +1,198 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,BAL 35,0,0,"Justin Tucker kicks off 65 yards, touchback."
+1,1,15:00,1,10,IND 25,0,0,Zack Moss left end for 24 yards (tackle by Daryl Worley)
+2,1,14:37,1,10,IND 49,0,0,Zack Moss left tackle for 2 yards (tackle by David Ojabo and Michael Pierce)
+3,1,14:01,2,8,BAL 49,0,0,Gardner Minshew pass incomplete deep left intended for Alec Pierce
+4,1,13:56,3,8,BAL 49,0,0,Gardner Minshew sacked by Kyle Hamilton for -10 yards
+5,1,13:17,4,18,IND 41,0,0,"Rigoberto Sanchez punts 46 yards, returned by Devin Duvernay for 7 yards (tackle by Andrew Ogletree)"
+6,1,13:06,1,10,BAL 20,0,0,Lamar Jackson left end for 11 yards (tackle by Rodney Thomas)
+7,1,12:29,1,10,BAL 31,0,0,Lamar Jackson pass complete short middle to Mark Andrews for 5 yards (tackle by Shaquille Leonard and Zaire Franklin)
+8,1,11:56,2,5,BAL 36,0,0,Gus Edwards up the middle for -1 yards (tackle by Samson Ebukam)
+9,1,11:21,3,6,BAL 35,0,0,Lamar Jackson pass complete short right to Zay Flowers for 6 yards (tackle by Julius Brents)
+10,1,10:43,1,10,BAL 41,0,0,Lamar Jackson pass complete short middle to Zay Flowers for 8 yards (tackle by Julius Brents)
+11,1,10:10,2,2,BAL 49,0,0,Lamar Jackson scrambles up the middle for 5 yards (tackle by Shaquille Leonard)
+12,1,9:33,1,10,IND 46,0,0,Gus Edwards left guard for 5 yards (tackle by Taven Bryan and Dayo Odeyingbo)
+13,1,8:54,2,5,IND 41,0,0,Lamar Jackson pass complete short left to Rashod Bateman for 6 yards (tackle by Dallis Flowers)
+14,1,8:27,1,10,IND 35,0,0,Lamar Jackson scrambles right end for 2 yards (tackle by Kenny Moore)
+15,1,7:52,2,8,IND 33,0,0,Lamar Jackson pass complete deep right to Isaiah Likely for 20 yards (tackle by Rodney Thomas)
+16,1,7:14,1,10,IND 13,0,0,Gus Edwards right guard for 5 yards (tackle by Samson Ebukam)
+17,1,6:42,2,5,IND 8,0,6,"Lamar Jackson right end for 8 yards, touchdown"
+18,1,6:35,0,0,IND 15,0,7,Justin Tucker kicks extra point good
+19,1,6:35,0,0,BAL 35,0,7,"Justin Tucker kicks off 65 yards, touchback."
+20,1,6:35,1,10,IND 25,0,7,Gardner Minshew pass complete short left to Josh Downs for 5 yards (tackle by Brandon Stephens)
+21,1,6:17,2,5,IND 30,0,7,Zack Moss left guard for 4 yards (tackle by Brandon Stephens and Travis Jones)
+22,1,5:43,3,1,IND 34,0,7,Zack Moss left guard for 2 yards (tackle by Tavius Robinson and Kyle Hamilton)
+23,1,4:58,1,10,IND 36,0,7,Gardner Minshew pass complete short middle to Kylen Granson for 2 yards (tackle by Jeremiah Moon)
+24,1,4:18,2,8,IND 38,0,7,Gardner Minshew pass incomplete short left intended for Michael Pittman (defended by Brandon Stephens)
+25,1,4:13,3,8,IND 38,0,7,Gardner Minshew sacked by Kyle Hamilton for -10 yards
+26,1,3:36,4,18,IND 28,0,7,Rigoberto Sanchez punts 47 yards out of bounds
+27,1,3:27,1,10,BAL 25,0,7,Gus Edwards up the middle for 9 yards (tackle by Julian Blackmon)
+28,1,2:52,2,1,BAL 34,0,7,Lamar Jackson pass complete deep right to Mark Andrews for 20 yards (tackle by Rodney Thomas)
+29,1,2:17,1,10,IND 46,0,7,"Lamar Jackson pass complete short middle to Kenyan Drake for 24 yards. Kenyan Drake fumbles (forced by Julius Brents), recovered by Julius Brents at IND-20"
+30,1,2:07,1,10,IND 20,0,7,Zack Moss up the middle for 3 yards (tackle by Michael Pierce)
+31,1,1:35,2,7,IND 23,0,7,Zack Moss left tackle for 12 yards (tackle by Geno Stone)
+32,1,1:04,1,10,IND 35,0,7,Gardner Minshew pass incomplete short right intended for Andrew Ogletree (defended by Roquan Smith)
+33,1,1:00,2,10,IND 35,0,7,Gardner Minshew pass complete short right to Isaiah McKenzie for 3 yards (tackle by Daryl Worley and Roquan Smith)
+34,1,0:20,3,7,IND 38,0,7,Gardner Minshew pass complete short middle to Michael Pittman for 13 yards (tackle by Geno Stone)
+35,2,15:00,1,10,BAL 49,0,7,Zack Moss right guard for -1 yards (tackle by Brent Urban)
+36,2,14:23,2,11,BAL 50,0,7,Gardner Minshew pass complete short left to Michael Pittman for no gain (tackle by Kyle Hamilton)
+37,2,13:45,3,11,BAL 50,0,7,Gardner Minshew pass complete short left to Michael Pittman for 4 yards (tackle by Patrick Queen and Brandon Stephens)
+38,2,13:04,4,7,BAL 46,0,7,Rigoberto Sanchez punts 39 yards downed by Segun Olubi
+39,2,12:56,1,10,BAL 7,0,7,Melvin Gordon up the middle for 2 yards (tackle by Zaire Franklin and Kenny Moore)
+40,2,12:21,2,8,BAL 9,0,7,Melvin Gordon left guard for 4 yards (tackle by Kwity Paye and Grover Stewart)
+41,2,11:39,3,4,BAL 13,0,7,"Lamar Jackson sacked by Samson Ebukam for -5 yards. Lamar Jackson fumbles (forced by Samson Ebukam), recovered by Lamar Jackson at BAL-8"
+42,2,10:48,4,9,BAL 8,0,7,Jordan Stout punts 65 yards downed by Trenton Simpson
+43,2,10:36,1,10,IND 27,0,7,Gardner Minshew pass complete deep middle to Alec Pierce for 23 yards (tackle by Geno Stone)
+44,2,10:03,1,10,BAL 50,0,7,Trey Sermon right guard for 2 yards (tackle by Brent Urban)
+45,2,9:19,2,8,BAL 48,0,7,Gardner Minshew pass complete short middle to Kylen Granson for 7 yards (tackle by Geno Stone)
+46,2,8:57,3,1,BAL 41,0,7,Zack Moss up the middle for 2 yards (tackle by Kyle Hamilton and Jeremiah Moon)
+47,2,8:30,1,10,BAL 39,0,7,Gardner Minshew pass complete short right to Josh Downs for 9 yards (tackle by Rock Ya-Sin)
+48,2,8:07,2,1,BAL 30,0,7,Zack Moss up the middle for 6 yards (tackle by Patrick Queen and Daryl Worley)
+49,2,7:40,1,10,BAL 24,0,7,Gardner Minshew pass complete short left to Josh Downs for 5 yards (tackle by Kyle Hamilton)
+50,2,6:56,2,5,BAL 19,0,7,Gardner Minshew pass complete short middle to Michael Pittman for 2 yards (tackle by Brandon Stephens)
+51,2,6:13,3,3,BAL 17,6,7,"Gardner Minshew pass complete short right to Zack Moss for 17 yards, touchdown"
+52,2,6:07,0,0,BAL 15,7,7,Matt Gay kicks extra point good
+53,2,6:07,0,0,IND 35,7,7,"Matt Gay kicks off 61 yards, returned by Devin Duvernay for 20 yards (tackle by Grant Stuard)"
+54,2,6:03,1,10,BAL 24,7,7,"Lamar Jackson sacked by Taven Bryan for -5 yards. Lamar Jackson fumbles (forced by Taven Bryan), recovered by Kwity Paye at BAL-19 and returned for -5 yards"
+55,2,5:58,1,10,BAL 19,7,7,Zack Moss up the middle for 2 yards (tackle by Patrick Queen and Jeremiah Moon)
+56,2,5:17,2,8,BAL 17,7,7,Gardner Minshew pass complete short middle to Michael Pittman for 7 yards (tackle by Ronald Darby)
+57,2,4:57,3,1,BAL 10,7,7,Zack Moss up the middle for 1 yard (tackle by Geno Stone and Roquan Smith)
+58,2,4:18,1,9,BAL 9,7,7,Zack Moss left tackle for 2 yards (tackle by Justin Madubuike and Roquan Smith)
+59,2,3:38,2,7,BAL 7,7,7,Gardner Minshew pass incomplete short middle intended for Zack Moss
+60,2,3:34,3,7,BAL 7,7,7,Gardner Minshew pass incomplete short left intended for Kylen Granson
+61,2,3:30,4,7,BAL 7,7,7,"Penalty on IND: Delay of Game, 5 yards (accepted) (no play)"
+62,2,3:28,4,12,BAL 12,10,7,Matt Gay 31 yard field goal good
+63,2,3:26,0,0,IND 35,10,7,"Matt Gay kicks off 65 yards, touchback."
+64,2,3:26,1,10,BAL 25,10,7,Lamar Jackson left end for 5 yards (tackle by Julian Blackmon)
+65,2,2:55,2,5,BAL 30,10,7,"Kenyan Drake right end for no gain (tackle by Zaire Franklin). Penalty on Zay Flowers: Illegal Shift, 5 yards (declined) "
+66,2,2:41,3,5,BAL 30,10,7,"Sam Mustipher aborted snap, recovered by Lamar Jackson at BAL-30"
+67,2,2:00,4,16,BAL 19,10,7,"Jordan Stout punts 51 yards, returned by Isaiah McKenzie for 16 yards (tackle by Isaiah Likely and Jalyn Armour-Davis)"
+68,2,1:49,1,10,IND 46,10,7,Zack Moss right tackle for 3 yards (tackle by Travis Jones)
+69,2,1:33,2,7,IND 49,10,7,Zack Moss up the middle for 6 yards (tackle by Jadeveon Clowney)
+70,2,1:14,3,1,BAL 45,10,7,Zack Moss up the middle for 2 yards (tackle by Daryl Worley and Roquan Smith)
+71,2,0:52,1,10,BAL 43,10,7,Gardner Minshew pass incomplete deep right intended for Michael Pittman (defended by Ronald Darby)
+72,2,0:47,2,10,BAL 43,10,7,"Penalty on Quenton Nelson: False Start, 5 yards (accepted) (no play)"
+73,2,0:47,2,15,BAL 48,10,7,Gardner Minshew pass complete short left to Josh Downs for 6 yards (tackle by Kyle Hamilton)
+74,2,0:42,3,9,BAL 42,10,7,"Gardner Minshew sacked by Kyle Hamilton for -16 yards. Gardner Minshew fumbles (forced by Kyle Hamilton), recovered by Michael Pittman at IND-43"
+75,2,0:27,4,24,IND 43,10,7,"Rigoberto Sanchez punts 50 yards, returned by Devin Duvernay for 5 yards (tackle by Jaylon Jones)"
+76,2,0:18,1,10,BAL 12,10,7,Gus Edwards right guard for 14 yards (tackle by Shaquille Leonard and Julian Blackmon)
+77,3,15:00,0,0,IND 35,10,7,"Matt Gay kicks off 65 yards, touchback."
+78,3,15:00,1,10,BAL 25,10,7,Gus Edwards right guard for 3 yards (tackle by Zaire Franklin)
+79,3,14:25,2,7,BAL 28,10,7,Lamar Jackson pass complete short left to Zay Flowers for 6 yards (tackle by Zaire Franklin and Julian Blackmon)
+80,3,14:08,3,1,BAL 34,10,7,Gus Edwards left tackle for 2 yards (tackle by Dayo Odeyingbo)
+81,3,13:33,1,10,BAL 36,10,7,"Penalty on Morgan Moses: False Start, 5 yards (accepted) (no play)"
+82,3,13:14,1,15,BAL 31,10,7,Lamar Jackson pass complete short middle to Mark Andrews for 3 yards (tackle by Julian Blackmon)
+83,3,12:36,2,12,BAL 34,10,7,Lamar Jackson scrambles left end for 11 yards (tackle by Zaire Franklin)
+84,3,11:50,3,1,BAL 45,10,7,Gus Edwards right tackle for -2 yards (tackle by E.J. Speed)
+85,3,11:05,4,3,BAL 43,10,7,"Jordan Stout punts 44 yards, returned by Isaiah McKenzie for 32 yards (tackle by Tyler Ott)"
+86,3,10:54,1,10,IND 45,10,7,Zack Moss right end for 1 yard (tackle by Justin Madubuike)
+87,3,10:13,2,9,IND 46,10,7,Gardner Minshew pass complete short middle to Andrew Ogletree for 11 yards (tackle by Jeremiah Moon and Roquan Smith)
+88,3,9:50,1,10,BAL 43,10,7,Trey Sermon up the middle for 4 yards (tackle by Brandon Stephens)
+89,3,9:27,2,6,BAL 39,10,7,Trey Sermon left guard for 3 yards (tackle by Kyle Hamilton)
+90,3,8:43,3,3,BAL 36,10,7,Gardner Minshew pass incomplete deep right intended for Josh Downs
+91,3,8:38,4,3,BAL 36,13,7,Matt Gay 54 yard field goal good
+92,3,8:33,0,0,IND 35,13,7,"Matt Gay kicks off 65 yards, touchback."
+93,3,8:33,1,10,BAL 25,13,7,Lamar Jackson pass complete short right to Zay Flowers for 4 yards (tackle by Julian Blackmon)
+94,3,8:00,2,6,BAL 29,13,7,Lamar Jackson pass incomplete short right
+95,3,7:55,3,6,BAL 29,13,7,Lamar Jackson pass incomplete short middle intended for Mark Andrews
+96,3,7:44,4,6,BAL 29,13,7,"Jordan Stout punts 49 yards, fair catch by Isaiah McKenzie at IND-22. Penalty on Nick Cross: Offensive Holding, 10 yards (accepted) "
+97,3,7:44,1,10,IND 12,13,7,Trey Sermon left guard for 3 yards (tackle by Tavius Robinson and Travis Jones)
+98,3,7:02,2,7,IND 15,13,7,Gardner Minshew pass complete short left to Trey Sermon for 4 yards (tackle by Patrick Queen)
+99,3,6:23,3,3,IND 19,13,7,Gardner Minshew pass complete short left to Josh Downs for 10 yards (tackle by Brandon Stephens)
+100,3,5:57,1,10,IND 29,13,7,Gardner Minshew pass incomplete short right intended for Josh Downs (defended by Kyle Hamilton)
+101,3,5:55,2,10,IND 29,13,7,Gardner Minshew pass incomplete deep left intended for Alec Pierce
+102,3,5:50,3,10,IND 29,13,7,Gardner Minshew pass incomplete deep left intended for Josh Downs
+103,3,5:41,4,10,IND 29,13,7,"Rigoberto Sanchez punts 54 yards, returned by Devin Duvernay for 2 yards (tackle by Trevor Denbow)"
+104,3,5:29,1,10,BAL 19,13,7,Lamar Jackson left tackle for 13 yards (tackle by Zaire Franklin)
+105,3,5:09,1,10,BAL 32,13,7,Lamar Jackson pass complete short left to Zay Flowers for 4 yards (tackle by Grover Stewart)
+106,3,4:35,2,6,BAL 36,13,7,Lamar Jackson pass complete short middle to Zay Flowers for 5 yards (tackle by Zaire Franklin and Shaquille Leonard)
+107,3,4:03,3,1,BAL 41,13,7,Gus Edwards up the middle for 10 yards (tackle by Shaquille Leonard)
+108,3,3:30,1,10,IND 49,13,7,Gus Edwards left guard for 4 yards (tackle by DeForest Buckner and Julian Blackmon)
+109,3,2:54,2,6,IND 45,13,7,Melvin Gordon right guard for 15 yards (tackle by Julian Blackmon and Rodney Thomas)
+110,3,2:16,1,10,IND 30,13,7,Lamar Jackson pass complete short left to Melvin Gordon for 11 yards (tackle by Zaire Franklin)
+111,3,1:38,1,10,IND 19,13,7,Melvin Gordon left tackle for -2 yards (tackle by Samson Ebukam)
+112,3,0:58,2,12,IND 21,13,7,Lamar Jackson pass complete short middle to Nelson Agholor for 11 yards (tackle by Julius Brents)
+113,3,0:19,3,1,IND 10,13,13,"Lamar Jackson up the middle for 10 yards, touchdown"
+114,3,0:13,0,0,IND 15,13,14,Justin Tucker kicks extra point good
+115,3,0:13,0,0,BAL 35,13,14,"Justin Tucker kicks off 65 yards, touchback."
+116,3,0:13,1,10,IND 25,13,14,Zack Moss left end for 24 yards (tackle by Geno Stone)
+117,4,15:00,1,10,IND 49,13,14,Zack Moss left tackle for 1 yard (tackle by Justin Madubuike and Patrick Queen)
+118,4,14:18,2,9,BAL 50,13,14,Gardner Minshew pass complete short left to Josh Downs for 3 yards (tackle by Patrick Queen)
+119,4,13:38,3,6,BAL 47,13,14,Gardner Minshew pass complete short left to Michael Pittman for 8 yards (tackle by Patrick Queen)
+120,4,12:56,1,10,BAL 39,13,14,Trey Sermon left tackle for 5 yards (tackle by Patrick Queen and Tavius Robinson)
+121,4,12:11,2,5,BAL 34,13,14,Zack Moss left guard for -1 yards (tackle by Justin Madubuike and Patrick Queen)
+122,4,11:31,3,6,BAL 35,13,14,Gardner Minshew pass incomplete short left intended for Trey Sermon
+123,4,11:27,4,6,BAL 35,16,14,Matt Gay 53 yard field goal good
+124,4,11:22,0,0,IND 35,16,14,"Matt Gay kicks off 65 yards, touchback."
+125,4,11:22,1,10,BAL 25,16,14,Lamar Jackson pass complete short left to Kenyan Drake for 7 yards (tackle by Zaire Franklin)
+126,4,10:48,2,3,BAL 32,16,14,Lamar Jackson left tackle for 5 yards (tackle by Dallis Flowers)
+127,4,10:10,1,10,BAL 37,16,14,Lamar Jackson pass complete short middle to Zay Flowers for 7 yards (tackle by Zaire Franklin and Shaquille Leonard)
+128,4,9:36,2,3,BAL 44,16,14,Lamar Jackson scrambles up the middle for 16 yards (tackle by Zaire Franklin)
+129,4,8:59,1,10,IND 40,16,14,Gus Edwards right guard for 2 yards (tackle by Zaire Franklin and Samson Ebukam)
+130,4,8:23,2,8,IND 38,16,14,Lamar Jackson pass incomplete short left intended for Rashod Bateman
+131,4,8:20,3,8,IND 38,16,14,Lamar Jackson pass complete short middle to Nelson Agholor for 6 yards (tackle by Kenny Moore)
+132,4,7:38,4,2,IND 32,16,17,Justin Tucker 50 yard field goal good
+133,4,7:33,0,0,BAL 35,16,17,"Justin Tucker kicks off 65 yards, touchback."
+134,4,7:33,1,10,IND 25,16,17,Gardner Minshew pass complete short left to Alec Pierce for 8 yards (tackle by Brandon Stephens)
+135,4,6:54,2,2,IND 33,16,17,Zack Moss left guard for 2 yards (tackle by Roquan Smith)
+136,4,6:22,1,10,IND 35,16,17,Zack Moss left end for 5 yards (tackle by Roquan Smith)
+137,4,5:45,2,5,IND 40,16,17,Zack Moss left guard for no gain (tackle by Patrick Queen)
+138,4,5:02,3,5,IND 40,16,17,Gardner Minshew pass incomplete short right intended for Josh Downs
+139,4,4:55,4,5,IND 40,16,17,"Rigoberto Sanchez punts 39 yards, fair catch by Devin Duvernay at BAL-21"
+140,4,4:48,1,10,BAL 21,16,17,Lamar Jackson right end for -2 yards (tackle by Julian Blackmon)
+141,4,4:10,2,12,BAL 19,16,17,Melvin Gordon right tackle for 6 yards (tackle by DeForest Buckner)
+142,4,3:31,3,6,BAL 25,16,17,"Lamar Jackson scrambles left end for 14 yards (tackle by E.J. Speed). Penalty on Kenny Moore: Defensive Holding, 5 yards (accepted) "
+143,4,3:20,1,10,BAL 44,16,17,Lamar Jackson left tackle for 3 yards (tackle by Tyquan Lewis)
+144,4,2:44,2,7,BAL 47,16,17,Melvin Gordon left guard for 2 yards (tackle by E.J. Speed and Grover Stewart)
+145,4,2:32,3,5,BAL 49,16,17,Lamar Jackson sacked by Zaire Franklin for -4 yards
+146,4,2:28,4,9,BAL 45,16,17,Jordan Stout punts 53 yards downed by Jalyn Armour-Davis
+147,4,2:14,1,10,IND 2,16,17,Gardner Minshew pass incomplete short middle intended for Kylen Granson
+148,4,2:11,2,10,IND 2,16,17,"Penalty on Braden Smith: False Start, 1 yard (accepted) (no play)"
+149,4,2:11,2,11,IND 1,16,17,Gardner Minshew pass incomplete short left
+150,4,2:05,3,11,IND 1,16,19,Gardner Minshew sacked by
+151,4,2:03,0,0,IND 20,16,19,"Rigoberto Sanchez kicks off 62 yards,"
+152,4,2:03,1,10,BAL 25,16,19,Melvin Gordon right guard for 1 yard (tackle by Grover Stewart and Kenny Moore)
+153,4,1:59,2,9,BAL 26,16,19,Melvin Gordon left guard for no gain (tackle by Grover Stewart)
+154,4,1:55,3,9,BAL 26,16,19,"Zay Flowers right end for 2 yards (tackle by Kwity Paye). Penalty on Nelson Agholor: Illegal Blindside Block, 15 yards (declined) "
+155,4,1:48,4,7,BAL 28,16,19,"Jordan Stout punts 34 yards, fair catch by Isaiah McKenzie at IND-38"
+156,4,1:41,1,10,IND 38,16,19,Gardner Minshew pass complete short right to Alec Pierce for 12 yards
+157,4,1:36,1,10,BAL 50,16,19,Gardner Minshew pass complete short left to Josh Downs for 12 yards (tackle by Daryl Worley)
+158,4,1:31,1,10,BAL 38,16,19,Gardner Minshew pass complete short left to Michael Pittman for 7 yards (tackle by Brandon Stephens and Roquan Smith)
+159,4,1:12,2,3,BAL 31,16,19,Gardner Minshew pass complete short left to Michael Pittman for 2 yards (tackle by Brandon Stephens)
+160,4,1:07,3,1,BAL 29,16,19,"Penalty on Braden Smith: False Start, 5 yards (accepted) (no play)"
+161,4,1:07,3,6,BAL 34,16,19,Gardner Minshew pass incomplete deep left intended for Alec Pierce (defended by Brandon Stephens)
+162,4,1:02,4,6,BAL 34,19,19,Matt Gay 53 yard field goal good
+163,4,0:57,0,0,IND 35,19,19,"Matt Gay kicks off 65 yards, touchback."
+164,4,0:57,1,10,BAL 25,19,19,Lamar Jackson pass incomplete deep left intended for Rashod Bateman
+165,4,0:52,2,10,BAL 25,19,19,Lamar Jackson pass complete short left to Zay Flowers for 8 yards (tackle by Dallis Flowers)
+166,4,0:33,3,2,BAL 33,19,19,Lamar Jackson pass complete short left to Nelson Agholor for 4 yards (tackle by Dallis Flowers)
+167,4,0:29,1,10,BAL 37,19,19,Lamar Jackson pass complete short middle to Melvin Gordon for 12 yards (tackle by E.J. Speed)
+168,4,0:23,1,10,BAL 49,19,19,"Lamar Jackson sacked by Kwity Paye for -10 yards Replay Assistant challenged the runner was down by contact ruling, and the play was upheld."
+169,4,0:16,2,20,BAL 39,19,19,Lamar Jackson pass incomplete deep middle intended for Devin Duvernay (defended by Kenny Moore)
+170,4,0:11,3,20,BAL 39,19,19,Lamar Jackson pass complete deep middle to Nelson Agholor for 18 yards (tackle by Julian Blackmon and Dallis Flowers)
+171,4,0:06,1,10,IND 42,19,19,Justin Tucker 61 yard field goal no good
+172,4,0:01,1,10,BAL 49,19,19,Gardner Minshew pass incomplete short right
+173,5,10:00,0,0,BAL 35,19,19,"Justin Tucker kicks off 65 yards, touchback."
+174,5,10:00,1,10,IND 25,19,19,Gardner Minshew sacked by and Roquan Smith for -2 yards and Jadeveon Clowney for -2 yards
+175,5,9:20,2,12,IND 23,19,19,Gardner Minshew pass complete short right to Zack Moss for 6 yards (tackle by Roquan Smith)
+176,5,8:43,3,6,IND 29,19,19,Gardner Minshew pass incomplete deep right intended for Alec Pierce
+177,5,8:35,4,6,IND 29,19,19,"Rigoberto Sanchez punts 50 yards, returned by Devin Duvernay for 31 yards (tackle by Nick Cross)"
+178,5,8:22,1,10,IND 48,19,19,Melvin Gordon left guard for 4 yards (tackle by Julian Blackmon)
+179,5,7:45,2,6,IND 44,19,19,Melvin Gordon up the middle for no gain (tackle by Zaire Franklin)
+180,5,7:10,3,6,IND 44,19,19,Lamar Jackson pass incomplete short middle intended for Zay Flowers
+181,5,7:06,4,6,IND 44,19,19,"Jordan Stout punts 33 yards, fair catch by Isaiah McKenzie at IND-11"
+182,5,7:00,1,10,IND 11,19,19,Zack Moss left end for no gain (tackle by Jeremiah Moon and Roquan Smith)
+183,5,6:17,2,10,IND 11,19,19,Gardner Minshew pass complete deep left to Michael Pittman for 34 yards (tackle by Geno Stone and Brandon Stephens)
+184,5,5:59,1,10,IND 45,19,19,Zack Moss right tackle for 1 yard (tackle by Roquan Smith and Patrick Queen)
+185,5,5:28,2,9,IND 46,19,19,Gardner Minshew pass complete short right to Josh Downs for 7 yards (tackle by Ronald Darby)
+186,5,5:01,3,2,BAL 47,19,19,Zack Moss up the middle for 1 yard (tackle by Jadeveon Clowney)
+187,5,4:16,4,1,BAL 46,19,19,Zack Moss right guard for no gain (tackle by Brandon Stephens and Patrick Queen)
+188,5,4:10,1,10,BAL 46,19,19,Lamar Jackson pass incomplete short left intended for Kenyan Drake
+189,5,4:08,2,10,BAL 46,19,19,Lamar Jackson pass complete short middle to Mark Andrews for 7 yards (tackle by Rodney Thomas and Julian Blackmon)
+190,5,3:29,3,3,IND 47,19,19,Lamar Jackson pass incomplete short right intended for Isaiah Likely
+191,5,3:25,4,3,IND 47,19,19,Lamar Jackson pass incomplete short middle intended for Zay Flowers
+192,5,3:21,1,10,IND 47,19,19,Zack Moss left tackle for 13 yards (tackle by Michael Pierce and Daryl Worley)
+193,5,2:40,1,10,BAL 40,19,19,Zack Moss left tackle for 2 yards (tackle by Daryl Worley)
+194,5,2:00,2,8,BAL 38,19,19,Zack Moss up the middle for 3 yards (tackle by Michael Pierce)
+195,5,1:18,3,5,BAL 35,19,19,Zack Moss up the middle for no gain (tackle by Michael Pierce)
+196,5,1:14,4,5,BAL 35,22,19,Matt Gay 53 yard field goal good

@@ -1,0 +1,153 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,DAL 35,0,0,"Brett Maher kicks off 65 yards, touchback."
+1,1,15:00,1,10,LAR 25,0,0,Matthew Stafford pass complete short left to Cooper Kupp for 3 yards (tackle by Trevon Diggs)
+2,1,14:21,2,7,LAR 28,0,0,Matthew Stafford pass complete short left to Cooper Kupp for 6 yards (tackle by Donovan Wilson and Leighton Vander Esch)
+3,1,13:36,3,1,LAR 34,6,0,"Matthew Stafford sacked by Dorance Armstrong for -11 yards. Matthew Stafford fumbles (forced by Dorance Armstrong), recovered by DeMarcus Lawrence at LA-19 and returned for 19 yards, touchdown"
+4,1,13:27,0,0,LAR 2,6,0,"Two Point Attempt: Brett Maher rushes, conversion fails."
+5,1,13:27,0,0,DAL 35,6,0,"Brett Maher kicks off 65 yards, touchback."
+6,1,13:27,1,10,LAR 25,6,0,Cam Akers up the middle for 4 yards (tackle by Leighton Vander Esch)
+7,1,12:48,2,7,LAR 29,6,0,Cam Akers up the middle for 9 yards (tackle by Donovan Wilson and Micah Parsons)
+8,1,12:07,1,10,LAR 38,6,0,Brandon Powell up the middle for 1 yard (tackle by Donovan Wilson)
+9,1,11:21,2,9,LAR 39,6,0,Matthew Stafford pass complete short middle to Allen Robinson for 6 yards (tackle by Jourdan Lewis)
+10,1,10:37,3,3,LAR 45,6,0,Matthew Stafford pass complete short right to Tyler Higbee for 9 yards (tackle by Jayron Kearse)
+11,1,9:56,1,10,DAL 46,6,0,Matthew Stafford pass incomplete short left intended for Cooper Kupp
+12,1,9:52,2,10,DAL 46,6,0,Matthew Stafford pass incomplete short right intended for Cooper Kupp
+13,1,9:49,3,10,DAL 46,6,0,Matthew Stafford pass incomplete deep left intended for Tutu Atwell
+14,1,9:42,4,10,DAL 46,6,0,Riley Dixon punts blocked by Dorance Armstrong (tackle by Matthew Orzech)
+15,1,9:34,1,10,LAR 20,6,0,Ezekiel Elliott right tackle for 5 yards (tackle by Aaron Donald and Bobby Wagner)
+16,1,8:54,2,5,LAR 15,6,0,Cooper Rush pass incomplete short right intended for CeeDee Lamb
+17,1,8:51,3,5,LAR 15,6,0,Cooper Rush pass incomplete short right intended for Dalton Schultz
+18,1,8:47,4,5,LAR 15,9,0,Brett Maher 33 yard field goal good
+19,1,8:43,0,0,DAL 35,9,0,"Brett Maher kicks off 65 yards, touchback."
+20,1,8:43,1,10,LAR 25,9,0,Cam Akers right tackle for 3 yards (tackle by DeMarcus Lawrence)
+21,1,8:02,2,7,LAR 28,9,0,Cam Akers right tackle for 2 yards (tackle by Neville Gallimore)
+22,1,7:23,3,5,LAR 30,9,0,"Penalty on Micah Parsons: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+23,1,7:07,1,10,LAR 35,9,0,Matthew Stafford pass complete deep middle to Tutu Atwell for 54 yards (tackle by Trevon Diggs)
+24,1,6:14,1,10,DAL 11,9,0,Cam Akers right tackle for 1 yard (tackle by Anthony Brown)
+25,1,5:34,2,9,DAL 10,9,0,Matthew Stafford pass incomplete short left
+26,1,5:28,3,9,DAL 10,9,0,Matthew Stafford pass incomplete short left intended for Allen Robinson
+27,1,5:25,4,9,DAL 10,9,3,Matt Gay 29 yard field goal good
+28,1,5:22,0,0,LAR 35,9,3,"Matt Gay kicks off 65 yards, touchback."
+29,1,5:22,1,10,DAL 25,9,3,Ezekiel Elliott up the middle for 4 yards (tackle by Aaron Donald and A'Shawn Robinson)
+30,1,4:46,2,6,DAL 29,9,3,Cooper Rush pass complete short middle to Noah Brown for 5 yards (tackle by Ernest Jones)
+31,1,4:10,3,1,DAL 34,9,3,Ezekiel Elliott left guard for 9 yards (tackle by Terrell Burgess and Derion Kendrick)
+32,1,3:35,1,10,DAL 43,9,3,Ezekiel Elliott left tackle for 1 yard (tackle by A'Shawn Robinson)
+33,1,2:57,2,9,DAL 44,9,3,Cooper Rush pass complete short left to CeeDee Lamb for 4 yards (tackle by Ernest Jones)
+34,1,2:18,3,5,DAL 48,9,3,"Cooper Rush sacked by Aaron Donald for -9 yards. Cooper Rush fumbles (forced by Aaron Donald), recovered by Tyler Smith at DAL-39. Penalty on Tyron Smith: Offensive Holding, 10 yards (declined) "
+35,1,2:09,4,14,DAL 39,9,3,"Bryan Anger punts 51 yards, returned by Brandon Powell for no gain. Penalty on Brandon Powell: Unnecessary Roughness / Offense, 5 yards (accepted) "
+36,1,2:00,1,10,LAR 5,9,3,Cam Akers up the middle for 4 yards (tackle by Neville Gallimore)
+37,1,1:20,2,6,LAR 9,9,3,Cam Akers right tackle for 5 yards (tackle by Dorance Armstrong and Anthony Barr)
+38,1,0:35,3,1,LAR 14,9,3,Cam Akers right end for 13 yards (tackle by Leighton Vander Esch)
+39,2,15:00,1,10,LAR 27,9,3,Cam Akers right tackle for -3 yards (tackle by Sam Williams)
+40,2,14:15,2,14,LAR 24,9,3,Cam Akers right end for -4 yards (tackle by Trysten Hill)
+41,2,13:40,3,17,LAR 20,9,3,Matthew Stafford pass complete short left to Ben Skowronek for 12 yards (tackle by DeMarcus Lawrence)
+42,2,13:01,4,4,LAR 32,9,3,"Riley Dixon punts 42 yards, fair catch by KaVontae Turpin at DAL-26"
+43,2,12:54,1,10,DAL 26,9,3,Cooper Rush pass complete short right to Michael Gallup for 11 yards (tackle by Derion Kendrick)
+44,2,12:18,1,10,DAL 37,9,3,Ezekiel Elliott left tackle for 5 yards (tackle by A'Shawn Robinson)
+45,2,11:44,2,5,DAL 42,9,3,Ezekiel Elliott right guard for 3 yards (tackle by Ernest Jones and Bobby Wagner)
+46,2,11:14,3,2,DAL 45,9,3,Cooper Rush pass incomplete short left intended for Michael Gallup
+47,2,11:07,4,2,DAL 45,9,3,"Bryan Anger punts 38 yards, fair catch by Brandon Powell at LA-17"
+48,2,11:00,1,10,LAR 17,9,3,Cooper Kupp right end for 4 yards (tackle by Micah Parsons)
+49,2,10:24,2,6,LAR 21,9,3,Matthew Stafford pass complete short left to Darrell Henderson for 4 yards (tackle by Leighton Vander Esch)
+50,2,9:42,3,2,LAR 25,9,9,"Matthew Stafford pass complete short right to Cooper Kupp for 75 yards, touchdown"
+51,2,9:31,0,0,DAL 15,9,10,Matt Gay kicks extra point good
+52,2,9:31,0,0,LAR 35,9,10,"Matt Gay kicks off 65 yards, touchback."
+53,2,9:31,1,10,DAL 25,9,10,Tony Pollard right tackle for 2 yards (tackle by Aaron Donald and A'Shawn Robinson)
+54,2,8:49,2,8,DAL 27,9,10,Cooper Rush pass complete short middle to CeeDee Lamb for 16 yards (tackle by Terrell Burgess)
+55,2,8:10,1,10,DAL 43,15,10,"Tony Pollard right tackle for 57 yards, touchdown"
+56,2,7:59,0,0,LAR 15,16,10,Brett Maher kicks extra point good
+57,2,7:59,0,0,DAL 35,16,10,"Brett Maher kicks off 65 yards, touchback."
+58,2,7:59,1,10,LAR 25,16,10,Cam Akers left end for -3 yards (tackle by Osa Odighizuwa)
+59,2,7:16,2,13,LAR 22,16,10,Matthew Stafford pass incomplete short left intended for Tyler Higbee
+60,2,7:11,3,13,LAR 22,16,10,Matthew Stafford pass complete short right to Ben Skowronek for 6 yards (tackle by Anthony Barr)
+61,2,6:34,4,7,LAR 28,16,10,"Riley Dixon punts 49 yards, fair catch by KaVontae Turpin at DAL-23"
+62,2,6:27,1,10,DAL 23,16,10,Ezekiel Elliott left end for 12 yards (tackle by Terrell Burgess)
+63,2,5:56,1,10,DAL 35,16,10,Ezekiel Elliott left tackle for 4 yards (tackle by Marquise Copeland and Terrell Burgess)
+64,2,5:22,2,5,DAL 39,16,10,"Ezekiel Elliott left tackle for 1 yard (tackle by Terrell Burgess). Penalty on Tyler Smith: Offensive Holding, 10 yards (accepted) (no play)"
+65,2,5:02,2,16,DAL 29,16,10,Cooper Rush sacked by Aaron Donald for -9 yards
+66,2,4:16,3,25,DAL 20,16,10,Cooper Rush pass complete short middle to CeeDee Lamb for 13 yards (tackle by Bobby Wagner)
+67,2,3:30,4,12,DAL 33,16,10,"Bryan Anger punts 67 yards, touchback."
+68,2,3:21,1,10,LAR 20,16,10,Matthew Stafford pass incomplete short right intended for Tyler Higbee (defended by Sam Williams)
+69,2,3:17,2,10,LAR 20,16,10,Matthew Stafford pass complete short right to Tyler Higbee for 5 yards (tackle by Donovan Wilson)
+70,2,2:33,3,5,LAR 25,16,10,Matthew Stafford pass incomplete short right intended for Ben Skowronek
+71,2,2:29,4,5,LAR 25,16,10,Riley Dixon pass complete short middle to Jake Gervase for 12 yards (tackle by Luke Gifford)
+72,2,2:00,1,10,LAR 37,16,10,Matthew Stafford pass incomplete short right
+73,2,1:52,2,10,LAR 37,16,10,Matthew Stafford pass complete short left to Tyler Higbee for 5 yards (tackle by Anthony Barr)
+74,2,1:09,3,5,LAR 42,16,10,Matthew Stafford pass complete short middle to Ben Skowronek for 8 yards (tackle by Anthony Barr)
+75,2,0:44,1,10,LAR 50,16,10,Matthew Stafford pass complete short right to Ben Skowronek for 6 yards (tackle by Anthony Brown and Malik Hooker)
+76,2,0:37,2,5,DAL 44,16,10,Matthew Stafford pass incomplete short right intended for Tyler Higbee
+77,2,0:34,3,5,DAL 44,16,10,Matthew Stafford pass incomplete deep right intended for Darrell Henderson
+78,2,0:29,4,5,DAL 44,16,10,"Riley Dixon punts 32 yards, fair catch by KaVontae Turpin at DAL-12"
+79,2,0:23,1,10,DAL 12,16,10,Ezekiel Elliott up the middle for 4 yards (tackle by Bobby Wagner and Terrell Lewis)
+80,3,15:00,0,0,LAR 35,16,10,"Matt Gay kicks off 65 yards, touchback."
+81,3,15:00,1,10,DAL 25,16,10,Cooper Rush pass complete short right to Michael Gallup for 5 yards (tackle by Leonard Floyd)
+82,3,14:25,2,5,DAL 30,16,10,Tony Pollard right end for 4 yards (tackle by Robert Rochell)
+83,3,13:50,3,1,DAL 34,16,10,Tony Pollard right tackle for 3 yards (tackle by Bobby Wagner)
+84,3,13:10,1,10,DAL 37,16,10,"Cooper Rush sacked by Jalen Ramsey for -8 yards. Cooper Rush fumbles (forced by Jalen Ramsey), recovered by Cooper Rush at DAL-29 (tackle by Jalen Ramsey)"
+85,3,12:27,2,18,DAL 29,16,10,Cooper Rush left end for 2 yards (tackle by Terrell Burgess)
+86,3,11:48,3,16,DAL 31,16,10,Cooper Rush pass complete deep right to Michael Gallup for 27 yards
+87,3,11:20,1,10,LAR 42,16,10,Ezekiel Elliott up the middle for 8 yards (tackle by Terrell Burgess)
+88,3,10:41,2,2,LAR 34,16,10,Ezekiel Elliott up the middle for -2 yards (tackle by Greg Gaines)
+89,3,10:01,3,4,LAR 36,16,10,"Cooper Rush pass complete short right to CeeDee Lamb for 9 yards (tackle by Jalen Ramsey). Penalty on Grant Haley: Defensive Holding, 5 yards (declined) "
+90,3,9:45,1,10,LAR 27,16,10,Ezekiel Elliott up the middle for 3 yards (tackle by Marquise Copeland and Nick Scott)
+91,3,9:03,2,7,LAR 24,16,10,Ezekiel Elliott right tackle for 2 yards (tackle by Grant Haley and Aaron Donald)
+92,3,8:18,3,5,LAR 22,16,10,Cooper Rush pass incomplete short left intended for Noah Brown (defended by Bobby Wagner)
+93,3,8:15,4,5,LAR 22,19,10,Brett Maher 40 yard field goal good
+94,3,8:11,0,0,DAL 35,19,10,"Brett Maher kicks off 65 yards, touchback."
+95,3,8:11,1,10,LAR 25,19,10,Matthew Stafford sacked by Jourdan Lewis for no gain
+96,3,7:31,2,10,LAR 25,19,10,Matthew Stafford pass complete short left to Darrell Henderson for 5 yards (tackle by Trevon Diggs)
+97,3,6:47,3,5,LAR 30,19,10,Matthew Stafford pass complete short right to Tyler Higbee for 10 yards (tackle by Jourdan Lewis)
+98,3,6:06,1,10,LAR 40,19,10,Matthew Stafford pass complete short left to Darrell Henderson for 6 yards (tackle by Trevon Diggs)
+99,3,5:24,2,4,LAR 46,19,10,Cam Akers left tackle for 2 yards (tackle by Jayron Kearse and Dante Fowler)
+100,3,4:39,3,2,LAR 48,19,10,Matthew Stafford pass complete short middle to Tyler Higbee for 6 yards (tackle by Anthony Brown)
+101,3,4:03,1,10,DAL 46,19,10,Matthew Stafford pass incomplete deep left intended for Cooper Kupp
+102,3,3:58,2,10,DAL 46,19,10,Matthew Stafford pass complete short right to Cooper Kupp for -1 yards (tackle by Anthony Brown)
+103,3,3:29,3,11,DAL 47,19,10,Matthew Stafford sacked by Micah Parsons for -11 yards
+104,3,2:53,4,22,LAR 42,19,10,Riley Dixon punts 53 yards out of bounds
+105,3,2:46,1,10,DAL 5,19,10,Tony Pollard left tackle for 6 yards (tackle by Takkarist McKinley and Ernest Jones)
+106,3,2:11,2,4,DAL 11,19,10,Tony Pollard right tackle for 3 yards (tackle by Greg Gaines and Marquise Copeland)
+107,3,1:35,3,1,DAL 14,19,10,"Tony Pollard right tackle for no gain (tackle by Bobby Wagner). Penalty on Peyton Hendershot: Offensive Holding, 7 yards (accepted) (no play)"
+108,3,1:19,3,8,DAL 7,19,10,Cooper Rush pass complete short left to Michael Gallup for 1 yard (tackle by Grant Haley)
+109,3,0:39,4,7,DAL 8,19,10,"Bryan Anger punts 35 yards, returned by Brandon Powell for 14 yards (tackle by Kelvin Joseph)"
+110,3,0:30,1,10,DAL 29,19,10,Cooper Kupp pass incomplete deep right intended for Cam Akers
+111,3,0:23,2,10,DAL 29,19,10,"Darrell Henderson right tackle for no gain (tackle by Anthony Brown). Penalty on Ben Skowronek: Offensive Holding, 10 yards (accepted) (no play)"
+112,4,15:00,2,20,DAL 39,19,10,Matthew Stafford pass complete short left to Allen Robinson for 1 yard (tackle by Anthony Barr)
+113,4,14:20,3,19,DAL 38,19,10,Matthew Stafford pass complete short right to Allen Robinson for 5 yards (tackle by Jourdan Lewis and Micah Parsons)
+114,4,13:38,4,14,DAL 33,19,10,Matt Gay 51 yard field goal no good
+115,4,13:34,1,10,DAL 41,19,10,Cooper Rush pass incomplete deep right intended for CeeDee Lamb (defended by Grant Haley)
+116,4,13:27,2,10,DAL 41,19,10,Ezekiel Elliott left tackle for 5 yards (tackle by Justin Hollins)
+117,4,12:46,3,5,DAL 46,19,10,Cooper Rush pass incomplete short right intended for CeeDee Lamb (defended by Grant Haley)
+118,4,12:40,4,5,DAL 46,19,10,"Bryan Anger punts 44 yards, fair catch by Brandon Powell at LA-10"
+119,4,12:33,1,10,LAR 10,19,10,Cam Akers up the middle for no gain (tackle by Sam Williams and Leighton Vander Esch)
+120,4,11:57,2,10,LAR 10,19,10,Matthew Stafford pass complete short left to Cooper Kupp for 7 yards (tackle by Trevon Diggs)
+121,4,11:24,3,3,LAR 17,19,10,Matthew Stafford pass incomplete short left intended for Ben Skowronek
+122,4,11:20,4,3,LAR 17,19,10,"Riley Dixon punts 47 yards, returned by KaVontae Turpin for 12 yards (tackle by Matthew Orzech)"
+123,4,11:09,1,10,DAL 48,19,10,Ezekiel Elliott up the middle for 5 yards (tackle by Leonard Floyd and Ernest Jones)
+124,4,10:29,2,5,LAR 47,19,10,Ezekiel Elliott up the middle for 3 yards (tackle by Ernest Jones)
+125,4,9:46,3,2,LAR 44,19,10,Ezekiel Elliott up the middle for 7 yards (tackle by Terrell Burgess)
+126,4,9:06,1,10,LAR 37,19,10,Tony Pollard up the middle for 8 yards (tackle by A'Shawn Robinson)
+127,4,8:25,2,2,LAR 29,19,10,Tony Pollard right tackle for 3 yards (tackle by A'Shawn Robinson)
+128,4,7:45,1,10,LAR 26,19,10,Ezekiel Elliott up the middle for -2 yards (tackle by Marquise Copeland)
+129,4,7:06,2,12,LAR 28,19,10,Ezekiel Elliott up the middle for no gain (tackle by Terrell Burgess and Bobby Wagner)
+130,4,6:22,3,12,LAR 28,19,10,Cooper Rush pass complete short left to CeeDee Lamb for 11 yards (tackle by Derion Kendrick)
+131,4,5:36,4,1,LAR 17,22,10,Brett Maher 36 yard field goal good
+132,4,5:32,0,0,DAL 35,22,10,"Brett Maher kicks off 65 yards, touchback."
+133,4,5:32,1,10,LAR 25,22,10,Matthew Stafford pass complete short right to Tyler Higbee for 4 yards (tackle by Jayron Kearse)
+134,4,5:10,2,6,LAR 29,22,10,Matthew Stafford pass complete short left to Darrell Henderson for 15 yards (tackle by Trevon Diggs)
+135,4,4:41,1,10,LAR 44,22,10,"Matthew Stafford pass complete short left to Cooper Kupp for 19 yards (tackle by Donovan Wilson). Penalty on Dante Fowler: Roughing the Passer, 15 yards (accepted) "
+136,4,4:33,1,10,DAL 22,22,10,Matthew Stafford pass complete short middle to Ben Skowronek for 6 yards (tackle by Anthony Barr and Anthony Brown)
+137,4,4:10,2,4,DAL 16,22,10,"Matthew Stafford pass incomplete short left intended for Cooper Kupp. Penalty on Rob Havenstein: Offensive Holding, 10 yards (accepted) (no play)"
+138,4,4:06,2,14,DAL 26,22,10,"Penalty on Trysten Hill: Encroachment, 5 yards (accepted) (no play)"
+139,4,4:06,2,9,DAL 21,22,10,Matthew Stafford sacked by Osa Odighizuwa for -4 yards
+140,4,3:38,3,13,DAL 25,22,10,Matthew Stafford pass deep right intended for Allen Robinson is intercepted by Malik Hooker at DAL-1 and returned for 3 yards
+141,4,3:29,1,10,DAL 4,22,10,Ezekiel Elliott up the middle for 1 yard (tackle by Justin Hollins and Marquise Copeland)
+142,4,3:23,2,9,DAL 5,22,10,Ezekiel Elliott up the middle for 2 yards (tackle by Terrell Burgess and A'Shawn Robinson)
+143,4,3:17,3,7,DAL 7,22,10,Ezekiel Elliott up the middle for -1 yards (tackle by Leonard Floyd and Greg Gaines)
+144,4,2:34,4,8,DAL 6,22,10,"Bryan Anger punts 53 yards, returned by Brandon Powell for 5 yards (tackle by Kelvin Joseph)"
+145,4,2:21,1,10,LAR 46,22,10,Matthew Stafford pass complete short right to Tyler Higbee for 7 yards (tackle by Jayron Kearse)
+146,4,2:01,2,3,DAL 47,22,10,Matthew Stafford pass complete short left to Cooper Kupp for 16 yards (tackle by Donovan Wilson)
+147,4,1:56,1,10,DAL 31,22,10,Matthew Stafford pass complete short left to Ben Skowronek for 3 yards (tackle by Malik Hooker)
+148,4,1:40,2,7,DAL 28,22,10,"Matthew Stafford sacked by Micah Parsons for -9 yards. Matthew Stafford fumbles (forced by Micah Parsons), recovered by Sam Williams at DAL-39 (tackle by Micah Parsons)"
+149,4,1:31,1,10,DAL 39,22,10,Cooper Rush kneels for -1 yards
+150,4,0:52,2,11,DAL 38,22,10,Cooper Rush kneels for -1 yards
+151,4,0:28,3,12,DAL 37,22,10,Cooper Rush kneels for -1 yards

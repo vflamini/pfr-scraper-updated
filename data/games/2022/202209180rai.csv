@@ -1,0 +1,181 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,ARI 35,0,0,"Matt Prater kicks off 65 yards, touchback."
+1,1,15:00,1,10,LVR 25,0,0,Josh Jacobs up the middle for 7 yards (tackle by Jalen Thompson and Marco Wilson)
+2,1,14:22,2,3,LVR 32,0,0,Derek Carr sacked by J.J. Watt for -8 yards
+3,1,13:40,3,11,LVR 24,0,0,Derek Carr pass complete deep middle to Mack Hollins for 20 yards (tackle by Jace Whittaker)
+4,1,13:02,1,10,LVR 44,0,0,Josh Jacobs up the middle for 6 yards (tackle by Jalen Thompson and Zach Allen)
+5,1,12:27,2,4,LVR 50,0,0,Josh Jacobs left guard for 3 yards (tackle by Zaven Collins)
+6,1,11:58,3,1,ARI 47,0,0,Josh Jacobs up the middle for 2 yards (tackle by Budda Baker)
+7,1,11:17,1,10,ARI 45,0,0,"Penalty on Michael Dogbe: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+8,1,10:58,1,5,ARI 40,0,0,Josh Jacobs left tackle for no gain (tackle by Rashard Lawrence and Dennis Gardeck)
+9,1,10:21,2,5,ARI 40,0,0,Josh Jacobs right tackle for 13 yards (tackle by Nick Vigil and Marco Wilson)
+10,1,9:44,1,10,ARI 27,0,0,Josh Jacobs for no gain (no play)
+11,1,9:11,1,15,ARI 32,0,0,Derek Carr pass complete short right to Foster Moreau for -6 yards (tackle by Nick Vigil)
+12,1,8:25,2,21,ARI 38,0,0,Derek Carr pass complete short right to Mack Hollins for 9 yards (tackle by Jace Whittaker)
+13,1,7:49,3,12,ARI 29,0,0,Derek Carr pass complete deep middle to Mack Hollins for 23 yards (tackle by Budda Baker)
+14,1,7:06,1,6,ARI 6,0,0,Josh Jacobs up the middle for 2 yards (tackle by Jalen Thompson and Leki Fotu)
+15,1,6:25,2,4,ARI 4,0,0,Derek Carr pass incomplete short left intended for Mack Hollins
+16,1,6:15,3,4,ARI 4,0,0,"Derek Carr pass incomplete short left intended for Darren Waller. Penalty on Jalen Thompson: Defensive Pass Interference, 3 yards (accepted) (no play)"
+17,1,6:11,1,1,ARI 1,0,0,Josh Jacobs up the middle for no gain (tackle by Jalen Thompson)
+18,1,5:25,2,1,ARI 1,0,6,"Derek Carr pass complete short left to Davante Adams for 1 yard, touchdown"
+19,1,5:22,0,0,ARI 15,0,7,Daniel Carlson kicks extra point good
+20,1,5:22,0,0,LVR 35,0,7,"Daniel Carlson kicks off 65 yards, touchback."
+21,1,5:22,1,10,ARI 25,0,7,Kyler Murray pass complete short left to Marquise Brown for 6 yards (tackle by Nate Hobbs)
+22,1,4:47,2,4,ARI 31,0,7,James Conner up the middle for 3 yards (tackle by Maxx Crosby and Divine Deablo)
+23,1,4:05,3,1,ARI 34,0,7,James Conner left guard for 4 yards (tackle by Chandler Jones and Divine Deablo)
+24,1,3:23,1,10,ARI 38,0,7,Eno Benjamin up the middle for 3 yards (tackle by Andrew Billings and Jayon Brown)
+25,1,2:49,2,7,ARI 41,0,7,Kyler Murray sacked by Maxx Crosby for -7 yards
+26,1,2:05,3,14,ARI 34,0,7,Kyler Murray pass complete short left to Marquise Brown for 10 yards (tackle by Divine Deablo)
+27,1,1:29,4,4,ARI 44,0,7,"Andy Lee punts 56 yards, touchback."
+28,1,1:21,1,10,LVR 20,0,7,"Penalty on J.J. Watt: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+29,1,1:21,1,5,LVR 25,0,7,"Derek Carr pass complete deep left to Darren Waller for 19 yards (tackle by Jalen Thompson). Penalty on Marco Wilson: Illegal Contact, 5 yards (declined) "
+30,1,0:55,1,10,LVR 44,0,7,Josh Jacobs left guard for 4 yards (tackle by Budda Baker and Dennis Gardeck)
+31,1,0:11,2,6,LVR 48,0,7,Derek Carr pass complete short left to Foster Moreau for 19 yards (tackle by Nick Vigil)
+32,2,15:00,1,10,ARI 33,0,7,"Penalty on Kolton Miller: False Start, 5 yards (accepted) (no play)"
+33,2,15:00,1,15,ARI 38,0,7,Derek Carr pass complete short left to Josh Jacobs for 12 yards (tackle by Tanner Vallejo)
+34,2,14:18,2,3,ARI 26,0,7,Derek Carr pass complete short left to Mack Hollins for 7 yards (tackle by Marco Wilson and Jace Whittaker)
+35,2,13:28,1,10,ARI 19,0,7,"Zamir White left tackle for no gain (tackle by Budda Baker and Nick Vigil). Penalty on Dylan Parham: Offensive Holding, 10 yards (accepted) (no play)"
+36,2,13:06,1,20,ARI 29,0,7,Derek Carr pass complete short left to Hunter Renfrow for 8 yards (tackle by Victor Dimukeje)
+37,2,12:28,2,12,ARI 21,0,7,Derek Carr pass complete short right to Mack Hollins for 7 yards (tackle by Byron Murphy)
+38,2,11:52,3,5,ARI 14,0,7,Derek Carr pass incomplete short right intended for Davante Adams
+39,2,11:45,4,5,ARI 14,0,10,Daniel Carlson 32 yard field goal good
+40,2,11:40,0,0,LVR 35,0,10,"Daniel Carlson kicks off 62 yards, returned by Eno Benjamin for 22 yards (tackle by Matthias Farley and Sam Webb)"
+41,2,11:32,1,10,ARI 25,0,10,James Conner right guard for 5 yards (tackle by Divine Deablo and Johnathan Hankins)
+42,2,11:04,2,5,ARI 30,0,10,Kyler Murray pass complete short middle to Zach Ertz for 5 yards (tackle by Jayon Brown)
+43,2,10:20,1,10,ARI 35,0,10,James Conner up the middle for 4 yards (tackle by Johnathan Abram)
+44,2,9:35,2,6,ARI 39,0,10,"Kyler Murray pass incomplete short right. Penalty on Kyler Murray: Intentional Grounding, 15 yards (accepted) "
+45,2,9:28,3,21,ARI 24,0,10,Kyler Murray pass complete short right to James Conner for 5 yards (tackle by Amik Robertson)
+46,2,9:08,4,16,ARI 29,0,10,Andy Lee punts 30 yards out of bounds
+47,2,9:02,1,10,LVR 41,0,10,Derek Carr pass incomplete deep middle intended for Darren Waller
+48,2,8:58,2,10,LVR 41,0,10,Derek Carr pass complete short middle to Darren Waller for 13 yards (tackle by Zaven Collins and Devon Kennard)
+49,2,8:32,1,10,ARI 46,0,10,Derek Carr pass complete short middle to Hunter Renfrow for 20 yards (tackle by Nick Vigil)
+50,2,8:01,1,10,ARI 26,0,10,Derek Carr pass incomplete short left intended for Hunter Renfrow (defended by Jace Whittaker)
+51,2,7:56,2,10,ARI 26,0,10,Derek Carr pass incomplete deep left intended for Davante Adams
+52,2,7:51,3,10,ARI 26,0,10,Derek Carr pass complete short left to Ameer Abdullah for 23 yards (tackle by Zaven Collins)
+53,2,7:04,1,3,ARI 3,0,16,"Derek Carr pass complete short left to Darren Waller for 3 yards, touchdown"
+54,2,7:00,0,0,ARI 15,0,17,Daniel Carlson kicks extra point good
+55,2,7:00,0,0,LVR 35,0,17,"Daniel Carlson kicks off 63 yards, returned by Eno Benjamin for 18 yards (tackle by Sam Webb). Penalty on Dennis Gardeck: Offensive Illegal Block Above the Waist, 10 yards (accepted) "
+56,2,6:53,1,10,ARI 10,0,17,Kyler Murray pass complete short middle to James Conner for 21 yards (tackle by Duron Harmon and Nate Hobbs)
+57,2,6:17,1,10,ARI 31,0,17,Eno Benjamin left guard for 6 yards (tackle by Jayon Brown and Johnathan Abram)
+58,2,5:40,2,4,ARI 37,0,17,Eno Benjamin left tackle for 7 yards (tackle by Nate Hobbs)
+59,2,4:50,1,10,ARI 44,0,17,"Kyler Murray pass complete short right to A.J. Green for 11 yards (tackle by Amik Robertson). Penalty on Kelvin Beachum: Ineligible Downfield Pass, 5 yards (accepted) (no play)"
+60,2,4:50,1,15,ARI 39,0,17,Kyler Murray pass complete short middle to Zach Ertz for 6 yards (tackle by Divine Deablo)
+61,2,4:10,2,9,ARI 45,0,17,Kyler Murray pass incomplete deep right intended for James Conner
+62,2,3:36,3,9,ARI 45,0,17,"Kyler Murray pass short middle is intercepted by Nate Hobbs at LV-45 and returned for no gain (tackle by Darrel Williams). Penalty on Nate Hobbs: Defensive Holding, 5 yards (accepted) (no play)"
+63,2,3:25,1,10,ARI 50,0,17,James Conner up the middle for 6 yards (tackle by Divine Deablo and Maxx Crosby)
+64,2,2:52,2,4,LVR 44,0,17,James Conner left guard for 2 yards (tackle by Andrew Billings)
+65,2,2:00,3,2,LVR 42,0,17,Kyler Murray pass deep right intended for Marquise Brown is intercepted by Amik Robertson at LV-20 and returned for 7 yards (tackle by Marquise Brown)
+66,2,1:51,1,10,LVR 27,0,17,"Josh Jacobs up the middle for 5 yards (tackle by Jalen Thompson and Markus Golden). Penalty on Thayer Munford: Offensive Holding, 10 yards (accepted) "
+67,2,1:24,1,15,LVR 22,0,17,Josh Jacobs up the middle for 5 yards (tackle by Nick Vigil and Markus Golden)
+68,2,1:13,2,10,LVR 27,0,17,Derek Carr pass complete short middle to Foster Moreau for 17 yards (tackle by Zaven Collins)
+69,2,0:41,1,10,LVR 44,0,17,Josh Jacobs right guard for no gain (tackle by J.J. Watt)
+70,2,0:36,2,10,LVR 44,0,17,"Derek Carr pass complete to Ameer Abdullah for no gain. Penalty on Thayer Munford: Illegal Formation, 5 yards (accepted) (no play)"
+71,2,0:30,2,15,LVR 39,0,17,Derek Carr scrambles right end for 9 yards (tackle by Zaven Collins)
+72,2,0:18,3,6,LVR 48,0,17,Derek Carr pass complete short left to Davante Adams for 11 yards (tackle by Jalen Thompson)
+73,2,0:12,1,10,ARI 41,0,17,Derek Carr pass incomplete short left intended for Mack Hollins
+74,2,0:09,2,10,ARI 41,0,17,Derek Carr pass complete short right to Hunter Renfrow for 4 yards
+75,2,0:05,3,6,ARI 37,0,20,Daniel Carlson 55 yard field goal good
+76,3,15:00,0,0,LVR 35,0,20,"Daniel Carlson kicks off 65 yards, touchback."
+77,3,15:00,1,10,ARI 25,0,20,James Conner left tackle for 1 yard (tackle by Divine Deablo and Chandler Jones)
+78,3,14:30,2,9,ARI 26,0,20,"Kyler Murray sacked by Bilal Nichols for no gain. Penalty on Bilal Nichols: Face Mask (15 Yards), 15 yards (accepted) (no play)"
+79,3,14:09,1,10,ARI 41,0,20,Kyler Murray pass incomplete short right intended for James Conner
+80,3,14:02,2,10,ARI 41,0,20,Kyler Murray pass complete short left to Darrel Williams for 1 yard (tackle by Nate Hobbs)
+81,3,13:22,3,9,ARI 42,0,20,Kyler Murray pass incomplete short right
+82,3,13:15,4,9,ARI 42,0,20,Andy Lee punts 50 yards out of bounds
+83,3,13:07,1,10,LVR 8,0,20,Josh Jacobs up the middle for 1 yard (tackle by Zaven Collins)
+84,3,12:30,2,9,LVR 9,0,20,Derek Carr pass incomplete short right intended for Hunter Renfrow
+85,3,12:21,3,9,LVR 9,0,20,Derek Carr pass complete short left to Darren Waller for 7 yards (tackle by Marco Wilson)
+86,3,11:42,4,2,LVR 16,0,20,"AJ Cole punts 66 yards, returned by Greg Dortch for 3 yards (tackle by Mack Hollins)"
+87,3,11:30,1,10,ARI 21,0,20,"Kyler Murray pass complete short left to A.J. Green for no gain (tackle by Nate Hobbs). Penalty on Kelvin Beachum: Illegal Formation, 5 yards (accepted) (no play)"
+88,3,11:06,1,15,ARI 16,0,20,Kyler Murray pass complete short left to Greg Dortch for 29 yards (tackle by Nate Hobbs)
+89,3,10:37,1,10,ARI 45,0,20,Kyler Murray pass complete short left to Zach Ertz for 13 yards (tackle by Johnathan Abram)
+90,3,10:13,1,10,LVR 42,0,20,"Kyler Murray right end for 10 yards (tackle by Duron Harmon). Penalty on A.J. Green: Offensive Holding, 10 yards (accepted) "
+91,3,9:29,1,10,LVR 42,0,20,Darrel Williams left end for 8 yards (tackle by Amik Robertson)
+92,3,8:58,2,2,LVR 34,0,20,Darrel Williams left guard for 4 yards (tackle by Jayon Brown)
+93,3,8:22,1,10,LVR 30,0,20,Kyler Murray pass complete short left to Marquise Brown for 4 yards (tackle by Jayon Brown)
+94,3,7:44,2,6,LVR 26,0,20,Kyler Murray pass incomplete short right intended for Eno Benjamin
+95,3,7:37,3,6,LVR 26,0,20,Kyler Murray pass complete short middle to Zach Ertz for 16 yards (tackle by Johnathan Abram)
+96,3,7:02,1,10,LVR 10,0,20,Eno Benjamin left guard for 5 yards (tackle by Johnathan Hankins and Divine Deablo)
+97,3,6:17,2,5,LVR 5,0,20,Kyler Murray pass incomplete short left intended for Marquise Brown
+98,3,6:08,3,5,LVR 5,6,20,"Kyler Murray pass complete short right to Greg Dortch for 5 yards, touchdown"
+99,3,6:03,0,0,LVR 15,7,20,Matt Prater kicks extra point good
+100,3,6:03,0,0,ARI 35,7,20,"Matt Prater kicks off 65 yards, touchback."
+101,3,6:03,1,10,LVR 25,7,20,Josh Jacobs right guard for 6 yards (tackle by Jalen Thompson)
+102,3,5:21,2,4,LVR 31,7,20,Josh Jacobs up the middle for 9 yards (tackle by Budda Baker)
+103,3,4:43,1,10,LVR 40,7,20,"Zamir White right guard for no gain (tackle by Zaven Collins). Penalty on Mack Hollins: Illegal Formation, 5 yards (accepted) (no play)"
+104,3,4:16,1,15,LVR 35,7,20,"Derek Carr pass incomplete deep middle intended for Mack Hollins. Penalty on Marco Wilson: Defensive Pass Interference, 47 yards (accepted) (no play)"
+105,3,4:08,1,10,ARI 18,7,20,Zamir White left end for 2 yards (tackle by Budda Baker)
+106,3,3:22,2,8,ARI 16,7,20,Derek Carr pass complete short right to Hunter Renfrow for 9 yards (tackle by Jalen Thompson)
+107,3,2:39,1,7,ARI 7,7,20,Josh Jacobs left guard for no gain (tackle by Zach Allen)
+108,3,1:55,2,7,ARI 7,7,20,Derek Carr pass incomplete short left intended for Darren Waller (defended by Jalen Thompson)
+109,3,1:47,3,7,ARI 7,7,20,Derek Carr pass incomplete short middle intended for Hunter Renfrow
+110,3,1:41,4,7,ARI 7,7,23,Daniel Carlson 25 yard field goal good
+111,3,1:38,0,0,LVR 35,7,23,"Daniel Carlson kicks off 65 yards, touchback."
+112,3,1:38,1,10,ARI 25,7,23,Kyler Murray pass complete short right to A.J. Green for 6 yards (tackle by Divine Deablo)
+113,3,1:04,2,4,ARI 31,7,23,Kyler Murray left guard for 8 yards (tackle by Jayon Brown)
+114,3,0:30,1,10,ARI 39,7,23,Kyler Murray pass incomplete deep right intended for A.J. Green
+115,3,0:22,2,10,ARI 39,7,23,Kyler Murray pass complete short left to Andre Baccellia for 11 yards (tackle by Chandler Jones)
+116,4,15:00,1,10,ARI 50,7,23,Darrel Williams right tackle for 30 yards (tackle by Johnathan Abram)
+117,4,14:15,1,10,LVR 20,7,23,Kyler Murray pass complete short left to Eno Benjamin for 9 yards (tackle by Divine Deablo and Roderic Teamer)
+118,4,13:28,2,1,LVR 11,7,23,Eno Benjamin up the middle for no gain (tackle by Bilal Nichols)
+119,4,12:46,3,1,LVR 11,7,23,Kyler Murray pass incomplete short left intended for Marquise Brown
+120,4,12:37,4,1,LVR 11,7,23,Kyler Murray pass incomplete short right intended for Zach Ertz
+121,4,12:31,1,10,LVR 11,7,23,Derek Carr pass incomplete short middle intended for Davante Adams (defended by Zach Allen)
+122,4,12:29,2,10,LVR 11,7,23,Derek Carr pass incomplete short left intended for Mack Hollins
+123,4,12:24,3,10,LVR 11,7,23,Derek Carr pass incomplete short right intended for Foster Moreau (defended by J.J. Watt)
+124,4,12:22,4,10,LVR 11,7,23,"AJ Cole punts 61 yards, returned by Greg Dortch for 18 yards (tackle by Trent Sieg)"
+125,4,12:07,1,10,ARI 46,7,23,Eno Benjamin up the middle for 1 yard (tackle by Maxx Crosby and Andrew Billings)
+126,4,11:43,2,9,ARI 47,7,23,Kyler Murray pass complete short left to Greg Dortch for 11 yards (tackle by Divine Deablo and Kendal Vickers)
+127,4,11:22,1,10,LVR 42,7,23,Kyler Murray pass complete short left to Eno Benjamin for 8 yards (tackle by Nate Hobbs)
+128,4,10:55,2,2,LVR 34,7,23,Darrel Williams right guard for 3 yards (tackle by Kendal Vickers and Divine Deablo)
+129,4,10:33,1,10,LVR 31,7,23,Kyler Murray pass complete short right to Andre Baccellia for 1 yard (tackle by Jayon Brown)
+130,4,9:59,2,9,LVR 30,7,23,Eno Benjamin left end for no gain (tackle by Nate Hobbs) (no play)
+131,4,9:25,2,14,LVR 35,7,23,Kyler Murray pass complete short right to Greg Dortch for 10 yards (tackle by Rock Ya-Sin and Jayon Brown)
+132,4,8:45,3,4,LVR 25,7,23,Kyler Murray pass incomplete short right intended for A.J. Green (defended by Rock Ya-Sin)
+133,4,8:35,4,4,LVR 25,7,23,"Kyler Murray pass complete to Marquise Brown for no gain, touchdown. Penalty on Amik Robertson: Defensive Pass Interference, 15 yards (declined) Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Kyler Murray pass complete deep left to Marquise Brown for 24 yards (tackle by Amik Robertson). Penalty on Amik Robertson: Defensive Pass Interference, 15 yards (declined) "
+134,4,8:17,1,1,LVR 1,13,23,"Darrel Williams up the middle for 1 yard, touchdown"
+135,4,8:13,0,0,LVR 2,15,23,"Two Point Attempt: Kyler Murray rushes, conversion succeeds."
+136,4,8:13,1,2,ARI 35,15,23,"Matt Prater kicks off 65 yards, touchback."
+137,4,8:13,1,10,LVR 25,15,23,Josh Jacobs up the middle for 7 yards (tackle by Ben Niemann and Zaven Collins)
+138,4,7:40,2,3,LVR 32,15,23,Josh Jacobs up the middle for 3 yards (tackle by Budda Baker)
+139,4,6:56,1,10,LVR 35,15,23,Josh Jacobs up the middle for -4 yards (tackle by Rashard Lawrence)
+140,4,6:17,2,14,LVR 31,15,23,Derek Carr pass complete short middle to Darren Waller for 4 yards (tackle by Dennis Gardeck)
+141,4,5:39,3,10,LVR 35,15,23,Derek Carr pass complete short right to Darren Waller for 4 yards (tackle by Dennis Gardeck and Jace Whittaker)
+142,4,4:58,4,6,LVR 39,15,23,AJ Cole punts 34 yards downed by Foster Moreau
+143,4,4:43,1,10,ARI 27,15,23,Kyler Murray pass complete short right to A.J. Green for no gain (tackle by Amik Robertson)
+144,4,4:17,2,10,ARI 27,15,23,Kyler Murray pass complete short right to A.J. Green for 10 yards (tackle by Jayon Brown)
+145,4,3:50,1,10,ARI 37,15,23,Kyler Murray pass complete short middle to Zach Ertz for 11 yards (tackle by Jayon Brown)
+146,4,3:26,1,10,ARI 48,15,23,Kyler Murray pass incomplete short left intended for Marquise Brown (defended by Johnathan Hankins)
+147,4,3:25,2,10,ARI 48,15,23,Darrel Williams up the middle for 9 yards (tackle by Divine Deablo and Kendal Vickers)
+148,4,3:03,3,1,LVR 43,15,23,Darrel Williams left guard for no gain (tackle by Kendal Vickers)
+149,4,2:28,4,1,LVR 43,15,23,Kyler Murray scrambles right end for 2 yards (tackle by Johnathan Abram)
+150,4,2:20,1,10,LVR 41,15,23,"Kyler Murray sacked by Maxx Crosby for no gain. Penalty on Rock Ya-Sin: Defensive Holding, 5 yards (accepted) (no play)"
+151,4,2:17,1,10,LVR 36,15,23,Kyler Murray pass complete short left to Zach Ertz for 6 yards (tackle by Divine Deablo)
+152,4,2:00,2,4,LVR 30,15,23,Kyler Murray left end for 5 yards (tackle by Johnathan Abram and Jayon Brown)
+153,4,1:55,1,10,LVR 25,15,23,Kyler Murray pass complete short left to Eno Benjamin for 3 yards (tackle by Nate Hobbs)
+154,4,1:36,2,7,LVR 22,15,23,Kyler Murray pass complete short right to Zach Ertz for 10 yards (tackle by Duron Harmon)
+155,4,1:09,1,10,LVR 12,15,23,Eno Benjamin right tackle for 6 yards (tackle by Jayon Brown)
+156,4,0:39,2,4,LVR 6,15,23,Kyler Murray pass incomplete short middle intended for Darrel Williams
+157,4,0:34,3,4,LVR 6,15,23,"Kyler Murray pass complete to A.J. Green for 5 yards Replay Assistant challenged the pass completion ruling, and the original play was overturned. Kyler Murray pass incomplete short right intended for A.J. Green (defended by Rock Ya-Sin)"
+158,4,0:30,4,4,LVR 6,15,23,"Kyler Murray pass incomplete short left intended for Marquise Brown. Penalty on Roderic Teamer: Defensive Holding, 3 yards (accepted) (no play)"
+159,4,0:18,1,3,LVR 3,15,23,Kyler Murray pass incomplete short right intended for A.J. Green (defended by Rock Ya-Sin)
+160,4,0:11,2,3,LVR 3,15,23,Kyler Murray pass incomplete short left intended for Zach Ertz (defended by Johnathan Abram)
+161,4,0:08,3,3,LVR 3,15,23,Kyler Murray pass incomplete short left intended for Zach Ertz
+162,4,0:05,4,3,LVR 3,21,23,"Kyler Murray scrambles left tackle for 3 yards, touchdown"
+163,4,0:00,0,0,LVR 15,21,23,"Penalty on ARI: Delay of Game, 5 yards (accepted) (no play)"
+164,4,0:00,1,7,LVR 2,23,23,"Two Point Attempt: Kyler Murray pass complete to to A.J. Green for no gain Replay Assistant challenged the pass completion ruling, and the play was upheld."
+165,5,10:00,0,0,LVR 35,23,23,"Daniel Carlson kicks off 65 yards, touchback."
+166,5,10:00,1,10,ARI 25,23,23,Kyler Murray pass complete short right to Zach Ertz for 8 yards (tackle by Duron Harmon)
+167,5,9:28,2,2,ARI 33,23,23,Eno Benjamin left guard for 3 yards (tackle by Divine Deablo)
+168,5,8:53,1,10,ARI 36,23,23,Kyler Murray pass complete short left to Stephen Anderson for 2 yards (tackle by Nate Hobbs)
+169,5,8:23,2,8,ARI 38,23,23,Kyler Murray pass complete short middle to Marquise Brown for 16 yards (tackle by Nate Hobbs)
+170,5,7:40,1,10,LVR 46,23,23,"Penalty on Zach Ertz: False Start, 5 yards (accepted) (no play)"
+171,5,7:40,1,15,ARI 49,23,23,Kyler Murray pass complete short middle to Marquise Brown for 8 yards (tackle by Divine Deablo)
+172,5,7:06,2,7,LVR 43,23,23,Kyler Murray pass complete short left to Darrel Williams for 2 yards (tackle by Nate Hobbs)
+173,5,6:25,3,5,LVR 41,23,23,Darrel Williams left end for 4 yards (tackle by Nate Hobbs and Duron Harmon)
+174,5,5:36,4,1,LVR 37,23,23,Kyler Murray pass incomplete deep left intended for Marquise Brown (defended by Duron Harmon)
+175,5,5:30,1,10,LVR 37,23,23,Derek Carr pass incomplete short right intended for Davante Adams
+176,5,5:26,2,10,LVR 37,23,23,Derek Carr pass complete short left to Hunter Renfrow for 7 yards (tackle by Isaiah Simmons)
+177,5,4:45,3,3,LVR 44,23,23,"Derek Carr pass complete to Hunter Renfrow for 11 yards. Hunter Renfrow fumbles (forced by Zaven Collins) (tackle by Jalen Thompson), recovered by Foster Moreau at ARI-39"
+178,5,4:12,1,10,ARI 39,23,23,Derek Carr pass incomplete deep middle intended for Davante Adams
+179,5,4:05,2,10,ARI 39,29,23,"Derek Carr pass complete short left to Hunter Renfrow for no gain. Hunter Renfrow fumbles (forced by Isaiah Simmons), recovered by Byron Murphy at ARI-41 and returned for 59 yards, touchdown Replay Assistant challenged the runner broke the plane ruling, and the play was upheld."

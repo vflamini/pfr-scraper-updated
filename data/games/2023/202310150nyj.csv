@@ -1,0 +1,162 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,PHI 35,0,0,"Jake Elliott kicks off 65 yards, touchback."
+1,1,15:00,1,10,NYJ 25,0,0,Zach Wilson pass incomplete short left intended for Allen Lazard
+2,1,14:57,2,10,NYJ 25,0,0,Breece Hall up the middle for 2 yards (tackle by Milton Williams and Jordan Davis)
+3,1,14:22,3,8,NYJ 27,0,0,"Zach Wilson pass incomplete short right intended for Xavier Gipson. Penalty on Josh Jobe: Defensive Holding, 5 yards (accepted) (no play)"
+4,1,14:18,1,10,NYJ 32,0,0,Zach Wilson pass complete short left to Garrett Wilson for 5 yards (tackle by James Bradberry)
+5,1,13:43,2,5,NYJ 37,0,0,Breece Hall right guard for no gain (tackle by Terrell Edmunds and Jordan Davis)
+6,1,13:02,3,5,NYJ 37,0,0,Zach Wilson pass incomplete short right intended for Garrett Wilson (defended by Josh Jobe)
+7,1,12:58,4,5,NYJ 37,0,0,"Thomas Morstead punts 54 yards, returned by Britain Covey for no gain (tackle by Irvin Charles)"
+8,1,12:51,1,10,PHI 9,0,0,Jalen Hurts pass complete short right to D'Andre Swift for 2 yards (tackle by Ashtyn Davis)
+9,1,12:21,2,8,PHI 11,0,0,Jalen Hurts pass incomplete short left intended for D'Andre Swift (defended by Jermaine Johnson)
+10,1,12:15,3,8,PHI 11,0,0,Jalen Hurts pass complete short left to A.J. Brown for 10 yards (tackle by Tae Hayes)
+11,1,11:42,1,10,PHI 21,0,0,Jalen Hurts pass incomplete short left intended for DeVonta Smith (defended by Bryce Hall)
+12,1,11:36,2,10,PHI 21,0,0,Jalen Hurts pass complete short left to D'Andre Swift for 3 yards (tackle by Bryce Hall)
+13,1,10:56,3,7,PHI 24,0,0,Jalen Hurts pass complete short right to A.J. Brown for 8 yards
+14,1,10:25,1,10,PHI 32,0,0,Jalen Hurts pass complete short left to DeVonta Smith for 11 yards (tackle by Michael Carter)
+15,1,9:49,1,10,PHI 43,0,0,"Penalty on Quinton Jefferson: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+16,1,9:49,1,5,PHI 48,0,0,Jalen Hurts scrambles left end for 4 yards (tackle by Quincy Williams)
+17,1,8:56,2,1,NYJ 48,0,0,D'Andre Swift right tackle for 2 yards (tackle by Jermaine Johnson)
+18,1,8:14,1,10,NYJ 46,0,0,D'Andre Swift right guard for 1 yard (tackle by Bryce Huff and Solomon Thomas)
+19,1,7:35,2,9,NYJ 45,0,0,Jalen Hurts pass complete short middle to DeVonta Smith for 7 yards (tackle by Quincy Williams)
+20,1,6:52,3,2,NYJ 38,0,0,Jalen Hurts pass complete short left to Boston Scott for 14 yards (tackle by Tony Adams)
+21,1,6:23,1,10,NYJ 24,0,0,Jalen Hurts pass complete short right to D'Andre Swift for 6 yards (tackle by Jordan Whitehead)
+22,1,5:48,2,4,NYJ 18,0,0,Jalen Hurts pass complete short left to Dallas Goedert for 5 yards (tackle by C.J. Mosley)
+23,1,5:10,1,10,NYJ 13,0,0,"Jalen Hurts scrambles right end for 7 yards (tackle by Jordan Whitehead). Penalty on Michael Carter: Illegal Contact, 3 yards (accepted) "
+24,1,4:47,1,3,NYJ 3,0,0,Boston Scott left end for -7 yards (tackle by Jamien Sherwood)
+25,1,4:06,2,10,NYJ 10,0,0,Jalen Hurts pass incomplete short right intended for Olamide Zaccheaus (defended by Craig James)
+26,1,3:55,3,10,NYJ 10,0,0,Jalen Hurts left end for 7 yards (tackle by Tony Adams and Bryce Hall)
+27,1,3:08,4,3,NYJ 3,6,0,"Jalen Hurts for 2 yards. Jalen Hurts fumbles (forced by Jamien Sherwood), recovered by Olamide Zaccheaus at NYJ-1 Replay Assistant challenged the fumble ruling, and the original play was overturned. Jalen Hurts up the middle for 3 yards, touchdown"
+28,1,3:04,0,0,NYJ 15,7,0,Jake Elliott kicks extra point good
+29,1,3:04,0,0,PHI 35,7,0,"Jake Elliott kicks off 65 yards, touchback."
+30,1,3:04,1,10,NYJ 25,7,0,Zach Wilson pass complete short left to Breece Hall for 6 yards (tackle by Reed Blankenship and James Bradberry)
+31,1,2:32,2,4,NYJ 31,7,0,Zach Wilson pass complete short left to Garrett Wilson for 7 yards (tackle by Reed Blankenship)
+32,1,1:51,1,10,NYJ 38,7,0,Zach Wilson pass complete short right to Dalvin Cook for 2 yards (tackle by Terrell Edmunds)
+33,1,1:22,2,8,NYJ 40,7,0,Dalvin Cook right guard for 8 yards (tackle by Nicholas Morrow and Eli Ricks)
+34,1,0:41,1,10,NYJ 48,7,0,Zach Wilson pass complete short left to Garrett Wilson for 15 yards (tackle by James Bradberry)
+35,2,15:00,1,10,PHI 37,7,0,Zach Wilson pass incomplete deep left intended for Tyler Conklin (defended by Reed Blankenship)
+36,2,14:54,2,10,PHI 37,7,0,Zach Wilson scrambles for 9 yards (tackle by Nakobe Dean)
+37,2,14:34,3,1,PHI 28,7,0,Breece Hall for no gain (no play)
+38,2,14:17,1,10,PHI 22,7,0,Zach Wilson pass incomplete short left intended for Mecole Hardman
+39,2,14:12,2,10,PHI 22,7,0,Dalvin Cook up the middle for 2 yards (tackle by Haason Reddick)
+40,2,13:36,3,8,PHI 20,7,0,"Penalty on Michael Carter: False Start, 5 yards (accepted) (no play)"
+41,2,13:26,3,13,PHI 25,7,0,Zach Wilson pass incomplete deep right intended for Mecole Hardman
+42,2,13:15,4,13,PHI 25,7,3,Greg Zuerlein 43 yard field goal good
+43,2,13:12,0,0,NYJ 35,7,3,"Greg Zuerlein kicks off 65 yards, touchback."
+44,2,13:12,1,10,PHI 25,7,3,Jalen Hurts pass complete short middle to A.J. Brown for 14 yards (tackle by Michael Carter and Quincy Williams)
+45,2,12:33,1,10,PHI 39,7,3,Jalen Hurts pass complete short right to Olamide Zaccheaus for 5 yards (tackle by Quincy Williams)
+46,2,11:56,2,5,PHI 44,7,3,Jalen Hurts pass incomplete short right intended for DeVonta Smith
+47,2,11:52,3,5,PHI 44,7,3,Jalen Hurts pass complete short left to A.J. Brown for 8 yards (tackle by Tae Hayes)
+48,2,11:26,1,10,NYJ 48,7,3,Jalen Hurts pass complete short right to DeVonta Smith for 2 yards (tackle by C.J. Mosley and Quincy Williams)
+49,2,10:46,2,8,NYJ 46,7,3,"Jalen Hurts pass incomplete short right. Penalty on Sua Opeta: Ineligible Downfield Pass, 5 yards (declined) "
+50,2,10:42,3,9,NYJ 47,7,3,Jalen Hurts pass short right (defended by Jermaine Johnson) intended for Dallas Goedert is intercepted by Quinnen Williams at NYJ-49 and returned for 6 yards (tackle by Jordan Mailata)
+51,2,10:33,1,10,PHI 45,7,3,Breece Hall left end for -2 yards (tackle by Josh Sweat)
+52,2,9:57,2,12,PHI 47,7,3,Zach Wilson sacked by Haason Reddick for -1 yards
+53,2,9:21,3,13,PHI 48,7,3,Zach Wilson scrambles up the middle for 8 yards (tackle by Nakobe Dean)
+54,2,8:36,4,5,PHI 40,7,3,Zach Wilson pass complete short right to Tyler Conklin for 4 yards
+55,2,8:25,1,10,PHI 36,7,3,Jalen Hurts pass incomplete deep right intended for A.J. Brown
+56,2,8:17,2,10,PHI 36,7,3,Jalen Hurts pass complete short left to D'Andre Swift for 11 yards (tackle by Quincy Williams)
+57,2,7:35,1,10,PHI 47,7,3,D'Andre Swift left tackle for 1 yard (tackle by Bryce Hall and Tony Adams)
+58,2,7:05,2,9,PHI 48,7,3,Jalen Hurts pass complete short left to A.J. Brown for 49 yards (tackle by Tony Adams)
+59,2,6:29,1,3,NYJ 3,7,3,D'Andre Swift right end for -6 yards (tackle by Quincy Williams)
+60,2,5:38,2,9,NYJ 9,13,3,"Jalen Hurts pass complete short right to D'Andre Swift for 9 yards, touchdown"
+61,2,5:32,0,0,NYJ 15,14,3,Jake Elliott kicks extra point good
+62,2,5:32,0,0,PHI 35,14,3,"Jake Elliott kicks off 65 yards, touchback."
+63,2,5:32,1,10,NYJ 25,14,3,Zach Wilson pass incomplete short left intended for Garrett Wilson
+64,2,5:26,2,10,NYJ 25,14,3,Zach Wilson pass complete short middle to Tyler Conklin for 14 yards (tackle by Terrell Edmunds)
+65,2,4:49,1,10,NYJ 39,14,3,Xavier Gipson left end for 18 yards (tackle by Nicholas Morrow and Terrell Edmunds)
+66,2,4:14,1,10,PHI 43,14,3,Zach Wilson pass complete short left to Breece Hall for 25 yards (tackle by Reed Blankenship)
+67,2,3:27,1,10,PHI 18,14,3,Zach Wilson pass incomplete deep left intended for Garrett Wilson (defended by James Bradberry)
+68,2,3:22,2,10,PHI 18,14,3,Zach Wilson pass incomplete deep middle intended for C.J. Uzomah
+69,2,3:18,3,10,PHI 18,14,3,Zach Wilson sacked by and Brandon Graham for -6 yards and Jordan Davis for -6 yards
+70,2,2:34,4,16,PHI 24,14,6,Greg Zuerlein 42 yard field goal good
+71,2,2:30,0,0,NYJ 35,14,6,"Greg Zuerlein kicks off 65 yards, touchback."
+72,2,2:30,1,10,PHI 25,14,6,Boston Scott left end for 9 yards (tackle by Jermaine Johnson)
+73,2,2:00,2,1,PHI 34,14,6,"Jalen Hurts pass complete short right to Dallas Goedert for 4 yards (tackle by C.J. Mosley). Penalty on Quinnen Williams: Roughing the Passer, 15 yards (accepted) "
+74,2,1:53,1,10,NYJ 47,14,6,"Jalen Hurts pass complete short right to D'Andre Swift for 4 yards. D'Andre Swift fumbles (forced by C.J. Mosley), recovered by Quincy Williams at NYJ-49 (tackle by C.J. Mosley)"
+75,2,1:40,1,10,NYJ 49,14,6,Zach Wilson pass complete short middle to Garrett Wilson for 11 yards (tackle by James Bradberry)
+76,2,1:13,1,10,PHI 40,14,6,Zach Wilson pass complete short left to Breece Hall for -2 yards (tackle by Reed Blankenship)
+77,2,1:01,2,12,PHI 42,14,6,"Zach Wilson pass incomplete short right intended for Garrett Wilson. Penalty on Josh Jobe: Defensive Pass Interference, 15 yards (accepted) (no play)"
+78,2,0:56,1,10,PHI 27,14,6,Zach Wilson pass complete short left to Garrett Wilson for 9 yards (tackle by Zach Cunningham)
+79,2,0:44,2,1,PHI 18,14,6,Breece Hall up the middle for 6 yards (tackle by Milton Williams and Zach Cunningham)
+80,2,0:41,1,10,PHI 12,14,6,"Zach Wilson pass incomplete. Penalty on Wes Schweitzer: Offensive Holding, 10 yards (accepted) (no play)"
+81,2,0:36,1,20,PHI 22,14,6,Zach Wilson pass incomplete short right intended for Randall Cobb
+82,2,0:29,2,20,PHI 22,14,6,Zach Wilson pass incomplete short right intended for Randall Cobb
+83,2,0:24,3,20,PHI 22,14,6,Michael Carter up the middle for 5 yards (tackle by Fletcher Cox)
+84,2,0:02,4,15,PHI 17,14,9,Greg Zuerlein 35 yard field goal good
+85,3,15:00,0,0,NYJ 35,14,9,"Greg Zuerlein kicks off 65 yards, touchback."
+86,3,15:00,1,10,PHI 25,14,9,Jalen Hurts pass complete short left to Dallas Goedert for 13 yards (tackle by Jordan Whitehead)
+87,3,14:38,1,10,PHI 38,14,9,D'Andre Swift left tackle for 9 yards (tackle by C.J. Mosley)
+88,3,13:45,2,1,PHI 47,14,9,Jalen Hurts pass complete short left to Dallas Goedert for 9 yards (tackle by Quincy Williams)
+89,3,13:33,1,10,NYJ 44,14,9,Jalen Hurts pass complete short right to Olamide Zaccheaus for no gain (no play)
+90,3,13:13,1,15,NYJ 49,14,9,Jalen Hurts pass incomplete deep middle intended for DeVonta Smith
+91,3,13:03,2,15,NYJ 49,14,9,Jalen Hurts sacked by and Quinton Jefferson for -8 yards and Bryce Huff for -8 yards
+92,3,12:17,3,23,PHI 43,14,9,Jalen Hurts pass complete short right to Kenneth Gainwell for 4 yards (tackle by Michael Carter and C.J. Mosley)
+93,3,11:32,4,19,PHI 47,14,9,"Braden Mann punts, fair catch by Randall Cobb at NYJ-17. Penalty on Jamien Sherwood: Running Into the Kicker, 5 yards (accepted) (no play)"
+94,3,11:26,4,14,NYJ 48,14,9,Braden Mann punts 41 yards downed by Jack Stoll
+95,3,11:17,1,10,NYJ 7,14,9,Zach Wilson pass complete deep right to Garrett Wilson for 33 yards (tackle by Josh Jobe)
+96,3,10:43,1,10,NYJ 40,14,9,Breece Hall left tackle for 9 yards (tackle by Reed Blankenship)
+97,3,10:03,2,1,NYJ 49,14,9,Zach Wilson pass complete short middle to Breece Hall for 15 yards (tackle by Zach Cunningham)
+98,3,9:25,1,10,PHI 36,14,9,Dalvin Cook right end for 2 yards (tackle by Nicholas Morrow)
+99,3,8:48,2,8,PHI 34,14,9,"Zach Wilson pass complete short middle to Garrett Wilson for no gain. Penalty on Allen Lazard: Illegal Blindside Block, 15 yards (accepted) (no play)"
+100,3,8:24,2,23,PHI 49,14,9,Zach Wilson pass incomplete short left intended for Allen Lazard
+101,3,8:20,3,23,PHI 49,14,9,Zach Wilson pass complete short middle to Breece Hall for 10 yards (tackle by Nicholas Morrow)
+102,3,7:32,4,13,PHI 39,14,9,"Penalty on NYJ: Delay of Game, 5 yards (accepted) (no play)"
+103,3,7:16,4,18,PHI 44,14,9,"Thomas Morstead punts 37 yards, fair catch by Britain Covey at PHI-7"
+104,3,7:08,1,10,PHI 7,14,9,D'Andre Swift left end for -2 yards (tackle by Tony Adams)
+105,3,6:36,2,12,PHI 5,14,9,Jalen Hurts pass complete short right to A.J. Brown for 6 yards (tackle by Craig James)
+106,3,5:51,3,6,PHI 11,14,9,Jalen Hurts pass incomplete short right intended for Kenneth Gainwell
+107,3,5:38,4,6,PHI 11,14,9,"Braden Mann punts 40 yards out of bounds. Penalty on Kelee Ringo: Fair Catch Interference, 15 yards (accepted) "
+108,3,5:30,1,10,PHI 36,14,9,Breece Hall left tackle for 3 yards (tackle by Nicholas Morrow and Derek Barnett)
+109,3,4:52,2,7,PHI 33,14,9,Zach Wilson pass incomplete short right intended for Randall Cobb (defended by Josh Jobe)
+110,3,4:49,3,7,PHI 33,14,9,Zach Wilson pass complete short right to Allen Lazard for 8 yards (tackle by Bradley Roby)
+111,3,4:15,1,10,PHI 25,14,9,Breece Hall up the middle for 8 yards (tackle by Haason Reddick)
+112,3,3:32,2,2,PHI 17,14,9,Breece Hall up the middle for 1 yard (tackle by Kentavius Street)
+113,3,2:52,3,1,PHI 16,14,9,Breece Hall up the middle for 3 yards (tackle by Nicholas Morrow)
+114,3,2:14,1,10,PHI 13,14,9,Zach Wilson pass complete short right to Garrett Wilson for 5 yards (tackle by Josh Jobe)
+115,3,1:38,2,5,PHI 8,14,9,Zach Wilson sacked by Haason Reddick for -12 yards
+116,3,0:54,3,17,PHI 20,14,9,Zach Wilson pass incomplete deep left intended for Garrett Wilson (defended by James Bradberry)
+117,3,0:48,4,17,PHI 20,14,12,Greg Zuerlein 38 yard field goal good
+118,3,0:45,0,0,NYJ 35,14,12,"Greg Zuerlein kicks off 65 yards, touchback."
+119,3,0:45,1,10,PHI 25,14,12,Jalen Hurts pass complete deep right to DeVonta Smith for 22 yards
+120,4,15:00,1,10,PHI 47,14,12,Jalen Hurts up the middle for 5 yards (tackle by C.J. Mosley)
+121,4,14:36,2,5,NYJ 48,14,12,Jalen Hurts pass incomplete short left
+122,4,14:30,3,5,NYJ 48,14,12,Jalen Hurts right end for 6 yards (tackle by Michael Carter)
+123,4,13:53,1,10,NYJ 42,14,12,Jalen Hurts pass short right (defended by Jermaine Johnson) intended for DeVonta Smith is intercepted by Bryce Hall at NYJ-33 and returned for 5 yards (tackle by Olamide Zaccheaus)
+124,4,13:42,1,10,NYJ 38,14,12,Zach Wilson sacked by Josh Sweat for -6 yards
+125,4,13:03,2,16,NYJ 32,14,12,Zach Wilson pass complete short middle to Tyler Conklin for 6 yards (tackle by Nakobe Dean)
+126,4,12:34,3,10,NYJ 38,14,12,"Penalty on Connor McGovern: False Start, 5 yards (accepted) (no play)"
+127,4,12:17,3,15,NYJ 33,14,12,Zach Wilson pass incomplete short middle intended for Michael Carter
+128,4,12:13,4,15,NYJ 33,14,12,"Thomas Morstead punts 49 yards, returned by Britain Covey for no gain (tackle by Samuel Eguavoen)"
+129,4,12:01,1,10,PHI 18,14,12,D'Andre Swift up the middle for 4 yards (tackle by Quinnen Williams)
+130,4,11:26,2,6,PHI 22,14,12,Jalen Hurts pass incomplete short right intended for D'Andre Swift (defended by Quincy Williams)
+131,4,11:17,3,6,PHI 22,14,12,"Jalen Hurts pass complete deep left to A.J. Brown for 36 yards NYJ challenged the pass completion ruling, and the play was upheld."
+132,4,10:59,1,10,NYJ 42,14,12,Jalen Hurts scrambles left end for 11 yards (tackle by C.J. Mosley)
+133,4,10:23,1,10,NYJ 31,14,12,Kenneth Gainwell right end for 12 yards (tackle by Ashtyn Davis and John Franklin-Myers)
+134,4,9:40,1,10,NYJ 19,14,12,Jalen Hurts pass incomplete short middle intended for Dallas Goedert (defended by C.J. Mosley)
+135,4,9:31,2,10,NYJ 19,14,12,Jalen Hurts left end for 4 yards (tackle by Tony Adams)
+136,4,8:57,3,6,NYJ 15,14,12,Jalen Hurts sacked by Bryce Huff for -4 yards
+137,4,8:17,4,10,NYJ 19,14,12,Jake Elliott 37 yard field goal no good
+138,4,8:13,1,10,NYJ 27,14,12,Breece Hall right tackle for 3 yards (tackle by Brandon Graham and Josh Jobe)
+139,4,7:36,2,7,NYJ 30,14,12,Zach Wilson pass complete short right to Jeremy Ruckert for 8 yards (tackle by Zach Cunningham and Nakobe Dean)
+140,4,6:53,1,10,NYJ 38,14,12,Zach Wilson pass complete short left to Garrett Wilson for 5 yards (tackle by James Bradberry)
+141,4,6:13,2,5,NYJ 43,14,12,Breece Hall left guard for -2 yards (tackle by Milton Williams)
+142,4,5:32,3,7,NYJ 41,14,12,Zach Wilson sacked by and Haason Reddick for -6 yards and Milton Williams for -6 yards
+143,4,4:56,4,13,NYJ 35,14,12,"Thomas Morstead punts 54 yards, returned by Britain Covey for 9 yards (tackle by Jamien Sherwood)"
+144,4,4:43,1,10,PHI 20,14,12,Jalen Hurts pass complete short left to D'Andre Swift for 2 yards (tackle by Michael Carter)
+145,4,4:37,2,8,PHI 22,14,12,D'Andre Swift up the middle for 9 yards (tackle by Tony Adams and Solomon Thomas)
+146,4,4:00,1,10,PHI 31,14,12,Jalen Hurts pass complete short middle to D'Andre Swift for 3 yards (tackle by C.J. Mosley)
+147,4,3:19,2,7,PHI 34,14,12,D'Andre Swift up the middle for no gain (tackle by John Franklin-Myers)
+148,4,2:31,3,7,PHI 34,14,12,Jalen Hurts pass complete short right to Dallas Goedert for 11 yards (tackle by Quincy Williams)
+149,4,2:24,1,10,PHI 45,14,12,Kenneth Gainwell left guard for 1 yard (tackle by Quinnen Williams and Quincy Williams)
+150,4,2:20,2,9,PHI 46,14,12,D'Andre Swift left end for no gain (tackle by Quincy Williams)
+151,4,2:00,3,9,PHI 46,14,12,Jalen Hurts pass short middle intended for Dallas Goedert is intercepted by Tony Adams at NYJ-47 and returned for 45 yards (tackle by Landon Dickerson)
+152,4,1:50,1,8,PHI 8,14,18,"Breece Hall up the middle for 8 yards, touchdown"
+153,4,1:46,0,0,PHI 2,14,20,Two Point Attempt: Zach Wilson pass complete to to Randall Cobb for no gain
+154,4,1:46,0,0,NYJ 35,14,20,"Greg Zuerlein kicks off 65 yards, touchback."
+155,4,1:46,1,10,PHI 25,14,20,Jalen Hurts pass incomplete short left intended for A.J. Brown
+156,4,1:41,2,10,PHI 25,14,20,Jalen Hurts pass incomplete short right intended for DeVonta Smith (defended by Jordan Whitehead)
+157,4,1:34,3,10,PHI 25,14,20,Jalen Hurts pass complete short left to DeVonta Smith for 2 yards (tackle by Quincy Williams)
+158,4,1:24,4,8,PHI 27,14,20,Jalen Hurts pass incomplete deep middle intended for DeVonta Smith (defended by Jordan Whitehead)
+159,4,1:16,1,10,PHI 27,14,20,Zach Wilson kneels for -1 yards
+160,4,0:40,2,11,PHI 28,14,20,Zach Wilson kneels for -1 yards

@@ -1,0 +1,143 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,BUF 35,0,0,"Tyler Bass kicks off 65 yards, touchback."
+1,1,15:00,1,10,LVR 25,0,0,Josh Jacobs up the middle for -4 yards (tackle by Ed Oliver)
+2,1,14:24,2,14,LVR 21,0,0,Jimmy Garoppolo pass complete short left to Josh Jacobs for 12 yards (tackle by Micah Hyde and Taron Johnson)
+3,1,13:37,3,2,LVR 33,0,0,Jimmy Garoppolo pass complete short right to Davante Adams for 17 yards (tackle by Taron Johnson)
+4,1,13:03,1,10,BUF 50,0,0,Tre Tucker left end for 34 yards (tackle by Tre'Davious White and Micah Hyde)
+5,1,12:22,1,10,BUF 16,6,0,"Jimmy Garoppolo pass complete short left to Davante Adams for 16 yards, touchdown"
+6,1,12:16,0,0,BUF 15,7,0,Daniel Carlson kicks extra point good
+7,1,12:16,0,0,LVR 35,7,0,"Daniel Carlson kicks off 65 yards, touchback."
+8,1,12:16,1,10,BUF 25,7,0,James Cook up the middle for 2 yards (tackle by Divine Deablo and Robert Spillane)
+9,1,11:44,2,8,BUF 27,7,0,James Cook right guard for 3 yards (tackle by Maxx Crosby and John Jenkins)
+10,1,11:05,3,5,BUF 30,7,0,Josh Allen sacked by Robert Spillane for no gain
+11,1,10:30,4,5,BUF 30,7,0,Sam Martin punts 54 yards out of bounds
+12,1,10:22,1,10,LVR 16,7,0,Josh Jacobs left guard for no gain (tackle by Terrel Bernard and Leonard Floyd)
+13,1,9:40,2,10,LVR 16,7,0,Jimmy Garoppolo pass complete short middle to Josh Jacobs for 12 yards (tackle by Taron Johnson and Terrel Bernard)
+14,1,9:03,1,10,LVR 28,7,0,Josh Jacobs up the middle for 2 yards (tackle by Ed Oliver and Matt Milano)
+15,1,8:22,2,8,LVR 30,7,0,Jimmy Garoppolo pass short middle (defended by Gregory Rousseau) intended for Ameer Abdullah is intercepted by Terrel Bernard at LV-28 and returned for no gain (tackle by Ameer Abdullah)
+16,1,8:17,1,10,LVR 28,7,0,Josh Allen pass complete short left to Stefon Diggs for 5 yards (tackle by Jakorian Bennett)
+17,1,7:40,2,5,LVR 23,7,0,Latavius Murray left end for 8 yards (tackle by Robert Spillane and Jakorian Bennett)
+18,1,7:00,1,10,LVR 15,7,0,Josh Allen pass complete short right to Deonte Harty for -4 yards (tackle by Marcus Epps)
+19,1,6:20,2,14,LVR 19,7,0,Josh Allen pass complete short right to Stefon Diggs for 11 yards (tackle by Divine Deablo)
+20,1,5:53,3,3,LVR 8,7,0,Josh Allen pass complete short right to Stefon Diggs for 2 yards (tackle by Marcus Epps)
+21,1,5:09,4,1,LVR 6,7,0,Josh Allen up the middle for 2 yards (tackle by Maxx Crosby)
+22,1,4:23,1,4,LVR 4,7,6,"Latavius Murray up the middle for 4 yards, touchdown"
+23,1,4:19,0,0,LVR 15,7,7,Tyler Bass kicks extra point good
+24,1,4:19,0,0,BUF 35,7,7,"Tyler Bass kicks off 57 yards, returned by DeAndre Carter for 23 yards (tackle by Dane Jackson)"
+25,1,4:13,1,10,LVR 31,7,7,Jimmy Garoppolo pass complete short right to Ameer Abdullah for 5 yards (tackle by Leonard Floyd and Micah Hyde)
+26,1,3:34,2,5,LVR 36,7,7,Jimmy Garoppolo pass incomplete short right intended for Davante Adams
+27,1,3:29,3,5,LVR 36,7,7,Jimmy Garoppolo pass incomplete short left intended for Ameer Abdullah (defended by A.J. Epenesa)
+28,1,3:23,4,5,LVR 36,7,7,"AJ Cole punts 48 yards, fair catch by Deonte Harty at BUF-16"
+29,1,3:16,1,10,BUF 16,7,7,Latavius Murray right guard for 3 yards (tackle by Tre'von Moehrig and Adam Butler)
+30,1,2:40,2,7,BUF 19,7,7,Josh Allen pass complete short right to Dawson Knox for 1 yard (tackle by Nate Hobbs and Marcus Peters)
+31,1,1:58,3,6,BUF 20,7,7,Josh Allen pass complete short middle to Dawson Knox for 7 yards (tackle by David Long)
+32,1,1:22,1,10,BUF 27,7,7,Josh Allen pass complete short right to Reggie Gilliam for 3 yards (tackle by Marcus Peters)
+33,1,0:40,2,7,BUF 30,7,7,Josh Allen pass complete short right to Gabriel Davis for 7 yards (tackle by Nate Hobbs and Jakorian Bennett)
+34,1,0:05,1,10,BUF 37,7,7,"Josh Allen pass complete deep left to Gabriel Davis for 19 yards (tackle by Robert Spillane). Penalty on Bilal Nichols: Defensive Offside, 5 yards (declined) "
+35,2,15:00,1,10,LVR 44,7,7,James Cook left guard for 2 yards (tackle by Robert Spillane)
+36,2,14:22,2,8,LVR 42,7,7,Josh Allen pass complete short left to Stefon Diggs for 5 yards (tackle by Marcus Epps)
+37,2,13:43,3,3,LVR 37,7,7,Damien Harris right end for 11 yards (tackle by Nate Hobbs)
+38,2,13:01,1,10,LVR 26,7,7,"Josh Allen pass incomplete deep left intended for Stefon Diggs. Penalty on Nate Hobbs: Defensive Pass Interference, 25 yards (accepted) (no play)"
+39,2,12:54,1,1,LVR 1,7,7,Damien Harris up the middle for -1 yards (tackle by Isaac Rochell and Robert Spillane)
+40,2,12:16,2,2,LVR 2,7,13,"Josh Allen pass complete short left to Dawson Knox for 2 yards, touchdown"
+41,2,12:10,0,0,LVR 15,7,14,Tyler Bass kicks extra point good
+42,2,12:10,0,0,BUF 35,7,14,"Tyler Bass kicks off 65 yards, touchback."
+43,2,12:10,1,10,LVR 25,7,14,Jimmy Garoppolo pass incomplete deep right intended for Tre Tucker (defended by Christian Benford)
+44,2,12:03,2,10,LVR 25,7,14,Josh Jacobs left end for -1 yards (tackle by Gregory Rousseau)
+45,2,11:24,3,11,LVR 24,7,14,Jimmy Garoppolo pass complete deep right to Davante Adams for 18 yards (tackle by Christian Benford and Micah Hyde)
+46,2,10:42,1,10,LVR 42,7,14,Jimmy Garoppolo pass complete short middle to Josh Jacobs for 10 yards (tackle by Terrel Bernard and Taron Johnson)
+47,2,9:46,1,10,BUF 48,7,14,Josh Jacobs right guard for no gain (tackle by Jordan Poyer)
+48,2,9:03,2,10,BUF 48,7,14,Jimmy Garoppolo pass complete deep right to Davante Adams for 21 yards
+49,2,8:26,1,10,BUF 27,7,14,Josh Jacobs up the middle for -3 yards (tackle by DaQuan Jones)
+50,2,7:26,2,13,BUF 30,7,14,Jimmy Garoppolo scrambles up the middle for 1 yard (tackle by Gregory Rousseau)
+51,2,6:59,3,12,BUF 29,7,14,Jimmy Garoppolo pass incomplete short left intended for DeAndre Carter
+52,2,6:53,4,12,BUF 29,10,14,Daniel Carlson 47 yard field goal good
+53,2,6:48,0,0,LVR 35,10,14,"Daniel Carlson kicks off 59 yards, returned by Damien Harris for 41 yards (tackle by Daniel Carlson)"
+54,2,6:40,1,10,BUF 47,10,14,Josh Allen pass complete short left to Dalton Kincaid for 10 yards (tackle by Nate Hobbs)
+55,2,6:10,1,10,LVR 43,10,14,James Cook up the middle for 9 yards (tackle by Nate Hobbs)
+56,2,5:34,2,1,LVR 34,10,14,Josh Allen pass complete short left to James Cook for 26 yards (tackle by Tre'von Moehrig)
+57,2,4:53,1,8,LVR 8,10,14,James Cook up the middle for 4 yards (tackle by John Jenkins and Divine Deablo)
+58,2,4:14,2,4,LVR 4,10,14,Josh Allen right guard for 3 yards (tackle by Marcus Epps and Maxx Crosby)
+59,2,3:31,3,1,LVR 1,10,14,Latavius Murray for no gain (tackle by Tre'von Moehrig)
+60,2,3:01,4,1,LVR 1,10,14,Josh Allen pass incomplete short left intended for Dawson Knox (defended by Nate Hobbs)
+61,2,2:56,1,10,LVR 2,10,14,Jimmy Garoppolo pass complete short right to Davante Adams for 7 yards (tackle by Tre'Davious White)
+62,2,2:23,2,2,LVR 9,10,14,Josh Jacobs right end for no gain (tackle by Christian Benford and Ed Oliver)
+63,2,2:00,3,3,LVR 9,10,14,Jimmy Garoppolo pass incomplete short right
+64,2,1:55,4,3,LVR 9,10,14,"AJ Cole punts 48 yards, fair catch by Deonte Harty at BUF-43"
+65,2,1:47,1,10,BUF 43,10,14,Josh Allen pass incomplete short middle intended for Gabriel Davis
+66,2,1:42,2,10,BUF 43,10,14,Josh Allen pass complete short left to James Cook for 2 yards (tackle by Robert Spillane)
+67,2,1:02,3,8,BUF 45,10,14,Josh Allen pass complete deep left to Stefon Diggs for 17 yards (tackle by Jakorian Bennett)
+68,2,0:46,1,10,LVR 38,10,14,"James Cook left end for 10 yards (tackle by Robert Spillane) Replay Assistant challenged the first down ruling, and the original play was overturned. James Cook for 9 yards and Robert Spillane and Marcus Epps)"
+69,2,0:46,2,1,LVR 29,10,14,Josh Allen pass complete short left to James Cook for 3 yards (tackle by Divine Deablo)
+70,2,0:41,1,10,LVR 26,10,14,"Josh Allen scrambles for no gain. Penalty on O'Cyrus Torrence: Offensive Holding, 10 yards (offset) . Penalty on Tre'von Moehrig: Unnecessary Roughness / Defense, 15 yards (offset) (no play)"
+71,2,0:34,1,10,LVR 26,10,14,Josh Allen pass complete short right to Gabriel Davis for 15 yards (tackle by Marcus Peters)
+72,2,0:28,1,10,LVR 11,10,14,Josh Allen pass incomplete short middle intended for Dalton Kincaid (defended by Tre'von Moehrig)
+73,2,0:24,2,10,LVR 11,10,20,"Josh Allen pass complete short middle to Khalil Shakir for 11 yards, touchdown"
+74,2,0:18,0,0,LVR 15,10,21,Tyler Bass kicks extra point good
+75,2,0:18,0,0,BUF 35,10,21,"Tyler Bass kicks off 65 yards, touchback."
+76,2,0:18,1,10,LVR 25,10,21,"Jimmy Garoppolo pass complete short left to Josh Jacobs for 11 yards (tackle by Terrel Bernard and Gregory Rousseau). Penalty on Christian Benford: Illegal Use of Hands / Defense, 5 yards (declined) "
+77,2,0:10,1,10,LVR 36,10,21,Jimmy Garoppolo pass complete short left to Michael Mayer for 2 yards (tackle by Matt Milano)
+78,3,15:00,0,0,LVR 35,10,21,"Daniel Carlson kicks off 65 yards, touchback."
+79,3,15:00,1,10,BUF 25,10,21,Josh Allen pass complete short left to Deonte Harty for 8 yards (tackle by Jakorian Bennett and Nate Hobbs)
+80,3,14:21,2,2,BUF 33,10,21,James Cook left end for 16 yards (tackle by Robert Spillane)
+81,3,13:39,1,10,BUF 49,10,21,Josh Allen pass complete short right to Dalton Kincaid for 8 yards (tackle by Nate Hobbs)
+82,3,13:01,2,2,LVR 43,10,21,James Cook left end for 4 yards (tackle by Maxx Crosby)
+83,3,12:20,1,10,LVR 39,10,21,Josh Allen pass complete short right to James Cook for 5 yards (tackle by Tre'von Moehrig)
+84,3,11:37,2,5,LVR 34,10,21,James Cook up the middle for 3 yards (tackle by Jerry Tillery and Bilal Nichols)
+85,3,10:54,3,2,LVR 31,10,21,Josh Allen pass complete short right to Stefon Diggs for 10 yards (tackle by Divine Deablo)
+86,3,10:14,1,10,LVR 21,10,21,Josh Allen pass incomplete deep right intended for Deonte Harty
+87,3,10:05,2,10,LVR 21,10,21,James Cook right end for 6 yards (tackle by Robert Spillane)
+88,3,9:22,3,4,LVR 15,10,21,Josh Allen pass complete short right to Dalton Kincaid for 3 yards (tackle by David Long)
+89,3,8:42,4,1,LVR 12,10,21,Josh Allen left guard for 2 yards (tackle by Maxx Crosby)
+90,3,8:03,1,10,LVR 10,10,21,Latavius Murray left guard for 2 yards (tackle by Jakorian Bennett and Robert Spillane)
+91,3,7:20,2,7,LVR 8,10,21,Latavius Murray left guard for 5 yards (tackle by Jerry Tillery and Divine Deablo)
+92,3,6:35,3,3,LVR 3,10,21,Josh Allen pass complete short left to Latavius Murray for 1 yard (tackle by Jakorian Bennett)
+93,3,6:06,4,2,LVR 2,10,27,"Josh Allen pass complete short right to Gabriel Davis for 2 yards, touchdown"
+94,3,5:59,0,0,LVR 15,10,28,Tyler Bass kicks extra point good
+95,3,5:59,0,0,BUF 35,10,28,"Tyler Bass kicks off 65 yards, touchback."
+96,3,5:59,1,10,LVR 25,10,28,Josh Jacobs right guard for 3 yards (tackle by Matt Milano and Jordan Poyer)
+97,3,5:23,2,7,LVR 28,10,28,Jimmy Garoppolo pass complete short right to Austin Hooper for 5 yards (tackle by Jordan Poyer)
+98,3,4:42,3,2,LVR 33,10,28,Jimmy Garoppolo pass complete short right to Austin Hooper for 15 yards (tackle by Matt Milano)
+99,3,3:59,1,10,LVR 48,10,28,Jimmy Garoppolo pass short right intended for Josh Jacobs is intercepted by Matt Milano at BUF-49 and returned for 3 yards (tackle by Josh Jacobs)
+100,3,3:49,1,10,LVR 48,10,28,Josh Allen pass incomplete short left
+101,3,3:46,2,10,LVR 48,10,28,Josh Allen pass complete short right to Dalton Kincaid for 8 yards
+102,3,3:02,3,2,LVR 40,10,28,Josh Allen pass complete short right to Latavius Murray for 8 yards (tackle by Marcus Epps)
+103,3,2:25,1,10,LVR 32,10,28,James Cook up the middle for 5 yards (tackle by Bilal Nichols)
+104,3,1:50,2,5,LVR 27,10,28,Josh Allen pass complete short middle to Dalton Kincaid for 14 yards (tackle by Robert Spillane and Tre'von Moehrig)
+105,3,1:02,1,10,LVR 13,10,28,Josh Allen pass incomplete short left intended for Dawson Knox
+106,3,0:57,2,10,LVR 13,10,28,Josh Allen sacked by Divine Deablo for -7 yards
+107,3,0:14,3,17,LVR 20,10,28,"Penalty on Dalton Kincaid: False Start, 5 yards (accepted) (no play)"
+108,3,0:14,3,22,LVR 25,10,28,James Cook left end for 14 yards (tackle by Maxx Crosby)
+109,4,15:00,4,8,LVR 11,10,31,Tyler Bass 29 yard field goal good
+110,4,14:56,0,0,BUF 35,10,31,"Tyler Bass kicks off 65 yards, touchback."
+111,4,14:56,1,10,LVR 25,10,31,"Penalty on A.J. Epenesa: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+112,4,14:56,1,5,LVR 30,10,31,Jimmy Garoppolo pass complete short right to Davante Adams for 5 yards (tackle by Tre'Davious White)
+113,4,14:20,1,10,LVR 35,10,31,Josh Jacobs up the middle for 1 yard (tackle by Terrel Bernard)
+114,4,13:33,2,9,LVR 36,10,31,Jimmy Garoppolo pass complete short middle to Josh Jacobs for 6 yards (tackle by Micah Hyde and Terrel Bernard)
+115,4,12:58,3,3,LVR 42,10,31,Jimmy Garoppolo pass incomplete deep left intended for Davante Adams
+116,4,12:53,4,3,LVR 42,10,31,AJ Cole punts 53 yards downed by Isaiah Pola-Mao
+117,4,12:40,1,10,BUF 5,10,31,Damien Harris left guard for 9 yards (tackle by Divine Deablo)
+118,4,12:05,2,1,BUF 14,10,31,Damien Harris up the middle for 7 yards (tackle by Malcolm Koonce)
+119,4,11:23,1,10,BUF 21,10,31,Damien Harris left end for 2 yards (tackle by Robert Spillane)
+120,4,10:41,2,8,BUF 23,10,31,Josh Allen pass complete short right to Gabriel Davis for 9 yards (tackle by Roderic Teamer)
+121,4,9:54,1,10,BUF 32,10,31,"James Cook left end for no gain (tackle by Jakorian Bennett). Penalty on Reggie Gilliam: Illegal Motion, 5 yards (accepted) (no play)"
+122,4,9:27,1,15,BUF 27,10,31,"Josh Allen pass incomplete. Penalty on Nate Hobbs: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)"
+123,4,9:18,1,10,BUF 32,10,31,Josh Allen pass complete short left to Stefon Diggs for 16 yards (tackle by Roderic Teamer)
+124,4,8:33,1,10,BUF 48,10,31,James Cook left end for 6 yards (tackle by Jakorian Bennett)
+125,4,8:01,2,4,LVR 46,10,31,James Cook left end for -2 yards (tackle by Robert Spillane)
+126,4,7:21,3,6,LVR 48,10,31,Josh Allen pass complete deep right to Gabriel Davis for 40 yards (tackle by Jakorian Bennett)
+127,4,6:39,1,8,LVR 8,10,31,James Cook left guard for 3 yards (tackle by Bilal Nichols)
+128,4,5:56,2,5,LVR 5,10,31,Damien Harris up the middle for 4 yards (tackle by Maxx Crosby and Divine Deablo)
+129,4,5:11,3,1,LVR 1,10,37,"Damien Harris up the middle for 1 yard, touchdown"
+130,4,5:04,0,0,LVR 15,10,38,Tyler Bass kicks extra point good
+131,4,5:08,0,0,BUF 35,10,38,"Tyler Bass kicks off 65 yards, touchback."
+132,4,5:08,1,10,LVR 25,10,38,Zamir White up the middle for 8 yards (tackle by Shaq Lawson)
+133,4,4:31,2,2,LVR 33,10,38,Zamir White up the middle for 6 yards (tackle by Dorian Williams)
+134,4,3:49,1,10,LVR 39,10,38,Jimmy Garoppolo pass complete deep middle to Hunter Renfrow for 23 yards (tackle by Taylor Rapp)
+135,4,3:10,1,10,BUF 38,10,38,"Jimmy Garoppolo pass incomplete deep middle intended for Davante Adams. Penalty on Taylor Rapp: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)"
+136,4,3:02,1,10,BUF 23,10,38,Zamir White up the middle for 8 yards (tackle by Dorian Williams)
+137,4,2:26,2,2,BUF 15,10,38,"Zamir White for no gain. Zamir White fumbles (forced by Dane Jackson), recovered by Taylor Rapp at BUF-13 and returned for 6 yards (tackle by Tre Tucker). Penalty on Michael Mayer: Offensive Holding, 10 yards (declined) "
+138,4,2:19,1,10,BUF 19,10,38,James Cook up the middle for 3 yards (tackle by Tyree Wilson)
+139,4,2:00,2,7,BUF 22,10,38,James Cook up the middle for 36 yards (tackle by Divine Deablo and Tyree Wilson)
+140,4,1:12,1,10,LVR 42,10,38,Kyle Allen kneels for -1 yards
+141,4,0:42,2,11,LVR 43,10,38,Kyle Allen kneels for -1 yards

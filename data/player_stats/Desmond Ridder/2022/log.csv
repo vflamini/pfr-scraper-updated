@@ -1,0 +1,5 @@
+,date,week,team,game_location,opp,result,team_pts,opp_pts,cmp,att,pass_yds,pass_td,int,rating,sacked,rush_att,rush_yds,rush_td
+0,2022-12-18,15,ATL,@,NOR,L,18,21,13,26,97,0,0,59.3,4,6,38,0
+1,2022-12-24,16,ATL,@,BAL,L,9,17,22,33,218,0,0,85.2,2,4,8,0
+2,2023-01-01,17,ATL,,ARI,W,20,19,19,26,169,0,0,90.1,1,4,9,0
+3,2023-01-08,18,ATL,,TAM,W,30,17,19,30,224,2,0,108.2,2,2,9,0

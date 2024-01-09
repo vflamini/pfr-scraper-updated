@@ -1,0 +1,156 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,NWE 35,0,0,"Jake Bailey kicks off 65 yards, touchback."
+1,1,15:00,1,10,PIT 25,0,0,Najee Harris right guard for 2 yards (tackle by Lawrence Guy and Ja'Whaun Bentley)
+2,1,14:21,2,8,PIT 27,0,0,Mitchell Trubisky pass complete short left to Chase Claypool for 4 yards (tackle by Myles Bryant)
+3,1,13:45,3,4,PIT 31,0,0,Mitchell Trubisky pass incomplete short right intended for Pat Freiermuth
+4,1,13:39,4,4,PIT 31,0,0,Pressley Harvin punts 69 yards
+5,1,13:27,1,10,NWE 20,0,0,Mac Jones pass incomplete short right intended for Lil'Jordan Humphrey
+6,1,13:21,2,10,NWE 20,0,0,Damien Harris left tackle for 3 yards (tackle by Cameron Heyward and Larry Ogunjobi)
+7,1,12:43,3,7,NWE 23,0,0,Mac Jones pass complete short middle to Jakobi Meyers for 8 yards (tackle by Tre Norwood and Robert Spillane)
+8,1,12:05,1,10,NWE 31,0,0,Damien Harris left tackle for 4 yards (tackle by Minkah Fitzpatrick and Larry Ogunjobi)
+9,1,11:29,2,6,NWE 35,0,0,Mac Jones pass complete short middle to Jakobi Meyers for 2 yards (tackle by Myles Jack)
+10,1,10:46,3,4,NWE 37,0,0,Mac Jones pass complete short left to Jakobi Meyers for 16 yards (tackle by Terrell Edmunds)
+11,1,10:13,1,10,PIT 47,0,0,Mac Jones pass complete short middle to Nelson Agholor for 16 yards (tackle by Minkah Fitzpatrick)
+12,1,9:32,1,10,PIT 31,0,0,Damien Harris up the middle for 9 yards (tackle by Devin Bush)
+13,1,8:59,2,1,PIT 22,0,0,Damien Harris left guard for 5 yards (tackle by Cameron Sutton)
+14,1,8:14,1,10,PIT 17,0,0,Mac Jones scrambles left guard for 2 yards (tackle by Cameron Heyward)
+15,1,7:35,2,8,PIT 15,0,0,Mac Jones pass incomplete short left intended for Hunter Henry
+16,1,7:30,3,8,PIT 15,0,0,"Penalty on NWE: Delay of Game, 5 yards (accepted) (no play)"
+17,1,7:30,3,13,PIT 20,0,0,Mac Jones pass complete short right to Nelson Agholor for 11 yards (tackle by Robert Spillane and Minkah Fitzpatrick)
+18,1,6:45,4,2,PIT 9,3,0,Nick Folk 28 yard field goal good
+19,1,6:42,0,0,NWE 35,3,0,"Jake Bailey kicks off 65 yards, touchback."
+20,1,6:42,1,10,PIT 25,3,0,Najee Harris up the middle for no gain (tackle by Deatrich Wise)
+21,1,6:06,2,10,PIT 25,3,0,Mitchell Trubisky scrambles right end for 7 yards (tackle by Myles Bryant)
+22,1,5:21,3,3,PIT 32,3,0,"Mitchell Trubisky pass complete to Diontae Johnson for no gain. Diontae Johnson fumbles (forced by Jalen Mills), recovered by Josh Uche at PIT-38, touchdown Replay Assistant challenged the fumble ruling, and the original play was overturned. Mitchell Trubisky pass complete short right to Diontae Johnson for 4 yards (tackle by Jalen Mills)"
+23,1,5:09,1,10,PIT 36,3,0,Mitchell Trubisky pass complete short left to Pat Freiermuth for 7 yards (tackle by Myles Bryant and Ja'Whaun Bentley)
+24,1,4:30,2,3,PIT 43,3,0,Jaylen Warren right guard for 4 yards (tackle by Lawrence Guy and Davon Godchaux)
+25,1,3:51,1,10,PIT 47,3,0,Jaylen Warren up the middle for 6 yards (tackle by Ja'Whaun Bentley)
+26,1,3:14,2,4,NWE 47,3,0,Mitchell Trubisky pass complete short right to Pat Freiermuth for 3 yards (tackle by Adrian Phillips and Mack Wilson)
+27,1,2:25,3,1,NWE 44,3,0,Derek Watt up the middle for 2 yards (tackle by Anfernee Jennings)
+28,1,1:48,1,10,NWE 42,3,0,Mitchell Trubisky pass deep middle (defended by Mack Wilson) intended for Diontae Johnson is intercepted by Jalen Mills at NE-26 and returned for 13 yards (tackle by George Pickens)
+29,1,1:38,1,10,NWE 39,3,0,Mac Jones pass incomplete short middle intended for Rhamondre Stevenson (defended by Cameron Heyward)
+30,1,1:32,2,10,NWE 39,3,0,Rhamondre Stevenson left guard for 5 yards (tackle by Larry Ogunjobi and Minkah Fitzpatrick)
+31,1,0:53,3,5,NWE 44,3,0,Mac Jones pass deep middle intended for DeVante Parker is intercepted by Minkah Fitzpatrick at PIT-21 and returned for 13 yards (tackle by Hunter Henry)
+32,1,0:42,1,10,PIT 34,3,0,Najee Harris right end for 5 yards (tackle by Jack Jones)
+33,1,0:07,2,5,PIT 39,3,0,Najee Harris up the middle for 4 yards (tackle by Devin McCourty and Ja'Whaun Bentley)
+34,2,15:00,3,1,PIT 43,3,0,Najee Harris right guard for 5 yards (tackle by Ja'Whaun Bentley and Jabrill Peppers)
+35,2,14:25,1,10,PIT 48,3,0,Najee Harris right tackle for no gain (tackle by Lawrence Guy)
+36,2,13:44,2,10,PIT 48,3,0,"Mitchell Trubisky pass incomplete short right intended for Diontae Johnson. Penalty on James Daniels: Ineligible Downfield Pass, 5 yards (declined) "
+37,2,13:40,3,10,PIT 48,3,0,Mitchell Trubisky pass complete short left to Diontae Johnson for 12 yards (tackle by Jonathan Jones)
+38,2,13:06,1,10,NWE 40,3,0,Mitchell Trubisky sacked by Christian Barmore for -7 yards
+39,2,12:23,2,17,NWE 47,3,0,Mitchell Trubisky pass incomplete short middle intended for Pat Freiermuth (defended by Adrian Phillips)
+40,2,12:19,3,17,NWE 47,3,0,Mitchell Trubisky pass complete deep left to Diontae Johnson for 17 yards (tackle by Jalen Mills)
+41,2,12:13,1,10,NWE 30,3,0,Najee Harris left tackle for 6 yards (tackle by Christian Barmore and Myles Bryant)
+42,2,11:30,2,4,NWE 24,3,0,Najee Harris left tackle for 3 yards (tackle by Mack Wilson)
+43,2,11:08,3,1,NWE 21,3,0,Najee Harris right end for 2 yards (tackle by Jonathan Jones)
+44,2,10:23,1,10,NWE 19,3,0,"Penalty on PIT: Delay of Game, 5 yards (accepted) (no play)"
+45,2,10:02,1,15,NWE 24,3,0,Mitchell Trubisky pass incomplete short middle intended for Chase Claypool (defended by Myles Bryant)
+46,2,9:57,2,15,NWE 24,3,0,Mitchell Trubisky pass complete short right to Chase Claypool for 11 yards (tackle by Mack Wilson and Jalen Mills)
+47,2,9:18,3,4,NWE 13,3,0,Mitchell Trubisky sacked by Jahlani Tavai for -5 yards
+48,2,8:39,4,9,NWE 18,3,3,Chris Boswell 36 yard field goal good
+49,2,8:35,0,0,PIT 35,3,3,"Chris Boswell kicks off 68 yards, returned by Kyle Dugger for 37 yards (tackle by James Pierre)"
+50,2,8:29,1,10,NWE 34,3,3,Damien Harris up the middle for 4 yards (tackle by Chris Wormley and Montravius Adams)
+51,2,7:51,2,6,NWE 38,3,3,"Mac Jones pass incomplete short right. Penalty on Mac Jones: Intentional Grounding, 10 yards (accepted) "
+52,2,7:46,3,16,NWE 28,3,3,"Mac Jones pass complete to Jakobi Meyers for no gain. Penalty on Isaiah Wynn: Offensive Holding, 10 yards (accepted) (no play)"
+53,2,7:15,3,26,NWE 18,3,3,Mac Jones pass complete deep middle to Jakobi Meyers for 24 yards (tackle by Terrell Edmunds)
+54,2,6:33,4,2,NWE 42,3,3,"Jake Bailey punts 58 yards, touchback."
+55,2,6:25,1,10,PIT 20,3,3,Mitchell Trubisky pass complete short middle to Pat Freiermuth for 4 yards (tackle by Deatrich Wise)
+56,2,5:52,2,6,PIT 24,3,3,Najee Harris for 3 yards (tackle by Lawrence Guy)
+57,2,5:12,3,3,PIT 27,3,3,Mitchell Trubisky pass complete short left to Chase Claypool for 5 yards (tackle by Myles Bryant)
+58,2,4:52,1,10,PIT 32,3,3,Jaylen Warren left end for 2 yards (tackle by Kyle Dugger)
+59,2,4:19,2,8,PIT 34,3,3,"Penalty on Dan Moore: False Start, 5 yards (accepted) (no play)"
+60,2,4:00,2,13,PIT 29,3,3,Mitchell Trubisky pass complete short right to Chase Claypool for 6 yards (tackle by Myles Bryant)
+61,2,3:24,3,7,PIT 35,3,3,Mitchell Trubisky pass incomplete short middle intended for Pat Freiermuth
+62,2,3:19,4,7,PIT 35,3,3,"Pressley Harvin punts 55 yards, returned by Myles Bryant for 16 yards (tackle by Marcus Allen)"
+63,2,3:08,1,10,NWE 26,3,3,Mac Jones pass incomplete short right intended for Jonnu Smith (defended by DeMarvin Leal)
+64,2,3:05,2,10,NWE 26,3,3,Mac Jones pass complete short right to Nelson Agholor for 9 yards (tackle by Myles Jack)
+65,2,2:18,3,1,NWE 35,3,3,Mac Jones up the middle for 4 yards (tackle by Devin Bush)
+66,2,2:00,1,10,NWE 39,3,3,Mac Jones scrambles left end for 4 yards (tackle by Alex Highsmith)
+67,2,1:22,2,6,NWE 43,3,3,Mac Jones pass complete short right to Kendrick Bourne for 6 yards (tackle by Ahkello Witherspoon)
+68,2,0:56,1,10,NWE 49,3,3,Mac Jones pass incomplete short left intended for Jakobi Meyers
+69,2,0:51,2,10,NWE 49,3,3,Mac Jones pass complete short middle to Jakobi Meyers for 7 yards (tackle by Robert Spillane)
+70,2,0:30,3,3,PIT 44,9,3,"Mac Jones pass complete deep right to Nelson Agholor for 44 yards, touchdown"
+71,2,0:22,0,0,PIT 15,10,3,Nick Folk kicks extra point good
+72,2,0:22,0,0,NWE 35,10,3,"Jake Bailey kicks off 65 yards, touchback."
+73,2,0:22,1,10,PIT 25,10,3,Mitchell Trubisky pass complete deep right to George Pickens for 23 yards
+74,2,0:17,1,10,PIT 48,10,3,Mitchell Trubisky pass incomplete deep right intended for Diontae Johnson
+75,2,0:13,2,10,PIT 48,10,3,Mitchell Trubisky sacked by Matt Judon for -4 yards
+76,2,0:03,3,14,PIT 44,10,3,Mitchell Trubisky pass incomplete deep right (defended by Devin McCourty) (defended by Jonathan Jones)
+77,3,15:00,0,0,PIT 35,10,3,"Chris Boswell kicks off 65 yards, touchback."
+78,3,15:00,1,10,NWE 25,10,3,Damien Harris left guard for 5 yards (tackle by Devin Bush and Arthur Maulet)
+79,3,14:31,2,5,NWE 30,10,3,Mac Jones pass complete short middle to Kendrick Bourne for 10 yards (tackle by Arthur Maulet)
+80,3,13:48,1,10,NWE 40,10,3,Damien Harris right guard for 3 yards (tackle by Myles Jack and Terrell Edmunds)
+81,3,13:09,2,8,NWE 42,10,3,Mac Jones pass complete to Damien Harris for 11 yards (tackle by Cameron Sutton)
+82,3,12:25,1,10,PIT 46,10,3,Damien Harris right tackle for 3 yards (tackle by Devin Bush and Tyson Alualu)
+83,3,11:43,2,7,PIT 43,10,3,Mac Jones pass incomplete deep middle intended for Kendrick Bourne
+84,3,11:39,3,7,PIT 43,10,3,Rhamondre Stevenson up the middle for 7 yards (tackle by Robert Spillane and Minkah Fitzpatrick)
+85,3,11:11,1,10,PIT 36,10,3,Rhamondre Stevenson up the middle for 3 yards (tackle by Myles Jack and Malik Reed)
+86,3,10:29,2,7,PIT 33,10,3,"Penalty on Isaiah Wynn: False Start, 5 yards (accepted) (no play)"
+87,3,10:04,2,12,PIT 38,10,3,Mac Jones pass complete short middle to Rhamondre Stevenson for 4 yards (tackle by Alex Highsmith)
+88,3,9:26,3,8,PIT 34,10,3,Mac Jones pass incomplete short left intended for Jakobi Meyers
+89,3,9:21,4,8,PIT 34,10,3,Nick Folk 52 yard field goal no good
+90,3,9:17,1,10,PIT 42,10,3,Mitchell Trubisky pass complete short right to Najee Harris for 13 yards (tackle by Jalen Mills and Mack Wilson)
+91,3,8:31,1,10,NWE 45,10,3,Najee Harris left tackle for 1 yard (tackle by Deatrich Wise and Myles Bryant)
+92,3,7:50,2,9,NWE 44,10,3,Mitchell Trubisky pass complete short left to Diontae Johnson for 9 yards (tackle by Jalen Mills)
+93,3,7:10,1,10,NWE 35,10,3,Mitchell Trubisky pass incomplete short right intended for Chase Claypool
+94,3,7:06,2,10,NWE 35,10,3,Mitchell Trubisky pass complete short left to Diontae Johnson for 2 yards (tackle by Jabrill Peppers)
+95,3,6:27,3,8,NWE 33,10,3,Mitchell Trubisky pass complete short left to Jaylen Warren for no gain (tackle by Jabrill Peppers)
+96,3,5:48,4,8,NWE 33,10,6,Chris Boswell 52 yard field goal good
+97,3,5:44,0,0,PIT 35,10,6,"Chris Boswell kicks off 70 yards, returned by Pierre Strong for 22 yards (tackle by Miles Boykin)"
+98,3,5:40,1,10,NWE 17,10,6,Mac Jones pass complete short middle to Nelson Agholor for 25 yards (tackle by Terrell Edmunds)
+99,3,4:58,1,10,NWE 42,10,6,"Penalty on Michael Onwenu: False Start, 5 yards (accepted) (no play)"
+100,3,4:58,1,15,NWE 37,10,6,Mac Jones pass complete short middle to Jakobi Meyers for 6 yards (tackle by Cameron Sutton and Myles Jack)
+101,3,4:37,2,9,NWE 43,10,6,Mac Jones pass incomplete short left intended for Jakobi Meyers
+102,3,4:12,3,9,NWE 43,10,6,Mac Jones pass incomplete deep left intended for Jakobi Meyers (defended by Cameron Sutton)
+103,3,4:06,4,9,NWE 43,10,6,"Jake Bailey punts 37 yards, recovered by Brenden Schooler at PIT-20"
+104,3,3:58,1,10,PIT 20,10,6,"Penalty on Connor Heyward: Unnecessary Roughness / Defense, 10 yards (accepted) (no play)"
+105,3,3:58,1,10,PIT 10,10,6,Damien Harris left guard for 3 yards (tackle by DeMarvin Leal)
+106,3,3:24,2,7,PIT 7,10,6,Mac Jones pass complete short left to Damien Harris for 5 yards (tackle by Myles Jack)
+107,3,2:51,3,2,PIT 2,16,6,"Damien Harris up the middle for 2 yards, touchdown"
+108,3,2:47,0,0,PIT 15,17,6,Nick Folk kicks extra point good
+109,3,2:47,0,0,NWE 35,17,6,"Jake Bailey kicks off 65 yards, touchback."
+110,3,2:47,1,10,PIT 25,17,6,Mitchell Trubisky pass complete short middle to Najee Harris for 14 yards (tackle by Myles Bryant)
+111,3,2:21,1,10,PIT 39,17,6,Mitchell Trubisky pass incomplete short left intended for Diontae Johnson
+112,3,2:18,2,10,PIT 39,17,6,Gunner Olszewski left end for 18 yards (tackle by Jack Jones and Devin McCourty)
+113,3,2:08,1,10,NWE 43,17,6,Najee Harris up the middle for 8 yards (tackle by Jahlani Tavai and Deatrich Wise)
+114,3,1:27,2,2,NWE 35,17,6,Mitchell Trubisky pass complete short left to Najee Harris for 8 yards (tackle by Devin McCourty)
+115,3,0:59,1,10,NWE 27,17,6,Mitchell Trubisky pass complete short left to Diontae Johnson for 13 yards
+116,3,0:38,1,10,NWE 14,17,6,Najee Harris left tackle for 3 yards (tackle by Jahlani Tavai and Carl Davis)
+117,3,0:03,2,7,NWE 11,17,6,Jaylen Warren left guard for 3 yards (tackle by Anfernee Jennings)
+118,4,15:00,3,4,NWE 8,17,12,"Mitchell Trubisky pass complete short middle to Pat Freiermuth for 8 yards, touchdown"
+119,4,14:58,0,0,NWE 2,17,14,Two Point Attempt: Mitchell Trubisky pass complete to to Diontae Johnson for no gain
+120,4,14:58,0,0,PIT 35,17,14,"Chris Boswell kicks off 63 yards, returned by Pierre Strong for 26 yards (tackle by Connor Heyward and Jaylen Warren)"
+121,4,14:50,1,10,NWE 28,17,14,Mac Jones pass complete short middle to Jakobi Meyers for 11 yards (tackle by Myles Jack)
+122,4,14:13,1,10,NWE 39,17,14,Rhamondre Stevenson up the middle for 3 yards (tackle by Myles Jack and Tyson Alualu)
+123,4,13:31,2,7,NWE 42,17,14,"Mac Jones pass complete short middle to Kendrick Bourne for 9 yards (tackle by Ahkello Witherspoon). Penalty on Cole Strange: Offensive Holding, 10 yards (accepted) (no play)"
+124,4,13:01,2,17,NWE 32,17,14,Rhamondre Stevenson left guard for 8 yards (tackle by Cameron Heyward)
+125,4,12:22,3,9,NWE 40,17,14,Mac Jones pass complete short middle to Jakobi Meyers for 15 yards (tackle by Ahkello Witherspoon)
+126,4,11:36,1,10,PIT 45,17,14,Mac Jones pass complete short left to Nelson Agholor for 5 yards (tackle by DeMarvin Leal and Myles Jack)
+127,4,11:08,2,5,PIT 40,17,14,Mac Jones pass incomplete deep left intended for Jonnu Smith
+128,4,11:03,3,5,PIT 40,17,14,Mac Jones pass incomplete deep left intended for DeVante Parker
+129,4,10:58,4,5,PIT 40,17,14,Jake Bailey punts 29 yards downed by Anfernee Jennings
+130,4,10:49,1,10,PIT 11,17,14,Najee Harris left tackle for 2 yards (tackle by Davon Godchaux and Matt Judon)
+131,4,10:13,2,8,PIT 13,17,14,Mitchell Trubisky pass incomplete deep left intended for George Pickens
+132,4,10:08,3,8,PIT 13,17,14,Mitchell Trubisky pass complete short left to Najee Harris for 2 yards (tackle by Adrian Phillips and Jalen Mills)
+133,4,9:49,4,6,PIT 15,17,14,"Pressley Harvin punts 40 yards, returned by Myles Bryant for 5 yards (tackle by Robert Spillane)"
+134,4,9:40,1,10,NWE 50,17,14,Mac Jones pass complete short left to Jakobi Meyers for 6 yards (tackle by Levi Wallace)
+135,4,9:01,2,4,PIT 44,17,14,Damien Harris right end for 2 yards (tackle by Malik Reed and Myles Jack)
+136,4,8:15,3,2,PIT 42,17,14,Mac Jones pass incomplete short left intended for Jonnu Smith (defended by Terrell Edmunds)
+137,4,8:11,4,2,PIT 42,17,14,"Jake Bailey punts 42 yards, touchback."
+138,4,8:03,1,10,PIT 20,17,14,Najee Harris right end for 5 yards (tackle by Matt Judon and Myles Bryant)
+139,4,7:28,2,5,PIT 25,17,14,Mitchell Trubisky pass complete short right to Najee Harris for 3 yards (tackle by Jahlani Tavai and Matt Judon)
+140,4,6:47,3,2,PIT 28,17,14,Mitchell Trubisky pass incomplete short right intended for Najee Harris (defended by Matt Judon)
+141,4,6:41,4,2,PIT 28,17,14,"Pressley Harvin punts 42 yards, returned by Myles Bryant for no gain (tackle by Miles Boykin)"
+142,4,6:33,1,10,NWE 30,17,14,Rhamondre Stevenson up the middle for 3 yards (tackle by Cameron Heyward and Malik Reed)
+143,4,5:59,2,7,NWE 33,17,14,"Rhamondre Stevenson right end for 4 yards (tackle by Minkah Fitzpatrick). Penalty on Jakobi Meyers: Offensive Holding, 10 yards (accepted) "
+144,4,5:23,2,13,NWE 27,17,14,Mac Jones pass complete short middle to Lil'Jordan Humphrey for 11 yards (tackle by Robert Spillane and Myles Jack)
+145,4,4:39,3,2,NWE 38,17,14,Mac Jones scrambles left guard for 5 yards (tackle by Myles Jack)
+146,4,3:52,1,10,NWE 43,17,14,Rhamondre Stevenson left guard for 6 yards (tackle by Chris Wormley)
+147,4,3:04,2,4,NWE 49,17,14,Rhamondre Stevenson right guard for 8 yards (tackle by Robert Spillane)
+148,4,2:23,1,10,PIT 43,17,14,Damien Harris left guard for 16 yards (tackle by Jamir Jones)
+149,4,2:00,1,10,PIT 27,17,14,Damien Harris right guard for -2 yards (tackle by Myles Jack and Alex Highsmith)
+150,4,1:56,2,12,PIT 29,17,14,Damien Harris left tackle for 9 yards (tackle by Malik Reed)
+151,4,1:51,3,3,PIT 20,17,14,Damien Harris left tackle for 5 yards (tackle by Cameron Heyward)
+152,4,1:40,1,10,PIT 15,17,14,Mac Jones kneels for -4 yards
+153,4,0:57,2,14,PIT 19,17,14,Mac Jones kneels for -2 yards
+154,4,0:27,3,16,PIT 21,17,14,Mac Jones kneels for -3 yards

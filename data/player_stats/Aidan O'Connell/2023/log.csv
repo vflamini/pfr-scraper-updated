@@ -1,0 +1,4 @@
+,date,week,team,game_location,opp,result,team_pts,opp_pts,cmp,att,pass_yds,pass_td,int,rating,sacked,rush_att,rush_yds,rush_td
+0,2023-10-01,4,LVR,@,LAC,L,17,24,24,39,238,0,1,68.1,7,3,3,1
+1,2023-10-22,7,LVR,@,CHI,L,12,30,10,13,75,1,1,83.8,0,0,0,0
+2,2023-11-05,9,LVR,,NYG,W,30,6,16,25,209,0,0,90.2,0,0,0,0

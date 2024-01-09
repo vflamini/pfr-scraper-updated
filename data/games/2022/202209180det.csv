@@ -1,0 +1,170 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,WAS 35,0,0,"Joey Slye kicks off 65 yards, touchback."
+1,1,15:00,1,10,DET 25,0,0,Jared Goff pass complete short right to Amon-Ra St. Brown for 3 yards (tackle by Darrick Forrest)
+2,1,14:35,2,7,DET 28,0,0,"Penalty on Penei Sewell: False Start, 5 yards (accepted) (no play)"
+3,1,14:27,2,12,DET 23,0,0,Jared Goff pass incomplete short right intended for T.J. Hockenson (defended by William Jackson)
+4,1,14:21,3,12,DET 23,0,0,Jared Goff sacked by Jamin Davis for -12 yards
+5,1,13:45,4,24,DET 11,0,0,"Jack Fox punts 60 yards, returned by Dax Milne for 3 yards (tackle by Bobby Price)"
+6,1,13:35,1,10,WAS 32,0,0,Carson Wentz pass complete short left to Logan Thomas for 4 yards (tackle by Will Harris)
+7,1,13:05,2,6,WAS 36,0,0,Antonio Gibson left end for 2 yards (tackle by Alex Anzalone)
+8,1,12:21,3,4,WAS 38,0,0,Carson Wentz sacked by Aidan Hutchinson for no gain
+9,1,11:43,4,4,WAS 38,0,0,"Tress Way punts 62 yards, touchback."
+10,1,11:32,1,10,DET 20,0,0,D'Andre Swift left end for 4 yards (tackle by Benjamin St-Juste)
+11,1,10:55,2,6,DET 24,0,0,Jamaal Williams up the middle for 3 yards (tackle by Daron Payne and Cole Holcomb)
+12,1,10:18,3,3,DET 27,0,0,Jared Goff pass complete short middle to Amon-Ra St. Brown for 49 yards (tackle by Darrick Forrest)
+13,1,9:35,1,10,WAS 24,0,0,Jamaal Williams up the middle for 1 yard (tackle by Cole Holcomb and Daniel Wise)
+14,1,8:56,2,9,WAS 23,0,0,Jared Goff pass incomplete deep left intended for D'Andre Swift
+15,1,8:51,3,9,WAS 23,0,0,Jared Goff pass complete short right to Amon-Ra St. Brown for 6 yards (tackle by Benjamin St-Juste)
+16,1,8:10,4,3,WAS 17,0,3,Austin Seibert 35 yard field goal good
+17,1,8:06,0,0,DET 35,0,3,"Austin Seibert kicks off 68 yards, returned by Dax Milne for 19 yards (tackle by Chris Board)"
+18,1,8:01,1,10,WAS 16,0,3,"Carson Wentz pass incomplete short right. Penalty on Carson Wentz: Intentional Grounding, 12 yards (accepted) "
+19,1,7:55,2,22,WAS 4,0,3,Antonio Gibson right tackle for 5 yards (tackle by Aidan Hutchinson)
+20,1,7:10,3,17,WAS 9,0,3,Carson Wentz pass complete short left to Curtis Samuel for 8 yards (tackle by Jeff Okudah)
+21,1,6:32,4,9,WAS 17,0,3,"Tress Way punts 48 yards, returned by Kalif Raymond for 8 yards (tackle by Jeremy Reaves)"
+22,1,6:22,1,10,DET 43,0,3,D'Andre Swift right tackle for 50 yards (tackle by Bobby McCain)
+23,1,5:31,1,7,WAS 7,0,3,Jamaal Williams up the middle for 4 yards (tackle by Jamin Davis and Cole Holcomb)
+24,1,4:50,2,3,WAS 3,0,3,Jamaal Williams left end for no gain (tackle by Jamin Davis)
+25,1,4:11,3,3,WAS 3,0,3,Jared Goff pass incomplete short left intended for Amon-Ra St. Brown
+26,1,4:07,4,3,WAS 3,0,3,Jared Goff pass incomplete short left intended for DJ Chark (defended by Kendall Fuller)
+27,1,4:02,1,10,WAS 3,0,3,Antonio Gibson up the middle for 2 yards (tackle by Aidan Hutchinson and Tracy Walker)
+28,1,3:22,2,8,WAS 5,0,5,Carson Wentz sacked by Charles Harris for -5 yards. Carson Wentz fumbles (forced by Charles Harris)
+29,1,3:17,0,0,WAS 20,0,5,"Tress Way kicks off 63 yards, returned by Kalif Raymond for 52 yards (tackle by Jeremy Reaves)"
+30,1,3:07,1,10,WAS 31,0,5,Jared Goff pass complete short middle to Craig Reynolds for 13 yards (tackle by Kendall Fuller)
+31,1,2:25,1,10,WAS 18,0,5,Jared Goff pass incomplete short left intended for T.J. Hockenson
+32,1,2:22,2,10,WAS 18,0,5,Jamaal Williams up the middle for 5 yards (tackle by Darrick Forrest and Kendall Fuller)
+33,1,1:45,3,5,WAS 13,0,11,"Jared Goff pass complete short right to Amon-Ra St. Brown for 13 yards, touchdown"
+34,1,1:40,0,0,WAS 15,0,12,Austin Seibert kicks extra point good
+35,1,1:40,0,0,DET 35,0,12,"Austin Seibert kicks off 62 yards, returned by Dax Milne for 13 yards (tackle by Juju Hughes)"
+36,1,1:36,1,10,WAS 16,0,12,Antonio Gibson right tackle for 5 yards (tackle by Malcolm Rodriguez and Aidan Hutchinson)
+37,1,0:53,2,5,WAS 21,0,12,Antonio Gibson right end for -1 yards (tackle by Will Harris)
+38,1,0:15,3,6,WAS 20,0,12,Carson Wentz pass incomplete deep left intended for Terry McLaurin
+39,1,0:10,4,6,WAS 20,0,12,Tress Way punts 38 yards out of bounds
+40,1,0:01,1,10,DET 42,0,12,Jared Goff pass complete deep left to Josh Reynolds for 23 yards (tackle by Cole Holcomb)
+41,2,15:00,1,10,WAS 35,0,12,Jared Goff pass incomplete deep left intended for DJ Chark (defended by Kendall Fuller)
+42,2,14:52,2,10,WAS 35,0,12,Craig Reynolds up the middle for 3 yards (tackle by Jonathan Allen and Cole Holcomb)
+43,2,14:08,3,7,WAS 32,0,12,"D'Andre Swift up the middle for 2 yards (tackle by Montez Sweat) Penalty on DET: Illegal Formation, 5 yards (declined) "
+44,2,13:51,4,5,WAS 30,0,15,Austin Seibert 48 yard field goal good
+45,2,13:47,0,0,DET 35,0,15,"Austin Seibert kicks off 65 yards, touchback."
+46,2,13:47,1,10,WAS 25,0,15,Carson Wentz pass incomplete short right intended for Antonio Gibson (defended by Alex Anzalone)
+47,2,13:42,2,10,WAS 25,0,15,Carson Wentz sacked by Aidan Hutchinson for -6 yards
+48,2,12:53,3,16,WAS 19,0,15,Carson Wentz pass complete short right to Logan Thomas for 13 yards (tackle by Tracy Walker and Mike Hughes)
+49,2,12:18,4,3,WAS 32,0,15,"Tress Way punts 45 yards, fair catch by Kalif Raymond at DET-23"
+50,2,12:10,1,10,DET 23,0,15,Jared Goff pass complete short right to D'Andre Swift for 9 yards (tackle by Efe Obada)
+51,2,11:32,2,1,DET 32,0,15,Jamaal Williams up the middle for 12 yards (tackle by Darrick Forrest)
+52,2,10:57,1,10,DET 44,0,15,Jared Goff pass complete short left to Jamaal Williams for 7 yards (tackle by Bobby McCain)
+53,2,10:23,2,3,WAS 49,0,15,Craig Reynolds left tackle for 11 yards (tackle by Darrick Forrest)
+54,2,9:37,1,10,WAS 38,0,15,Jared Goff pass complete short middle to Amon-Ra St. Brown for 11 yards (tackle by Darrick Forrest and Bobby McCain)
+55,2,8:54,1,10,WAS 27,0,15,Jamaal Williams up the middle for 4 yards (tackle by Jonathan Allen and Cole Holcomb)
+56,2,8:08,2,6,WAS 23,0,15,Jamaal Williams up the middle for 8 yards (tackle by Bobby McCain)
+57,2,7:31,1,10,WAS 15,0,15,Jared Goff pass complete short middle to Josh Reynolds for 12 yards (tackle by Cole Holcomb)
+58,2,6:47,1,3,WAS 3,0,21,"Jared Goff pass complete short middle to Josh Reynolds for 3 yards, touchdown"
+59,2,6:43,0,0,WAS 15,0,22,Austin Seibert kicks extra point good
+60,2,6:43,0,0,DET 35,0,22,"Austin Seibert kicks off 65 yards, returned by Dax Milne for 27 yards (tackle by Chris Board and Kerby Joseph)"
+61,2,6:37,1,10,WAS 27,0,22,Carson Wentz pass complete short right to Curtis Samuel for 4 yards (tackle by Mike Hughes and Will Harris)
+62,2,5:55,2,6,WAS 31,0,22,Carson Wentz pass incomplete deep right intended for Logan Thomas
+63,2,5:51,3,6,WAS 31,0,22,Carson Wentz pass complete short right to Jahan Dotson for 9 yards (tackle by Julian Okwara)
+64,2,5:12,1,10,WAS 40,0,22,Carson Wentz pass complete short left to Antonio Gibson for 2 yards (tackle by Jeff Okudah)
+65,2,4:34,2,8,WAS 42,0,22,Carson Wentz pass incomplete deep left intended for Cam Sims
+66,2,4:22,3,8,WAS 42,0,22,"Penalty on WAS: Delay of Game, 5 yards (accepted) (no play)"
+67,2,4:22,3,13,WAS 37,0,22,Carson Wentz pass incomplete deep right intended for Terry McLaurin
+68,2,4:20,4,13,WAS 37,0,22,"Tress Way punts 45 yards, fair catch by Kalif Raymond at DET-18"
+69,2,4:12,1,10,DET 18,0,22,Jared Goff pass complete short right to Amon-Ra St. Brown for 4 yards (tackle by Darrick Forrest)
+70,2,3:38,2,6,DET 22,0,22,Jamaal Williams left end for 2 yards (tackle by Montez Sweat and Cole Holcomb)
+71,2,2:56,3,4,DET 24,0,22,Jared Goff pass incomplete short right intended for DJ Chark (defended by Benjamin St-Juste)
+72,2,2:51,4,4,DET 24,0,22,"Jack Fox punts 56 yards, fair catch by Dax Milne at WAS-20"
+73,2,2:43,1,10,WAS 20,0,22,Carson Wentz pass complete short middle to J.D. McKissic for 4 yards (tackle by Malcolm Rodriguez)
+74,2,2:19,2,6,WAS 24,0,22,J.D. McKissic left end for 4 yards (tackle by Isaiah Buggs)
+75,2,2:00,3,2,WAS 28,0,22,Carson Wentz pass complete short right to J.D. McKissic for 2 yards (tackle by Mike Hughes)
+76,2,1:33,1,10,WAS 30,0,22,Carson Wentz pass incomplete short left intended for Terry McLaurin
+77,2,1:29,2,10,WAS 30,0,22,Carson Wentz sacked by Aidan Hutchinson for -9 yards
+78,2,0:46,3,19,WAS 21,0,22,Carson Wentz pass complete short middle to J.D. McKissic for 13 yards (tackle by Tracy Walker and DeShon Elliott)
+79,2,0:39,4,6,WAS 34,0,22,"Tress Way punts 46 yards, fair catch by Kalif Raymond at DET-20. Penalty on Anthony Pittman: Running Into the Kicker, 5 yards (declined) "
+80,2,0:32,1,10,DET 20,0,22,Jared Goff pass incomplete short left intended for D'Andre Swift
+81,2,0:27,2,10,DET 20,0,22,Jared Goff pass incomplete short middle intended for T.J. Hockenson
+82,2,0:22,3,10,DET 20,0,22,Jared Goff pass incomplete deep right intended for DJ Chark
+83,2,0:15,4,10,DET 20,0,22,"Jack Fox punts 45 yards, returned by Dax Milne for 11 yards (tackle by Quintez Cephus)"
+84,2,0:05,1,10,WAS 46,0,22,Carson Wentz pass incomplete short middle intended for Curtis Samuel
+85,3,15:00,0,0,DET 35,0,22,"Austin Seibert kicks off 62 yards, returned by Dax Milne for 33 yards (tackle by Juju Hughes)"
+86,3,14:54,1,10,WAS 36,0,22,Antonio Gibson left tackle for 4 yards (tackle by Alex Anzalone and Malcolm Rodriguez)
+87,3,14:28,2,6,WAS 40,0,22,Carson Wentz pass complete deep right to Jahan Dotson for 40 yards (tackle by Will Harris)
+88,3,13:51,1,10,DET 20,0,22,Carson Wentz pass incomplete short right
+89,3,13:45,2,10,DET 20,0,22,Carson Wentz pass complete short left to Terry McLaurin for 5 yards (tackle by Jeff Okudah and Charles Harris)
+90,3,13:03,3,5,DET 15,6,22,"Carson Wentz pass complete short left to Curtis Samuel for 15 yards, touchdown"
+91,3,12:58,0,0,DET 15,7,22,Joey Slye kicks extra point good
+92,3,12:58,0,0,WAS 35,7,22,"Joey Slye kicks off 65 yards, touchback."
+93,3,12:58,1,10,DET 25,7,22,Jamaal Williams left tackle for 4 yards (tackle by William Jackson)
+94,3,12:28,2,6,DET 29,7,22,D'Andre Swift left tackle for no gain (tackle by Jamin Davis)
+95,3,11:55,3,6,DET 29,7,22,Jared Goff pass incomplete deep right intended for Amon-Ra St. Brown
+96,3,11:49,4,6,DET 29,7,22,"Jack Fox punts 63 yards, returned by Dax Milne for 19 yards (tackle by Quintez Cephus and Josh Woods)"
+97,3,11:36,1,10,WAS 27,7,22,Carson Wentz pass complete deep right to Terry McLaurin for 18 yards (tackle by Mike Hughes)
+98,3,11:01,1,10,WAS 45,7,22,Antonio Gibson right end for 8 yards (tackle by Alim McNeill and Will Harris)
+99,3,10:15,2,2,DET 47,7,22,Carson Wentz pass deep middle intended for Logan Thomas is intercepted by Will Harris at DET-20 and returned for no gain (tackle by Logan Thomas)
+100,3,10:06,1,10,DET 20,7,22,Jared Goff pass complete short right to T.J. Hockenson for 1 yard (tackle by Darrick Forrest)
+101,3,9:34,2,9,DET 21,7,22,Jared Goff pass complete short right to Amon-Ra St. Brown for 11 yards (tackle by Darrick Forrest)
+102,3,9:04,1,10,DET 32,7,22,Craig Reynolds right tackle for 2 yards (tackle by Daron Payne and Jonathan Allen)
+103,3,8:23,2,8,DET 34,7,22,Jared Goff pass incomplete short left intended for D'Andre Swift
+104,3,8:16,3,8,DET 34,7,22,Jared Goff pass complete short middle to T.J. Hockenson for 7 yards (tackle by Darrick Forrest and Benjamin St-Juste)
+105,3,7:28,4,1,DET 41,7,22,"Jack Fox punts 53 yards, fair catch by Dax Milne at WAS-6"
+106,3,7:18,1,10,WAS 6,7,22,Antonio Gibson up the middle for 1 yard (tackle by Michael Brockers)
+107,3,6:42,2,9,WAS 7,7,22,Carson Wentz pass complete short right to Jahan Dotson for 9 yards (tackle by Jeff Okudah)
+108,3,5:58,1,10,WAS 16,7,22,Carson Wentz pass complete deep right to Terry McLaurin for 35 yards (tackle by Mike Hughes)
+109,3,5:13,1,10,DET 49,7,22,Antonio Gibson right end for 1 yard (tackle by Malcolm Rodriguez and Benito Jones)
+110,3,4:30,2,9,DET 48,7,22,Carson Wentz pass complete deep right to Curtis Samuel for 27 yards (tackle by DeShon Elliott)
+111,3,3:47,1,10,DET 21,7,22,J.D. McKissic left end for 1 yard (tackle by Julian Okwara and Malcolm Rodriguez)
+112,3,3:04,2,9,DET 20,13,22,"Carson Wentz pass complete deep middle to Logan Thomas for 20 yards, touchdown"
+113,3,2:58,0,0,DET 2,15,22,Two Point Attempt: Carson Wentz pass complete to to Jahan Dotson for no gain
+114,3,2:58,0,0,WAS 35,15,22,"Joey Slye kicks off 65 yards, touchback."
+115,3,2:58,1,10,DET 25,15,22,Amon-Ra St. Brown right end for 58 yards (tackle by Benjamin St-Juste)
+116,3,2:19,1,10,WAS 17,15,22,Jared Goff sacked by Daron Payne for -5 yards
+117,3,1:43,2,15,WAS 22,15,22,Jared Goff pass incomplete short middle intended for T.J. Hockenson
+118,3,1:38,3,15,WAS 22,15,28,"Jared Goff pass complete short right to D'Andre Swift for 22 yards, touchdown"
+119,3,1:28,0,0,WAS 15,15,29,Austin Seibert kicks extra point good
+120,3,1:28,0,0,DET 35,15,29,"Austin Seibert kicks off 62 yards, returned by Dax Milne for 14 yards (tackle by Derrick Barnes and Anthony Pittman)"
+121,3,1:23,1,10,WAS 17,15,29,Carson Wentz pass incomplete short middle intended for Terry McLaurin
+122,3,1:15,2,10,WAS 17,15,29,Carson Wentz pass complete short right to Curtis Samuel for 8 yards (tackle by Will Harris and Alex Anzalone)
+123,3,0:34,3,2,WAS 25,15,29,Antonio Gibson up the middle for 1 yard (tackle by Malcolm Rodriguez and Isaiah Buggs)
+124,4,15:00,4,1,WAS 26,15,29,Terry McLaurin left end for 7 yards (tackle by DeShon Elliott)
+125,4,14:19,1,10,WAS 33,15,29,Carson Wentz pass complete short left to John Bates for 9 yards (tackle by DeShon Elliott)
+126,4,13:48,2,1,WAS 42,15,29,Antonio Gibson left end for -2 yards (tackle by Malcolm Rodriguez and Isaiah Buggs)
+127,4,13:06,3,3,WAS 40,15,29,Carson Wentz pass complete short left to Terry McLaurin for 17 yards (tackle by Jeff Okudah)
+128,4,12:33,1,10,DET 43,15,29,Curtis Samuel left end for 21 yards (tackle by DeShon Elliott)
+129,4,11:52,1,10,DET 22,15,29,Carson Wentz pass complete short left to J.D. McKissic for 10 yards (tackle by Will Harris)
+130,4,11:16,1,10,DET 12,15,29,Carson Wentz pass incomplete short left intended for Antonio Gibson
+131,4,11:09,2,10,DET 12,15,29,Carson Wentz pass complete short left to Antonio Gibson for 11 yards (tackle by DeShon Elliott and Tracy Walker)
+132,4,10:44,1,1,DET 1,21,29,"Antonio Gibson left tackle for 1 yard, touchdown"
+133,4,10:39,0,0,DET 2,21,29,Two Point Attempt: Carson Wentz pass incomplete intended for
+134,4,10:39,0,0,WAS 35,21,29,"Joey Slye kicks off 68 yards, returned by Justin Jackson for 33 yards (tackle by Jeremy Reaves and Joey Slye)"
+135,4,10:33,1,10,DET 30,21,29,Jamaal Williams right tackle for 8 yards (tackle by Daron Payne and Bobby McCain)
+136,4,9:57,2,2,DET 38,21,29,Jared Goff pass complete deep middle to T.J. Hockenson for 18 yards (tackle by William Jackson)
+137,4,9:16,1,10,WAS 44,21,29,D'Andre Swift left end for no gain (tackle by Cole Holcomb)
+138,4,8:36,2,10,WAS 44,21,29,Jared Goff pass complete short left to Amon-Ra St. Brown for 8 yards (tackle by Kendall Fuller)
+139,4,7:52,3,2,WAS 36,21,29,Jared Goff pass complete short right to Brock Wright for 25 yards (tackle by Bobby McCain and Cole Holcomb)
+140,4,7:05,1,10,WAS 11,21,35,"Jared Goff pass complete short left to Amon-Ra St. Brown for 11 yards, touchdown"
+141,4,7:00,0,0,WAS 15,21,36,Austin Seibert kicks extra point good
+142,4,7:00,0,0,DET 35,21,36,"Austin Seibert kicks off 63 yards, returned by Dax Milne for 22 yards (tackle by Josh Woods)"
+143,4,6:54,1,10,WAS 24,21,36,Carson Wentz pass incomplete short right intended for Curtis Samuel
+144,4,6:49,2,10,WAS 24,21,36,Carson Wentz pass complete short middle to J.D. McKissic for 9 yards (tackle by Mike Hughes)
+145,4,6:24,3,1,WAS 33,21,36,J.D. McKissic up the middle for 4 yards (tackle by Alex Anzalone and Mike Hughes)
+146,4,6:04,1,10,WAS 37,21,36,Carson Wentz pass complete short right to Curtis Samuel for 9 yards (tackle by Malcolm Rodriguez)
+147,4,5:31,2,1,WAS 46,21,36,Carson Wentz pass complete short left to Curtis Samuel for 7 yards (tackle by Alex Anzalone)
+148,4,5:10,1,10,DET 47,21,36,Carson Wentz scrambles for 18 yards (tackle by Will Harris)
+149,4,4:39,1,10,DET 29,21,36,Carson Wentz pass complete short middle to J.D. McKissic for 4 yards (tackle by Chris Board)
+150,4,4:17,2,6,DET 25,21,36,Carson Wentz pass complete short left to J.D. McKissic for 12 yards (tackle by Chris Board)
+151,4,3:53,1,10,DET 13,21,36,Carson Wentz pass incomplete short left intended for Cam Sims
+152,4,3:45,2,10,DET 13,21,36,Carson Wentz pass complete short right to Dax Milne for 6 yards (tackle by Alex Anzalone)
+153,4,3:08,3,4,DET 7,21,36,Carson Wentz scrambles up the middle for 5 yards (tackle by Tracy Walker)
+154,4,2:35,1,2,DET 2,21,36,Antonio Gibson up the middle for 1 yard (tackle by Isaiah Buggs)
+155,4,2:08,2,1,DET 1,21,36,Antonio Gibson left tackle for no gain (tackle by Alim McNeill and John Cominsky)
+156,4,2:00,3,1,DET 1,27,36,"Carson Wentz pass complete short middle to Jahan Dotson for 1 yard, touchdown"
+157,4,1:56,0,0,DET 15,27,36,Joey Slye kicks extra point no good
+158,4,1:56,0,0,WAS 35,27,36,"Joey Slye kicks onside 5 yards, returned by DeShon Elliott for no gain"
+159,4,1:52,1,10,WAS 40,27,36,Jamaal Williams up the middle for 2 yards (tackle by Donovan Jeter)
+160,4,1:50,2,8,WAS 38,27,36,Jared Goff sacked by James Smith-Williams for -5 yards
+161,4,1:44,3,13,WAS 43,27,36,Amon-Ra St. Brown left end for 10 yards (tackle by Kendall Fuller)
+162,4,1:38,4,3,WAS 33,27,36,Jared Goff pass incomplete short middle intended for Amon-Ra St. Brown (defended by Kendall Fuller)
+163,4,1:35,1,10,WAS 33,27,36,Carson Wentz pass incomplete short middle intended for John Bates
+164,4,1:30,2,10,WAS 33,27,36,Carson Wentz pass complete short left to John Bates for 6 yards (tackle by Mike Hughes)
+165,4,1:08,3,4,WAS 39,27,36,Carson Wentz pass incomplete deep right intended for Jahan Dotson
+166,4,1:00,4,4,WAS 39,27,36,Carson Wentz sacked by John Cominsky for -9 yards
+167,4,0:52,1,10,WAS 30,27,36,Jared Goff kneels for -1 yards
+168,4,0:31,2,11,WAS 31,27,36,Jared Goff kneels for -1 yards

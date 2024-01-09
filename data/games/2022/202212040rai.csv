@@ -1,0 +1,169 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,LAC 35,0,0,"Cameron Dicker kicks off 65 yards, touchback."
+1,1,15:00,1,10,LVR 25,0,0,Josh Jacobs left guard for 1 yard (tackle by Bryce Callahan and Sebastian Joseph-Day)
+2,1,14:21,2,9,LVR 26,0,0,Derek Carr pass complete short middle to Mack Hollins for 5 yards (tackle by Kenneth Murray)
+3,1,13:36,3,4,LVR 31,0,0,Derek Carr pass incomplete short right
+4,1,13:29,4,4,LVR 31,0,0,"AJ Cole punts 60 yards, returned by DeAndre Carter for 23 yards (tackle by Trent Sieg)"
+5,1,13:17,1,10,LAC 32,0,0,"Justin Herbert for 2 yards. Justin Herbert fumbles (forced by Maxx Crosby), recovered by Justin Herbert at LAC-24"
+6,1,12:35,2,8,LAC 34,0,0,Austin Ekeler right tackle for 5 yards (tackle by Jayon Brown)
+7,1,11:56,3,3,LAC 39,0,0,Justin Herbert sacked by Chandler Jones for no gain
+8,1,11:20,4,3,LAC 39,0,0,Joshua Kelley up the middle for 5 yards (tackle by Isaiah Pola-Mao)
+9,1,10:36,1,10,LAC 44,0,0,Justin Herbert pass incomplete short right
+10,1,10:31,2,10,LAC 44,0,0,Justin Herbert pass complete short right to Josh Palmer for 5 yards (tackle by Nate Hobbs)
+11,1,9:55,3,5,LAC 49,0,0,Justin Herbert pass incomplete short right intended for Joshua Kelley
+12,1,9:50,4,5,LAC 49,0,0,JK Scott punts 45 yards out of bounds
+13,1,9:41,1,10,LVR 6,0,0,Josh Jacobs up the middle for 4 yards (tackle by Nasir Adderley and Sebastian Joseph-Day)
+14,1,9:03,2,6,LVR 10,0,0,Josh Jacobs up the middle for 9 yards (tackle by Derwin James)
+15,1,8:23,1,10,LVR 19,0,0,"Derek Carr pass complete short middle to Josh Jacobs for no gain. Penalty on Asante Samuel: Defensive Holding, 5 yards (accepted) (no play)"
+16,1,7:50,1,10,LVR 24,0,0,"Derek Carr pass complete short left to Josh Jacobs for 1 yard. Josh Jacobs fumbles (forced by Kenneth Murray), recovered by Kyle Van Noy at LV-25"
+17,1,7:39,1,10,LVR 25,0,0,Austin Ekeler up the middle for 5 yards (tackle by Jayon Brown)
+18,1,7:04,2,5,LVR 20,0,0,Justin Herbert scrambles right guard for 3 yards (tackle by Jayon Brown)
+19,1,6:23,3,2,LVR 17,0,0,Justin Herbert pass incomplete deep middle intended for Austin Ekeler
+20,1,6:16,4,2,LVR 17,0,0,Justin Herbert scrambles up the middle for 1 yard (tackle by Chandler Jones)
+21,1,6:11,1,10,LVR 16,0,0,Derek Carr pass incomplete deep right intended for Foster Moreau (defended by Nasir Adderley)
+22,1,6:03,2,10,LVR 16,0,0,Derek Carr pass complete short right to Josh Jacobs for 5 yards (tackle by Asante Samuel)
+23,1,5:15,3,5,LVR 21,6,0,"Derek Carr pass short left (defended by Asante Samuel) intended for Mack Hollins is intercepted by Bryce Callahan at LV-26 and returned for 26 yards, touchdown"
+24,1,5:07,0,0,LVR 15,7,0,Cameron Dicker kicks extra point good
+25,1,5:07,0,0,LAC 35,7,0,"Cameron Dicker kicks off 65 yards, touchback."
+26,1,5:07,1,10,LVR 25,7,0,"Josh Jacobs left guard for 8 yards (tackle by Drue Tranquill). Penalty on Breiden Fehoko: Defensive Holding, 5 yards (accepted) "
+27,1,4:59,1,10,LVR 38,7,0,Josh Jacobs right guard for no gain (tackle by Bryce Callahan)
+28,1,4:08,2,10,LVR 38,7,0,Josh Jacobs right guard for 4 yards (tackle by Drue Tranquill)
+29,1,3:29,3,6,LVR 42,7,0,Derek Carr pass incomplete deep right intended for Ameer Abdullah
+30,1,3:22,4,6,LVR 42,7,0,"AJ Cole punts 58 yards, touchback."
+31,1,3:12,1,10,LAC 20,7,0,Justin Herbert pass complete short left to Gerald Everett for 14 yards (tackle by Duron Harmon)
+32,1,2:36,1,10,LAC 34,7,0,Justin Herbert pass incomplete short left intended for Josh Palmer (defended by Amik Robertson)
+33,1,2:29,2,10,LAC 34,7,0,Joshua Kelley right tackle for 7 yards (tackle by Roderic Teamer and Denzel Perryman)
+34,1,1:51,3,3,LAC 41,7,0,Justin Herbert pass complete short right to Josh Palmer for 11 yards (tackle by Nate Hobbs)
+35,1,1:17,1,10,LVR 48,7,0,"Justin Herbert aborted snap, recovered by Justin Herbert at LV-48 Justin Herbert pass complete short right to Tre' McKitty for 8 yards (tackle by Nate Hobbs)"
+36,1,0:37,2,2,LVR 40,7,0,Joshua Kelley up the middle for 3 yards (tackle by Jayon Brown and Denzel Perryman)
+37,2,15:00,1,10,LVR 37,7,0,Justin Herbert pass complete short right to Josh Palmer for 7 yards (tackle by Roderic Teamer)
+38,2,14:23,2,3,LVR 30,7,0,Joshua Kelley right guard for 2 yards (tackle by Jayon Brown and Roderic Teamer)
+39,2,13:46,3,1,LVR 28,7,0,Austin Ekeler left guard for 8 yards (tackle by Sam Webb and Duron Harmon)
+40,2,13:13,1,10,LVR 20,7,0,Justin Herbert pass incomplete deep right intended for Gerald Everett (defended by Trevon Moehrig)
+41,2,13:03,2,10,LVR 20,7,0,Austin Ekeler right tackle for 5 yards (tackle by Nate Hobbs and Trevon Moehrig)
+42,2,12:22,3,5,LVR 15,7,0,Justin Herbert sacked by Chandler Jones for -4 yards
+43,2,11:41,4,9,LVR 19,10,0,Cameron Dicker 37 yard field goal good
+44,2,11:37,0,0,LAC 35,10,0,"Cameron Dicker kicks off 65 yards, touchback."
+45,2,11:37,1,10,LVR 25,10,0,Derek Carr pass complete short left to Davante Adams for 12 yards (tackle by Asante Samuel)
+46,2,11:02,1,10,LVR 37,10,0,Derek Carr pass incomplete short left intended for Mack Hollins
+47,2,10:57,2,10,LVR 37,10,0,Derek Carr pass complete deep middle to Davante Adams for 19 yards (tackle by Michael Davis)
+48,2,10:16,1,10,LAC 44,10,0,Josh Jacobs up the middle for 1 yard (tackle by Khalil Mack and Morgan Fox)
+49,2,9:40,2,9,LAC 43,10,0,Derek Carr pass incomplete short right
+50,2,9:29,3,9,LAC 43,10,0,Derek Carr pass complete short left to Mack Hollins for 14 yards (tackle by Bryce Callahan)
+51,2,8:47,1,10,LAC 29,10,0,Josh Jacobs left end for 9 yards (tackle by Chris Rumph)
+52,2,7:57,2,1,LAC 20,10,6,"Josh Jacobs up the middle for 20 yards, touchdown"
+53,2,7:52,0,0,LAC 15,10,7,Daniel Carlson kicks extra point good
+54,2,7:52,0,0,LVR 35,10,7,"Daniel Carlson kicks off 64 yards, returned by DeAndre Carter for 21 yards (tackle by Malcolm Koonce)"
+55,2,7:47,1,10,LAC 22,10,7,Joshua Kelley right guard for 5 yards (tackle by Bilal Nichols and Denzel Perryman)
+56,2,7:11,2,5,LAC 27,10,7,Justin Herbert sacked by Isaiah Pola-Mao for -9 yards
+57,2,6:29,3,14,LAC 18,10,7,Justin Herbert pass complete short middle to Gerald Everett for 13 yards (tackle by Amik Robertson)
+58,2,5:46,4,1,LAC 31,10,7,"JK Scott punts 48 yards, fair catch by Keelan Cole at LV-21"
+59,2,5:39,1,10,LVR 21,10,7,Josh Jacobs right tackle for no gain (tackle by Morgan Fox and Bryce Callahan)
+60,2,5:03,2,10,LVR 21,10,7,Derek Carr pass complete deep right to Foster Moreau for 32 yards (tackle by Drue Tranquill)
+61,2,4:17,1,10,LAC 47,10,7,Josh Jacobs right tackle for 1 yard (tackle by Morgan Fox)
+62,2,3:40,2,9,LAC 46,10,7,Derek Carr pass incomplete short right intended for Foster Moreau
+63,2,3:34,3,9,LAC 46,10,7,"Derek Carr pass complete short right to Davante Adams for no gain (tackle by Michael Davis). Penalty on Asante Samuel: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)"
+64,2,3:07,1,10,LAC 41,10,7,Josh Jacobs left guard for 4 yards (tackle by Derrek Tuszka)
+65,2,2:32,2,6,LAC 37,10,7,Derek Carr pass incomplete deep left intended for Davante Adams
+66,2,2:26,3,6,LAC 37,10,7,Derek Carr pass incomplete short left intended for Davante Adams
+67,2,2:22,4,6,LAC 37,10,10,Daniel Carlson 55 yard field goal good
+68,2,2:17,0,0,LVR 35,10,10,"Daniel Carlson kicks off 65 yards, touchback."
+69,2,2:17,1,10,LAC 25,10,10,Austin Ekeler left guard for 1 yard (tackle by Luke Masterson and Chandler Jones)
+70,2,2:00,2,9,LAC 26,10,10,Justin Herbert pass complete short left to Keenan Allen for 11 yards (tackle by Duron Harmon)
+71,2,1:42,1,10,LAC 37,10,10,Justin Herbert pass complete short right to Keenan Allen for 16 yards (tackle by Nate Hobbs)
+72,2,1:34,1,10,LVR 47,10,10,Justin Herbert sacked by Chandler Jones for -5 yards
+73,2,1:12,2,15,LAC 48,10,10,Justin Herbert pass complete short left to Austin Ekeler for 18 yards (tackle by Sam Webb)
+74,2,1:06,1,10,LVR 34,10,10,Justin Herbert pass incomplete short right intended for Keenan Allen
+75,2,1:01,2,10,LVR 34,10,10,Justin Herbert pass incomplete short right
+76,2,0:55,3,10,LVR 34,10,10,Justin Herbert pass complete short left to Josh Palmer for 11 yards (tackle by Rock Ya-Sin)
+77,2,0:46,1,10,LVR 23,10,10,Justin Herbert pass incomplete short left intended for Josh Palmer
+78,2,0:43,2,10,LVR 23,10,10,Justin Herbert pass complete to Austin Ekeler for 7 yards (tackle by Denzel Perryman)
+79,2,0:35,3,3,LVR 16,10,10,Justin Herbert pass incomplete short right intended for Keenan Allen
+80,2,0:31,4,3,LVR 16,13,10,Cameron Dicker 34 yard field goal good
+81,2,0:27,0,0,LAC 35,13,10,"Cameron Dicker kicks off 65 yards, touchback."
+82,2,0:27,1,10,LVR 25,13,10,Derek Carr pass complete deep middle to Davante Adams for 36 yards (tackle by Bryce Callahan)
+83,2,0:18,1,10,LAC 39,13,10,Derek Carr pass incomplete short right intended for Mack Hollins (defended by Michael Davis)
+84,2,0:14,2,10,LAC 39,13,10,Derek Carr pass complete short right to Mack Hollins for 5 yards (tackle by Bryce Callahan)
+85,2,0:09,3,5,LAC 34,13,10,Daniel Carlson 52 yard field goal no good blocked by AJ Cole blocked by Trent Sieg blocked by Joe Gaziano
+86,2,0:04,1,10,LAC 42,13,10,Justin Herbert kneels for -1 yards
+87,3,15:00,0,0,LVR 35,13,10,"Daniel Carlson kicks off 65 yards, returned by DeAndre Carter for 21 yards (tackle by Matthias Farley)"
+88,3,14:54,1,10,LAC 21,13,10,Justin Herbert pass incomplete short middle intended for Stone Smartt
+89,3,14:50,2,10,LAC 21,13,10,"Justin Herbert pass complete short right to Austin Ekeler for 11 yards. Austin Ekeler fumbles (forced by Duron Harmon) (tackle by Isaiah Pola-Mao), recovered by Nate Hobbs at LAC-38 and returned for 7 yards (tackle by Stone Smartt)"
+90,3,14:36,1,10,LAC 31,13,16,"Derek Carr pass complete deep left to Davante Adams for 31 yards, touchdown"
+91,3,14:28,0,0,LAC 15,13,17,Daniel Carlson kicks extra point good
+92,3,14:28,0,0,LVR 35,13,17,"Daniel Carlson kicks off 65 yards, returned by DeAndre Carter for 19 yards (tackle by Malcolm Koonce)"
+93,3,14:22,1,10,LAC 19,13,17,"Justin Herbert pass incomplete short right intended for Keenan Allen. Penalty on Rock Ya-Sin: Defensive Holding, 5 yards (declined) . Penalty on Nate Hobbs: Defensive Holding, 5 yards (accepted) (no play)"
+94,3,14:15,1,10,LAC 24,13,17,Justin Herbert pass complete short left to Gerald Everett for 19 yards (tackle by Trevon Moehrig)
+95,3,13:39,1,10,LAC 43,13,17,Joshua Kelley left guard for 3 yards (tackle by Denzel Perryman and Clelin Ferrell)
+96,3,13:00,2,7,LAC 46,13,17,Justin Herbert pass incomplete deep right intended for Keenan Allen
+97,3,12:54,3,7,LAC 46,13,17,Justin Herbert pass complete short left to Josh Palmer for 15 yards (tackle by Nate Hobbs)
+98,3,12:16,1,10,LVR 39,13,17,Joshua Kelley right tackle for 5 yards (tackle by Nate Hobbs and Amik Robertson)
+99,3,11:42,2,5,LVR 34,13,17,Justin Herbert pass incomplete deep left intended for Keenan Allen
+100,3,11:35,3,5,LVR 34,13,17,Justin Herbert pass incomplete short left intended for Keenan Allen
+101,3,11:30,4,5,LVR 34,13,17,Cameron Dicker 52 yard field goal no good
+102,3,11:25,1,10,LVR 42,13,17,Josh Jacobs left guard for 13 yards (tackle by Derwin James)
+103,3,11:01,1,10,LAC 45,13,23,"Derek Carr pass complete deep middle to Davante Adams for 45 yards, touchdown"
+104,3,10:53,0,0,LAC 15,13,23,"Penalty on LVR: Delay of Game, 5 yards (accepted) (no play)"
+105,3,10:53,0,0,LAC 20,13,24,Daniel Carlson kicks extra point good
+106,3,10:53,0,0,LVR 35,13,24,"Daniel Carlson kicks off 62 yards, returned by DeAndre Carter for 17 yards (tackle by Curtis Bolton and Darien Butler)"
+107,3,10:46,1,10,LAC 20,13,24,Justin Herbert pass complete short right to Michael Bandy for 15 yards (tackle by Duron Harmon)
+108,3,10:10,1,10,LAC 35,13,24,Justin Herbert sacked by and Clelin Ferrell for -3 yards and Matthew Butler for -3 yards
+109,3,9:26,2,13,LAC 32,13,24,Austin Ekeler left guard for 4 yards (tackle by Isaiah Pola-Mao)
+110,3,8:44,3,9,LAC 36,13,24,Justin Herbert pass incomplete short left intended for Keenan Allen (defended by Rock Ya-Sin)
+111,3,8:37,4,9,LAC 36,13,24,"JK Scott punts 44 yards, fair catch by Keelan Cole at LV-20"
+112,3,8:29,1,10,LVR 20,13,24,Josh Jacobs left tackle for 6 yards (tackle by Kyle Van Noy and Nasir Adderley)
+113,3,7:50,2,4,LVR 26,13,24,Josh Jacobs right tackle for 3 yards (tackle by Sebastian Joseph-Day and Drue Tranquill)
+114,3,7:06,3,1,LVR 29,13,24,Derek Carr pass complete short right to Davante Adams for 3 yards (tackle by Michael Davis)
+115,3,6:21,1,10,LVR 32,13,24,Josh Jacobs right tackle for 9 yards (tackle by Asante Samuel and Derwin James)
+116,3,5:33,2,1,LVR 41,13,24,Zamir White right guard for 3 yards (tackle by Michael Davis)
+117,3,4:48,1,10,LVR 44,13,24,Derek Carr pass complete short left to Davante Adams for 16 yards (tackle by Asante Samuel)
+118,3,4:01,1,10,LAC 40,13,24,Zamir White left tackle for 3 yards (tackle by Breiden Fehoko)
+119,3,3:17,2,7,LAC 37,13,24,Derek Carr pass complete short left to Mack Hollins for 4 yards (tackle by Drue Tranquill)
+120,3,2:37,3,3,LAC 33,13,24,Ameer Abdullah up the middle for 4 yards (tackle by Morgan Fox)
+121,3,1:55,1,10,LAC 29,13,24,Josh Jacobs left guard for 14 yards (tackle by Kenneth Murray and Khalil Mack)
+122,3,1:10,1,10,LAC 15,13,24,Josh Jacobs up the middle for no gain (tackle by Derwin James and Breiden Fehoko)
+123,3,0:25,2,10,LAC 15,13,24,Josh Jacobs up the middle for 9 yards (tackle by Asante Samuel)
+124,4,15:00,3,1,LAC 6,13,24,Derek Carr pass incomplete short right intended for Davante Adams (defended by Michael Davis)
+125,4,14:53,4,1,LAC 6,13,27,Daniel Carlson 25 yard field goal good
+126,4,14:49,0,0,LVR 35,13,27,"Daniel Carlson kicks off 54 yards, returned by DeAndre Carter for 11 yards (tackle by Malcolm Koonce)"
+127,4,14:44,1,10,LAC 22,13,27,Austin Ekeler up the middle for 1 yard (tackle by Trevon Moehrig)
+128,4,14:10,2,9,LAC 23,13,27,Justin Herbert pass complete short left to Stone Smartt for 5 yards (tackle by Trevon Moehrig)
+129,4,13:28,3,4,LAC 28,13,27,Justin Herbert pass complete short left to Josh Palmer for 3 yards (tackle by Rock Ya-Sin)
+130,4,12:57,4,1,LAC 31,13,27,Justin Herbert up the middle for 2 yards (tackle by Chandler Jones)
+131,4,12:18,1,10,LAC 33,13,27,"Justin Herbert pass incomplete deep right intended for Keenan Allen. Penalty on Trevon Moehrig: Illegal Contact, 5 yards (accepted) (no play)"
+132,4,12:07,1,10,LAC 38,13,27,Austin Ekeler right end for 1 yard (tackle by Maxx Crosby)
+133,4,11:28,2,9,LAC 39,13,27,Justin Herbert pass complete short right to Keenan Allen for 5 yards (tackle by Isaiah Pola-Mao)
+134,4,10:47,3,4,LAC 44,13,27,Justin Herbert pass complete short left to Keenan Allen for 8 yards (tackle by Amik Robertson)
+135,4,10:14,1,10,LVR 48,13,27,Justin Herbert pass complete short left to Austin Ekeler for 15 yards (tackle by Sam Webb)
+136,4,9:35,1,10,LVR 33,13,27,Justin Herbert pass complete short left to Stone Smartt for -2 yards (tackle by Trevon Moehrig)
+137,4,8:53,2,12,LVR 35,13,27,Justin Herbert pass incomplete short left intended for Josh Palmer
+138,4,8:49,3,12,LVR 35,13,27,Justin Herbert pass incomplete short middle intended for Keenan Allen (defended by Chandler Jones)
+139,4,8:44,4,12,LVR 35,19,27,"Justin Herbert pass complete deep right to Keenan Allen for 35 yards, touchdown"
+140,4,8:34,0,0,LVR 15,19,27,"Penalty on Storm Norton: False Start, 5 yards (accepted) (no play)"
+141,4,8:34,0,0,LVR 20,20,27,Cameron Dicker kicks extra point good
+142,4,8:34,0,0,LAC 35,20,27,"Cameron Dicker kicks off 65 yards, touchback."
+143,4,8:34,1,10,LVR 25,20,27,Derek Carr pass incomplete short right
+144,4,8:28,2,10,LVR 25,20,27,Derek Carr pass complete short right to Davante Adams for 15 yards (tackle by Nasir Adderley)
+145,4,7:43,1,10,LVR 40,20,27,Josh Jacobs left tackle for 5 yards (tackle by Sebastian Joseph-Day)
+146,4,6:58,2,5,LVR 45,20,27,Derek Carr pass complete short middle to Mack Hollins for 7 yards (tackle by Nasir Adderley)
+147,4,6:14,1,10,LAC 48,20,27,Derek Carr pass incomplete short left intended for Mack Hollins
+148,4,6:07,2,10,LAC 48,20,27,Josh Jacobs left tackle for 6 yards (tackle by Derwin James)
+149,4,5:23,3,4,LAC 42,20,27,"Derek Carr pass complete short left to Davante Adams for 12 yards LAC challenged the pass completion ruling, and the original play was overturned. Derek Carr pass incomplete short left intended for Davante Adams (defended by Michael Davis)"
+150,4,5:20,4,4,LAC 42,20,27,"AJ Cole punts 33 yards, fair catch by DeAndre Carter at LAC-9"
+151,4,5:12,1,10,LAC 9,20,27,Austin Ekeler right guard for 6 yards (tackle by Jayon Brown and Sam Webb)
+152,4,4:45,2,4,LAC 15,20,27,Justin Herbert pass complete short right to Gerald Everett for 18 yards (tackle by Duron Harmon)
+153,4,4:38,1,10,LAC 33,20,27,Justin Herbert pass complete short right to Josh Palmer for 8 yards (tackle by Nate Hobbs)
+154,4,4:33,2,2,LAC 41,20,27,Justin Herbert pass complete short left to Gerald Everett for 16 yards (tackle by Jerry Tillery and Amik Robertson)
+155,4,3:50,1,10,LVR 43,20,27,Austin Ekeler right tackle for -1 yards (tackle by Denzel Perryman and Bilal Nichols)
+156,4,3:13,2,11,LVR 44,20,27,Justin Herbert pass complete short right to Austin Ekeler for 2 yards (tackle by Jerry Tillery and Denzel Perryman)
+157,4,2:52,3,9,LVR 42,20,27,Justin Herbert pass incomplete deep middle intended for Keenan Allen
+158,4,2:48,4,9,LVR 42,20,27,Justin Herbert pass incomplete deep right intended for DeAndre Carter
+159,4,2:42,1,10,LVR 42,20,27,Josh Jacobs left tackle for 4 yards (tackle by Sebastian Joseph-Day and Derwin James)
+160,4,2:37,2,6,LVR 46,20,27,Josh Jacobs right end for 7 yards (tackle by Nasir Adderley)
+161,4,2:27,1,10,LAC 47,20,27,Josh Jacobs left guard for 2 yards (tackle by Joe Gaziano and Nasir Adderley)
+162,4,2:00,2,8,LAC 45,20,27,Josh Jacobs up the middle for 3 yards (tackle by Khalil Mack and Troy Reeder)
+163,4,1:17,3,5,LAC 42,20,27,Josh Jacobs up the middle for 2 yards (tackle by Joe Gaziano)
+164,4,0:31,4,3,LAC 40,20,27,AJ Cole punts 30 yards downed by Luke Masterson
+165,4,0:22,1,10,LAC 10,20,27,Justin Herbert pass incomplete short left intended for Josh Palmer
+166,4,0:17,2,10,LAC 10,20,27,"Justin Herbert pass complete deep left to Keenan Allen for 13 yards, lateral to Austin Ekeler for no gain (tackle by Amik Robertson)"
+167,4,0:08,1,10,LAC 37,20,27,Justin Herbert pass complete short left to DeAndre Carter for 14 yards (tackle by Sam Webb)

@@ -1,0 +1,165 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,ARI 35,0,0,"Tristan Vizcaino kicks off 65 yards, touchback."
+1,1,15:00,1,10,LAR 25,0,0,John Wolford pass complete short right to Ben Skowronek for 8 yards (tackle by Jalen Thompson and Leki Fotu)
+2,1,14:20,2,2,LAR 33,0,0,Darrell Henderson right tackle for 6 yards (tackle by Isaiah Simmons)
+3,1,13:42,1,10,LAR 39,0,0,John Wolford pass complete short left to Cooper Kupp for no gain (tackle by Antonio Hamilton)
+4,1,13:03,2,10,LAR 39,0,0,"Penalty on Ty Nsekhe: False Start, 5 yards (accepted) (no play)"
+5,1,12:39,2,15,LAR 34,0,0,Brandon Powell right end for 7 yards (tackle by Ben Niemann)
+6,1,11:58,3,8,LAR 41,0,0,John Wolford pass complete short middle to Allen Robinson for 7 yards (tackle by Antonio Hamilton)
+7,1,11:16,4,1,LAR 48,0,0,Cam Akers right tackle for 2 yards (tackle by Antonio Hamilton and Jalen Thompson)
+8,1,10:32,1,10,LAR 50,0,0,John Wolford pass incomplete short left intended for Cam Akers
+9,1,10:27,2,10,LAR 50,0,0,Cam Akers up the middle for 7 yards (tackle by Isaiah Simmons)
+10,1,9:46,3,3,ARI 43,0,0,John Wolford right end for 4 yards (tackle by Marco Wilson)
+11,1,9:11,1,10,ARI 39,0,0,John Wolford pass complete short left to Allen Robinson for 14 yards (tackle by Antonio Hamilton)
+12,1,8:28,1,10,ARI 25,0,0,"John Wolford aborted snap, recovered by Darrell Henderson at ARI-24 and returned for 1 yard"
+13,1,7:42,2,9,ARI 24,0,0,Bryce Perkins up the middle for no gain (tackle by Myjai Sanders and Zach Allen)
+14,1,7:00,3,9,ARI 24,0,0,Darrell Henderson right tackle for 6 yards (tackle by Antonio Hamilton)
+15,1,6:20,4,3,ARI 18,0,3,Matt Gay 36 yard field goal good
+16,1,6:16,0,0,LAR 35,0,3,"Matt Gay kicks off 65 yards, touchback."
+17,1,6:16,1,10,ARI 25,0,3,Colt McCoy pass complete short left to DeAndre Hopkins for 1 yard (tackle by Jalen Ramsey)
+18,1,5:52,2,9,ARI 26,0,3,Colt McCoy pass complete short right to Rondale Moore for 5 yards (tackle by David Long)
+19,1,5:18,3,4,ARI 31,0,3,Colt McCoy pass complete short middle to Rondale Moore for 14 yards (tackle by Nick Scott and Ernest Jones)
+20,1,4:52,1,10,ARI 45,0,3,Colt McCoy pass incomplete short left intended for Rondale Moore
+21,1,4:51,2,10,ARI 45,0,3,Colt McCoy pass incomplete deep right intended for Rondale Moore (defended by David Long)
+22,1,4:45,3,10,ARI 45,0,3,"Penalty on Josh Jones: False Start, 5 yards (accepted) (no play)"
+23,1,4:45,3,15,ARI 40,0,3,Colt McCoy pass complete short right to DeAndre Hopkins for 13 yards (tackle by Jalen Ramsey)
+24,1,4:05,4,2,LAR 47,0,3,Colt McCoy pass complete short right to A.J. Green for 4 yards (tackle by Troy Hill)
+25,1,3:39,1,10,LAR 43,0,3,Colt McCoy pass incomplete short right
+26,1,3:36,2,10,LAR 43,0,3,Colt McCoy pass complete short left to DeAndre Hopkins for 6 yards (tackle by David Long and Justin Hollins)
+27,1,2:58,3,4,LAR 37,0,3,Colt McCoy pass complete short middle to Zach Ertz for 12 yards (tackle by Troy Hill and Bobby Wagner)
+28,1,2:21,1,10,LAR 25,0,3,Colt McCoy pass complete short left to James Conner for 4 yards (tackle by Troy Hill)
+29,1,1:45,2,6,LAR 21,0,3,James Conner up the middle for 2 yards (tackle by Bobby Wagner)
+30,1,1:02,3,4,LAR 19,0,3,James Conner right guard for 1 yard (tackle by Ernest Jones and Bobby Wagner)
+31,1,0:18,4,3,LAR 18,3,3,Tristan Vizcaino 36 yard field goal good
+32,1,0:13,0,0,ARI 35,3,3,"Tristan Vizcaino kicks off 56 yards, returned by Brandon Powell for 15 yards (tackle by Stephen Anderson)"
+33,1,0:08,1,10,LAR 24,3,3,Cam Akers left tackle for 4 yards (tackle by Myjai Sanders)
+34,2,15:00,2,6,LAR 28,3,3,John Wolford pass incomplete short middle intended for Cooper Kupp (defended by Antonio Hamilton)
+35,2,14:52,3,6,LAR 28,3,3,John Wolford pass incomplete deep right intended for Allen Robinson
+36,2,14:46,4,6,LAR 28,3,3,"Riley Dixon punts 54 yards, returned by Greg Dortch for 10 yards (tackle by Michael Hoecht)"
+37,2,14:35,1,10,ARI 28,3,3,James Conner up the middle for 2 yards (tackle by Marquise Copeland and Aaron Donald)
+38,2,13:50,2,8,ARI 30,3,3,Colt McCoy pass complete short right to Rondale Moore for 5 yards (tackle by Ernest Jones)
+39,2,13:11,3,3,ARI 35,3,3,Colt McCoy pass incomplete short left intended for DeAndre Hopkins
+40,2,13:07,4,3,ARI 35,3,3,"Andy Lee punts 50 yards, returned by Brandon Powell for 18 yards (tackle by Tanner Vallejo)"
+41,2,12:56,1,10,LAR 33,3,3,Bryce Perkins pass complete short right to Cooper Kupp for -3 yards (tackle by Myjai Sanders)
+42,2,12:18,2,13,LAR 30,3,3,John Wolford pass incomplete short right intended for Ben Skowronek
+43,2,12:15,3,13,LAR 30,3,3,John Wolford pass complete short left to Cooper Kupp for 2 yards (tackle by Zaven Collins)
+44,2,11:40,4,11,LAR 32,3,3,"Riley Dixon punts 25 yards downed by Jake Gervase. Penalty on Trayvon Mullen: Offensive Holding, 10 yards (accepted) "
+45,2,11:33,1,10,ARI 33,3,3,Colt McCoy pass incomplete short right intended for DeAndre Hopkins
+46,2,11:28,2,10,ARI 33,3,3,Colt McCoy pass incomplete short left intended for Rondale Moore
+47,2,11:24,3,10,ARI 33,3,3,Colt McCoy pass complete short left to Rondale Moore for 9 yards (tackle by Troy Hill)
+48,2,10:47,4,1,ARI 42,3,3,"Andy Lee punts 58 yards, touchback."
+49,2,10:39,1,10,LAR 20,3,3,Cam Akers up the middle for 2 yards (tackle by Antonio Hamilton and Ben Niemann)
+50,2,10:00,2,8,LAR 22,3,3,John Wolford pass complete short right to Tyler Higbee for 2 yards (tackle by Antonio Hamilton)
+51,2,9:13,3,6,LAR 24,3,3,"Penalty on Brycen Hopkins: False Start, 5 yards (accepted) (no play)"
+52,2,8:48,3,11,LAR 19,3,3,John Wolford pass incomplete short middle intended for Brycen Hopkins (defended by Zaven Collins)
+53,2,8:42,4,11,LAR 19,3,3,"Riley Dixon punts 60 yards, returned by Greg Dortch for 13 yards (tackle by Justin Hollins)"
+54,2,8:27,1,10,ARI 34,3,3,James Conner up the middle for 2 yards (tackle by Bobby Wagner and Aaron Donald)
+55,2,7:54,2,8,ARI 36,3,3,Colt McCoy pass complete short middle to DeAndre Hopkins for 14 yards (tackle by Nick Scott)
+56,2,7:20,1,10,ARI 50,3,3,Colt McCoy pass complete short right to DeAndre Hopkins for 12 yards
+57,2,6:45,1,10,LAR 38,3,3,Colt McCoy pass complete short left to DeAndre Hopkins for 8 yards (tackle by Nick Scott)
+58,2,6:11,2,2,LAR 30,3,3,Colt McCoy pass complete short left to DeAndre Hopkins for 4 yards (tackle by Jalen Ramsey)
+59,2,5:39,1,10,LAR 26,3,3,"Colt McCoy pass complete short right to Trey McBride for 7 yards. Trey McBride fumbles (forced by Nick Scott), recovered by Trey McBride at LA-19"
+60,2,5:01,2,3,LAR 19,3,3,James Conner right end for 1 yard (tackle by Leonard Floyd)
+61,2,4:24,3,2,LAR 18,3,3,Colt McCoy up the middle for 3 yards (tackle by Ernest Jones)
+62,2,4:05,1,10,LAR 15,3,3,James Conner left tackle for 4 yards (tackle by Troy Hill)
+63,2,3:22,2,6,LAR 11,3,3,Colt McCoy pass incomplete short right intended for DeAndre Hopkins
+64,2,3:19,3,6,LAR 11,3,3,Colt McCoy pass complete short left to James Conner for 5 yards (tackle by Taylor Rapp and Ernest Jones)
+65,2,2:36,4,1,LAR 6,3,3,Colt McCoy scrambles right end for 2 yards (tackle by Nick Scott)
+66,2,2:00,1,4,LAR 4,9,3,"James Conner up the middle for 4 yards, touchdown"
+67,2,1:56,0,0,LAR 15,9,3,"Penalty on ARI: Delay of Game, 5 yards (accepted) (no play)"
+68,2,1:56,0,0,LAR 20,10,3,Tristan Vizcaino kicks extra point good
+69,2,1:56,0,0,ARI 35,10,3,"Tristan Vizcaino kicks off 65 yards, touchback."
+70,2,1:56,1,10,LAR 25,10,3,John Wolford pass complete short right to Tyler Higbee for 8 yards (tackle by Ben Niemann)
+71,2,1:49,2,2,LAR 33,10,3,John Wolford pass complete short left to Darrell Henderson for 11 yards (tackle by Isaiah Simmons and Antonio Hamilton)
+72,2,1:44,1,10,LAR 44,10,3,John Wolford pass incomplete short middle intended for Ben Skowronek
+73,2,1:34,2,10,LAR 44,10,3,"John Wolford pass incomplete short middle Replay Assistant challenged the fumble ruling, and the original play was overturned. John Wolford sacked by Myjai Sanders for -9 yards. John Wolford fumbles (forced by Myjai Sanders), recovered by J.J. Watt at LA-30"
+74,2,1:34,1,10,LAR 30,10,3,Colt McCoy pass complete short middle to Rondale Moore for 13 yards (tackle by Taylor Rapp)
+75,2,1:12,1,10,LAR 17,10,3,James Conner up the middle for 5 yards (tackle by Aaron Donald and Bobby Wagner)
+76,2,0:40,2,5,LAR 12,10,3,Colt McCoy pass complete short middle to Rondale Moore for 6 yards (tackle by Ernest Jones)
+77,2,0:33,1,6,LAR 6,10,3,Colt McCoy pass incomplete short left intended for DeAndre Hopkins
+78,2,0:29,2,6,LAR 6,16,3,"Colt McCoy pass complete short left to A.J. Green for 6 yards, touchdown"
+79,2,0:24,0,0,LAR 15,17,3,Tristan Vizcaino kicks extra point good
+80,2,0:24,0,0,ARI 35,17,3,"Tristan Vizcaino kicks off 70 yards, returned by Brandon Powell for 17 yards (tackle by Chris Banjo). Penalty on Robert Rochell: Offensive Illegal Block Above the Waist, 6 yards (accepted) "
+81,2,0:19,1,10,LAR 6,17,3,John Wolford kneels for -1 yards
+82,3,15:00,0,0,LAR 35,17,3,"Matt Gay kicks off 65 yards, touchback."
+83,3,15:00,1,10,ARI 25,17,3,Colt McCoy pass incomplete short right intended for Stephen Anderson
+84,3,14:56,2,10,ARI 25,17,3,James Conner up the middle for 7 yards (tackle by Nick Scott and A'Shawn Robinson)
+85,3,14:11,3,3,ARI 32,17,3,"Colt McCoy pass incomplete short left intended for Rondale Moore. Penalty on Ernest Jones: Defensive Pass Interference, 3 yards (accepted) (no play)"
+86,3,14:08,1,10,ARI 35,17,3,"James Conner right tackle for no gain (tackle by Troy Hill and Taylor Rapp). Penalty on Lecitus Smith: Offensive Holding, 10 yards (accepted) (no play)"
+87,3,13:38,1,20,ARI 25,17,3,Colt McCoy pass incomplete short right intended for Rondale Moore
+88,3,13:30,2,20,ARI 25,17,3,Keaontay Ingram up the middle for 5 yards (tackle by Russ Yeast)
+89,3,12:53,3,15,ARI 30,17,3,Colt McCoy pass complete short middle to DeAndre Hopkins for 9 yards (tackle by Nick Scott)
+90,3,12:22,4,6,ARI 39,17,3,"Andy Lee punts 46 yards, returned by Brandon Powell for 11 yards (tackle by Stephen Anderson)"
+91,3,12:11,1,10,LAR 26,17,3,Cam Akers right guard for 10 yards (tackle by Antonio Hamilton)
+92,3,11:37,1,10,LAR 36,17,3,Cam Akers right end for -3 yards (tackle by Zaven Collins and Zach Allen)
+93,3,10:58,2,13,LAR 33,17,3,"Penalty on Myjai Sanders: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+94,3,10:36,2,8,LAR 38,17,3,John Wolford sacked by J.J. Watt for -6 yards
+95,3,9:51,3,14,LAR 32,17,3,Bryce Perkins right tackle for 8 yards (tackle by Budda Baker)
+96,3,9:05,4,6,LAR 40,17,3,"Riley Dixon punts 60 yards, touchback."
+97,3,8:57,1,10,ARI 20,17,3,"Colt McCoy pass incomplete short right. Penalty on Colt McCoy: Intentional Grounding, 12 yards (accepted) "
+98,3,8:53,2,22,ARI 8,17,3,James Conner left tackle for 6 yards (tackle by Taylor Rapp)
+99,3,8:16,3,16,ARI 14,17,3,James Conner right tackle for 1 yard (tackle by Ernest Jones and Aaron Donald)
+100,3,7:40,4,15,ARI 15,17,3,"Andy Lee punts 45 yards, returned by Brandon Powell for 1 yard (tackle by Kamu Grugier-Hill)"
+101,3,7:31,1,10,LAR 41,17,3,John Wolford pass complete short left to Tyler Higbee for 25 yards (tackle by Budda Baker)
+102,3,6:50,1,10,ARI 34,17,3,John Wolford pass incomplete short right intended for Ben Skowronek
+103,3,6:42,2,10,ARI 34,17,3,John Wolford pass complete short right to Allen Robinson for 13 yards (tackle by Zach Allen)
+104,3,5:56,1,10,ARI 21,17,3,John Wolford pass complete short right to Tyler Higbee for 11 yards (tackle by Ben Niemann and Leki Fotu)
+105,3,5:12,1,10,ARI 10,17,3,Bryce Perkins left end for -4 yards (tackle by Isaiah Simmons)
+106,3,4:33,2,14,ARI 14,17,3,"John Wolford pass incomplete short middle intended for Ben Skowronek (defended by Myjai Sanders). Penalty on J.J. Watt: Defensive Delay of Game, 5 yards (accepted) "
+107,3,4:29,3,9,ARI 9,17,3,"Penalty on J.J. Watt: Neutral Zone Infraction, 5 yards (accepted) (no play)"
+108,3,4:29,3,4,ARI 4,17,9,"Darrell Henderson up the middle for 4 yards, touchdown"
+109,3,4:24,0,0,ARI 15,17,10,Matt Gay kicks extra point good
+110,3,4:24,0,0,LAR 35,17,10,"Matt Gay kicks off 58 yards, returned by Eno Benjamin for 10 yards (tackle by Jake Gervase)"
+111,3,4:19,1,10,ARI 15,17,10,Colt McCoy pass complete short left to James Conner for 8 yards (tackle by Bobby Wagner and Taylor Rapp)
+112,3,3:44,2,2,ARI 23,17,10,James Conner up the middle for 1 yard (tackle by Aaron Donald and Jalen Ramsey)
+113,3,3:01,3,1,ARI 24,17,10,James Conner up the middle for 4 yards (tackle by Bobby Wagner and Justin Hollins)
+114,3,2:20,1,10,ARI 28,17,10,Colt McCoy pass complete deep left to DeAndre Hopkins for 25 yards (tackle by Jalen Ramsey)
+115,3,1:44,1,10,LAR 47,17,10,James Conner left tackle for 4 yards (tackle by Ernest Jones)
+116,3,1:19,2,6,LAR 43,17,10,Colt McCoy sacked by Leonard Floyd for -9 yards
+117,3,0:39,3,15,ARI 48,17,10,Colt McCoy pass complete short right to Rondale Moore for 2 yards (tackle by Ernest Jones)
+118,4,15:00,4,13,ARI 50,17,10,"Andy Lee punts 38 yards, fair catch by Brandon Powell at LA-12"
+119,4,14:54,1,10,LAR 12,17,10,John Wolford pass incomplete short right intended for Cooper Kupp
+120,4,14:48,2,10,LAR 12,17,10,John Wolford pass complete short left to Allen Robinson for 10 yards (tackle by Ben Niemann)
+121,4,14:24,1,10,LAR 22,17,10,"John Wolford pass incomplete deep left intended for Cooper Kupp. Penalty on Ty Nsekhe: Illegal Use of Hands / Offense, 10 yards (accepted) (no play)"
+122,4,14:18,1,20,LAR 12,17,10,Darrell Henderson up the middle for 4 yards (tackle by Myjai Sanders)
+123,4,13:41,2,16,LAR 16,17,10,John Wolford pass complete short right to Tyler Higbee for 8 yards (tackle by Budda Baker)
+124,4,13:01,3,8,LAR 24,17,10,John Wolford pass incomplete deep middle intended for Brandon Powell
+125,4,12:55,4,8,LAR 24,17,10,"Riley Dixon punts 53 yards, returned by Greg Dortch for 17 yards (tackle by Jared Pinkney)"
+126,4,12:44,1,10,ARI 40,17,10,Colt McCoy pass complete short left to DeAndre Hopkins for 6 yards (tackle by Jalen Ramsey)
+127,4,12:08,2,4,ARI 46,17,10,James Conner up the middle for 3 yards (tackle by Bobby Brown and Aaron Donald)
+128,4,11:27,3,1,ARI 49,17,10,James Conner up the middle for 3 yards (tackle by Leonard Floyd)
+129,4,10:45,1,10,LAR 48,17,10,James Conner right tackle for 2 yards (tackle by Marquise Copeland and Bobby Wagner)
+130,4,10:02,2,8,LAR 46,17,10,Colt McCoy sacked by Bobby Wagner for -9 yards
+131,4,9:19,3,17,ARI 45,17,10,Colt McCoy pass complete short right to Rondale Moore for 14 yards (tackle by Nick Scott)
+132,4,8:45,4,3,LAR 41,17,10,Colt McCoy pass complete deep left to Rondale Moore for 26 yards (tackle by David Long)
+133,4,8:32,1,10,LAR 15,17,10,James Conner right end for 6 yards (tackle by Nick Scott and Taylor Rapp)
+134,4,7:48,2,4,LAR 9,23,10,"James Conner left end for 9 yards, touchdown"
+135,4,7:41,0,0,LAR 15,24,10,Tristan Vizcaino kicks extra point good
+136,4,7:41,0,0,ARI 35,24,10,"Tristan Vizcaino kicks off 65 yards, touchback."
+137,4,7:41,1,10,LAR 25,24,10,John Wolford pass incomplete short left intended for Allen Robinson (defended by Antonio Hamilton)
+138,4,7:37,2,10,LAR 25,24,10,John Wolford pass complete short middle to Tyler Higbee for 9 yards (tackle by Jalen Thompson and Ben Niemann)
+139,4,7:12,3,1,LAR 34,24,10,Darrell Henderson right guard for no gain (tackle by Budda Baker and Markus Golden)
+140,4,6:38,4,1,LAR 34,24,10,Darrell Henderson up the middle for 1 yard (tackle by J.J. Watt)
+141,4,6:13,1,10,LAR 35,24,10,John Wolford pass complete short middle to Van Jefferson for 19 yards (tackle by Zaven Collins)
+142,4,5:49,1,10,ARI 46,24,10,John Wolford pass deep middle (defended by Isaiah Simmons) intended for Ben Skowronek is intercepted by Budda Baker at ARI-22 and returned for 53 yards (tackle by Darrell Henderson)
+143,4,5:33,1,10,LAR 25,24,10,James Conner up the middle for -1 yards (tackle by A'Shawn Robinson and Taylor Rapp)
+144,4,4:48,2,11,LAR 26,24,10,James Conner up the middle for 3 yards (tackle by Jonah Williams and Ernest Jones)
+145,4,4:33,3,8,LAR 23,24,10,"Colt McCoy pass complete short left to Trey McBride for 10 yards (tackle by Troy Hill). Penalty on Josh Jones: Ineligible Downfield Pass, 5 yards (accepted) (no play)"
+146,4,4:33,3,13,LAR 28,24,10,"Colt McCoy aborted snap, recovered by James Conner at LA-29 (tackle by Aaron Donald)"
+147,4,3:49,4,13,LAR 28,27,10,Tristan Vizcaino 46 yard field goal good
+148,4,3:44,0,0,ARI 35,27,10,"Tristan Vizcaino kicks off 65 yards, touchback."
+149,4,3:44,1,10,LAR 25,27,10,Kyren Williams left tackle for 9 yards (tackle by Antonio Hamilton)
+150,4,3:28,2,1,LAR 34,27,10,John Wolford pass complete short middle to Kyren Williams for 10 yards (tackle by Antonio Hamilton)
+151,4,2:59,1,10,LAR 44,27,10,John Wolford pass complete short middle to Tyler Higbee for 7 yards (tackle by Isaiah Simmons)
+152,4,2:39,2,3,ARI 49,27,10,John Wolford pass complete short left to Kyren Williams for 6 yards (tackle by Isaiah Simmons)
+153,4,2:13,1,10,ARI 43,27,10,John Wolford pass complete short right to Tyler Higbee for 3 yards (tackle by Antonio Hamilton)
+154,4,2:09,2,7,ARI 40,27,10,"Penalty on Leki Fotu: Encroachment, 5 yards (accepted) (no play)"
+155,4,2:09,2,2,ARI 35,27,10,John Wolford pass complete short right to Van Jefferson for 5 yards (tackle by Marco Wilson)
+156,4,2:00,1,10,ARI 30,27,10,John Wolford pass complete short left to Ben Skowronek for 6 yards (tackle by Isaiah Simmons)
+157,4,1:39,2,4,ARI 24,27,10,John Wolford pass complete short left to Kyren Williams for 14 yards (tackle by Trayvon Mullen)
+158,4,1:16,1,10,ARI 10,27,10,John Wolford sacked by Zach Allen for -4 yards
+159,4,0:39,2,14,ARI 14,27,10,John Wolford pass complete short right to Brycen Hopkins for 11 yards (tackle by Markus Golden and Marco Wilson)
+160,4,0:14,3,3,ARI 3,27,16,"John Wolford pass complete short left to Van Jefferson for 3 yards, touchdown"
+161,4,0:07,0,0,ARI 15,27,17,Matt Gay kicks extra point good
+162,4,0:07,0,0,LAR 35,27,17,"Matt Gay kicks off 45 yards, returned by Greg Dortch for 4 yards"
+163,4,0:02,1,10,ARI 24,27,17,Colt McCoy kneels for -1 yards

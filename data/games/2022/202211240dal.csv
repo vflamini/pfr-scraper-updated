@@ -1,0 +1,169 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,DAL 35,0,0,"Brett Maher kicks off 65 yards, touchback."
+1,1,15:00,1,10,NYG 25,0,0,Daniel Jones pass complete short right to Lawrence Cager for 20 yards (tackle by Jayron Kearse)
+2,1,14:23,1,10,NYG 45,0,0,Daniel Jones pass complete short right to Saquon Barkley for 2 yards (tackle by Damone Clark)
+3,1,13:45,2,8,NYG 47,0,0,Daniel Jones pass incomplete deep right intended for Darius Slayton
+4,1,13:38,3,8,NYG 47,0,0,Daniel Jones pass complete short middle to Saquon Barkley for 5 yards (tackle by Leighton Vander Esch)
+5,1,12:55,4,3,DAL 48,0,0,"Jamie Gillan punts 48 yards, touchback."
+6,1,12:46,1,10,DAL 20,0,0,CeeDee Lamb right end for 12 yards (tackle by Cordale Flott)
+7,1,12:17,1,10,DAL 32,0,0,Dak Prescott pass complete short left to CeeDee Lamb for 8 yards (tackle by Julian Love)
+8,1,11:52,2,2,DAL 40,0,0,Dak Prescott pass incomplete short right intended for CeeDee Lamb (defended by Darnay Holmes)
+9,1,11:45,3,2,DAL 40,0,0,Dak Prescott pass incomplete deep middle intended for Michael Gallup
+10,1,11:40,4,2,DAL 40,0,0,Ezekiel Elliott left tackle for 1 yard (tackle by Jaylon Smith)
+11,1,11:35,1,10,DAL 40,0,0,Daniel Jones pass complete short middle to Chris Myarick for 23 yards (tackle by Trevon Diggs)
+12,1,10:47,1,10,DAL 17,0,0,Daniel Jones sacked by Dorance Armstrong for -7 yards
+13,1,10:06,2,17,DAL 24,0,0,"Daniel Jones pass complete to Isaiah Hodgins for no gain, touchdown. Penalty on Tyre Phillips: Ineligible Downfield Pass, 5 yards (accepted) (no play)"
+14,1,9:59,2,22,DAL 29,0,0,Daniel Jones pass incomplete short right
+15,1,9:52,3,22,DAL 29,0,0,"Daniel Jones pass incomplete deep right. Penalty on Daniel Jones: Intentional Grounding, 10 yards (accepted) . Penalty on Daniel Jones: Illegal Shift, 5 yards (declined) "
+16,1,9:49,4,32,DAL 39,3,0,Graham Gano 57 yard field goal good
+17,1,9:44,0,0,NYG 35,3,0,"Graham Gano kicks off 65 yards, touchback."
+18,1,9:44,1,10,DAL 25,3,0,Ezekiel Elliott left tackle for 15 yards (tackle by Jason Pinnock)
+19,1,9:17,1,10,DAL 39,3,0,"Ezekiel Elliott right guard for no gain (tackle by Kayvon Thibodeaux). Penalty on Zack Martin: Offensive Holding, 10 yards (accepted) (no play)"
+20,1,9:01,1,20,DAL 29,3,0,Dak Prescott pass complete short left to Jake Ferguson for 13 yards (tackle by Julian Love)
+21,1,8:24,2,6,DAL 43,3,0,Ezekiel Elliott up the middle for 10 yards (tackle by Jason Pinnock)
+22,1,7:43,1,10,NYG 47,3,0,Tony Pollard right tackle for 4 yards (tackle by Julian Love)
+23,1,7:15,2,6,NYG 43,3,0,"Dak Prescott pass short left intended for Michael Gallup is intercepted by Rodarius Williams at NYG-30 and returned for 1 yard Replay Assistant challenged the pass interception ruling, and the play was upheld."
+24,1,7:10,1,10,NYG 31,3,0,Saquon Barkley right guard for 3 yards (tackle by Leighton Vander Esch)
+25,1,6:46,2,7,NYG 34,3,0,Saquon Barkley left end for 3 yards (tackle by DaRon Bland)
+26,1,6:09,3,4,NYG 37,3,0,Daniel Jones pass incomplete short right intended for Richie James
+27,1,6:06,4,4,NYG 37,3,0,"Jamie Gillan punts 49 yards, fair catch by KaVontae Turpin at DAL-14. Penalty on Nahshon Wright: Offensive Holding, 7 yards (accepted) "
+28,1,5:58,1,10,DAL 7,3,0,Tony Pollard up the middle for 4 yards (tackle by Jaylon Smith and Julian Love)
+29,1,5:26,2,6,DAL 11,3,0,Tony Pollard right tackle for 2 yards (tackle by Dexter Lawrence)
+30,1,4:48,3,4,DAL 13,3,0,Dak Prescott pass complete short right to Michael Gallup for 10 yards (tackle by Nick McCloud)
+31,1,4:05,1,10,DAL 23,3,0,Tony Pollard up the middle for 7 yards (tackle by Jason Pinnock)
+32,1,3:28,2,3,DAL 30,3,0,Tony Pollard right tackle for no gain (tackle by Jihad Ward)
+33,1,2:52,3,3,DAL 30,3,0,Dak Prescott pass complete short left to Michael Gallup for 9 yards (tackle by Cordale Flott)
+34,1,2:14,1,10,DAL 39,3,0,Dak Prescott pass complete short right to Michael Gallup for 5 yards (tackle by Nick McCloud)
+35,1,1:39,2,5,DAL 44,3,0,Ezekiel Elliott up the middle for 3 yards (tackle by Dexter Lawrence)
+36,1,1:02,3,2,DAL 47,3,0,Ezekiel Elliott right end for 22 yards (tackle by Jason Pinnock)
+37,1,0:25,1,10,NYG 31,3,0,Dak Prescott pass complete deep right to CeeDee Lamb for 25 yards (tackle by Nick McCloud)
+38,2,15:00,1,6,NYG 6,3,6,"Ezekiel Elliott up the middle for 6 yards, touchdown"
+39,2,14:55,0,0,NYG 15,3,7,Brett Maher kicks extra point good
+40,2,14:55,0,0,DAL 35,3,7,"Brett Maher kicks off 65 yards, touchback."
+41,2,14:55,1,10,NYG 25,3,7,Saquon Barkley left guard for 4 yards (tackle by Damone Clark)
+42,2,14:22,2,6,NYG 29,3,7,Saquon Barkley up the middle for 4 yards (tackle by Dante Fowler)
+43,2,13:43,3,2,NYG 33,3,7,"Saquon Barkley for no gain. Penalty on Carlos Watkins: Defensive Holding, 5 yards (accepted) (no play)"
+44,2,13:19,1,10,NYG 38,3,7,"Daniel Jones left tackle for 6 yards. Daniel Jones fumbles (forced by Damone Clark), recovered by Daniel Jones at NYG-44"
+45,2,12:43,2,4,NYG 44,3,7,Gary Brightwell left tackle for 1 yard (tackle by Jayron Kearse)
+46,2,12:04,3,3,NYG 45,3,7,Daniel Jones pass complete short right to Richie James for 4 yards (tackle by DaRon Bland)
+47,2,11:20,1,10,NYG 49,3,7,Saquon Barkley right tackle for 6 yards (tackle by Chauncey Golston and Leighton Vander Esch)
+48,2,10:38,2,4,DAL 45,3,7,Daniel Jones pass complete deep right to Darius Slayton for 44 yards (tackle by Anthony Brown)
+49,2,10:08,1,1,DAL 1,3,7,Daniel Jones up the middle for no gain (tackle by Leighton Vander Esch)
+50,2,9:30,2,1,DAL 1,9,7,"Saquon Barkley up the middle for 1 yard, touchdown"
+51,2,9:28,0,0,DAL 15,10,7,Graham Gano kicks extra point good
+52,2,9:28,0,0,NYG 35,10,7,"Graham Gano kicks off 65 yards, touchback."
+53,2,9:28,1,10,DAL 25,10,7,Dak Prescott pass incomplete short right
+54,2,9:24,2,10,DAL 25,10,7,Dak Prescott pass complete short left to Tony Pollard for 2 yards (tackle by Jaylon Smith)
+55,2,8:45,3,8,DAL 27,10,7,Dak Prescott pass incomplete deep middle intended for CeeDee Lamb
+56,2,8:40,4,8,DAL 27,10,7,"Bryan Anger punts 51 yards, returned by Richie James for 3 yards (tackle by Nahshon Wright)"
+57,2,8:30,1,10,NYG 25,10,7,Daniel Jones pass incomplete short right intended for Darius Slayton
+58,2,8:26,2,10,NYG 25,10,7,Saquon Barkley up the middle for 2 yards (tackle by Osa Odighizuwa and Micah Parsons)
+59,2,7:45,3,8,NYG 27,10,7,Daniel Jones pass incomplete short left intended for Lawrence Cager
+60,2,7:40,4,8,NYG 27,10,7,"Jamie Gillan punts 48 yards, fair catch by KaVontae Turpin at DAL-25"
+61,2,7:31,1,10,DAL 25,10,7,Tony Pollard right tackle for 2 yards (tackle by Justin Ellis and Henry Mondeaux)
+62,2,6:50,2,8,DAL 27,10,7,Dak Prescott pass complete deep middle to Michael Gallup for 25 yards (tackle by Cordale Flott and Julian Love)
+63,2,6:06,1,10,NYG 48,10,7,Tony Pollard right tackle for 3 yards (tackle by Julian Love)
+64,2,5:39,2,7,NYG 45,10,7,Dak Prescott pass complete short left to Michael Gallup for 14 yards (tackle by Cordale Flott and Julian Love)
+65,2,4:59,1,10,NYG 31,10,7,Tony Pollard up the middle for 1 yard (tackle by Leonard Williams)
+66,2,4:36,2,9,NYG 30,10,7,Dak Prescott pass complete short left to Dalton Schultz for 5 yards (tackle by Jason Pinnock)
+67,2,3:52,3,4,NYG 25,10,7,"Dak Prescott pass complete short right to CeeDee Lamb for no gain (tackle by Julian Love). Penalty on Tyler Smith: Offensive Holding, 10 yards (accepted) (no play)"
+68,2,3:23,3,15,NYG 35,10,7,"Dak Prescott pass complete short right to Noah Brown for no gain (tackle by Cordale Flott). Penalty on Darnay Holmes: Illegal Contact, 5 yards (accepted) (no play)"
+69,2,3:09,1,10,NYG 30,10,7,"Penalty on Tyler Smith: False Start, 5 yards (accepted) (no play)"
+70,2,2:57,1,15,NYG 35,10,7,Ezekiel Elliott right guard for 4 yards (tackle by Jaylon Smith and Oshane Ximines)
+71,2,2:23,2,11,NYG 31,10,7,Tony Pollard right end for -4 yards (tackle by Julian Love)
+72,2,2:00,3,15,NYG 35,10,7,Dak Prescott pass deep middle (defended by Darnay Holmes) intended for CeeDee Lamb is intercepted by Julian Love at NYG-10 and returned for 17 yards (tackle by CeeDee Lamb)
+73,2,1:50,1,10,NYG 27,10,7,Daniel Jones pass incomplete short right
+74,2,1:45,2,10,NYG 27,10,7,"Daniel Jones pass complete to Saquon Barkley for 3 yards. Penalty on DaRon Bland: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)"
+75,2,1:36,1,10,NYG 32,10,7,"Daniel Jones pass short left is intercepted by Donovan Wilson at NYG-47 and returned for no gain (tackle by Matt Breida). Penalty on Trevon Diggs: Illegal Contact, 5 yards (accepted) (no play)"
+76,2,1:25,1,10,NYG 37,10,7,Daniel Jones pass complete short left to Darius Slayton for 14 yards (tackle by Anthony Brown)
+77,2,1:03,1,10,DAL 49,10,7,Daniel Jones scrambles right end for 8 yards (tackle by DeMarcus Lawrence)
+78,2,0:30,2,2,DAL 41,10,7,"Penalty on Jack Anderson: False Start, 5 yards (accepted) (no play)"
+79,2,0:30,2,7,DAL 46,10,7,Daniel Jones pass complete short middle to Tanner Hudson for 10 yards (tackle by Malik Hooker)
+80,2,0:23,1,10,DAL 36,10,7,Daniel Jones pass complete short left to Saquon Barkley for 1 yard (tackle by Trevon Diggs)
+81,2,0:20,2,9,DAL 35,10,7,Saquon Barkley left tackle for 6 yards (tackle by Leighton Vander Esch)
+82,2,0:04,3,3,DAL 29,10,7,Daniel Jones spiked the ball
+83,2,0:03,4,3,DAL 29,13,7,Graham Gano 47 yard field goal good
+84,3,15:00,0,0,NYG 35,13,7,"Graham Gano kicks off 65 yards, touchback."
+85,3,15:00,1,10,DAL 25,13,7,Ezekiel Elliott left guard for 1 yard (tackle by Nick McCloud and Jaylon Smith)
+86,3,14:27,2,9,DAL 26,13,7,Dak Prescott scrambles up the middle for 5 yards (tackle by Jaylon Smith)
+87,3,13:48,3,4,DAL 31,13,7,Ezekiel Elliott left end for 16 yards (tackle by Jason Pinnock)
+88,3,13:17,1,10,DAL 47,13,7,Tony Pollard right end for 13 yards (tackle by Jaylon Smith)
+89,3,12:34,1,10,NYG 40,13,7,Tony Pollard left guard for 3 yards (tackle by Dexter Lawrence and Julian Love)
+90,3,12:07,2,7,NYG 37,13,7,Dak Prescott pass incomplete short left intended for CeeDee Lamb
+91,3,12:04,3,7,NYG 37,13,7,"Dak Prescott pass incomplete deep middle intended for CeeDee Lamb. Penalty on Darnay Holmes: Defensive Holding, 5 yards (accepted) (no play)"
+92,3,11:59,1,10,NYG 32,13,7,Ezekiel Elliott up the middle for 4 yards (tackle by Nick McCloud)
+93,3,11:32,2,6,NYG 28,13,7,Tony Pollard right tackle for 6 yards (tackle by Julian Love)
+94,3,10:55,1,10,NYG 22,13,7,Tony Pollard right tackle for -1 yards (tackle by Leonard Williams)
+95,3,10:22,2,11,NYG 23,13,7,Dak Prescott pass complete short right to Tony Pollard for -1 yards (tackle by Micah McFadden)
+96,3,9:39,3,12,NYG 24,13,7,Dak Prescott pass complete short middle to CeeDee Lamb for 14 yards (tackle by Darnay Holmes)
+97,3,9:03,1,10,NYG 10,13,7,"Penalty on CeeDee Lamb: False Start, 5 yards (accepted) (no play)"
+98,3,8:47,1,15,NYG 15,13,7,Tony Pollard right tackle for no gain (tackle by Leonard Williams)
+99,3,8:20,2,15,NYG 15,13,7,Dak Prescott pass complete short middle to Dalton Schultz for 5 yards (tackle by Jaylon Smith)
+100,3,7:41,3,10,NYG 10,13,7,"Penalty on Tyler Biadasz: False Start, 5 yards (accepted) (no play)"
+101,3,7:26,3,15,NYG 15,13,13,"Dak Prescott pass complete short middle to Dalton Schultz for 15 yards, touchdown"
+102,3,7:21,0,0,NYG 15,13,14,Brett Maher kicks extra point good
+103,3,7:21,0,0,DAL 35,13,14,"Brett Maher kicks off 65 yards, touchback."
+104,3,7:21,1,10,NYG 25,13,14,Daniel Jones pass complete short right to Isaiah Hodgins for 9 yards (tackle by Trevon Diggs)
+105,3,6:52,2,1,NYG 34,13,14,Saquon Barkley right tackle for 2 yards (tackle by Damone Clark)
+106,3,6:18,1,10,NYG 36,13,14,Daniel Jones pass complete short left to Darius Slayton for 5 yards (tackle by DaRon Bland)
+107,3,5:40,2,5,NYG 41,13,14,Daniel Jones sacked by Micah Parsons for -1 yards
+108,3,4:56,3,6,NYG 40,13,14,Daniel Jones pass complete short middle to Saquon Barkley for 5 yards (tackle by Leighton Vander Esch)
+109,3,4:11,4,1,NYG 45,13,14,Daniel Jones pass incomplete short right intended for Saquon Barkley
+110,3,4:07,1,10,NYG 44,13,14,Dak Prescott pass incomplete deep left intended for Michael Gallup (defended by Rodarius Williams)
+111,3,3:59,2,10,NYG 44,13,14,"Dak Prescott aborted snap, recovered by Dak Prescott at NYG-48 and returned for 4 yards Dak Prescott pass complete short middle to Jake Ferguson for 14 yards (tackle by Cordale Flott)"
+112,3,3:28,1,10,NYG 30,13,14,Ezekiel Elliott up the middle for 5 yards (tackle by Nick McCloud and Kayvon Thibodeaux)
+113,3,2:57,2,5,NYG 25,13,14,"Dak Prescott pass complete to CeeDee Lamb for 21 yards (tackle by Darnay Holmes). Penalty on Darnay Holmes: Defensive Pass Interference, 15 yards (declined) "
+114,3,2:31,1,4,NYG 4,13,14,"Penalty on Noah Brown: False Start, 5 yards (accepted) (no play)"
+115,3,2:31,1,9,NYG 9,13,14,Dak Prescott pass complete short right to Ezekiel Elliott for 3 yards (tackle by Jaylon Smith)
+116,3,2:07,2,6,NYG 6,13,20,"Dak Prescott pass complete short right to Dalton Schultz for 6 yards, touchdown"
+117,3,2:02,0,0,NYG 15,13,21,Brett Maher kicks extra point good
+118,3,2:02,0,0,DAL 35,13,21,"Brett Maher kicks off 65 yards, touchback."
+119,3,2:02,1,10,NYG 25,13,21,Gary Brightwell left guard for 15 yards (tackle by Trevon Diggs)
+120,3,1:28,1,10,NYG 40,13,21,Gary Brightwell right tackle for 11 yards (tackle by Jayron Kearse and Leighton Vander Esch)
+121,3,1:00,1,10,DAL 49,13,21,Gary Brightwell left guard for no gain (tackle by Carlos Watkins and Quinton Bohanna)
+122,3,0:24,2,10,DAL 49,13,21,Matt Breida left end for 1 yard (tackle by Donovan Wilson)
+123,4,15:00,3,9,DAL 48,13,21,Daniel Jones pass incomplete short left intended for Saquon Barkley
+124,4,14:54,4,9,DAL 48,13,21,"Jamie Gillan punts 48 yards, touchback."
+125,4,14:44,1,10,DAL 20,13,21,CeeDee Lamb right end for -1 yards (tackle by Leonard Williams)
+126,4,14:11,2,11,DAL 19,13,21,Dak Prescott pass complete short left to CeeDee Lamb for 15 yards (tackle by Nick McCloud)
+127,4,13:28,1,10,DAL 34,13,21,Tony Pollard left tackle for 11 yards (tackle by Nick McCloud and Tomon Fox)
+128,4,12:56,1,10,DAL 45,13,21,Tony Pollard left tackle for 1 yard (tackle by Oshane Ximines and Micah McFadden)
+129,4,12:19,2,9,DAL 46,13,21,Dak Prescott pass complete short right to Jake Ferguson for 30 yards (tackle by Rodarius Williams)
+130,4,11:30,1,10,NYG 24,13,21,Ezekiel Elliott left tackle for -3 yards (tackle by Jaylon Smith)
+131,4,10:54,2,13,NYG 27,13,21,"Dak Prescott pass complete to CeeDee Lamb for no gain (tackle by Rodarius Williams). Penalty on Dalton Schultz: Offensive Holding, 10 yards (accepted) (no play)"
+132,4,10:31,2,23,NYG 37,13,21,Tony Pollard up the middle for 12 yards (tackle by Jason Pinnock and Julian Love)
+133,4,9:47,3,11,NYG 25,13,21,Dak Prescott pass complete short middle to CeeDee Lamb for 23 yards (tackle by Jason Pinnock)
+134,4,9:01,1,2,NYG 2,13,21,"Dak Prescott pass incomplete intended for CeeDee Lamb DAL challenged the pass completion ruling, and the play was upheld."
+135,4,8:57,2,2,NYG 2,13,27,"Peyton Hendershot left end for 2 yards, touchdown"
+136,4,8:53,0,0,NYG 15,13,28,Brett Maher kicks extra point good
+137,4,8:53,0,0,DAL 35,13,28,"Brett Maher kicks off 65 yards, touchback."
+138,4,8:53,1,10,NYG 25,13,28,Daniel Jones pass complete short left to Isaiah Hodgins for 5 yards (tackle by Trevon Diggs)
+139,4,8:20,2,5,NYG 30,13,28,Saquon Barkley right end for 10 yards (tackle by Donovan Wilson)
+140,4,7:41,1,10,NYG 40,13,28,Saquon Barkley up the middle for -2 yards (tackle by Chauncey Golston and Osa Odighizuwa)
+141,4,7:05,2,12,NYG 38,13,28,Daniel Jones pass complete short left to Matt Breida for 9 yards (tackle by Damone Clark)
+142,4,6:28,3,3,NYG 47,13,28,Matt Breida right tackle for 5 yards (tackle by Damone Clark)
+143,4,5:56,1,10,DAL 48,13,28,Gary Brightwell left tackle for 4 yards (tackle by Leighton Vander Esch and Damone Clark)
+144,4,5:20,2,6,DAL 44,13,28,Daniel Jones pass complete short left to Gary Brightwell for 6 yards (tackle by Trevon Diggs)
+145,4,4:47,1,10,DAL 38,13,28,Daniel Jones pass incomplete short right intended for Darius Slayton (defended by Anthony Brown)
+146,4,4:43,2,10,DAL 38,13,28,Daniel Jones sacked by Micah Parsons for -10 yards
+147,4,3:59,3,20,DAL 48,13,28,"Penalty on Richie James: False Start, 5 yards (accepted) (no play)"
+148,4,3:59,3,25,NYG 47,13,28,Daniel Jones pass complete short middle to Richie James for 16 yards (tackle by Jayron Kearse)
+149,4,3:17,4,9,DAL 37,13,28,Daniel Jones pass incomplete short right intended for Isaiah Hodgins
+150,4,3:12,1,10,DAL 38,13,28,Ezekiel Elliott left guard for no gain (tackle by Leonard Williams)
+151,4,3:08,2,11,DAL 37,13,28,Ezekiel Elliott right tackle for 2 yards (tackle by Henry Mondeaux and Dexter Lawrence)
+152,4,3:02,3,9,DAL 39,13,28,"Dak Prescott pass incomplete deep right intended for CeeDee Lamb. Penalty on Rodarius Williams: Defensive Pass Interference, 31 yards (accepted) (no play)"
+153,4,2:55,1,10,NYG 30,13,28,Ezekiel Elliott left tackle for 1 yard (tackle by Leonard Williams and Dexter Lawrence)
+154,4,2:13,2,9,NYG 29,13,28,Tony Pollard right end for -4 yards (tackle by Micah McFadden)
+155,4,2:00,3,13,NYG 33,13,28,Ezekiel Elliott up the middle for 5 yards (tackle by Henry Mondeaux)
+156,4,1:17,4,7,NYG 27,13,28,Brett Maher 46 yard field goal no good
+157,4,1:13,1,10,NYG 36,13,28,Daniel Jones pass complete short middle to Richie James for 9 yards (tackle by DaRon Bland)
+158,4,1:01,2,1,NYG 45,13,28,Daniel Jones spiked the ball
+159,4,1:00,3,1,NYG 45,13,28,Daniel Jones pass complete deep left to Isaiah Hodgins for 17 yards (tackle by Trevon Diggs and Jayron Kearse)
+160,4,0:46,1,10,DAL 38,13,28,Daniel Jones spiked the ball
+161,4,0:45,2,10,DAL 38,13,28,"Daniel Jones pass complete short right to Richie James for 11 yards. Penalty on Micah Parsons: Unnecessary Roughness / Defense, 14 yards (accepted) "
+162,4,0:40,1,10,DAL 13,13,28,Daniel Jones pass complete short right to Gary Brightwell for 12 yards (tackle by DaRon Bland)
+163,4,0:16,1,1,DAL 1,13,28,Daniel Jones pass incomplete intended for Richie James (no play)
+164,4,0:12,1,1,DAL 1,19,28,"Daniel Jones pass complete short left to Richie James for 1 yard, touchdown"
+165,4,0:08,0,0,DAL 15,20,28,Graham Gano kicks extra point good
+166,4,0:08,0,0,NYG 35,20,28,"Graham Gano kicks onside 14 yards, returned by CeeDee Lamb for no gain"
+167,4,0:07,1,10,NYG 49,20,28,Dak Prescott kneels for -1 yards

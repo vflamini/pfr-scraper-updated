@@ -1,0 +1,159 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,JAX 35,0,0,"Riley Patterson kicks off 65 yards, touchback."
+1,1,15:00,1,10,HOU 25,0,0,Davis Mills pass incomplete short right intended for Nico Collins (defended by Adam Gotsis)
+2,1,14:56,2,10,HOU 25,0,0,Davis Mills pass complete short right to Brandin Cooks for 4 yards (tackle by Shaquill Griffin)
+3,1,14:14,3,6,HOU 29,0,0,Davis Mills pass incomplete short left intended for Brandin Cooks (defended by Darious Williams)
+4,1,14:09,4,6,HOU 29,0,0,"Cameron Johnston punts 57 yards, returned by Jamal Agnew for 6 yards (tackle by Jalen Reeves-Maybin and Garret Wallow)"
+5,1,13:58,1,10,JAX 20,0,0,James Robinson right guard for no gain (tackle by Kamu Grugier-Hill)
+6,1,13:22,2,10,JAX 20,0,0,Trevor Lawrence pass complete short left to Evan Engram for 1 yard (tackle by Steven Nelson)
+7,1,12:39,3,9,JAX 21,0,0,Trevor Lawrence pass incomplete short middle intended for Zay Jones
+8,1,12:36,4,9,JAX 21,0,0,"Logan Cooke punts 58 yards, returned by Desmond King for 10 yards (tackle by Andrew Wingard and Chris Claybrooks)"
+9,1,12:21,1,10,HOU 31,0,0,Davis Mills pass complete short right to Nico Collins for 16 yards (tackle by Shaquill Griffin)
+10,1,11:46,1,10,HOU 47,0,0,Dameon Pierce right end for no gain (tackle by Devin Lloyd)
+11,1,11:08,2,10,HOU 47,0,0,Dameon Pierce right end for 5 yards (tackle by Rayshawn Jenkins)
+12,1,10:26,3,5,JAX 48,0,0,Davis Mills pass incomplete short middle intended for Rex Burkhead
+13,1,10:23,4,5,JAX 48,0,0,Cameron Johnston punts 45 yards downed by Grayland Arnold
+14,1,10:13,1,10,JAX 3,0,0,James Robinson up the middle for 2 yards (tackle by Christian Kirksey)
+15,1,9:31,2,8,JAX 5,0,0,Travis Etienne right end for 18 yards (tackle by Jonathan Owens)
+16,1,8:59,1,10,JAX 23,0,0,Travis Etienne right end for 30 yards (tackle by Jonathan Owens)
+17,1,8:31,1,10,HOU 47,0,0,Trevor Lawrence pass complete short left to Marvin Jones for 2 yards (tackle by Christian Kirksey)
+18,1,7:56,2,8,HOU 45,0,0,Trevor Lawrence pass incomplete deep middle intended for Marvin Jones
+19,1,7:51,3,8,HOU 45,0,0,Trevor Lawrence pass complete short right to Zay Jones for 2 yards (tackle by Desmond King)
+20,1,7:16,4,6,HOU 43,0,0,"Logan Cooke punts 39 yards, fair catch by Desmond King at HOU-4"
+21,1,7:10,1,10,HOU 4,0,0,Davis Mills pass complete short right to Nico Collins for 20 yards (tackle by Shaquill Griffin)
+22,1,6:24,1,10,HOU 24,0,0,Dameon Pierce right end for 2 yards (tackle by Adam Gotsis and Devin Lloyd)
+23,1,5:45,2,8,HOU 26,0,0,Davis Mills pass incomplete short middle intended for Dameon Pierce
+24,1,5:41,3,8,HOU 26,0,0,Davis Mills pass incomplete short left intended for Brandin Cooks
+25,1,5:36,4,8,HOU 26,0,0,"Cameron Johnston punts 57 yards, returned by Jamal Agnew for 15 yards (tackle by Troy Hairston)"
+26,1,5:25,1,10,JAX 32,0,0,Trevor Lawrence pass complete to Travis Etienne for 20 yards (tackle by Neville Hewitt)
+27,1,5:02,1,10,HOU 48,0,0,Travis Etienne right end for 4 yards (tackle by Roy Lopez and Jalen Reeves-Maybin)
+28,1,4:36,2,6,HOU 44,0,0,Trevor Lawrence pass complete short right to Chris Manhertz for 12 yards (tackle by Derek Stingley)
+29,1,4:14,1,10,HOU 32,0,0,James Robinson up the middle for 9 yards (tackle by Jalen Pitre)
+30,1,3:49,2,2,HOU 23,0,0,James Robinson right end for 4 yards (tackle by Jerry Hughes and Jalen Pitre)
+31,1,3:21,1,10,HOU 19,0,0,Trevor Lawrence pass complete short right to Chris Manhertz for 3 yards (tackle by Jalen Reeves-Maybin)
+32,1,2:56,2,7,HOU 16,0,0,James Robinson up the middle for 7 yards (tackle by Derek Stingley and Mario Addison)
+33,1,2:14,1,9,HOU 9,0,0,James Robinson up the middle for 1 yard (tackle by Ogbonnia Okoronkwo)
+34,1,1:37,2,8,HOU 8,0,0,Trevor Lawrence pass incomplete short middle intended for Evan Engram
+35,1,1:33,3,8,HOU 8,0,0,Trevor Lawrence pass incomplete short left
+36,1,1:25,4,8,HOU 8,0,3,Riley Patterson 26 yard field goal good
+37,1,1:22,0,0,JAX 35,0,3,"Riley Patterson kicks off 64 yards, returned by Tremon Smith for 24 yards (tackle by Shaquille Quarterman and Daniel Thomas)"
+38,1,1:17,1,10,HOU 25,0,3,Dameon Pierce left end for 1 yard (tackle by Foyesade Oluokun)
+39,1,0:41,2,9,HOU 26,0,3,Dameon Pierce up the middle for 12 yards (tackle by Tyson Campbell)
+40,1,0:05,1,10,HOU 38,0,3,Dameon Pierce right end for 7 yards (tackle by Travon Walker and Corey Peters)
+41,2,15:00,2,3,HOU 45,0,3,Dameon Pierce up the middle for 17 yards (tackle by Shaquill Griffin)
+42,2,14:22,1,10,JAX 38,0,3,Davis Mills pass complete short left to Brandin Cooks for 6 yards (tackle by Rayshawn Jenkins)
+43,2,13:50,2,4,JAX 32,0,3,Rex Burkhead left end for no gain (tackle by Rayshawn Jenkins)
+44,2,13:08,3,4,JAX 32,0,3,Dameon Pierce up the middle for 1 yard (tackle by Travon Walker and Devin Lloyd)
+45,2,12:29,4,3,JAX 31,3,3,Ka'imi Fairbairn 50 yard field goal good
+46,2,12:24,0,0,HOU 35,3,3,"Ka'imi Fairbairn kicks off 70 yards, returned by Jamal Agnew for 21 yards (tackle by Eric Murray and M.J. Stewart). Penalty on Andrew Wingard: Offensive Illegal Block Above the Waist, 8 yards (accepted) "
+47,2,12:18,1,10,JAX 8,3,3,Jamycal Hasty right end for 6 yards (tackle by Roy Lopez)
+48,2,11:39,2,4,JAX 14,3,3,Jamal Agnew left end for 3 yards (tackle by Rasheem Green)
+49,2,11:03,3,1,JAX 17,3,3,Trevor Lawrence left end for 3 yards (tackle by Christian Kirksey)
+50,2,10:22,1,10,JAX 20,3,3,Trevor Lawrence pass complete deep left to Marvin Jones for 37 yards (tackle by Jonathan Owens)
+51,2,9:35,1,10,HOU 43,3,3,Travis Etienne left end for 3 yards (tackle by Jalen Pitre)
+52,2,8:55,2,7,HOU 40,3,3,Trevor Lawrence pass incomplete short left intended for Zay Jones (defended by Garret Wallow)
+53,2,8:50,3,7,HOU 40,3,3,James Robinson up the middle for 3 yards (tackle by Rasheem Green)
+54,2,8:10,4,4,HOU 37,3,3,Trevor Lawrence pass incomplete short middle intended for Christian Kirk (defended by Desmond King)
+55,2,8:07,1,10,HOU 37,3,3,Davis Mills up the middle for 3 yards (tackle by Devin Lloyd)
+56,2,7:37,2,7,HOU 40,3,3,"Davis Mills pass incomplete (defended by Foyesade Oluokun). Penalty on Devin Lloyd: Defensive Holding, 5 yards (accepted) (no play)"
+57,2,7:32,1,10,HOU 45,3,3,Dameon Pierce left end for 5 yards (tackle by Devin Lloyd and Rayshawn Jenkins)
+58,2,6:55,2,5,JAX 50,3,3,Dameon Pierce left end for 5 yards (tackle by Foyesade Oluokun and DaVon Hamilton)
+59,2,6:12,1,10,JAX 45,3,3,Davis Mills pass complete short middle to Dameon Pierce for 11 yards (tackle by Andre Cisco)
+60,2,5:21,1,10,JAX 34,3,3,"Penalty on HOU: Delay of Game, 5 yards (accepted) (no play)"
+61,2,4:58,1,15,JAX 39,3,3,Davis Mills pass complete short left to Rex Burkhead for 4 yards (tackle by Devin Lloyd)
+62,2,4:16,2,11,JAX 35,3,3,Davis Mills pass complete short left to Dameon Pierce for 2 yards (tackle by Devin Lloyd)
+63,2,3:32,3,9,JAX 33,3,3,Davis Mills pass incomplete short left intended for Nico Collins
+64,2,3:28,4,9,JAX 33,6,3,Ka'imi Fairbairn 51 yard field goal good
+65,2,3:23,0,0,HOU 35,6,3,"Ka'imi Fairbairn kicks off 67 yards, returned by Jamal Agnew for 25 yards (tackle by Dare Ogunbowale and Jake Hansen)"
+66,2,3:17,1,10,JAX 23,6,3,Travis Etienne left end for -3 yards (tackle by Garret Wallow)
+67,2,2:40,2,13,JAX 20,6,3,"Penalty on Ben Bartch: False Start, 5 yards (accepted) (no play)"
+68,2,2:27,2,18,JAX 15,6,3,Trevor Lawrence pass complete deep middle to Evan Engram for 25 yards (tackle by Jalen Pitre)
+69,2,2:00,1,10,JAX 40,6,3,Travis Etienne up the middle for 9 yards (tackle by Kamu Grugier-Hill and Jalen Pitre)
+70,2,1:26,2,1,JAX 49,6,3,Trevor Lawrence pass complete short middle to James Robinson for 10 yards (tackle by Garret Wallow)
+71,2,0:59,1,10,HOU 41,6,3,Trevor Lawrence pass complete deep right to Dan Arnold for 20 yards (tackle by Jalen Pitre)
+72,2,0:50,1,10,HOU 21,6,3,Trevor Lawrence pass complete short middle to Christian Kirk for 5 yards (tackle by Kamu Grugier-Hill)
+73,2,0:26,2,5,HOU 16,6,3,Trevor Lawrence pass incomplete short middle intended for Dan Arnold
+74,2,0:23,3,5,HOU 16,6,3,"Trevor Lawrence pass complete short right to Travis Etienne for no gain (tackle by Kamu Grugier-Hill). Penalty on Jawaan Taylor: Offensive Holding, 10 yards (accepted) (no play)"
+75,2,0:15,3,15,HOU 26,6,3,"Trevor Lawrence pass complete short middle to Travis Etienne for no gain. Travis Etienne fumbles (forced by Christian Kirksey), recovered by Jalen Pitre at HOU-11 (tackle by Dan Arnold and Travis Etienne) Replay Assistant challenged the fumble ruling, and the original play was overturned. Trevor Lawrence pass incomplete short middle intended for Travis Etienne (defended by Christian Kirksey)"
+76,2,0:11,4,15,HOU 26,6,6,"Riley Patterson 45 yard field goal good. Penalty on Tremon Smith: Defensive Offside, 5 yards (declined) "
+77,2,0:06,0,0,JAX 35,6,6,"Riley Patterson kicks off 65 yards, touchback."
+78,2,0:06,1,10,HOU 25,6,6,Davis Mills kneels for -1 yards
+79,3,15:00,0,0,HOU 35,6,6,"Ka'imi Fairbairn kicks off 65 yards, touchback."
+80,3,15:00,1,10,JAX 25,6,6,Travis Etienne up the middle for 2 yards (tackle by Rasheem Green)
+81,3,14:28,2,8,JAX 27,6,6,Trevor Lawrence pass complete deep middle to Evan Engram for 28 yards (tackle by Jalen Pitre and Jonathan Owens)
+82,3,14:03,1,10,HOU 45,6,6,Travis Etienne up the middle for -1 yards (tackle by Maliek Collins and Desmond King)
+83,3,13:26,2,11,HOU 46,6,6,Trevor Lawrence pass complete short middle to Marvin Jones for 17 yards (tackle by Jalen Pitre)
+84,3,12:45,1,10,HOU 29,6,6,Trevor Lawrence scrambles left end for 6 yards (tackle by Garret Wallow)
+85,3,12:09,2,4,HOU 23,6,6,Travis Etienne right end for no gain (tackle by Desmond King)
+86,3,11:24,3,4,HOU 23,6,6,Trevor Lawrence pass complete short left to Zay Jones for 7 yards (tackle by Steven Nelson and Christian Kirksey)
+87,3,10:50,1,10,HOU 16,6,6,Travis Etienne right end for 9 yards (tackle by Kamu Grugier-Hill)
+88,3,10:12,2,1,HOU 7,6,6,Trevor Lawrence pass short right intended for Zay Jones is intercepted by Derek Stingley in end zone and returned for 9 yards (tackle by Trevor Lawrence)
+89,3,10:04,1,10,HOU 2,6,6,Dameon Pierce up the middle for 1 yard (tackle by Travon Walker and Rayshawn Jenkins)
+90,3,9:19,2,9,HOU 3,6,6,Davis Mills pass complete short right to Brandin Cooks for 3 yards (tackle by Tyson Campbell)
+91,3,8:42,3,6,HOU 6,6,6,Rex Burkhead right guard for 9 yards (tackle by Devin Lloyd and Rayshawn Jenkins)
+92,3,8:04,1,10,HOU 15,6,6,Dameon Pierce left end for 6 yards (tackle by Devin Lloyd)
+93,3,7:24,2,4,HOU 21,6,6,Dameon Pierce up the middle for 3 yards (tackle by Rayshawn Jenkins)
+94,3,6:40,3,1,HOU 24,6,6,Dameon Pierce up the middle for 2 yards (tackle by Corey Peters)
+95,3,5:58,1,10,HOU 26,6,6,Davis Mills pass complete short right to Mason Schreck for 6 yards (tackle by Foyesade Oluokun)
+96,3,5:19,2,4,HOU 32,6,6,Dameon Pierce up the middle for -1 yards (tackle by Foyesade Oluokun and Rayshawn Jenkins)
+97,3,4:34,3,4,HOU 31,6,6,Davis Mills pass complete short left to Jordan Akins for 11 yards (tackle by Rayshawn Jenkins)
+98,3,3:54,1,10,HOU 42,6,6,Rex Burkhead right end for 6 yards (tackle by Rayshawn Jenkins)
+99,3,3:16,2,4,HOU 48,6,6,Dameon Pierce up the middle for 2 yards (tackle by Rayshawn Jenkins)
+100,3,2:34,3,2,JAX 50,6,6,Davis Mills pass complete short right to Dameon Pierce for 1 yard (tackle by Foyesade Oluokun and Devin Lloyd)
+101,3,2:01,4,1,JAX 49,6,6,"Cameron Johnston punts 40 yards, fair catch by Jamal Agnew at JAC-9"
+102,3,1:54,1,10,JAX 9,6,6,James Robinson left end for -2 yards (tackle by Neville Hewitt)
+103,3,1:19,2,12,JAX 7,6,6,Trevor Lawrence pass complete short middle to Evan Engram for 4 yards (tackle by Neville Hewitt)
+104,3,0:42,3,8,JAX 11,6,6,Trevor Lawrence pass complete deep middle to Marvin Jones for 20 yards (tackle by Derek Stingley)
+105,3,0:05,1,10,JAX 31,6,6,James Robinson up the middle for 3 yards (tackle by Steven Nelson)
+106,4,15:00,2,7,JAX 34,6,6,Trevor Lawrence pass complete short right to James Robinson for 2 yards (tackle by Maliek Collins)
+107,4,14:21,3,4,JAX 36,6,6,"Trevor Lawrence scrambles left end for 12 yards (tackle by Christian Kirksey). Penalty on Desmond King: Defensive Holding, 5 yards (accepted) "
+108,4,13:54,1,10,HOU 47,6,6,Trevor Lawrence pass incomplete deep left intended for Christian Kirk
+109,4,13:47,2,10,HOU 47,6,6,Trevor Lawrence pass complete short right to Zay Jones for 3 yards (tackle by Christian Kirksey and Desmond King)
+110,4,13:04,3,7,HOU 44,6,6,Trevor Lawrence pass complete short left to Evan Engram for 6 yards (tackle by Steven Nelson and Christian Kirksey)
+111,4,12:36,4,1,HOU 38,6,6,James Robinson up the middle for no gain (tackle by Christian Kirksey and Maliek Collins)
+112,4,12:27,1,10,HOU 38,6,6,Davis Mills sacked by Foyesade Oluokun for -8 yards
+113,4,11:48,2,18,HOU 30,6,6,Dameon Pierce up the middle for 3 yards (tackle by Devin Lloyd)
+114,4,11:05,3,15,HOU 33,6,6,Davis Mills pass complete short left to Rex Burkhead for 9 yards (tackle by Foyesade Oluokun)
+115,4,10:28,4,6,HOU 42,6,6,"Cameron Johnston punts 58 yards, touchback."
+116,4,10:21,1,10,JAX 20,6,6,Trevor Lawrence pass incomplete short middle intended for Zay Jones
+117,4,10:17,2,10,JAX 20,6,6,Trevor Lawrence pass incomplete short left intended for Marvin Jones
+118,4,10:12,3,10,JAX 20,6,6,"Penalty on JAX: Offensive Too Many Men on Field, 5 yards (accepted) (no play)"
+119,4,10:12,3,15,JAX 15,6,6,Trevor Lawrence pass incomplete short right intended for Jamal Agnew
+120,4,10:09,4,15,JAX 15,6,6,"Logan Cooke punts 62 yards, returned by Tremon Smith for 3 yards (tackle by Chris Claybrooks)"
+121,4,9:59,1,10,HOU 26,6,6,Dameon Pierce left guard for 1 yard (tackle by Roy Robertson-Harris)
+122,4,9:15,2,9,HOU 27,6,6,Davis Mills pass complete short left to Brandin Cooks for 7 yards (tackle by Corey Peters)
+123,4,8:29,3,2,HOU 34,6,6,"Davis Mills pass complete deep left to Nico Collins for 23 yards (tackle by Tyson Campbell). Penalty on Tyson Campbell: Defensive Pass Interference, 15 yards (declined) "
+124,4,8:20,1,10,JAX 43,6,6,"Dameon Pierce for no gain. Penalty on Phillip Dorsett: Offensive Holding, 10 yards (accepted) (no play)"
+125,4,7:34,1,20,HOU 47,6,6,Davis Mills pass incomplete short right intended for O.J. Howard
+126,4,7:30,2,20,HOU 47,6,6,Davis Mills pass incomplete short middle intended for Dameon Pierce
+127,4,7:26,3,20,HOU 47,6,6,"Penalty on Travon Walker: Unnecessary Roughness / Defense, 15 yards (accepted) Penalty on Travon Walker: Neutral Zone Infraction, 5 yards (declined) (no play)"
+128,4,7:26,1,10,JAX 38,6,6,Dameon Pierce right end for -1 yards (tackle by Shaquill Griffin and Rayshawn Jenkins)
+129,4,6:45,2,11,JAX 39,6,6,Davis Mills pass complete short left to Nico Collins for 6 yards (tackle by Tyson Campbell)
+130,4,6:23,3,5,JAX 33,6,6,"Penalty on Tytus Howard: False Start, 5 yards (accepted) (no play)"
+131,4,6:10,3,10,JAX 38,6,6,Davis Mills pass complete short right to Jordan Akins for 11 yards (tackle by Shaquill Griffin)
+132,4,5:43,1,10,JAX 27,6,6,Dameon Pierce left end for 5 yards (tackle by Foyesade Oluokun and Tyson Campbell)
+133,4,5:04,2,5,JAX 22,6,6,Dameon Pierce up the middle for 20 yards (tackle by Dawuane Smoot and Andre Cisco)
+134,4,4:11,1,2,JAX 2,6,6,"Dameon Pierce right end for 1 yard (tackle by DaVon Hamilton and Chad Muma) JAX challenged the runner was down by contact ruling, and the play was upheld."
+135,4,3:14,2,1,JAX 1,12,6,"Dameon Pierce for 1 yard, touchdown"
+136,4,3:11,0,0,JAX 15,13,6,Ka'imi Fairbairn kicks extra point good
+137,4,3:11,0,0,HOU 35,13,6,"Ka'imi Fairbairn kicks off 67 yards, returned by Jamal Agnew for 16 yards (tackle by Dare Ogunbowale)"
+138,4,3:06,1,10,JAX 14,13,6,Trevor Lawrence scrambles up the middle for 8 yards (tackle by Desmond King)
+139,4,2:45,2,3,JAX 21,13,6,Trevor Lawrence pass incomplete short middle intended for Evan Engram
+140,4,2:42,3,3,JAX 22,13,6,Trevor Lawrence pass complete short right to Marvin Jones for 6 yards (tackle by Desmond King)
+141,4,2:19,1,10,JAX 28,13,6,Trevor Lawrence pass complete short left to Evan Engram for 5 yards (tackle by Steven Nelson)
+142,4,2:13,2,5,JAX 33,13,6,Trevor Lawrence pass complete deep right to Marvin Jones for 17 yards (tackle by Derek Stingley)
+143,4,2:00,1,10,HOU 50,13,6,Trevor Lawrence pass incomplete short left intended for Travis Etienne
+144,4,1:56,2,10,HOU 50,13,6,Trevor Lawrence pass incomplete deep right intended for Evan Engram
+145,4,1:51,3,10,HOU 50,13,6,Trevor Lawrence pass incomplete short middle intended for Marvin Jones (defended by Rasheem Green)
+146,4,1:47,4,10,HOU 50,13,6,Trevor Lawrence pass incomplete deep right intended for Evan Engram
+147,4,1:41,1,10,HOU 50,13,6,Dameon Pierce up the middle for 1 yard (tackle by Corey Peters and Tyson Campbell)
+148,4,1:37,2,9,JAX 49,13,6,Dameon Pierce right end for 2 yards (tackle by Travon Walker)
+149,4,1:34,3,7,JAX 47,13,6,Dameon Pierce for -2 yards (tackle by Josh Allen and Travon Walker)
+150,4,0:47,4,9,JAX 49,13,6,Cameron Johnston punts 36 yards out of bounds
+151,4,0:41,1,10,JAX 13,13,6,Trevor Lawrence pass incomplete deep middle intended for Zay Jones (defended by Desmond King)
+152,4,0:36,2,10,JAX 13,13,6,"Trevor Lawrence pass complete short right to Marvin Jones for 5 yards, lateral to Christian Kirk for no gain (tackle by Derek Stingley)"
+153,4,0:19,1,10,JAX 24,13,6,Trevor Lawrence spiked the ball
+154,4,0:18,2,10,JAX 24,13,6,Trevor Lawrence pass incomplete deep right intended for Marvin Jones (defended by Derek Stingley)
+155,4,0:13,3,10,JAX 24,13,6,Trevor Lawrence pass complete short right to Travis Etienne for 11 yards (tackle by Derek Stingley)
+156,4,0:08,1,10,JAX 35,13,6,Trevor Lawrence pass complete short right to Travis Etienne for 12 yards (tackle by Derek Stingley)
+157,4,0:03,1,10,JAX 47,13,6,Trevor Lawrence pass deep middle is intercepted by Desmond King at HOU-15 and returned for 29 yards

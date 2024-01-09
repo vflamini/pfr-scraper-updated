@@ -1,0 +1,175 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,CIN 35,0,0,"Evan McPherson kicks off 66 yards, returned by Justice Hill for 30 yards (tackle by Tre Flowers)"
+1,1,14:54,1,10,BAL 29,0,0,Gus Edwards left tackle for 11 yards (tackle by Jessie Bates)
+2,1,14:14,1,10,BAL 40,0,0,Gus Edwards right guard for no gain (tackle by D.J. Reader and Vonn Bell)
+3,1,13:37,2,10,BAL 40,0,0,Anthony Brown pass incomplete short right intended for Demarcus Robinson
+4,1,13:31,3,10,BAL 40,0,0,Anthony Brown pass complete short right to Isaiah Likely for 5 yards (tackle by Daxton Hill and Cam Taylor-Britt)
+5,1,12:56,4,5,BAL 45,0,0,"Jordan Stout punts 34 yards, fair catch by Trent Taylor at CIN-21"
+6,1,12:50,1,10,CIN 21,0,0,Joe Burrow pass complete short middle to Joe Mixon for 2 yards (tackle by Roquan Smith)
+7,1,12:14,2,8,CIN 23,0,0,Joe Burrow pass complete short left to Tee Higgins for 7 yards (tackle by Marlon Humphrey)
+8,1,11:35,3,1,CIN 30,0,0,Joe Mixon left guard for 3 yards (tackle by Chuck Clark and Roquan Smith)
+9,1,10:59,1,10,CIN 33,0,0,Joe Mixon right guard for 2 yards (tackle by Kyle Hamilton)
+10,1,10:26,2,8,CIN 35,0,0,Joe Burrow scrambles right end for 6 yards (tackle by Brent Urban)
+11,1,9:37,3,2,CIN 41,0,0,Joe Burrow pass complete short left to Hayden Hurst for 3 yards (tackle by Marcus Williams)
+12,1,9:02,1,10,CIN 44,0,0,Joe Mixon left guard for 3 yards (tackle by Roquan Smith)
+13,1,8:20,2,7,CIN 47,0,0,Joe Burrow pass complete short middle to Joe Mixon for 2 yards (tackle by Roquan Smith)
+14,1,7:42,3,5,CIN 49,0,0,Joe Burrow pass complete short right to Hayden Hurst for 6 yards (tackle by Daryl Worley)
+15,1,6:58,1,10,BAL 45,0,0,Joe Burrow pass incomplete deep middle intended for Ja'Marr Chase (defended by Daryl Worley)
+16,1,6:48,2,10,BAL 45,0,0,Joe Burrow pass complete short middle to Trenton Irwin for 12 yards (tackle by Daryl Worley and Marcus Williams)
+17,1,6:07,1,10,BAL 33,0,0,Joe Burrow pass incomplete short left intended for Tee Higgins
+18,1,6:02,2,10,BAL 33,0,0,Joe Burrow pass complete short left to Ja'Marr Chase for 17 yards (tackle by Marcus Williams)
+19,1,5:23,1,10,BAL 16,0,0,Joe Burrow pass incomplete short right intended for Hayden Hurst
+20,1,5:17,2,10,BAL 16,0,0,Joe Burrow pass incomplete deep left
+21,1,5:09,3,10,BAL 16,0,0,Joe Burrow pass incomplete short right intended for Trenton Irwin
+22,1,5:05,4,10,BAL 16,0,3,Evan McPherson 34 yard field goal good
+23,1,5:01,0,0,CIN 35,0,3,"Evan McPherson kicks off 65 yards, touchback."
+24,1,5:01,1,10,BAL 25,0,3,Anthony Brown pass deep middle intended for Isaiah Likely is intercepted by Jessie Bates at CIN-48 and returned for 4 yards (tackle by Isaiah Likely)
+25,1,4:49,1,10,BAL 48,0,3,Joe Burrow pass incomplete deep right intended for Tyler Boyd
+26,1,4:45,2,10,BAL 48,0,3,Joe Burrow pass incomplete short left intended for Tee Higgins
+27,1,4:41,3,10,BAL 48,0,3,Joe Burrow pass complete deep middle to Tyler Boyd for 22 yards (tackle by Marcus Williams)
+28,1,3:59,1,10,BAL 26,0,3,Joe Mixon right tackle for 8 yards (tackle by Patrick Queen and Chuck Clark)
+29,1,3:19,2,2,BAL 18,0,3,Joe Burrow pass complete short left to Hayden Hurst for 7 yards (tackle by Marcus Williams)
+30,1,2:46,1,10,BAL 11,0,3,Joe Burrow pass complete short right to Ja'Marr Chase for -2 yards (tackle by Daryl Worley)
+31,1,2:08,2,12,BAL 13,0,3,Joe Burrow pass complete short middle to Tyler Boyd for 12 yards (tackle by Kyle Hamilton)
+32,1,1:18,1,1,BAL 1,0,9,"Joe Mixon left guard for 1 yard, touchdown"
+33,1,1:11,0,0,BAL 15,0,10,Evan McPherson kicks extra point good
+34,1,1:11,0,0,CIN 35,0,10,"Evan McPherson kicks off 65 yards, touchback."
+35,1,1:11,1,10,BAL 25,0,10,Gus Edwards left end for 5 yards (tackle by Eli Apple)
+36,1,0:43,2,5,BAL 30,0,10,Gus Edwards left tackle for no gain (tackle by Cameron Sample)
+37,2,15:00,3,5,BAL 30,0,10,Anthony Brown pass short middle intended for Demarcus Robinson is intercepted by Mike Hilton at BAL-37 and returned for 5 yards (tackle by Demarcus Robinson)
+38,2,14:55,1,10,BAL 32,0,10,Samaje Perine right tackle for 6 yards (tackle by Roquan Smith)
+39,2,14:22,2,4,BAL 26,0,10,Joe Burrow pass incomplete deep left intended for Tee Higgins
+40,2,14:17,3,4,BAL 26,0,16,"Joe Burrow pass complete deep left to Ja'Marr Chase for 26 yards, touchdown"
+41,2,14:12,0,0,BAL 15,0,17,Evan McPherson kicks extra point good
+42,2,14:12,0,0,CIN 35,0,17,"Evan McPherson kicks off 62 yards, returned by Justice Hill for 21 yards (tackle by Markus Bailey)"
+43,2,14:06,1,10,BAL 24,0,17,Anthony Brown pass complete short left to Kenyan Drake for 9 yards (tackle by D.J. Reader and Logan Wilson)
+44,2,13:25,2,1,BAL 33,0,17,Kenyan Drake right tackle for 18 yards (tackle by Cam Taylor-Britt)
+45,2,12:45,1,10,CIN 49,0,17,Kenyan Drake up the middle for 6 yards (tackle by Cam Taylor-Britt and Joseph Ossai)
+46,2,12:01,2,4,CIN 43,0,17,Justice Hill right end for 6 yards (tackle by Cam Taylor-Britt)
+47,2,11:23,1,10,CIN 37,0,17,"Kenyan Drake left end for no gain (tackle by Sam Hubbard). Penalty on Tyler Linderbaum: Offensive Holding, 10 yards (accepted) (no play)"
+48,2,11:02,1,20,CIN 47,0,17,Anthony Brown pass complete short right to Isaiah Likely for 7 yards (tackle by Logan Wilson and Germaine Pratt)
+49,2,10:19,2,13,CIN 40,0,17,Justice Hill right end for no gain (tackle by Germaine Pratt and Joseph Ossai)
+50,2,9:39,3,13,CIN 40,0,17,Anthony Brown pass complete short middle to Isaiah Likely for 12 yards (tackle by Logan Wilson)
+51,2,9:01,4,1,CIN 28,0,17,Kenyan Drake left guard for -1 yards (tackle by Cam Taylor-Britt)
+52,2,8:52,1,10,CIN 29,0,17,Joe Burrow up the middle for 4 yards (tackle by Travis Jones and Broderick Washington)
+53,2,8:12,2,6,CIN 33,0,17,Joe Burrow pass complete short right to Tyler Boyd for 8 yards (tackle by Roquan Smith and Daryl Worley)
+54,2,7:50,1,10,CIN 41,0,17,Joe Burrow pass complete short right to Joe Mixon for 2 yards (tackle by Travis Jones and Roquan Smith)
+55,2,7:07,2,8,CIN 43,0,17,Joe Burrow pass incomplete short right intended for Ja'Marr Chase (defended by Jason Pierre-Paul)
+56,2,7:03,3,8,CIN 43,0,17,Joe Burrow pass complete short left to Ja'Marr Chase for -2 yards (tackle by Roquan Smith)
+57,2,6:16,4,10,CIN 41,0,17,"Drue Chrisman punts 43 yards, returned by James Proche for 8 yards (tackle by Clay Johnston)"
+58,2,6:05,1,10,BAL 24,0,17,Kenyan Drake right guard for 2 yards (tackle by Cameron Sample)
+59,2,5:42,2,8,BAL 26,0,17,"Anthony Brown pass complete short left to Isaiah Likely for no gain (tackle by Akeem Davis-Gaither). Penalty on Josh Oliver: Illegal Shift, 5 yards (accepted) (no play)"
+60,2,5:15,2,13,BAL 21,0,17,Anthony Brown pass incomplete short right intended for Demarcus Robinson
+61,2,5:12,3,13,BAL 21,0,17,"Anthony Brown pass incomplete short right intended for Isaiah Likely. Penalty on Tre Flowers: Face Mask (15 Yards), 15 yards (declined) . Penalty on Trey Hendrickson: Roughing the Passer, 15 yards (accepted) (no play)"
+62,2,4:54,1,10,BAL 36,0,17,Anthony Brown pass complete deep left to Isaiah Likely for 28 yards (tackle by Eli Apple)
+63,2,4:41,1,10,CIN 36,0,17,Kenyan Drake left tackle for 1 yard (tackle by D.J. Reader and Joseph Ossai)
+64,2,4:11,2,9,CIN 35,0,17,Anthony Brown pass complete short middle to Charlie Kolar for 15 yards (tackle by Logan Wilson)
+65,2,3:42,1,10,CIN 20,0,17,Kenyan Drake right guard for 1 yard (tackle by B.J. Hill and Cameron Sample)
+66,2,3:12,2,9,CIN 19,0,17,Anthony Brown pass incomplete short right intended for Kenyan Drake (defended by Germaine Pratt)
+67,2,3:04,3,9,CIN 19,0,17,Anthony Brown pass complete short middle to Isaiah Likely for 12 yards (tackle by Tre Flowers)
+68,2,2:24,1,7,CIN 7,0,17,Kenyan Drake right tackle for 3 yards (tackle by Josh Tupou and Cam Taylor-Britt)
+69,2,2:00,2,4,CIN 4,6,17,"Kenyan Drake left tackle for 4 yards, touchdown"
+70,2,1:57,0,0,CIN 15,7,17,Justin Tucker kicks extra point good
+71,2,1:57,0,0,BAL 35,7,17,"Justin Tucker kicks off 57 yards, returned by Trayveon Williams for 19 yards (tackle by Del'Shawn Phillips)"
+72,2,1:52,1,10,CIN 27,7,17,Joe Burrow pass complete short right to Ja'Marr Chase for 10 yards (tackle by Daryl Worley)
+73,2,1:33,1,10,CIN 37,7,17,Joe Burrow pass complete short right to Hayden Hurst for -2 yards (tackle by Patrick Queen)
+74,2,1:07,2,12,CIN 35,7,17,Joe Burrow pass incomplete short right intended for Tee Higgins (defended by Daryl Worley)
+75,2,1:02,3,12,CIN 35,7,17,Joe Burrow pass complete short left to Samaje Perine for 4 yards (tackle by Roquan Smith)
+76,2,0:55,4,8,CIN 39,7,17,Drue Chrisman punts 56 yards out of bounds
+77,2,0:47,1,10,BAL 5,7,17,Kenyan Drake left tackle for 1 yard (tackle by Zachary Carter and Germaine Pratt)
+78,2,0:35,2,9,BAL 6,7,17,Anthony Brown pass incomplete short left intended for Sammy Watkins
+79,2,0:36,3,9,BAL 6,7,23,"Anthony Brown sacked by Trey Hendrickson for -6 yards. Anthony Brown fumbles (forced by Trey Hendrickson), recovered by Joseph Ossai in end zone, touchdown"
+80,2,0:30,0,0,BAL 15,7,24,Evan McPherson kicks extra point good
+81,2,0:30,0,0,CIN 35,7,24,"Evan McPherson kicks off 65 yards, touchback."
+82,2,0:30,1,10,BAL 25,7,24,Justice Hill left end for 9 yards (tackle by Tre Flowers)
+83,2,0:22,2,1,BAL 34,7,24,Anthony Brown pass incomplete short left intended for James Proche
+84,2,0:19,3,1,BAL 34,7,24,Justice Hill right guard for 3 yards (tackle by Sam Hubbard and Mike Hilton)
+85,2,0:14,1,10,BAL 37,7,24,Anthony Brown pass incomplete short left intended for Demarcus Robinson
+86,2,0:11,2,10,BAL 37,7,24,Anthony Brown pass incomplete deep right intended for Sammy Watkins
+87,2,0:05,3,10,BAL 37,7,24,Justice Hill right tackle for 12 yards (tackle by Jessie Bates and Sam Hubbard)
+88,3,15:00,0,0,BAL 35,7,24,"Justin Tucker kicks off 65 yards, touchback."
+89,3,15:00,1,10,CIN 25,7,24,Joe Burrow pass complete short left to Tyler Boyd for 3 yards (tackle by Kyle Hamilton)
+90,3,14:30,2,7,CIN 28,7,24,Joe Burrow pass incomplete short middle intended for Ja'Marr Chase (defended by Marcus Williams)
+91,3,14:25,3,7,CIN 28,7,24,Joe Burrow pass incomplete short right intended for Ja'Marr Chase (defended by Kyle Hamilton)
+92,3,14:21,4,7,CIN 28,7,24,"Drue Chrisman punts 42 yards downed by Akeem Davis-Gaither. Penalty on Cal Adomitis: Offensive Holding, 10 yards (accepted) "
+93,3,14:11,1,10,BAL 40,7,24,Justice Hill left tackle for no gain (tackle by Sam Hubbard)
+94,3,13:33,2,10,BAL 40,7,24,Anthony Brown pass complete short middle to Isaiah Likely for 5 yards (tackle by Eli Apple)
+95,3,12:57,3,5,BAL 45,7,24,Anthony Brown pass incomplete deep right intended for James Proche. Penalty on James Proche: Illegal Touch Pass (accepted) 
+96,3,12:39,4,5,BAL 45,7,24,"Jordan Stout punts 49 yards, returned by Trent Taylor for 3 yards (tackle by Kyle Hamilton)"
+97,3,12:23,1,10,CIN 9,7,24,Joe Mixon left tackle for no gain (tackle by Roquan Smith and Kyle Hamilton)
+98,3,11:40,2,10,CIN 9,7,24,"Joe Burrow sacked by David Ojabo for -5 yards. Joe Burrow fumbles (forced by David Ojabo), recovered by Patrick Queen at CIN-9 (tackle by David Ojabo)"
+99,3,11:26,1,9,CIN 9,7,24,Kenyan Drake left tackle for 1 yard (tackle by Germaine Pratt and Zachary Carter)
+100,3,10:48,2,8,CIN 8,7,24,Anthony Brown pass incomplete short middle intended for Demarcus Robinson (defended by Cam Taylor-Britt)
+101,3,10:42,3,8,CIN 8,7,24,Anthony Brown pass incomplete short middle intended for Charlie Kolar
+102,3,10:37,4,8,CIN 8,10,24,Justin Tucker 26 yard field goal good
+103,3,10:34,0,0,BAL 35,10,24,"Justin Tucker kicks off 65 yards, touchback."
+104,3,10:34,1,10,CIN 25,10,24,Joe Mixon left tackle for 2 yards (tackle by Justin Madubuike)
+105,3,10:00,2,8,CIN 27,10,24,Joe Burrow pass complete short right to Joe Mixon for 33 yards (tackle by Chuck Clark)
+106,3,9:20,1,10,BAL 40,10,24,Joe Burrow pass complete deep left to Ja'Marr Chase for 20 yards (tackle by Marlon Humphrey)
+107,3,8:42,1,10,BAL 20,10,24,Samaje Perine left guard for 2 yards (tackle by Roquan Smith)
+108,3,7:59,2,8,BAL 18,10,24,"Joe Burrow pass incomplete short middle intended for Hayden Hurst. Penalty on Patrick Queen: Defensive Pass Interference, 2 yards (accepted) (no play)"
+109,3,7:54,1,10,BAL 16,10,24,Joe Burrow pass complete short left to Joe Mixon for 2 yards (tackle by Patrick Queen)
+110,3,7:18,2,8,BAL 14,10,24,Joe Burrow pass incomplete short right intended for Ja'Marr Chase
+111,3,7:13,3,8,BAL 14,10,24,Joe Burrow pass complete short right to Tyler Boyd for 6 yards (tackle by Damarion Williams)
+112,3,6:31,4,2,BAL 8,10,27,Evan McPherson 26 yard field goal good
+113,3,6:27,0,0,CIN 35,10,27,"Evan McPherson kicks off 65 yards, touchback."
+114,3,6:27,1,10,BAL 25,10,27,Anthony Brown sacked by B.J. Hill for -1 yards
+115,3,5:46,2,11,BAL 24,10,27,Anthony Brown pass incomplete short middle intended for Isaiah Likely (defended by Mike Hilton)
+116,3,5:42,3,11,BAL 24,10,27,Anthony Brown pass complete short left to Charlie Kolar for 14 yards (tackle by Daxton Hill)
+117,3,5:06,1,10,BAL 38,10,27,Kenyan Drake left tackle for 8 yards (tackle by B.J. Hill)
+118,3,4:23,2,2,BAL 46,10,27,Justice Hill left tackle for 4 yards (tackle by D.J. Reader and Vonn Bell)
+119,3,3:32,1,10,BAL 50,10,27,Anthony Brown pass incomplete short right intended for Isaiah Likely
+120,3,3:31,2,10,BAL 50,10,27,Anthony Brown pass complete short left to Demarcus Robinson for 11 yards (tackle by Eli Apple)
+121,3,2:53,1,10,CIN 39,10,27,Anthony Brown pass incomplete short middle intended for Josh Oliver
+122,3,2:42,2,10,CIN 39,10,27,Kenyan Drake right tackle for 6 yards (tackle by Jessie Bates and Cam Taylor-Britt)
+123,3,2:08,3,4,CIN 33,10,27,Anthony Brown pass incomplete short middle intended for Isaiah Likely (defended by Zachary Carter)
+124,3,2:04,4,4,CIN 33,13,27,Justin Tucker 51 yard field goal good
+125,3,1:59,0,0,BAL 35,13,27,"Justin Tucker kicks off 65 yards, touchback."
+126,3,1:59,1,10,CIN 25,13,27,Joe Burrow pass incomplete deep right intended for Tee Higgins
+127,3,1:54,2,10,CIN 25,13,27,Joe Burrow pass complete short right to Ja'Marr Chase for 9 yards (tackle by Damarion Williams and Roquan Smith)
+128,3,1:11,3,1,CIN 34,13,27,Joe Burrow pass incomplete deep right intended for Tee Higgins
+129,3,1:04,4,1,CIN 34,13,27,Drue Chrisman punts 48 yards out of bounds
+130,3,0:57,1,10,BAL 18,13,27,Anthony Brown pass complete short right to Tylan Wallace for 12 yards (tackle by Logan Wilson)
+131,3,0:36,1,10,BAL 30,13,27,Kenyan Drake right end for 2 yards (tackle by B.J. Hill and Jessie Bates)
+132,3,0:04,2,8,BAL 32,13,27,Anthony Brown pass incomplete short left intended for Kenyan Drake (defended by Germaine Pratt)
+133,4,15:00,3,8,BAL 32,13,27,Anthony Brown pass complete short right to Sammy Watkins for 32 yards (tackle by Cam Taylor-Britt and Jessie Bates)
+134,4,14:18,1,10,CIN 36,13,27,Anthony Brown pass complete deep middle to Isaiah Likely for 22 yards (tackle by Jessie Bates and Logan Wilson)
+135,4,13:52,1,10,CIN 14,13,27,Kenyan Drake left end for 5 yards (tackle by Eli Apple)
+136,4,13:12,2,5,CIN 9,13,27,Anthony Brown pass incomplete short middle intended for Isaiah Likely (defended by Logan Wilson)
+137,4,13:07,3,5,CIN 9,13,27,Anthony Brown sacked by Joseph Ossai for no gain
+138,4,12:19,4,5,CIN 9,16,27,Justin Tucker 27 yard field goal good
+139,4,12:17,0,0,BAL 35,16,27,"Justin Tucker kicks off 54 yards, returned by Trayveon Williams for 29 yards (tackle by Tylan Wallace)"
+140,4,12:10,1,10,CIN 40,16,27,Joe Mixon right guard for 5 yards (tackle by Patrick Queen)
+141,4,11:34,2,5,CIN 45,16,27,Joe Burrow pass incomplete deep middle intended for Tyler Boyd
+142,4,11:29,3,5,CIN 45,16,27,Joe Burrow sacked by and Justin Houston for -8 yards and Odafe Oweh for -8 yards
+143,4,10:47,4,13,CIN 37,16,27,"Drue Chrisman punts 52 yards, fair catch by James Proche at BAL-11"
+144,4,10:39,1,10,BAL 11,16,27,Kenyan Drake right tackle for 2 yards (tackle by Vonn Bell)
+145,4,10:14,2,8,BAL 13,16,27,Anthony Brown pass incomplete short middle intended for Charlie Kolar (defended by Vonn Bell)
+146,4,10:10,3,8,BAL 13,16,27,Anthony Brown sacked by Trey Hendrickson for -3 yards
+147,4,9:34,4,11,BAL 10,16,27,"Jordan Stout punts 54 yards, returned by Trent Taylor for 9 yards (tackle by Justice Hill). Penalty on Justice Hill: Player Out of Bounds on a Punt, 5 yards (accepted) "
+148,4,9:23,1,10,CIN 50,16,27,Joe Mixon up the middle for 1 yard (tackle by Broderick Washington)
+149,4,8:46,2,9,BAL 49,16,27,Joe Burrow pass complete short middle to Ja'Marr Chase for 8 yards (tackle by Roquan Smith and Marcus Williams)
+150,4,8:21,3,1,BAL 41,16,27,Joe Burrow up the middle for no gain (tackle by Justin Madubuike)
+151,4,7:20,4,1,BAL 41,16,27,Joe Burrow pass incomplete short right
+152,4,7:18,1,10,BAL 41,16,27,Anthony Brown pass complete short left to Demarcus Robinson for 13 yards (tackle by Eli Apple)
+153,4,6:53,1,10,CIN 46,16,27,Kenyan Drake left guard for 1 yard (tackle by Jessie Bates)
+154,4,6:11,2,9,CIN 45,16,27,"Anthony Brown pass incomplete short left intended for Demarcus Robinson BAL challenged the pass completion ruling, and the play was upheld."
+155,4,6:06,3,9,CIN 45,16,27,Anthony Brown pass incomplete short left intended for Demarcus Robinson
+156,4,6:03,4,9,CIN 45,16,27,"Anthony Brown pass incomplete short right intended for James Proche. Penalty on Morgan Moses: Offensive Holding, 10 yards (declined) "
+157,4,5:55,1,10,CIN 45,16,27,"Samaje Perine right tackle for no gain. Penalty on Hakeem Adeniji: Offensive Holding, 10 yards (accepted) (no play)"
+158,4,5:31,1,20,CIN 35,16,27,Joe Mixon up the middle for 4 yards (tackle by Jason Pierre-Paul and Patrick Queen)
+159,4,4:48,2,16,CIN 39,16,27,Joe Mixon left tackle for -2 yards (tackle by Marcus Williams)
+160,4,4:04,3,18,CIN 37,16,27,Samaje Perine right tackle for 4 yards (tackle by Roquan Smith)
+161,4,3:20,4,14,CIN 41,16,27,"Drue Chrisman punts 59 yards, touchback."
+162,4,3:10,1,10,BAL 20,16,27,"Anthony Brown pass complete deep right to Sammy Watkins for 47 yards. Sammy Watkins fumbles (forced by Jessie Bates), recovered by Vonn Bell at CIN-32 (tackle by Demarcus Robinson)"
+163,4,2:56,1,10,CIN 32,16,27,Samaje Perine right guard for 4 yards (tackle by Justin Madubuike and Jason Pierre-Paul)
+164,4,2:12,2,6,CIN 36,16,27,Samaje Perine left tackle for 1 yard (tackle by Roquan Smith and Jason Pierre-Paul)
+165,4,2:00,3,5,CIN 37,16,27,Samaje Perine right tackle for 1 yard (tackle by Roquan Smith)
+166,4,1:16,4,4,CIN 38,16,27,"Drue Chrisman punts 62 yards, touchback."
+167,4,1:07,1,10,BAL 20,16,27,Anthony Brown pass complete short right to Charlie Kolar for 6 yards (tackle by Mike Hilton)
+168,4,0:49,2,4,BAL 26,16,27,Anthony Brown pass incomplete short middle intended for Kenyan Drake
+169,4,0:44,3,4,BAL 26,16,27,Anthony Brown pass complete short middle to Charlie Kolar for 14 yards (tackle by Logan Wilson)
+170,4,0:31,1,10,BAL 40,16,27,Anthony Brown spiked the ball
+171,4,0:29,2,10,BAL 40,16,27,Anthony Brown pass complete short middle to Kenyan Drake for 10 yards (tackle by Vonn Bell and Logan Wilson)
+172,4,0:11,1,10,BAL 50,16,27,Anthony Brown spiked the ball
+173,4,0:10,2,10,BAL 50,16,27,Anthony Brown pass complete short middle to Isaiah Likely for 12 yards (tackle by Mike Hilton)

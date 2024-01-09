@@ -1,0 +1,150 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,BAL 35,0,0,"Justin Tucker kicks off 65 yards, touchback."
+1,1,15:00,1,10,PIT 25,0,0,Najee Harris right tackle for 3 yards (tackle by Broderick Washington)
+2,1,14:26,2,7,PIT 28,0,0,Kenny Pickett pass complete short left to Pat Freiermuth for 6 yards (tackle by Brandon Stephens)
+3,1,13:52,3,1,PIT 34,0,0,Derek Watt right guard for 3 yards (tackle by Brent Urban)
+4,1,13:14,1,10,PIT 37,0,0,Najee Harris left guard for 6 yards (tackle by Patrick Queen)
+5,1,12:35,2,4,PIT 43,0,0,Kenny Pickett pass complete short right to Steven Sims for 2 yards (tackle by Brandon Stephens and Chuck Clark)
+6,1,11:55,3,2,PIT 45,0,0,Kenny Pickett pass complete short right to Jaylen Warren for 10 yards (tackle by Roquan Smith)
+7,1,11:17,1,10,BAL 45,0,0,Jaylen Warren left guard for 1 yard (tackle by Travis Jones and Rayshad Nichols)
+8,1,10:39,2,9,BAL 44,0,0,Jaylen Warren left end for 31 yards (tackle by Marcus Williams)
+9,1,10:00,1,10,BAL 13,0,0,Najee Harris left guard for 3 yards (tackle by Travis Jones and Patrick Queen)
+10,1,9:24,2,7,BAL 10,0,0,Najee Harris right guard for 6 yards (tackle by Marcus Williams and Roquan Smith)
+11,1,9:06,3,1,BAL 4,0,0,Kenny Pickett up the middle for 2 yards (tackle by Roquan Smith and Brent Urban)
+12,1,8:24,1,2,BAL 2,0,0,"Penalty on Pat Freiermuth: False Start, 5 yards (accepted) (no play)"
+13,1,7:59,1,7,BAL 7,0,0,Kenny Pickett pass incomplete short left intended for Najee Harris (defended by Roquan Smith)
+14,1,7:52,2,7,BAL 7,0,0,Najee Harris for 5 yards (tackle by Chuck Clark and Patrick Queen)
+15,1,7:08,3,2,BAL 2,0,0,Kenny Pickett pass incomplete short right intended for George Pickens (defended by Brandon Stephens)
+16,1,7:04,4,2,BAL 2,3,0,Chris Boswell 21 yard field goal good
+17,1,7:01,0,0,PIT 35,3,0,"Chris Boswell kicks off 65 yards, returned by Justice Hill for 27 yards (tackle by Connor Heyward and James Pierre)"
+18,1,6:56,1,10,BAL 27,3,0,J.K. Dobbins left guard for 3 yards (tackle by Mark Robinson)
+19,1,6:21,2,7,BAL 30,3,0,Tyler Huntley pass complete short left to Mark Andrews for 7 yards (tackle by Terrell Edmunds and Mark Robinson)
+20,1,5:39,1,10,BAL 37,3,0,J.K. Dobbins up the middle for no gain (tackle by T.J. Watt and Mark Robinson)
+21,1,4:59,2,10,BAL 37,3,0,Tyler Huntley scrambles right tackle for 10 yards (tackle by Levi Wallace)
+22,1,4:16,1,10,BAL 47,3,0,J.K. Dobbins left end for no gain (tackle by Robert Spillane)
+23,1,3:37,2,10,BAL 47,3,0,Tyler Huntley scrambles right end for 4 yards (tackle by Robert Spillane)
+24,1,2:53,3,6,PIT 49,3,0,"Tyler Huntley pass complete short left to Mark Andrews for 6 yards (tackle by Terrell Edmunds) BAL challenged the first down ruling, and the original play was overturned. Tyler Huntley pass complete short left to Mark Andrews for 6 yards (tackle by Terrell Edmunds)"
+25,1,2:14,1,10,PIT 43,3,0,J.K. Dobbins left end for 2 yards (tackle by DeMarvin Leal and Cameron Sutton)
+26,1,1:50,2,8,PIT 41,3,0,Tyler Huntley pass incomplete short left intended for Demarcus Robinson
+27,1,1:49,3,8,PIT 41,3,0,Tyler Huntley pass complete short right to Demarcus Robinson for 9 yards (tackle by Minkah Fitzpatrick and Arthur Maulet)
+28,1,1:05,1,10,PIT 32,3,0,J.K. Dobbins up the middle for 15 yards (tackle by Levi Wallace and Minkah Fitzpatrick)
+29,1,0:23,1,10,PIT 17,3,0,Tyler Huntley left tackle for 4 yards (tackle by Minkah Fitzpatrick)
+30,2,15:00,2,6,PIT 13,3,0,Andy Isabella left end for 1 yard (tackle by Alex Highsmith and Robert Spillane)
+31,2,14:18,3,5,PIT 12,3,0,Tyler Huntley pass incomplete short left intended for DeSean Jackson
+32,2,14:12,4,5,PIT 12,3,3,Justin Tucker 30 yard field goal good
+33,2,14:09,0,0,BAL 35,3,3,"Justin Tucker kicks off 65 yards, touchback."
+34,2,14:09,1,10,PIT 25,3,3,Najee Harris up the middle for 9 yards (tackle by Chuck Clark and Roquan Smith)
+35,2,13:39,2,1,PIT 34,3,3,Najee Harris right guard for 5 yards (tackle by Travis Jones and Odafe Oweh)
+36,2,13:01,1,10,PIT 39,3,3,Kenny Pickett sacked by Jason Pierre-Paul for -7 yards
+37,2,12:18,2,17,PIT 32,3,3,Kenny Pickett pass complete short left to Diontae Johnson for 14 yards (tackle by Brandon Stephens)
+38,2,11:39,3,3,PIT 46,3,3,Kenny Pickett pass incomplete deep right intended for George Pickens. Penalty on George Pickens: Illegal Touch Pass (accepted) 
+39,2,11:00,4,3,PIT 46,3,3,Pressley Harvin punts 48 yards downed by Miles Boykin
+40,2,10:50,1,10,BAL 6,3,3,Gus Edwards up the middle for no gain (tackle by T.J. Watt and Mark Robinson)
+41,2,10:00,2,10,BAL 6,3,3,Tyler Huntley pass complete short middle to DeSean Jackson for 9 yards (tackle by Arthur Maulet)
+42,2,9:31,3,1,BAL 15,3,3,Gus Edwards left tackle for no gain (tackle by Cameron Heyward and Alex Highsmith)
+43,2,8:53,4,1,BAL 15,3,3,"Jordan Stout punts 49 yards, fair catch by Steven Sims at PIT-36. Penalty on Minkah Fitzpatrick: Offensive Holding, 10 yards (accepted) "
+44,2,8:46,1,10,PIT 26,3,3,Najee Harris left guard for 5 yards (tackle by Marcus Williams and Broderick Washington)
+45,2,8:11,2,5,PIT 31,3,3,Gunner Olszewski left end for 6 yards (tackle by Marcus Williams)
+46,2,7:40,1,10,PIT 37,3,3,Jaylen Warren right tackle for 6 yards (tackle by Patrick Queen and Kyle Hamilton)
+47,2,7:02,2,4,PIT 43,3,3,Jaylen Warren left tackle for 5 yards (tackle by Kyle Hamilton)
+48,2,6:25,1,10,PIT 48,3,3,Kenny Pickett pass incomplete short right intended for Diontae Johnson
+49,2,6:16,2,10,PIT 48,3,3,Jaylen Warren right guard for 5 yards (tackle by Chuck Clark)
+50,2,5:36,3,5,BAL 47,3,3,Kenny Pickett pass complete short middle to Pat Freiermuth for 10 yards (tackle by Kyle Hamilton)
+51,2,4:55,1,10,BAL 37,3,3,Najee Harris right end for 3 yards (tackle by Kyle Hamilton)
+52,2,4:16,2,7,BAL 34,3,3,Najee Harris right guard for 4 yards (tackle by Travis Jones and Chuck Clark)
+53,2,3:39,3,3,BAL 30,3,3,Kenny Pickett pass incomplete short right intended for Pat Freiermuth (defended by Chuck Clark)
+54,2,3:35,4,3,BAL 30,3,3,Chris Boswell 48 yard field goal no good
+55,2,3:30,1,10,BAL 38,3,3,"Penalty on Josh Oliver: False Start, 5 yards (accepted) (no play)"
+56,2,3:30,1,15,BAL 33,3,3,J.K. Dobbins right end for 17 yards (tackle by Cameron Sutton)
+57,2,2:57,1,10,BAL 50,3,3,J.K. Dobbins left guard for 5 yards (tackle by Robert Spillane)
+58,2,2:20,2,5,PIT 45,3,3,J.K. Dobbins up the middle for 4 yards (tackle by Robert Spillane)
+59,2,2:00,3,1,PIT 41,3,3,Tyler Huntley up the middle for 2 yards (tackle by Larry Ogunjobi)
+60,2,1:28,1,10,PIT 39,3,3,J.K. Dobbins right guard for 12 yards (tackle by Terrell Edmunds)
+61,2,1:14,1,10,PIT 27,3,3,Gus Edwards right tackle for 2 yards (tackle by Mark Robinson)
+62,2,0:41,2,8,PIT 25,3,3,Tyler Huntley pass complete short right to Mark Andrews for 9 yards (tackle by Terrell Edmunds)
+63,2,0:32,1,10,PIT 16,3,3,Tyler Huntley left guard for no gain (tackle by Robert Spillane)
+64,2,0:28,2,10,PIT 16,3,3,Tyler Huntley pass complete short middle to Isaiah Likely for -6 yards (tackle by Robert Spillane)
+65,2,0:22,3,16,PIT 22,3,3,J.K. Dobbins left tackle for 7 yards (tackle by Arthur Maulet)
+66,2,0:22,4,1,PIT 15,3,3,"Penalty on Cameron Heyward: Unnecessary Roughness / Defense, 8 yards (accepted) (no play)"
+67,2,0:11,1,7,PIT 7,3,9,"Tyler Huntley pass complete short left to Isaiah Likely for 7 yards, touchdown"
+68,2,0:07,0,0,PIT 15,3,10,Justin Tucker kicks extra point good
+69,2,0:07,0,0,BAL 35,3,10,"Justin Tucker kicks off 70 yards, returned by Steven Sims for 29 yards (tackle by Josh Oliver and James Proche)"
+70,2,0:03,1,10,PIT 24,3,10,Kenny Pickett kneels for -1 yards
+71,3,15:00,0,0,PIT 35,3,10,"Chris Boswell kicks off 65 yards, touchback."
+72,3,15:00,1,10,BAL 25,3,10,Tyler Huntley pass complete short left to Mark Andrews for 14 yards (tackle by Terrell Edmunds)
+73,3,14:18,1,10,BAL 39,3,10,J.K. Dobbins left tackle for 2 yards (tackle by DeMarvin Leal)
+74,3,13:36,2,8,BAL 41,3,10,Tyler Huntley right tackle for 1 yard (tackle by Robert Spillane)
+75,3,12:56,3,7,BAL 42,3,10,Tyler Huntley pass complete short left to Mark Andrews for 18 yards (tackle by Minkah Fitzpatrick and Damontae Kazee)
+76,3,12:27,1,10,PIT 40,3,10,"Penalty on Tyler Linderbaum: False Start, 5 yards (accepted) (no play)"
+77,3,12:05,1,15,PIT 45,3,10,J.K. Dobbins up the middle for no gain (tackle by Larry Ogunjobi and Montravius Adams)
+78,3,11:27,2,15,PIT 45,3,10,"Tyler Huntley scrambles right end for no gain. Penalty on Morgan Moses: Offensive Holding, 10 yards (accepted) (no play)"
+79,3,10:53,2,25,BAL 45,3,10,Tyler Huntley pass complete deep left to Mark Andrews for 19 yards (tackle by Devin Bush)
+80,3,10:14,3,6,PIT 36,3,10,Tyler Huntley scrambles left end for 3 yards (tackle by Minkah Fitzpatrick and Cameron Heyward)
+81,3,9:35,4,3,PIT 33,3,13,Justin Tucker 51 yard field goal good
+82,3,9:31,0,0,BAL 35,3,13,"Justin Tucker kicks off 65 yards, touchback."
+83,3,9:31,1,10,PIT 25,3,13,Kenny Pickett pass incomplete short right intended for Pat Freiermuth (defended by Brent Urban)
+84,3,9:26,2,10,PIT 25,3,13,Najee Harris right guard for 15 yards (tackle by Patrick Queen)
+85,3,8:51,1,10,PIT 40,3,13,Najee Harris left guard for 3 yards (tackle by Odafe Oweh)
+86,3,8:17,2,7,PIT 43,3,13,Najee Harris up the middle for -7 yards (tackle by Odafe Oweh)
+87,3,7:32,3,14,PIT 36,3,13,Kenny Pickett pass complete short middle to George Pickens for 14 yards (tackle by Brandon Stephens)
+88,3,6:49,1,10,PIT 50,3,13,Kenny Pickett pass complete short middle to Jaylen Warren for 6 yards (tackle by Roquan Smith)
+89,3,6:09,2,4,BAL 44,3,13,Jaylen Warren up the middle for no gain (tackle by Kyle Hamilton)
+90,3,5:26,3,4,BAL 44,3,13,Kenny Pickett pass complete short right to Jaylen Warren for 6 yards (tackle by Kyle Hamilton and Brandon Stephens)
+91,3,5:04,1,10,BAL 38,3,13,Najee Harris left tackle for 5 yards (tackle by Rayshad Nichols)
+92,3,4:27,2,5,BAL 33,3,13,Najee Harris up the middle for 1 yard (tackle by Rayshad Nichols and Broderick Washington)
+93,3,3:52,3,4,BAL 32,3,13,Kenny Pickett pass incomplete short left intended for Diontae Johnson (defended by Marcus Williams)
+94,3,3:47,4,4,BAL 32,6,13,Chris Boswell 51 yard field goal good
+95,3,3:42,0,0,PIT 35,6,13,"Chris Boswell kicks off 65 yards, touchback."
+96,3,3:42,1,10,BAL 25,6,13,J.K. Dobbins left end for 22 yards (tackle by Minkah Fitzpatrick)
+97,3,2:59,1,10,BAL 47,6,13,J.K. Dobbins up the middle for 2 yards (tackle by DeMarvin Leal and Terrell Edmunds)
+98,3,2:16,2,8,BAL 49,6,13,Tyler Huntley sacked by T.J. Watt for -10 yards
+99,3,1:31,3,18,BAL 39,6,13,Tyler Huntley pass complete short middle to Isaiah Likely for 11 yards (tackle by Damontae Kazee and Minkah Fitzpatrick)
+100,3,0:55,4,7,BAL 50,6,13,"Jordan Stout punts 40 yards, fair catch by Steven Sims at PIT-10. Penalty on Elijah Riley: Offensive Holding, 5 yards (accepted) "
+101,3,0:46,1,10,PIT 5,6,13,Najee Harris left end for 9 yards (tackle by Roquan Smith and Marcus Williams)
+102,3,0:07,2,1,PIT 14,6,13,Najee Harris right end for 1 yard (tackle by Roquan Smith and Travis Jones)
+103,4,15:00,1,10,PIT 15,6,13,Najee Harris left guard for 15 yards (tackle by Chuck Clark and Roquan Smith)
+104,4,14:19,1,10,PIT 30,6,13,Kenny Pickett pass complete short right to George Pickens for 15 yards (tackle by Brandon Stephens)
+105,4,13:40,1,10,PIT 45,6,13,Jaylen Warren up the middle for 6 yards (tackle by Chuck Clark and Jason Pierre-Paul)
+106,4,12:55,2,4,BAL 49,6,13,Jaylen Warren right end for 7 yards (tackle by Patrick Queen and Roquan Smith)
+107,4,12:20,1,10,BAL 42,6,13,Kenny Pickett pass incomplete short middle intended for Diontae Johnson (defended by Broderick Washington)
+108,4,12:16,2,10,BAL 42,6,13,Najee Harris left tackle for 6 yards (tackle by Odafe Oweh)
+109,4,11:47,3,4,BAL 36,6,13,Kenny Pickett pass complete short right to Diontae Johnson for 21 yards (tackle by Marcus Williams)
+110,4,11:14,1,10,BAL 15,6,13,Jaylen Warren left guard for 2 yards (tackle by Brent Urban and Rayshad Nichols)
+111,4,10:35,2,8,BAL 13,6,13,Jaylen Warren right guard for -2 yards (tackle by Brent Urban)
+112,4,9:55,3,10,BAL 15,6,13,Kenny Pickett pass incomplete short left intended for Steven Sims
+113,4,9:47,4,10,BAL 15,9,13,Chris Boswell 33 yard field goal good
+114,4,9:44,0,0,PIT 35,9,13,"Chris Boswell kicks off 61 yards, returned by Justice Hill for 56 yards (tackle by Arthur Maulet)"
+115,4,9:33,1,10,PIT 40,9,13,J.K. Dobbins left guard for -2 yards (tackle by T.J. Watt and Cameron Heyward)
+116,4,8:58,2,12,PIT 42,9,13,Tyler Huntley pass incomplete deep right intended for Josh Oliver
+117,4,8:51,3,12,PIT 42,9,13,Tyler Huntley pass incomplete short middle intended for Isaiah Likely (defended by Terrell Edmunds)
+118,4,8:49,4,12,PIT 42,9,13,"Jordan Stout punts 34 yards, fair catch by Steven Sims at PIT-8"
+119,4,8:41,1,10,PIT 8,9,13,Jaylen Warren right end for 6 yards (tackle by Chuck Clark and Broderick Washington)
+120,4,8:03,2,4,PIT 14,9,13,Jaylen Warren up the middle for 9 yards (tackle by Chuck Clark and Marcus Williams)
+121,4,7:35,1,10,PIT 23,9,13,Kenny Pickett pass incomplete deep left intended for Diontae Johnson (defended by Brandon Stephens)
+122,4,7:32,2,10,PIT 23,9,13,Kenny Pickett sacked by Justin Madubuike for -8 yards
+123,4,6:44,3,18,PIT 15,9,13,Kenny Pickett pass incomplete short right intended for Pat Freiermuth (defended by Chuck Clark)
+124,4,6:42,4,18,PIT 15,9,13,"Pressley Harvin punts 51 yards, returned by James Proche for 2 yards (tackle by Miles Boykin)"
+125,4,6:32,1,10,BAL 36,9,13,Tyler Huntley pass complete short right to Mark Andrews for 4 yards (tackle by Robert Spillane and Mark Robinson)
+126,4,5:51,2,6,BAL 40,9,13,J.K. Dobbins left guard for 4 yards (tackle by Devin Bush and Alex Highsmith)
+127,4,5:09,3,2,BAL 44,9,13,J.K. Dobbins right guard for no gain (tackle by Cameron Heyward and Mark Robinson)
+128,4,4:30,4,2,BAL 44,9,13,"Jordan Stout punts 56 yards, touchback."
+129,4,4:16,1,10,PIT 20,9,13,Najee Harris left tackle for 7 yards (tackle by Chuck Clark)
+130,4,3:56,2,3,PIT 27,9,13,Kenny Pickett pass complete short right to Najee Harris for 2 yards (tackle by Brandon Stephens)
+131,4,3:14,3,1,PIT 29,9,13,Kenny Pickett up the middle for 1 yard (tackle by Justin Madubuike)
+132,4,2:35,1,10,PIT 30,9,13,Kenny Pickett pass complete deep middle to Pat Freiermuth for 20 yards (tackle by Brandon Stephens)
+133,4,2:06,1,10,PIT 50,9,13,"Kenny Pickett pass complete short middle to Steven Sims for 28 yards (tackle by Marcus Williams). Penalty on Kyle Hamilton: Defensive Holding, 5 yards (declined) "
+134,4,1:59,1,10,BAL 22,9,13,Kenny Pickett pass complete short middle to Steven Sims for 4 yards (tackle by Marcus Williams)
+135,4,1:55,2,6,BAL 18,9,13,Najee Harris right guard for 5 yards (tackle by Justin Houston)
+136,4,1:49,3,1,BAL 13,9,13,Kenny Pickett right guard for 1 yard (tackle by Justin Madubuike)
+137,4,1:11,1,10,BAL 12,9,13,Kenny Pickett pass incomplete short right intended for Diontae Johnson
+138,4,1:06,2,10,BAL 12,9,13,Najee Harris right tackle for 2 yards (tackle by Broderick Washington)
+139,4,1:02,3,8,BAL 10,15,13,"Kenny Pickett pass complete short left to Najee Harris for 10 yards, touchdown"
+140,4,0:56,0,0,BAL 15,16,13,Chris Boswell kicks extra point good
+141,4,0:56,0,0,PIT 35,16,13,"Chris Boswell kicks off 65 yards, touchback."
+142,4,0:56,1,10,BAL 25,16,13,Tyler Huntley pass incomplete short right intended for Isaiah Likely
+143,4,0:52,2,10,BAL 25,16,13,"Tyler Huntley pass incomplete deep middle intended for DeSean Jackson. Penalty on Tyler Linderbaum: Offensive Holding, 10 yards (accepted) (no play)"
+144,4,0:45,2,20,BAL 15,16,13,Tyler Huntley pass complete short middle to Mark Andrews for 18 yards (tackle by Levi Wallace and Minkah Fitzpatrick)
+145,4,0:26,3,2,BAL 33,16,13,Tyler Huntley pass complete short middle to Mark Andrews for 5 yards (tackle by Minkah Fitzpatrick)
+146,4,0:22,1,10,BAL 38,16,13,Tyler Huntley spiked the ball
+147,4,0:20,2,10,BAL 38,16,13,Tyler Huntley pass intended for Demarcus Robinson is intercepted by Minkah Fitzpatrick at PIT-40 and returned for no gain
+148,4,0:13,1,10,PIT 25,16,13,Kenny Pickett kneels for -1 yards

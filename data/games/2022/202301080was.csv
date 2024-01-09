@@ -1,0 +1,169 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,WAS 35,0,0,"Joey Slye kicks off 67 yards, returned by KaVontae Turpin for 22 yards (tackle by Joey Slye and Shaka Toney). Penalty on Tyler Coyle: Defensive Holding, 10 yards (accepted) "
+1,1,14:54,1,10,DAL 10,0,0,Ezekiel Elliott left tackle for 1 yard (tackle by Chase Young)
+2,1,14:25,2,9,DAL 11,0,0,Ezekiel Elliott for 4 yards (tackle by John Ridgeway)
+3,1,13:49,3,5,DAL 15,0,0,Dak Prescott pass complete short middle to Noah Brown for 10 yards (tackle by Montez Sweat)
+4,1,13:09,1,10,DAL 25,0,0,Dak Prescott pass incomplete short right
+5,1,13:05,2,10,DAL 25,0,0,Tony Pollard left end for 5 yards (tackle by Percy Butler and David Mayo)
+6,1,12:26,3,5,DAL 30,0,0,Tony Pollard left tackle for 3 yards (tackle by Darrick Forrest and David Mayo)
+7,1,11:52,4,2,DAL 33,0,0,"Bryan Anger aborted snap, recovered by Bryan Anger at DAL-33 and returned for -14 yards Bryan Anger for -13 yards (tackle by Milo Eifler)"
+8,1,11:45,1,10,DAL 20,0,0,Jonathan Williams up the middle for 4 yards (tackle by DaRon Bland)
+9,1,11:14,2,6,DAL 16,0,6,"Sam Howell pass complete short middle to Terry McLaurin for 16 yards, touchdown"
+10,1,11:08,0,0,DAL 15,0,7,Joey Slye kicks extra point good
+11,1,11:08,0,0,WAS 35,0,7,"Joey Slye kicks off 65 yards, touchback."
+12,1,11:08,1,10,DAL 25,0,7,Dak Prescott pass incomplete short right intended for T.Y. Hilton
+13,1,11:04,2,10,DAL 25,0,7,Tony Pollard right end for 3 yards (tackle by Jeremy Reaves and Khaleke Hudson)
+14,1,10:29,3,7,DAL 28,0,7,Dak Prescott sacked by Efe Obada for -10 yards
+15,1,9:48,4,17,DAL 18,0,7,"Bryan Anger punts 50 yards, returned by Dax Milne for 6 yards (tackle by C.J. Goodwin)"
+16,1,9:37,1,10,WAS 38,0,7,Sam Howell pass incomplete short right
+17,1,9:32,2,10,WAS 38,0,7,Jonathan Williams right tackle for 6 yards (tackle by Anthony Barr and Micah Parsons)
+18,1,8:56,3,4,WAS 44,0,7,Sam Howell pass incomplete short right intended for Terry McLaurin
+19,1,8:51,4,4,WAS 44,0,7,"Tress Way punts 41 yards, recovered by Christian Holmes at DAL-15 (tackle by KaVontae Turpin)"
+20,1,8:42,1,10,DAL 15,0,7,Jonathan Williams right end for 2 yards (tackle by Carlos Watkins)
+21,1,8:06,2,8,DAL 13,0,7,Jonathan Williams left end for 3 yards (tackle by Dorance Armstrong)
+22,1,7:29,3,5,DAL 10,0,7,Sam Howell sacked by and Micah Parsons for -3 yards and Dorance Armstrong for -3 yards
+23,1,6:41,4,8,DAL 13,0,7,Joey Slye 31 yard field goal no good
+24,1,6:35,1,10,DAL 21,0,7,Dak Prescott pass complete short middle to Jake Ferguson for 4 yards (tackle by Darrick Forrest)
+25,1,6:05,2,6,DAL 25,0,7,Ezekiel Elliott left end for no gain (tackle by Percy Butler)
+26,1,5:36,3,6,DAL 25,0,7,Dak Prescott scrambles right end for 2 yards (tackle by Daron Payne)
+27,1,4:50,4,4,DAL 27,0,7,"Bryan Anger punts 41 yards, recovered by Dax Milne at WAS-33"
+28,1,4:45,1,10,WAS 33,0,7,"Sam Howell pass complete short left to Jaret Patterson for no gain. Penalty on Trevon Diggs: Defensive Holding, 5 yards (accepted) (no play)"
+29,1,4:23,1,10,WAS 38,0,7,Armani Rogers left end for 2 yards (tackle by Anthony Barr and Chauncey Golston)
+30,1,3:40,2,8,WAS 40,0,7,"Sam Howell pass complete short right to Curtis Samuel for -2 yards (tackle by DaRon Bland). Penalty on Trai Turner: Ineligible Downfield Pass, 5 yards (declined) "
+31,1,3:13,3,10,WAS 38,0,7,"Sam Howell pass incomplete deep right intended for Terry McLaurin. Penalty on Trayvon Mullen: Defensive Pass Interference, 24 yards (accepted) (no play)"
+32,1,3:06,1,10,DAL 38,0,7,Jaret Patterson right end for 5 yards (tackle by Jayron Kearse)
+33,1,2:30,2,5,DAL 33,0,7,Sam Howell scrambles right tackle for 10 yards (tackle by Trayvon Mullen)
+34,1,1:48,1,10,DAL 23,0,7,Sam Howell sacked by Sam Williams for -3 yards
+35,1,1:22,2,12,DAL 26,0,7,Jaret Patterson right tackle for 14 yards (tackle by Neville Gallimore and Anthony Barr)
+36,1,0:55,1,10,DAL 12,0,7,Jaret Patterson left guard for 3 yards (tackle by Chauncey Golston and Neville Gallimore)
+37,1,0:14,2,7,DAL 9,0,7,Jaret Patterson right tackle for 1 yard (tackle by Chauncey Golston)
+38,2,15:00,3,6,DAL 8,0,7,Sam Howell pass complete short left to Terry McLaurin for 6 yards (tackle by Trayvon Mullen)
+39,2,14:13,1,2,DAL 2,0,7,Jonathan Williams left guard for -3 yards (tackle by Malik Hooker and Dorance Armstrong)
+40,2,13:34,2,5,DAL 5,0,7,Sam Howell pass short left intended for Cam Sims is intercepted by Malik Hooker in end zone and returned for no gain
+41,2,13:27,1,10,DAL 20,0,7,Tony Pollard left guard for 4 yards (tackle by John Ridgeway and Benning Potoa'e)
+42,2,12:52,2,6,DAL 24,0,7,Dak Prescott pass incomplete short right intended for Michael Gallup
+43,2,12:43,3,6,DAL 24,0,13,"Dak Prescott pass short right intended for Noah Brown is intercepted by Kendall Fuller at DAL-29 and returned for 29 yards, touchdown"
+44,2,12:38,0,0,DAL 15,0,13,Joey Slye kicks extra point no good
+45,2,12:38,0,0,WAS 35,0,13,"Joey Slye kicks off 65 yards, touchback."
+46,2,12:38,1,10,DAL 25,0,13,Ezekiel Elliott up the middle for 3 yards (tackle by John Ridgeway)
+47,2,12:06,2,7,DAL 28,0,13,Ezekiel Elliott up the middle for 2 yards (tackle by John Ridgeway and Montez Sweat)
+48,2,11:32,3,5,DAL 30,0,13,Dak Prescott pass incomplete short left intended for Michael Gallup (defended by Danny Johnson)
+49,2,11:27,4,5,DAL 30,0,13,"Bryan Anger punts 59 yards, returned by Dax Milne for 7 yards (tackle by Kelvin Joseph)"
+50,2,11:17,1,10,WAS 18,0,13,Jaret Patterson right tackle for 6 yards (tackle by Damone Clark and Donovan Wilson)
+51,2,10:53,2,4,WAS 24,0,13,Sam Howell pass incomplete intended for Jaret Patterson
+52,2,10:51,3,4,WAS 24,0,13,Sam Howell scrambles up the middle for 9 yards (tackle by Tyler Coyle)
+53,2,10:17,1,10,WAS 33,0,13,Sam Howell pass complete short middle to Jahan Dotson for 30 yards (tackle by Trevon Diggs)
+54,2,9:32,1,10,DAL 37,0,13,Curtis Samuel left end for -4 yards (tackle by Dorance Armstrong)
+55,2,8:57,2,14,DAL 41,0,13,Jaret Patterson left tackle for 2 yards (tackle by Anthony Barr and Chauncey Golston)
+56,2,7:54,3,12,DAL 39,0,13,Sam Howell pass complete short middle to Logan Thomas for 5 yards (tackle by Damone Clark)
+57,2,7:38,4,7,DAL 34,0,13,Joey Slye 52 yard field goal no good
+58,2,7:32,1,10,DAL 42,0,13,Tony Pollard right end for 3 yards (tackle by John Ridgeway and Montez Sweat)
+59,2,7:04,2,7,DAL 45,0,13,Dak Prescott pass incomplete deep middle intended for Noah Brown (defended by Percy Butler)
+60,2,6:58,3,7,DAL 45,0,13,Dak Prescott pass incomplete deep middle intended for CeeDee Lamb
+61,2,6:52,4,7,DAL 45,0,13,"Bryan Anger punts 38 yards, fair catch by Dax Milne at WAS-17"
+62,2,6:45,1,10,WAS 17,0,13,Jonathan Williams left tackle for 4 yards (tackle by DeMarcus Lawrence)
+63,2,6:10,2,6,WAS 21,0,13,Jonathan Williams left tackle for 2 yards (tackle by Carlos Watkins)
+64,2,5:36,3,4,WAS 23,0,13,Sam Howell scrambles left end for 8 yards (tackle by Tyler Coyle)
+65,2,4:56,1,10,WAS 31,0,13,Sam Howell sacked by Osa Odighizuwa for -5 yards
+66,2,4:05,2,15,WAS 26,0,13,Jonathan Williams up the middle for 1 yard (tackle by Chauncey Golston)
+67,2,3:26,3,14,WAS 27,0,13,Sam Howell pass complete short middle to Logan Thomas for 11 yards (tackle by Tyler Coyle)
+68,2,2:49,4,3,WAS 38,0,13,"Tress Way punts 45 yards, returned by KaVontae Turpin for 6 yards (tackle by Casey Toohill)"
+69,2,2:37,1,10,DAL 23,0,13,Dak Prescott pass complete short left to CeeDee Lamb for 5 yards (tackle by Darrick Forrest and Danny Johnson)
+70,2,2:10,2,5,DAL 28,0,13,Dak Prescott pass complete short left to CeeDee Lamb for 6 yards (tackle by Danny Johnson and Khaleke Hudson)
+71,2,2:00,1,10,DAL 34,0,13,"Dak Prescott pass complete short middle to Dalton Schultz for 13 yards (tackle by Kendall Fuller) Replay Assistant challenged the runner was down by contact ruling, and the original play was overturned. Dak Prescott pass complete short middle to Dalton Schultz for 7 yards (tackle by Danny Johnson)"
+72,2,1:45,2,3,DAL 41,0,13,Dak Prescott pass complete short middle to Michael Gallup for 10 yards (tackle by Darrick Forrest and Danny Johnson)
+73,2,1:25,1,10,WAS 49,0,13,Dak Prescott pass incomplete short left intended for Dalton Schultz
+74,2,1:21,2,10,WAS 49,0,13,Dak Prescott pass incomplete short right intended for Dalton Schultz
+75,2,1:17,3,10,WAS 49,0,13,Dak Prescott pass complete short middle to Dalton Schultz for 12 yards (tackle by Khaleke Hudson)
+76,2,0:54,1,10,WAS 37,0,13,Dak Prescott pass complete short middle to T.Y. Hilton for 11 yards (tackle by Jeremy Reaves)
+77,2,0:49,1,10,WAS 26,0,13,Dak Prescott pass incomplete short right intended for CeeDee Lamb
+78,2,0:44,2,10,WAS 26,0,13,Dak Prescott pass incomplete short middle intended for Dalton Schultz
+79,2,0:39,3,10,WAS 26,0,13,Dak Prescott scrambles left guard for 9 yards (tackle by Darrick Forrest)
+80,2,0:32,4,1,WAS 17,0,13,Dak Prescott right guard for 2 yards (tackle by Khaleke Hudson)
+81,2,0:15,1,10,WAS 15,0,13,Dak Prescott pass incomplete short left intended for Michael Gallup
+82,2,0:10,2,10,WAS 15,6,13,"Dak Prescott pass complete short left to CeeDee Lamb for 15 yards, touchdown"
+83,2,0:06,0,0,WAS 15,6,13,Brett Maher kicks extra point no good
+84,2,0:06,0,0,DAL 35,6,13,"Brett Maher kicks off 65 yards, touchback."
+85,2,0:06,1,10,WAS 25,6,13,Sam Howell kneels for -1 yards
+86,3,15:00,0,0,DAL 35,6,13,"Brett Maher kicks off 63 yards, returned by Jaret Patterson for 27 yards (tackle by Tyler Coyle and Noah Brown)"
+87,3,14:53,1,10,WAS 29,6,13,Jonathan Williams left guard for 9 yards (tackle by Donovan Wilson and Malik Hooker)
+88,3,14:19,2,1,WAS 38,6,13,Jonathan Williams right end for no gain (tackle by Osa Odighizuwa)
+89,3,13:42,3,1,WAS 38,6,13,Jonathan Williams left tackle for -2 yards (tackle by Carlos Watkins and Chauncey Golston)
+90,3,12:59,4,3,WAS 36,6,13,"Tress Way punts 48 yards, returned by KaVontae Turpin for 7 yards (tackle by Jeremy Reaves and Troy Apke)"
+91,3,12:49,1,10,DAL 23,6,13,"Ezekiel Elliott right end for no gain (tackle by Darrick Forrest). Penalty on Dalton Schultz: Offensive Holding, 10 yards (accepted) (no play)"
+92,3,12:29,1,20,DAL 13,6,13,Ezekiel Elliott left end for no gain (tackle by Percy Butler)
+93,3,11:56,2,20,DAL 13,6,13,Dak Prescott pass complete short right to CeeDee Lamb for 13 yards (tackle by Danny Johnson and Kendall Fuller)
+94,3,11:22,3,7,DAL 26,6,13,Dak Prescott pass incomplete short left intended for Ezekiel Elliott
+95,3,11:19,4,7,DAL 26,6,13,"Bryan Anger punts 41 yards, returned by Dax Milne for 16 yards (tackle by Noah Brown)"
+96,3,11:07,1,10,WAS 49,6,13,Jaret Patterson right guard for 2 yards (tackle by Chauncey Golston)
+97,3,10:35,2,8,DAL 49,6,13,Jaret Patterson for 2 yards (tackle by Chauncey Golston and Neville Gallimore)
+98,3,9:53,3,6,DAL 47,6,13,Sam Howell pass incomplete deep right intended for Jahan Dotson
+99,3,9:47,4,6,DAL 47,6,13,"Tress Way punts 47 yards, touchback."
+100,3,9:40,1,10,DAL 20,6,13,Tony Pollard right end for 1 yard (tackle by Khaleke Hudson)
+101,3,9:08,2,9,DAL 21,6,13,Dak Prescott pass incomplete short left intended for Noah Brown (defended by Kendall Fuller)
+102,3,9:03,3,9,DAL 21,6,13,Dak Prescott pass incomplete short right intended for Michael Gallup (defended by Danny Johnson)
+103,3,8:58,4,9,DAL 21,6,13,"Bryan Anger punts 54 yards, returned by Dax Milne for 9 yards (tackle by Matt Overton and Noah Brown)"
+104,3,8:43,1,10,WAS 34,6,13,Jonathan Williams for -1 yards (tackle by Sam Williams and Luke Gifford)
+105,3,7:55,2,11,WAS 33,6,13,Sam Howell pass complete short right to Jonathan Williams for 1 yard (tackle by Jayron Kearse)
+106,3,7:25,3,10,WAS 34,6,13,"Penalty on Wes Schweitzer: False Start, 5 yards (accepted) (no play)"
+107,3,7:17,3,15,WAS 29,6,13,Sam Howell pass complete short middle to Jonathan Williams for 8 yards (tackle by Tyler Coyle)
+108,3,6:38,4,7,WAS 37,6,13,"Tress Way punts 49 yards, returned by KaVontae Turpin for no gain (tackle by Dyami Brown)"
+109,3,6:30,1,10,DAL 14,6,13,Ezekiel Elliott right end for -2 yards (tackle by Benning Potoa'e)
+110,3,5:57,2,12,DAL 12,6,13,Dak Prescott pass incomplete short left intended for Dalton Schultz
+111,3,5:49,3,12,DAL 12,6,13,Dak Prescott pass incomplete deep left intended for T.Y. Hilton
+112,3,5:41,4,12,DAL 12,6,13,"Bryan Anger punts 47 yards, fair catch by Dax Milne at WAS-41"
+113,3,5:34,1,10,WAS 41,6,13,Sam Howell pass complete short right to Jahan Dotson for 22 yards (tackle by Nahshon Wright)
+114,3,4:54,1,10,DAL 37,6,13,"Sam Howell pass complete to Logan Thomas for no gain (tackle by Anthony Barr). Penalty on Chris Paul: Ineligible Downfield Pass, 5 yards (accepted) (no play)"
+115,3,4:20,1,15,DAL 42,6,13,Jaret Patterson up the middle for 1 yard (tackle by Osa Odighizuwa)
+116,3,3:43,2,14,DAL 41,6,13,Sam Howell pass complete short middle to Jahan Dotson for 20 yards (tackle by Jayron Kearse)
+117,3,3:15,1,10,DAL 21,6,13,Jaret Patterson right guard for 6 yards (tackle by Neville Gallimore and Malik Hooker)
+118,3,2:37,2,4,DAL 15,6,13,Jaret Patterson right tackle for 6 yards (tackle by Chauncey Golston)
+119,3,1:54,1,9,DAL 9,6,19,"Sam Howell up the middle for 9 yards, touchdown"
+120,3,1:49,0,0,DAL 15,6,20,Joey Slye kicks extra point good
+121,3,1:49,0,0,WAS 35,6,20,"Joey Slye kicks off 66 yards, returned by KaVontae Turpin for 29 yards (tackle by Cam Sims)"
+122,3,1:44,1,10,DAL 28,6,20,Dak Prescott pass incomplete short middle intended for Noah Brown (defended by Bobby McCain)
+123,3,1:38,2,10,DAL 28,6,20,Tony Pollard left end for no gain (tackle by David Mayo)
+124,3,0:58,3,10,DAL 28,6,20,Dak Prescott pass incomplete deep middle intended for Noah Brown (defended by Darrick Forrest)
+125,3,0:51,4,10,DAL 28,6,20,"Bryan Anger punts 39 yards, fair catch by Dax Milne at WAS-33"
+126,3,0:44,1,10,WAS 33,6,20,Sam Howell pass complete deep right to Terry McLaurin for 52 yards (tackle by Trayvon Mullen)
+127,4,15:00,1,10,DAL 15,6,20,Jaret Patterson right guard for 4 yards (tackle by Anthony Barr)
+128,4,14:32,2,6,DAL 11,6,20,Sam Howell pass incomplete short right intended for Logan Thomas (defended by DeMarcus Lawrence)
+129,4,14:26,3,6,DAL 11,6,20,Sam Howell pass incomplete short middle intended for Terry McLaurin
+130,4,14:23,4,6,DAL 11,6,23,Joey Slye 29 yard field goal good
+131,4,14:19,0,0,WAS 35,6,23,"Joey Slye kicks off 65 yards, touchback."
+132,4,14:19,1,10,DAL 25,6,23,Dak Prescott pass incomplete short middle intended for Ezekiel Elliott
+133,4,14:16,2,10,DAL 25,6,23,Dak Prescott pass complete to Dalton Schultz for 9 yards (tackle by Danny Johnson and David Mayo)
+134,4,13:50,3,1,DAL 34,6,23,Dak Prescott left guard for 2 yards (tackle by David Mayo and Khaleke Hudson)
+135,4,13:20,1,10,DAL 36,6,23,Dak Prescott pass complete short left to T.Y. Hilton for 8 yards (tackle by Bobby McCain)
+136,4,12:57,2,2,DAL 44,6,23,Ezekiel Elliott for 2 yards (tackle by Chase Young and David Mayo)
+137,4,12:28,1,10,DAL 46,6,23,Dak Prescott pass complete short left to Dalton Schultz for 5 yards (tackle by Danny Johnson and Khaleke Hudson)
+138,4,12:05,2,5,WAS 49,6,23,"Dak Prescott pass complete to Dalton Schultz for no gain. Penalty on Tyler Smith: Offensive Holding, 10 yards (accepted) (no play)"
+139,4,11:38,2,14,DAL 41,6,23,Dak Prescott pass complete short middle to CeeDee Lamb for 13 yards (tackle by Percy Butler)
+140,4,11:09,3,2,WAS 46,6,23,Dak Prescott scrambles for 1 yard (tackle by Daron Payne)
+141,4,10:46,4,1,WAS 45,6,23,Dak Prescott right guard for no gain (tackle by David Mayo)
+142,4,10:43,1,10,WAS 45,6,23,Jonathan Williams right end for 6 yards (tackle by Osa Odighizuwa)
+143,4,10:04,2,4,DAL 49,6,23,Jonathan Williams up the middle for 1 yard (tackle by Osa Odighizuwa and Dorance Armstrong)
+144,4,9:24,3,3,DAL 48,6,23,Sam Howell pass incomplete short right intended for Terry McLaurin
+145,4,9:19,4,3,DAL 48,6,23,"Tress Way punts 39 yards, fair catch by KaVontae Turpin at DAL-9"
+146,4,9:12,1,10,DAL 9,6,23,Dak Prescott pass incomplete short middle intended for Dalton Schultz
+147,4,9:07,2,10,DAL 9,6,23,Dak Prescott pass incomplete short middle
+148,4,9:03,3,10,DAL 9,6,23,Dak Prescott pass incomplete short left intended for Tony Pollard
+149,4,8:58,4,10,DAL 9,6,23,"Bryan Anger punts 51 yards, returned by Dax Milne for 15 yards (tackle by Tyler Coyle and Jabril Cox)"
+150,4,8:49,1,10,DAL 45,6,23,"Jaret Patterson right end for 7 yards (tackle by Donovan Wilson and Malik Hooker). Penalty on Sam Williams: Unnecessary Roughness / Defense, 15 yards (accepted) "
+151,4,8:17,1,10,DAL 23,6,23,Jaret Patterson left tackle for 11 yards (tackle by Damone Clark)
+152,4,7:33,1,10,DAL 12,6,23,Jaret Patterson up the middle for 3 yards (tackle by Anthony Barr)
+153,4,6:53,2,7,DAL 9,6,23,Jaret Patterson right guard for 3 yards (tackle by Donovan Wilson)
+154,4,6:09,3,4,DAL 6,6,23,Jaret Patterson left tackle for 2 yards (tackle by DeMarcus Lawrence)
+155,4,5:22,4,2,DAL 4,6,26,Joey Slye 22 yard field goal good
+156,4,5:19,0,0,WAS 35,6,26,"Joey Slye kicks off 65 yards, touchback."
+157,4,5:19,1,10,DAL 25,6,26,Malik Davis right end for 5 yards (tackle by Casey Toohill)
+158,4,4:57,2,5,DAL 30,6,26,Malik Davis right end for 1 yard (tackle by Benning Potoa'e)
+159,4,4:28,3,4,DAL 31,6,26,Cooper Rush pass incomplete deep left intended for Michael Gallup
+160,4,4:22,4,4,DAL 31,6,26,"Bryan Anger punts 58 yards, returned by Dax Milne for 2 yards (tackle by C.J. Goodwin and Matt Overton)"
+161,4,4:07,1,10,WAS 13,6,26,Reggie Bonnafon right guard for -1 yards (tackle by Osa Odighizuwa and Chauncey Golston)
+162,4,3:14,2,11,WAS 12,6,26,Reggie Bonnafon right guard for 4 yards (tackle by Chauncey Golston and Osa Odighizuwa)
+163,4,2:27,3,7,WAS 16,6,26,Reggie Bonnafon right tackle for 5 yards (tackle by Luke Gifford)
+164,4,2:00,4,2,WAS 21,6,26,"Tress Way punts 50 yards, fair catch by KaVontae Turpin at DAL-29"
+165,4,1:53,1,10,DAL 29,6,26,Malik Davis up the middle for no gain (tackle by Casey Toohill)
+166,4,1:03,2,10,DAL 29,6,26,Malik Davis left guard for 7 yards (tackle by Darrick Forrest)
+167,4,0:28,3,3,DAL 36,6,26,Malik Davis right guard for 6 yards (tackle by Darrick Forrest)

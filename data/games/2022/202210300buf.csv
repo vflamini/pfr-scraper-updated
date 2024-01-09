@@ -1,0 +1,150 @@
+,quarter,time,down,togo,location,away_team,home_team,detail
+0,1,15:00,0,0,GNB 35,0,0,"Mason Crosby kicks off 65 yards, touchback."
+1,1,15:00,1,10,BUF 25,0,0,Devin Singletary left guard for 6 yards (tackle by Quay Walker and Dean Lowry)
+2,1,14:25,2,4,BUF 31,0,0,Josh Allen pass incomplete short left intended for Gabriel Davis (defended by Jaire Alexander)
+3,1,14:18,3,4,BUF 31,0,0,Josh Allen pass incomplete intended for Gabriel Davis (defended by Jaire Alexander)
+4,1,14:11,4,4,BUF 31,0,0,"Sam Martin punts 44 yards, returned by Amari Rodgers for 3 yards (tackle by Siran Neal)"
+5,1,14:02,1,10,GNB 28,0,0,Aaron Jones left guard for 2 yards (tackle by Damar Hamlin)
+6,1,13:21,2,8,GNB 30,0,0,Aaron Jones up the middle for 6 yards (tackle by Matt Milano and Jordan Poyer)
+7,1,12:42,3,2,GNB 36,0,0,Aaron Rodgers pass complete short right to Sammy Watkins for 3 yards
+8,1,11:55,1,10,GNB 39,0,0,Aaron Rodgers pass complete short left to AJ Dillon for 9 yards (tackle by Tremaine Edmunds)
+9,1,11:09,2,1,GNB 48,0,0,Aaron Rodgers pass complete short right to Aaron Jones for 7 yards (tackle by Tremaine Edmunds and Jordan Poyer)
+10,1,10:46,1,10,BUF 45,0,0,AJ Dillon up the middle for 2 yards (tackle by Tremaine Edmunds)
+11,1,10:09,2,8,BUF 43,0,0,Aaron Rodgers sacked by Tim Settle for -7 yards
+12,1,9:30,3,15,BUF 50,0,0,Aaron Rodgers pass complete short middle to Christian Watson for 12 yards (tackle by Tremaine Edmunds)
+13,1,8:50,4,3,BUF 38,0,0,Aaron Rodgers pass incomplete short left intended for Romeo Doubs
+14,1,8:47,1,10,BUF 39,0,0,Devin Singletary right guard for 9 yards (tackle by Quay Walker)
+15,1,8:08,2,1,BUF 48,0,0,Devin Singletary left tackle for 5 yards (tackle by Quay Walker and De'Vondre Campbell)
+16,1,7:30,1,10,GNB 47,0,0,Devin Singletary right guard for 30 yards (tackle by Darnell Savage)
+17,1,6:49,1,10,GNB 17,0,0,Devin Singletary right guard for 1 yard (tackle by Preston Smith)
+18,1,6:09,2,9,GNB 16,0,0,Isaiah McKenzie right end for -5 yards (tackle by Kingsley Enagbare)
+19,1,5:20,3,14,GNB 21,0,0,Josh Allen scrambles left end for 20 yards (tackle by Rasul Douglas and Adrian Amos)
+20,1,4:32,1,1,GNB 1,0,0,Devin Singletary up the middle for no gain (tackle by Jarran Reed and Tedarrell Slaton)
+21,1,3:40,2,1,GNB 1,0,6,"Josh Allen pass complete short left to Dawson Knox for 1 yard, touchdown"
+22,1,3:34,0,0,GNB 15,0,7,Tyler Bass kicks extra point good
+23,1,3:34,0,0,BUF 35,0,7,"Tyler Bass kicks off 62 yards, returned by Keisean Nixon for 17 yards (tackle by Jaquan Johnson)"
+24,1,3:27,1,10,GNB 20,0,7,Aaron Rodgers pass incomplete deep middle intended for Romeo Doubs (defended by Dane Jackson)
+25,1,3:19,2,10,GNB 20,0,7,Aaron Rodgers pass complete short right to Robert Tonyan for 3 yards (tackle by Damar Hamlin)
+26,1,2:37,3,7,GNB 23,0,7,Aaron Rodgers pass complete short right to Aaron Jones for 2 yards (tackle by Jordan Phillips and Ed Oliver)
+27,1,1:53,4,5,GNB 25,0,7,"Pat O'Donnell punts 43 yards, returned by Khalil Shakir for 17 yards (tackle by Isaiah McDuffie and Patrick Taylor)"
+28,1,1:41,1,10,BUF 49,0,7,Josh Allen sacked by Rasul Douglas for no gain
+29,1,1:00,2,10,BUF 49,0,7,Josh Allen pass complete short middle to Devin Singletary for 16 yards (tackle by De'Vondre Campbell)
+30,1,0:24,1,10,GNB 35,0,7,"Josh Allen pass complete short right to Stefon Diggs for 9 yards. Stefon Diggs fumbles (forced by Quay Walker), recovered by Stefon Diggs at GB-26 (tackle by Quay Walker)"
+31,2,15:00,2,1,GNB 26,0,13,"Josh Allen pass complete deep right to Stefon Diggs for 26 yards, touchdown"
+32,2,14:53,0,0,GNB 15,0,14,Tyler Bass kicks extra point good
+33,2,14:53,0,0,BUF 35,0,14,"Tyler Bass kicks off 60 yards, returned by Keisean Nixon for 15 yards (tackle by Siran Neal and Cameron Lewis)"
+34,2,14:47,1,10,GNB 20,0,14,Aaron Jones right end for 7 yards (tackle by Jordan Poyer)
+35,2,14:11,2,3,GNB 27,0,14,AJ Dillon right guard for 7 yards (tackle by Matt Milano)
+36,2,13:33,1,10,GNB 34,0,14,Aaron Jones left end for 5 yards (tackle by Tremaine Edmunds)
+37,2,12:48,2,5,GNB 39,0,14,Aaron Jones up the middle for 4 yards (tackle by Ed Oliver and DaQuan Jones)
+38,2,12:06,3,1,GNB 43,0,14,Aaron Jones up the middle for 3 yards (tackle by Boogie Basham)
+39,2,11:29,1,10,GNB 46,0,14,Aaron Rodgers pass complete short left to Romeo Doubs for 7 yards (tackle by Dane Jackson)
+40,2,10:48,2,3,BUF 47,0,14,AJ Dillon left tackle for 2 yards (tackle by Tremaine Edmunds and Damar Hamlin)
+41,2,10:06,3,1,BUF 45,0,14,AJ Dillon up the middle for 1 yard (tackle by Gregory Rousseau and Tremaine Edmunds)
+42,2,9:19,1,10,BUF 44,0,14,"Aaron Rodgers sacked by Ed Oliver for no gain. Penalty on Dane Jackson: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)"
+43,2,8:45,1,10,BUF 39,0,14,Aaron Jones left end for 9 yards (tackle by Taron Johnson and Tremaine Edmunds)
+44,2,8:05,2,1,BUF 30,0,14,Aaron Jones left guard for 13 yards (tackle by Christian Benford)
+45,2,7:22,1,10,BUF 17,0,14,"Penalty on Amari Rodgers: False Start, 5 yards (accepted) (no play)"
+46,2,7:03,1,15,BUF 22,0,14,Aaron Jones left guard for 3 yards (tackle by Von Miller)
+47,2,6:21,2,12,BUF 19,6,14,"Aaron Rodgers pass complete deep right to Romeo Doubs for 19 yards, touchdown"
+48,2,6:15,0,0,BUF 15,7,14,Mason Crosby kicks extra point good
+49,2,6:15,0,0,GNB 35,7,14,"Mason Crosby kicks off 68 yards, returned by Isaiah McKenzie for 23 yards (tackle by Rasul Douglas)"
+50,2,6:10,1,10,BUF 20,7,14,Josh Allen pass complete short left to Dawson Knox for 9 yards (tackle by Adrian Amos)
+51,2,5:31,2,1,BUF 29,7,14,James Cook right guard for 17 yards (tackle by Jarran Reed)
+52,2,4:52,1,10,BUF 46,7,14,James Cook left end for 4 yards (tackle by Preston Smith)
+53,2,4:06,2,6,BUF 50,7,14,"James Cook left end for 7 yards (tackle by Quay Walker). Penalty on Quay Walker: Disqualification / Defense, 15 yards (accepted) "
+54,2,3:50,1,10,GNB 28,7,14,Josh Allen pass complete to Stefon Diggs for 7 yards (tackle by De'Vondre Campbell)
+55,2,3:07,2,3,GNB 21,7,14,Josh Allen pass complete short middle to Isaiah McKenzie for 8 yards (tackle by Rasul Douglas)
+56,2,2:26,1,10,GNB 13,7,14,Josh Allen up the middle for 6 yards (tackle by Darnell Savage)
+57,2,2:00,2,4,GNB 7,7,20,"Isaiah McKenzie left end for 7 yards, touchdown"
+58,2,1:54,0,0,GNB 15,7,21,Tyler Bass kicks extra point good
+59,2,1:54,0,0,BUF 35,7,21,"Tyler Bass kicks off 64 yards, returned by Keisean Nixon for 20 yards (tackle by Cameron Lewis)"
+60,2,1:50,1,10,GNB 21,7,21,Aaron Jones left end for 11 yards (tackle by Jordan Poyer and Gregory Rousseau)
+61,2,1:20,1,10,GNB 32,7,21,Aaron Rodgers pass incomplete deep middle intended for Robert Tonyan (defended by Tremaine Edmunds)
+62,2,1:13,2,10,GNB 32,7,21,Aaron Rodgers sacked by Gregory Rousseau for -6 yards
+63,2,1:07,3,16,GNB 26,7,21,Aaron Jones left guard for 8 yards (tackle by Von Miller and Tremaine Edmunds)
+64,2,1:01,4,8,GNB 34,7,21,"Pat O'Donnell punts 46 yards, fair catch by Khalil Shakir at BUF-20"
+65,2,0:53,1,10,BUF 20,7,21,Josh Allen pass complete deep middle to Stefon Diggs for 53 yards (tackle by Darnell Savage)
+66,2,0:23,1,10,GNB 27,7,21,Josh Allen sacked by Eric Wilson for -2 yards
+67,2,0:17,2,12,GNB 29,7,21,"Josh Allen pass incomplete deep middle intended for Gabriel Davis. Penalty on Preston Smith: Defensive Offside, 5 yards (accepted) (no play)"
+68,2,0:10,2,7,GNB 24,7,21,Josh Allen pass incomplete deep left intended for Khalil Shakir (defended by Jaire Alexander)
+69,2,0:03,3,7,GNB 24,7,24,Tyler Bass 42 yard field goal good
+70,3,15:00,0,0,BUF 35,7,24,"Tyler Bass kicks off 64 yards, returned by Keisean Nixon for 15 yards (tackle by Tyler Bass). Penalty on Innis Gaines: Offensive Holding, 8 yards (accepted) "
+71,3,14:51,1,10,GNB 8,7,24,"Aaron Rodgers sacked by Gregory Rousseau for no gain. Penalty on Ed Oliver: Defensive Offside, 5 yards (accepted) (no play)"
+72,3,14:27,1,5,GNB 13,7,24,Aaron Jones right guard for 32 yards (tackle by Dane Jackson)
+73,3,13:50,1,10,GNB 45,7,24,Aaron Jones left tackle for 11 yards (tackle by Tremaine Edmunds)
+74,3,13:14,1,10,BUF 44,7,24,AJ Dillon right guard for no gain (tackle by DaQuan Jones and Damar Hamlin)
+75,3,12:36,2,10,BUF 44,7,24,AJ Dillon right guard for 27 yards (tackle by Matt Milano)
+76,3,11:56,1,10,BUF 17,7,24,AJ Dillon right end for -2 yards (tackle by Matt Milano)
+77,3,11:20,2,12,BUF 19,7,24,Aaron Rodgers pass complete short left to Josiah Deguara for 9 yards (tackle by Damar Hamlin and Jordan Phillips)
+78,3,10:36,3,3,BUF 10,7,24,"Aaron Rodgers pass complete short right to Robert Tonyan for no gain, touchdown. Penalty on Robert Tonyan: Offensive Pass Interference, 10 yards (accepted) (no play)"
+79,3,10:29,3,13,BUF 20,7,24,Aaron Rodgers pass incomplete short left intended for Aaron Jones (defended by A.J. Epenesa)
+80,3,10:24,4,13,BUF 20,10,24,Mason Crosby 38 yard field goal good
+81,3,10:20,0,0,GNB 35,10,24,"Mason Crosby kicks off 68 yards, returned by Isaiah McKenzie for 33 yards (tackle by Eric Wilson)"
+82,3,10:08,1,10,BUF 30,10,24,"Josh Allen pass complete short right to Gabriel Davis for 9 yards. Penalty on Eric Wilson: Defensive Holding, 5 yards (accepted) (no play)"
+83,3,9:53,1,10,BUF 35,10,24,Josh Allen pass incomplete deep left intended for Dawson Knox
+84,3,9:46,2,10,BUF 35,10,24,Josh Allen pass complete deep middle to Gabriel Davis for 29 yards (tackle by Adrian Amos)
+85,3,9:11,1,10,GNB 36,10,24,Josh Allen pass incomplete short left intended for Khalil Shakir (defended by Rashan Gary)
+86,3,9:05,2,10,GNB 36,10,24,Josh Allen scrambles left end for 10 yards (tackle by Isaiah McDuffie)
+87,3,8:18,1,10,GNB 26,10,24,"Devin Singletary left guard for 8 yards. Penalty on Dion Dawkins: Offensive Holding, 10 yards (accepted) (no play)"
+88,3,7:58,1,20,GNB 36,10,24,Devin Singletary left guard for 1 yard (tackle by Preston Smith and Eric Wilson)
+89,3,7:16,2,19,GNB 35,10,24,Josh Allen pass complete short middle to Stefon Diggs for 6 yards (tackle by Rasul Douglas)
+90,3,6:38,3,13,GNB 29,10,24,Josh Allen scrambles right tackle for 10 yards (tackle by Isaiah McDuffie and Kenny Clark)
+91,3,6:03,4,3,GNB 19,10,27,Tyler Bass 38 yard field goal good
+92,3,5:59,0,0,BUF 35,10,27,"Tyler Bass kicks off 65 yards, touchback."
+93,3,5:59,1,10,GNB 25,10,27,Aaron Jones left tackle for 4 yards (tackle by Tremaine Edmunds and Damar Hamlin)
+94,3,5:23,2,6,GNB 29,10,27,Aaron Jones right guard for 4 yards (tackle by DaQuan Jones and Taron Johnson)
+95,3,4:37,3,2,GNB 33,10,27,Aaron Jones left guard for 7 yards (tackle by Boogie Basham)
+96,3,4:05,1,10,GNB 40,10,27,AJ Dillon right end for 5 yards (tackle by Tremaine Edmunds and Damar Hamlin)
+97,3,3:25,2,5,GNB 45,10,27,AJ Dillon right guard for 9 yards (tackle by Matt Milano and Damar Hamlin)
+98,3,2:36,1,10,BUF 46,10,27,AJ Dillon right guard for 3 yards (tackle by Dane Jackson and Boogie Basham)
+99,3,1:57,2,7,BUF 43,10,27,Aaron Jones left end for 8 yards (tackle by Gregory Rousseau)
+100,3,1:14,1,10,BUF 35,10,27,Aaron Rodgers pass complete short middle to Aaron Jones for no gain (tackle by Jordan Poyer and Tim Settle)
+101,3,0:30,2,10,BUF 35,10,27,Aaron Rodgers pass complete short left to Robert Tonyan for 3 yards (tackle by Taron Johnson)
+102,4,15:00,3,7,BUF 32,10,27,Aaron Jones left guard for 6 yards (tackle by Tremaine Edmunds)
+103,4,14:18,4,1,BUF 26,10,27,Aaron Jones up the middle for -1 yards (tackle by Taron Johnson)
+104,4,14:12,1,10,BUF 28,10,27,Josh Allen pass incomplete deep right intended for Stefon Diggs
+105,4,14:06,2,10,BUF 28,10,27,Josh Allen pass incomplete short middle intended for Gabriel Davis
+106,4,14:03,3,10,BUF 28,10,27,"Josh Allen pass incomplete deep middle intended for Stefon Diggs. Penalty on Rasul Douglas: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)"
+107,4,13:57,1,10,BUF 32,10,27,Devin Singletary right tackle for -4 yards (tackle by Kingsley Enagbare)
+108,4,13:15,2,14,BUF 28,10,27,"Josh Allen pass complete short left to Gabriel Davis for no gain. Penalty on Kingsley Enagbare: Defensive Offside, 5 yards (accepted) (no play)"
+109,4,12:51,2,9,BUF 33,10,27,Josh Allen pass incomplete short left intended for Devin Singletary
+110,4,12:46,3,10,BUF 33,10,27,"Josh Allen pass deep middle intended for Gabriel Davis is intercepted by Rasul Douglas at GB-47 and returned for -1 yards, lateral to Jaire Alexander for no gain (tackle by Devin Singletary)"
+111,4,12:34,1,10,GNB 47,10,27,Aaron Rodgers pass short middle (defended by Tim Settle) intended for Amari Rodgers is intercepted by Matt Milano at GB-44 and returned for no gain (tackle by Zach Tom)
+112,4,12:29,1,10,GNB 44,10,27,Devin Singletary left end for -4 yards (tackle by Preston Smith)
+113,4,11:44,2,14,GNB 48,10,27,Josh Allen pass complete deep left to James Cook for 41 yards (tackle by Darnell Savage)
+114,4,10:57,1,7,GNB 7,10,27,James Cook left guard for 4 yards (tackle by Adrian Amos)
+115,4,10:16,2,3,GNB 3,10,27,Josh Allen pass incomplete short right intended for Stefon Diggs
+116,4,10:12,3,3,GNB 3,10,27,Josh Allen pass short right intended for Gabriel Davis is intercepted by Jaire Alexander at GB-3 and returned for 3 yards (tackle by Gabriel Davis)
+117,4,10:05,1,10,GNB 5,10,27,Aaron Jones left end for 1 yard (tackle by Taron Johnson and Tim Settle)
+118,4,9:24,2,9,GNB 6,10,27,Aaron Rodgers pass complete short middle to Robert Tonyan for 5 yards (tackle by Tremaine Edmunds)
+119,4,8:44,3,4,GNB 11,10,27,Aaron Rodgers pass complete short right to Robert Tonyan for 15 yards (tackle by Taron Johnson)
+120,4,8:03,1,10,GNB 26,10,27,Aaron Rodgers pass complete deep left to Romeo Doubs for 26 yards (tackle by Taron Johnson)
+121,4,7:25,1,10,BUF 48,10,27,Aaron Rodgers pass incomplete short left intended for Amari Rodgers (defended by Dane Jackson)
+122,4,7:20,2,10,BUF 48,10,27,Aaron Rodgers scrambles left guard for 11 yards (tackle by Damar Hamlin)
+123,4,6:47,1,10,BUF 37,10,27,Aaron Rodgers pass incomplete deep right intended for Samori Toure
+124,4,6:42,2,10,BUF 37,16,27,"Aaron Rodgers pass complete deep middle to Samori Toure for 37 yards, touchdown"
+125,4,6:32,0,0,BUF 15,17,27,Mason Crosby kicks extra point good
+126,4,6:32,0,0,GNB 35,17,27,"Mason Crosby kicks off 55 yards, returned by Isaiah McKenzie for 16 yards (tackle by Keisean Nixon)"
+127,4,6:25,1,10,BUF 26,17,27,Devin Singletary right guard for 7 yards (tackle by Rashan Gary)
+128,4,5:49,2,3,BUF 33,17,27,Josh Allen pass complete short right to Stefon Diggs for 7 yards (tackle by Eric Wilson)
+129,4,5:14,1,10,BUF 40,17,27,Josh Allen pass complete short left to Gabriel Davis for 6 yards (tackle by Rasul Douglas and Jaire Alexander)
+130,4,4:35,2,4,BUF 46,17,27,Devin Singletary left guard for 3 yards (tackle by Kenny Clark and Preston Smith)
+131,4,3:53,3,1,BUF 49,17,27,Josh Allen left guard for 4 yards (tackle by Kenny Clark and Isaiah McDuffie)
+132,4,3:47,1,10,GNB 47,17,27,Devin Singletary right guard for 9 yards (tackle by Isaiah McDuffie)
+133,4,3:42,2,1,GNB 38,17,27,Devin Singletary up the middle for 4 yards (tackle by Dean Lowry and Kenny Clark)
+134,4,3:42,1,10,GNB 34,17,27,"Penalty on Gabriel Davis: Unnecessary Roughness / Offense, 15 yards (accepted) (no play)"
+135,4,3:36,1,10,GNB 49,17,27,Devin Singletary right guard for no gain (tackle by Adrian Amos)
+136,4,3:30,2,10,GNB 49,17,27,James Cook left end for 3 yards (tackle by Jarran Reed and Tedarrell Slaton)
+137,4,2:42,3,7,GNB 46,17,27,"Josh Allen pass incomplete short right intended for Jake Kumerow. Penalty on Dion Dawkins: Ineligible Downfield Pass, 5 yards (declined)"
+138,4,2:42,4,7,GNB 46,17,27,"Sam Martin punts 29 yards, fair catch by Amari Rodgers at GB-17"
+139,4,2:34,1,10,GNB 17,17,27,Aaron Rodgers pass complete short left to Robert Tonyan for 9 yards (tackle by Tremaine Edmunds)
+140,4,2:08,2,1,GNB 26,17,27,Aaron Rodgers pass complete short left to Romeo Doubs for 10 yards (tackle by Kaiir Elam)
+141,4,2:00,1,10,GNB 36,17,27,Aaron Rodgers pass complete short right to Aaron Jones for 5 yards (tackle by Tremaine Edmunds and Damar Hamlin)
+142,4,1:29,2,5,GNB 41,17,27,Aaron Rodgers pass incomplete short left intended for Samori Toure
+143,4,1:23,3,5,GNB 41,17,27,Aaron Rodgers pass complete deep left to Amari Rodgers for 22 yards (tackle by Kaiir Elam)
+144,4,1:00,1,10,BUF 37,17,27,Aaron Rodgers pass incomplete short right
+145,4,0:54,2,10,BUF 37,17,27,Aaron Rodgers pass incomplete short right intended for Romeo Doubs
+146,4,0:48,3,10,BUF 37,17,27,Aaron Rodgers pass incomplete deep middle intended for Samori Toure
+147,4,0:43,4,10,BUF 37,17,27,Mason Crosby 55 yard field goal no good
+148,4,0:38,1,10,BUF 45,17,27,Josh Allen kneels for -1 yards
